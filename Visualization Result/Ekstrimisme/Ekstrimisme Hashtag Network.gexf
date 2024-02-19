@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#ldkmuofficial" label="#ldkmuofficial" />
+      <node id="#pencegahanekstremisme" label="#pencegahanekstremisme" />
+      <node id="#dakwahkomunitas" label="#dakwahkomunitas" />
+      <node id="#infojabar" label="#infojabar" />
+      <node id="#jabarmoderat" label="#jabarmoderat" />
+      <node id="#tolakintoleransi" label="#tolakintoleransi" />
+      <node id="#tolakradikalisme" label="#tolakradikalisme" />
+      <node id="#tolakekstremisme" label="#tolakekstremisme" />
+      <node id="#kaltarabersatu" label="#kaltarabersatu" />
+      <node id="#toleransi" label="#toleransi" />
+      <node id="#pancasila" label="#pancasila" />
+      <node id="#bhinekatunggalika" label="#bhinekatunggalika" />
+      <node id="#politikidentitas" label="#politikidentitas" />
+      <node id="#wgwc" label="#wgwc" />
+      <node id="#workinggroupforcve" label="#workinggroupforcve" />
+      <node id="#wpsagenda" label="#wpsagenda" />
+      <node id="#peacebuilders" label="#peacebuilders" />
+      <node id="#bhinnekatunggalika" label="#bhinnekatunggalika" />
+      <node id="#indonesia" label="#indonesia" />
+      <node id="#radikalisme" label="#radikalisme" />
+      <node id="#indonesiamaju" label="#indonesiamaju" />
+      <node id="#terorisme" label="#terorisme" />
+      <node id="#ekstrimisme" label="#ekstrimisme" />
+      <node id="#stopradikalisme" label="#stopradikalisme" />
+      <node id="#tempatibadah" label="#tempatibadah" />
+      <node id="#bnpt" label="#bnpt" />
+      <node id="#indonesiadamai" label="#indonesiadamai" />
+      <node id="#moderasiberagama" label="#moderasiberagama" />
+      <node id="#menluretno" label="#menluretno" />
+      <node id="#inidiplomasi" label="#inidiplomasi" />
+      <node id="#menteriagama" label="#menteriagama" />
+      <node id="#kerajaanperpaduan" label="#kerajaanperpaduan" />
+      <node id="#malaysiamadani" label="#malaysiamadani" />
+      <node id="#alfalah" label="#alfalah" />
+      <node id="#tawaftv" label="#tawaftv" />
+      <node id="#edukatips" label="#edukatips" />
+      <node id="#kartukredit" label="#kartukredit" />
+      <node id="#kartukreditbca" label="#kartukreditbca" />
+      <node id="#tolakintroleransi" label="#tolakintroleransi" />
+      <node id="#radikalismeharusdilawan" label="#radikalismeharusdilawan" />
+      <node id="#radikalismebukanislam" label="#radikalismebukanislam" />
+      <node id="#antiradikalisme" label="#antiradikalisme" />
+      <node id="#wingsuitflying" label="#wingsuitflying" />
+      <node id="#alshaa" label="#alshaa" />
+      <node id="#ejine" label="#ejine" />
+      <node id="#visitalshaa" label="#visitalshaa" />
+      <node id="#qurbani" label="#qurbani" />
+      <node id="#palestine" label="#palestine" />
+      <node id="#nyamannyaduniamybca" label="#nyamannyaduniamybca" />
+      <node id="#hiphop" label="#hiphop" />
+      <node id="#duets" label="#duets" />
+      <node id="#climate" label="#climate" />
+      <node id="#forests" label="#forests" />
+      <node id="#germany" label="#germany" />
+      <node id="#tolakterorisme" label="#tolakterorisme" />
+      <node id="#tolakkhilafah" label="#tolakkhilafah" />
+      <node id="#salafi" label="#salafi" />
+      <node id="#wahabi" label="#wahabi" />
+      <node id="#salafiwahabi" label="#salafiwahabi" />
+      <node id="#men" label="#men" />
+      <node id="#mahfudmd" label="#mahfudmd" />
+      <node id="#islahbahrawi" label="#islahbahrawi" />
+      <node id="#tolakpolitikidentitas" label="#tolakpolitikidentitas" />
+      <node id="#tolakpolitikagama" label="#tolakpolitikagama" />
+      <node id="#kaltara" label="#kaltara" />
+      <node id="#kaltarainfo" label="#kaltarainfo" />
+      <node id="#poldasulut" label="#poldasulut" />
+      <node id="#ditintelkampoldasulut" label="#ditintelkampoldasulut" />
+    </nodes>
+    <edges>
+      <edge source="#ldkmuofficial" target="#pencegahanekstremisme" id="0" weight="1" />
+      <edge source="#ldkmuofficial" target="#dakwahkomunitas" id="1" weight="1" />
+      <edge source="#pencegahanekstremisme" target="#dakwahkomunitas" id="2" weight="1" />
+      <edge source="#infojabar" target="#jabarmoderat" id="3" weight="1" />
+      <edge source="#infojabar" target="#tolakintoleransi" id="4" weight="1" />
+      <edge source="#jabarmoderat" target="#tolakintoleransi" id="5" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakradikalisme" id="6" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakekstremisme" id="7" weight="1" />
+      <edge source="#tolakintoleransi" target="#kaltarabersatu" id="8" weight="1" />
+      <edge source="#tolakintoleransi" target="#toleransi" id="9" weight="1" />
+      <edge source="#tolakintoleransi" target="#pancasila" id="10" weight="1" />
+      <edge source="#tolakintoleransi" target="#bhinekatunggalika" id="11" weight="1" />
+      <edge source="#tolakintoleransi" target="#politikidentitas" id="12" weight="1" />
+      <edge source="#tolakintoleransi" target="#bhinnekatunggalika" id="13" weight="1" />
+      <edge source="#tolakintoleransi" target="#indonesia" id="14" weight="1" />
+      <edge source="#tolakintoleransi" target="#radikalisme" id="15" weight="1" />
+      <edge source="#tolakintoleransi" target="#indonesiamaju" id="16" weight="1" />
+      <edge source="#tolakintoleransi" target="#terorisme" id="17" weight="1" />
+      <edge source="#tolakintoleransi" target="#ekstrimisme" id="18" weight="1" />
+      <edge source="#tolakintoleransi" target="#stopradikalisme" id="19" weight="1" />
+      <edge source="#tolakintoleransi" target="#tempatibadah" id="20" weight="1" />
+      <edge source="#tolakintoleransi" target="#bnpt" id="21" weight="1" />
+      <edge source="#tolakintoleransi" target="#indonesiadamai" id="22" weight="1" />
+      <edge source="#tolakintoleransi" target="#moderasiberagama" id="23" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakterorisme" id="24" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakkhilafah" id="25" weight="1" />
+      <edge source="#tolakintoleransi" target="#salafi" id="26" weight="1" />
+      <edge source="#tolakintoleransi" target="#wahabi" id="27" weight="1" />
+      <edge source="#tolakintoleransi" target="#salafiwahabi" id="28" weight="1" />
+      <edge source="#tolakintoleransi" target="#men" id="29" weight="1" />
+      <edge source="#tolakintoleransi" target="#mahfudmd" id="30" weight="1" />
+      <edge source="#tolakintoleransi" target="#islahbahrawi" id="31" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakpolitikidentitas" id="32" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakpolitikagama" id="33" weight="1" />
+      <edge source="#tolakintoleransi" target="#kaltara" id="34" weight="1" />
+      <edge source="#tolakintoleransi" target="#kaltarainfo" id="35" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakekstremisme" id="36" weight="1" />
+      <edge source="#tolakradikalisme" target="#kaltarabersatu" id="37" weight="1" />
+      <edge source="#tolakradikalisme" target="#toleransi" id="38" weight="1" />
+      <edge source="#tolakradikalisme" target="#pancasila" id="39" weight="1" />
+      <edge source="#tolakradikalisme" target="#bhinekatunggalika" id="40" weight="1" />
+      <edge source="#tolakradikalisme" target="#politikidentitas" id="41" weight="1" />
+      <edge source="#tolakradikalisme" target="#bhinnekatunggalika" id="42" weight="1" />
+      <edge source="#tolakradikalisme" target="#indonesia" id="43" weight="1" />
+      <edge source="#tolakradikalisme" target="#radikalisme" id="44" weight="1" />
+      <edge source="#tolakradikalisme" target="#indonesiamaju" id="45" weight="1" />
+      <edge source="#tolakradikalisme" target="#terorisme" id="46" weight="1" />
+      <edge source="#tolakradikalisme" target="#ekstrimisme" id="47" weight="1" />
+      <edge source="#tolakradikalisme" target="#stopradikalisme" id="48" weight="1" />
+      <edge source="#tolakradikalisme" target="#tempatibadah" id="49" weight="1" />
+      <edge source="#tolakradikalisme" target="#bnpt" id="50" weight="1" />
+      <edge source="#tolakradikalisme" target="#indonesiadamai" id="51" weight="1" />
+      <edge source="#tolakradikalisme" target="#moderasiberagama" id="52" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakintroleransi" id="53" weight="1" />
+      <edge source="#tolakradikalisme" target="#radikalismeharusdilawan" id="54" weight="1" />
+      <edge source="#tolakradikalisme" target="#radikalismebukanislam" id="55" weight="1" />
+      <edge source="#tolakradikalisme" target="#antiradikalisme" id="56" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakterorisme" id="57" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakkhilafah" id="58" weight="1" />
+      <edge source="#tolakradikalisme" target="#salafi" id="59" weight="1" />
+      <edge source="#tolakradikalisme" target="#wahabi" id="60" weight="1" />
+      <edge source="#tolakradikalisme" target="#salafiwahabi" id="61" weight="1" />
+      <edge source="#tolakradikalisme" target="#men" id="62" weight="1" />
+      <edge source="#tolakradikalisme" target="#mahfudmd" id="63" weight="1" />
+      <edge source="#tolakradikalisme" target="#islahbahrawi" id="64" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakpolitikidentitas" id="65" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakpolitikagama" id="66" weight="1" />
+      <edge source="#tolakradikalisme" target="#kaltara" id="67" weight="1" />
+      <edge source="#tolakradikalisme" target="#kaltarainfo" id="68" weight="1" />
+      <edge source="#tolakekstremisme" target="#kaltarabersatu" id="69" weight="1" />
+      <edge source="#tolakekstremisme" target="#toleransi" id="70" weight="1" />
+      <edge source="#tolakekstremisme" target="#pancasila" id="71" weight="1" />
+      <edge source="#tolakekstremisme" target="#bhinekatunggalika" id="72" weight="1" />
+      <edge source="#tolakekstremisme" target="#politikidentitas" id="73" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakterorisme" id="74" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakkhilafah" id="75" weight="1" />
+      <edge source="#tolakekstremisme" target="#salafi" id="76" weight="1" />
+      <edge source="#tolakekstremisme" target="#wahabi" id="77" weight="1" />
+      <edge source="#tolakekstremisme" target="#salafiwahabi" id="78" weight="1" />
+      <edge source="#tolakekstremisme" target="#men" id="79" weight="1" />
+      <edge source="#tolakekstremisme" target="#mahfudmd" id="80" weight="1" />
+      <edge source="#tolakekstremisme" target="#islahbahrawi" id="81" weight="1" />
+      <edge source="#kaltarabersatu" target="#toleransi" id="82" weight="1" />
+      <edge source="#kaltarabersatu" target="#pancasila" id="83" weight="1" />
+      <edge source="#kaltarabersatu" target="#bhinekatunggalika" id="84" weight="1" />
+      <edge source="#kaltarabersatu" target="#politikidentitas" id="85" weight="1" />
+      <edge source="#kaltarabersatu" target="#tolakkhilafah" id="86" weight="1" />
+      <edge source="#kaltarabersatu" target="#tolakpolitikidentitas" id="87" weight="1" />
+      <edge source="#kaltarabersatu" target="#tolakpolitikagama" id="88" weight="1" />
+      <edge source="#kaltarabersatu" target="#tolakterorisme" id="89" weight="1" />
+      <edge source="#kaltarabersatu" target="#wahabi" id="90" weight="1" />
+      <edge source="#kaltarabersatu" target="#salafi" id="91" weight="1" />
+      <edge source="#kaltarabersatu" target="#kaltara" id="92" weight="1" />
+      <edge source="#kaltarabersatu" target="#kaltarainfo" id="93" weight="1" />
+      <edge source="#kaltarabersatu" target="#islahbahrawi" id="94" weight="1" />
+      <edge source="#toleransi" target="#pancasila" id="95" weight="1" />
+      <edge source="#toleransi" target="#bhinekatunggalika" id="96" weight="1" />
+      <edge source="#toleransi" target="#politikidentitas" id="97" weight="1" />
+      <edge source="#pancasila" target="#bhinekatunggalika" id="98" weight="1" />
+      <edge source="#pancasila" target="#politikidentitas" id="99" weight="1" />
+      <edge source="#pancasila" target="#bhinnekatunggalika" id="100" weight="1" />
+      <edge source="#pancasila" target="#indonesia" id="101" weight="1" />
+      <edge source="#pancasila" target="#radikalisme" id="102" weight="1" />
+      <edge source="#pancasila" target="#indonesiamaju" id="103" weight="1" />
+      <edge source="#pancasila" target="#terorisme" id="104" weight="1" />
+      <edge source="#pancasila" target="#ekstrimisme" id="105" weight="1" />
+      <edge source="#pancasila" target="#stopradikalisme" id="106" weight="1" />
+      <edge source="#pancasila" target="#tempatibadah" id="107" weight="1" />
+      <edge source="#pancasila" target="#bnpt" id="108" weight="1" />
+      <edge source="#pancasila" target="#indonesiadamai" id="109" weight="1" />
+      <edge source="#pancasila" target="#moderasiberagama" id="110" weight="1" />
+      <edge source="#pancasila" target="#tolakintroleransi" id="111" weight="1" />
+      <edge source="#pancasila" target="#radikalismeharusdilawan" id="112" weight="1" />
+      <edge source="#pancasila" target="#radikalismebukanislam" id="113" weight="1" />
+      <edge source="#pancasila" target="#antiradikalisme" id="114" weight="1" />
+      <edge source="#pancasila" target="#tolakkhilafah" id="115" weight="1" />
+      <edge source="#pancasila" target="#tolakpolitikidentitas" id="116" weight="1" />
+      <edge source="#pancasila" target="#tolakpolitikagama" id="117" weight="1" />
+      <edge source="#pancasila" target="#tolakterorisme" id="118" weight="1" />
+      <edge source="#pancasila" target="#wahabi" id="119" weight="1" />
+      <edge source="#pancasila" target="#salafi" id="120" weight="1" />
+      <edge source="#pancasila" target="#kaltara" id="121" weight="1" />
+      <edge source="#pancasila" target="#kaltarainfo" id="122" weight="1" />
+      <edge source="#pancasila" target="#islahbahrawi" id="123" weight="1" />
+      <edge source="#bhinekatunggalika" target="#politikidentitas" id="124" weight="1" />
+      <edge source="#wgwc" target="#workinggroupforcve" id="125" weight="1" />
+      <edge source="#wgwc" target="#wpsagenda" id="126" weight="1" />
+      <edge source="#wgwc" target="#peacebuilders" id="127" weight="1" />
+      <edge source="#workinggroupforcve" target="#wpsagenda" id="128" weight="1" />
+      <edge source="#workinggroupforcve" target="#peacebuilders" id="129" weight="1" />
+      <edge source="#wpsagenda" target="#peacebuilders" id="130" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#indonesia" id="131" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#radikalisme" id="132" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#indonesiamaju" id="133" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#terorisme" id="134" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#ekstrimisme" id="135" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#stopradikalisme" id="136" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#tempatibadah" id="137" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#bnpt" id="138" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#indonesiadamai" id="139" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#moderasiberagama" id="140" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#tolakintroleransi" id="141" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#radikalismeharusdilawan" id="142" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#radikalismebukanislam" id="143" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#antiradikalisme" id="144" weight="1" />
+      <edge source="#indonesia" target="#radikalisme" id="145" weight="1" />
+      <edge source="#indonesia" target="#indonesiamaju" id="146" weight="1" />
+      <edge source="#indonesia" target="#terorisme" id="147" weight="1" />
+      <edge source="#indonesia" target="#ekstrimisme" id="148" weight="1" />
+      <edge source="#indonesia" target="#stopradikalisme" id="149" weight="1" />
+      <edge source="#indonesia" target="#tempatibadah" id="150" weight="1" />
+      <edge source="#indonesia" target="#bnpt" id="151" weight="1" />
+      <edge source="#indonesia" target="#indonesiadamai" id="152" weight="1" />
+      <edge source="#indonesia" target="#moderasiberagama" id="153" weight="1" />
+      <edge source="#indonesia" target="#tolakintroleransi" id="154" weight="1" />
+      <edge source="#indonesia" target="#radikalismeharusdilawan" id="155" weight="1" />
+      <edge source="#indonesia" target="#radikalismebukanislam" id="156" weight="1" />
+      <edge source="#indonesia" target="#antiradikalisme" id="157" weight="1" />
+      <edge source="#radikalisme" target="#indonesiamaju" id="158" weight="1" />
+      <edge source="#radikalisme" target="#terorisme" id="159" weight="1" />
+      <edge source="#radikalisme" target="#ekstrimisme" id="160" weight="1" />
+      <edge source="#radikalisme" target="#stopradikalisme" id="161" weight="1" />
+      <edge source="#radikalisme" target="#tempatibadah" id="162" weight="1" />
+      <edge source="#radikalisme" target="#bnpt" id="163" weight="1" />
+      <edge source="#radikalisme" target="#indonesiadamai" id="164" weight="1" />
+      <edge source="#radikalisme" target="#moderasiberagama" id="165" weight="1" />
+      <edge source="#radikalisme" target="#tolakintroleransi" id="166" weight="1" />
+      <edge source="#radikalisme" target="#radikalismeharusdilawan" id="167" weight="1" />
+      <edge source="#radikalisme" target="#radikalismebukanislam" id="168" weight="1" />
+      <edge source="#radikalisme" target="#antiradikalisme" id="169" weight="1" />
+      <edge source="#indonesiamaju" target="#terorisme" id="170" weight="1" />
+      <edge source="#indonesiamaju" target="#ekstrimisme" id="171" weight="1" />
+      <edge source="#indonesiamaju" target="#stopradikalisme" id="172" weight="1" />
+      <edge source="#indonesiamaju" target="#tempatibadah" id="173" weight="1" />
+      <edge source="#indonesiamaju" target="#bnpt" id="174" weight="1" />
+      <edge source="#indonesiamaju" target="#indonesiadamai" id="175" weight="1" />
+      <edge source="#indonesiamaju" target="#moderasiberagama" id="176" weight="1" />
+      <edge source="#indonesiamaju" target="#tolakintroleransi" id="177" weight="1" />
+      <edge source="#indonesiamaju" target="#radikalismeharusdilawan" id="178" weight="1" />
+      <edge source="#indonesiamaju" target="#radikalismebukanislam" id="179" weight="1" />
+      <edge source="#indonesiamaju" target="#antiradikalisme" id="180" weight="1" />
+      <edge source="#terorisme" target="#ekstrimisme" id="181" weight="1" />
+      <edge source="#terorisme" target="#stopradikalisme" id="182" weight="1" />
+      <edge source="#terorisme" target="#tempatibadah" id="183" weight="1" />
+      <edge source="#terorisme" target="#bnpt" id="184" weight="1" />
+      <edge source="#terorisme" target="#indonesiadamai" id="185" weight="1" />
+      <edge source="#terorisme" target="#moderasiberagama" id="186" weight="1" />
+      <edge source="#terorisme" target="#tolakintroleransi" id="187" weight="1" />
+      <edge source="#terorisme" target="#radikalismeharusdilawan" id="188" weight="1" />
+      <edge source="#terorisme" target="#radikalismebukanislam" id="189" weight="1" />
+      <edge source="#terorisme" target="#antiradikalisme" id="190" weight="1" />
+      <edge source="#ekstrimisme" target="#stopradikalisme" id="191" weight="1" />
+      <edge source="#ekstrimisme" target="#tempatibadah" id="192" weight="1" />
+      <edge source="#ekstrimisme" target="#bnpt" id="193" weight="1" />
+      <edge source="#ekstrimisme" target="#indonesiadamai" id="194" weight="1" />
+      <edge source="#ekstrimisme" target="#moderasiberagama" id="195" weight="1" />
+      <edge source="#ekstrimisme" target="#tolakintroleransi" id="196" weight="1" />
+      <edge source="#ekstrimisme" target="#radikalismeharusdilawan" id="197" weight="1" />
+      <edge source="#ekstrimisme" target="#radikalismebukanislam" id="198" weight="1" />
+      <edge source="#ekstrimisme" target="#antiradikalisme" id="199" weight="1" />
+      <edge source="#stopradikalisme" target="#tempatibadah" id="200" weight="1" />
+      <edge source="#stopradikalisme" target="#bnpt" id="201" weight="1" />
+      <edge source="#stopradikalisme" target="#indonesiadamai" id="202" weight="1" />
+      <edge source="#stopradikalisme" target="#moderasiberagama" id="203" weight="1" />
+      <edge source="#stopradikalisme" target="#tolakintroleransi" id="204" weight="1" />
+      <edge source="#stopradikalisme" target="#radikalismeharusdilawan" id="205" weight="1" />
+      <edge source="#stopradikalisme" target="#radikalismebukanislam" id="206" weight="1" />
+      <edge source="#stopradikalisme" target="#antiradikalisme" id="207" weight="1" />
+      <edge source="#tempatibadah" target="#bnpt" id="208" weight="1" />
+      <edge source="#tempatibadah" target="#indonesiadamai" id="209" weight="1" />
+      <edge source="#tempatibadah" target="#moderasiberagama" id="210" weight="1" />
+      <edge source="#tempatibadah" target="#tawaftv" id="211" weight="1" />
+      <edge source="#bnpt" target="#indonesiadamai" id="212" weight="1" />
+      <edge source="#bnpt" target="#moderasiberagama" id="213" weight="1" />
+      <edge source="#bnpt" target="#tawaftv" id="214" weight="1" />
+      <edge source="#indonesiadamai" target="#moderasiberagama" id="215" weight="1" />
+      <edge source="#menluretno" target="#inidiplomasi" id="216" weight="1" />
+      <edge source="#menteriagama" target="#kerajaanperpaduan" id="217" weight="1" />
+      <edge source="#menteriagama" target="#malaysiamadani" id="218" weight="1" />
+      <edge source="#menteriagama" target="#alfalah" id="219" weight="1" />
+      <edge source="#kerajaanperpaduan" target="#malaysiamadani" id="220" weight="1" />
+      <edge source="#kerajaanperpaduan" target="#alfalah" id="221" weight="1" />
+      <edge source="#malaysiamadani" target="#alfalah" id="222" weight="1" />
+      <edge source="#edukatips" target="#kartukredit" id="223" weight="1" />
+      <edge source="#edukatips" target="#kartukreditbca" id="224" weight="1" />
+      <edge source="#edukatips" target="#nyamannyaduniamybca" id="225" weight="1" />
+      <edge source="#kartukredit" target="#kartukreditbca" id="226" weight="1" />
+      <edge source="#tolakintroleransi" target="#radikalismeharusdilawan" id="227" weight="1" />
+      <edge source="#tolakintroleransi" target="#radikalismebukanislam" id="228" weight="1" />
+      <edge source="#tolakintroleransi" target="#antiradikalisme" id="229" weight="1" />
+      <edge source="#radikalismeharusdilawan" target="#radikalismebukanislam" id="230" weight="1" />
+      <edge source="#radikalismeharusdilawan" target="#antiradikalisme" id="231" weight="1" />
+      <edge source="#radikalismebukanislam" target="#antiradikalisme" id="232" weight="1" />
+      <edge source="#wingsuitflying" target="#alshaa" id="233" weight="1" />
+      <edge source="#wingsuitflying" target="#ejine" id="234" weight="1" />
+      <edge source="#wingsuitflying" target="#visitalshaa" id="235" weight="1" />
+      <edge source="#alshaa" target="#ejine" id="236" weight="1" />
+      <edge source="#alshaa" target="#visitalshaa" id="237" weight="1" />
+      <edge source="#ejine" target="#visitalshaa" id="238" weight="1" />
+      <edge source="#qurbani" target="#palestine" id="239" weight="1" />
+      <edge source="#hiphop" target="#duets" id="240" weight="1" />
+      <edge source="#climate" target="#forests" id="241" weight="1" />
+      <edge source="#climate" target="#germany" id="242" weight="1" />
+      <edge source="#forests" target="#germany" id="243" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakkhilafah" id="244" weight="1" />
+      <edge source="#tolakterorisme" target="#salafi" id="245" weight="1" />
+      <edge source="#tolakterorisme" target="#wahabi" id="246" weight="1" />
+      <edge source="#tolakterorisme" target="#salafiwahabi" id="247" weight="1" />
+      <edge source="#tolakterorisme" target="#men" id="248" weight="1" />
+      <edge source="#tolakterorisme" target="#mahfudmd" id="249" weight="1" />
+      <edge source="#tolakterorisme" target="#islahbahrawi" id="250" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakpolitikidentitas" id="251" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakpolitikagama" id="252" weight="1" />
+      <edge source="#tolakterorisme" target="#kaltara" id="253" weight="1" />
+      <edge source="#tolakterorisme" target="#kaltarainfo" id="254" weight="1" />
+      <edge source="#tolakkhilafah" target="#salafi" id="255" weight="1" />
+      <edge source="#tolakkhilafah" target="#wahabi" id="256" weight="1" />
+      <edge source="#tolakkhilafah" target="#salafiwahabi" id="257" weight="1" />
+      <edge source="#tolakkhilafah" target="#men" id="258" weight="1" />
+      <edge source="#tolakkhilafah" target="#mahfudmd" id="259" weight="1" />
+      <edge source="#tolakkhilafah" target="#islahbahrawi" id="260" weight="1" />
+      <edge source="#tolakkhilafah" target="#tolakpolitikidentitas" id="261" weight="1" />
+      <edge source="#tolakkhilafah" target="#tolakpolitikagama" id="262" weight="1" />
+      <edge source="#tolakkhilafah" target="#kaltara" id="263" weight="1" />
+      <edge source="#tolakkhilafah" target="#kaltarainfo" id="264" weight="1" />
+      <edge source="#salafi" target="#wahabi" id="265" weight="1" />
+      <edge source="#salafi" target="#salafiwahabi" id="266" weight="1" />
+      <edge source="#salafi" target="#men" id="267" weight="1" />
+      <edge source="#salafi" target="#mahfudmd" id="268" weight="1" />
+      <edge source="#salafi" target="#islahbahrawi" id="269" weight="1" />
+      <edge source="#salafi" target="#tolakpolitikidentitas" id="270" weight="1" />
+      <edge source="#salafi" target="#tolakpolitikagama" id="271" weight="1" />
+      <edge source="#salafi" target="#kaltara" id="272" weight="1" />
+      <edge source="#salafi" target="#kaltarainfo" id="273" weight="1" />
+      <edge source="#wahabi" target="#salafiwahabi" id="274" weight="1" />
+      <edge source="#wahabi" target="#men" id="275" weight="1" />
+      <edge source="#wahabi" target="#mahfudmd" id="276" weight="1" />
+      <edge source="#wahabi" target="#islahbahrawi" id="277" weight="1" />
+      <edge source="#wahabi" target="#tolakpolitikidentitas" id="278" weight="1" />
+      <edge source="#wahabi" target="#tolakpolitikagama" id="279" weight="1" />
+      <edge source="#wahabi" target="#kaltara" id="280" weight="1" />
+      <edge source="#wahabi" target="#kaltarainfo" id="281" weight="1" />
+      <edge source="#salafiwahabi" target="#men" id="282" weight="1" />
+      <edge source="#salafiwahabi" target="#mahfudmd" id="283" weight="1" />
+      <edge source="#salafiwahabi" target="#islahbahrawi" id="284" weight="1" />
+      <edge source="#men" target="#mahfudmd" id="285" weight="1" />
+      <edge source="#islahbahrawi" target="#tolakpolitikidentitas" id="286" weight="1" />
+      <edge source="#islahbahrawi" target="#tolakpolitikagama" id="287" weight="1" />
+      <edge source="#islahbahrawi" target="#kaltara" id="288" weight="1" />
+      <edge source="#islahbahrawi" target="#kaltarainfo" id="289" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#tolakpolitikagama" id="290" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#kaltara" id="291" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#kaltarainfo" id="292" weight="1" />
+      <edge source="#tolakpolitikagama" target="#kaltara" id="293" weight="1" />
+      <edge source="#tolakpolitikagama" target="#kaltarainfo" id="294" weight="1" />
+      <edge source="#kaltara" target="#kaltarainfo" id="295" weight="1" />
+      <edge source="#poldasulut" target="#ditintelkampoldasulut" id="296" weight="1" />
+    </edges>
+  </graph>
+</gexf>

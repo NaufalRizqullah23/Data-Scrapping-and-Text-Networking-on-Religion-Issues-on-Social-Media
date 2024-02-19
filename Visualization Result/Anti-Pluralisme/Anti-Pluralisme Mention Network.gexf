@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="felixsgl" label="felixsgl" />
+      <node id="musyafasholi" label="musyafasholi" />
+      <node id="poljokesid" label="poljokesid" />
+      <node id="bruxellesmabel" label="bruxellesmabel" />
+      <node id="rtbfinfo" label="rtbfinfo" />
+      <node id="benedictelinard" label="benedictelinard" />
+      <node id="csabelge" label="csabelge" />
+      <node id="unia" label="unia" />
+      <node id="ajpjournalistes" label="ajpjournalistes" />
+      <node id="nolakbodoh" label="nolakbodoh" />
+      <node id="geloraco" label="geloraco" />
+      <node id="dennysiregar" label="dennysiregar" />
+      <node id="partburunggalak" label="partburunggalak" />
+      <node id="jeanmessiha" label="jeanmessiha" />
+      <node id="teamyannbarthes" label="teamyannbarthes" />
+      <node id="qofficiel" label="qofficiel" />
+      <node id="tmctv" label="tmctv" />
+      <node id="vincent" label="vincent" />
+      <node id="medias_citoyens" label="medias_citoyens" />
+      <node id="bfmtv" label="bfmtv" />
+      <node id="bruce_toussaint" label="bruce_toussaint" />
+      <node id="libe" label="libe" />
+      <node id="lejdd" label="lejdd" />
+      <node id="geoffroylejeune" label="geoffroylejeune" />
+      <node id="karlhallparis" label="karlhallparis" />
+      <node id="amineippoo" label="amineippoo" />
+      <node id="cdenquete" label="cdenquete" />
+      <node id="francetv" label="francetv" />
+      <node id="dovalfon" label="dovalfon" />
+      <node id="p_duval" label="p_duval" />
+      <node id="julienpain" label="julienpain" />
+      <node id="tristanmf" label="tristanmf" />
+      <node id="rreichstadt" label="rreichstadt" />
+      <node id="arikouts" label="arikouts" />
+      <node id="uki" label="uki" />
+      <node id="psi_id" label="psi_id" />
+      <node id="caronaymericoff" label="caronaymericoff" />
+      <node id="carolineyadan" label="carolineyadan" />
+      <node id="francoisservier" label="francoisservier" />
+      <node id="gg_rmc" label="gg_rmc" />
+      <node id="rantier" label="rantier" />
+      <node id="jeanbambois" label="jeanbambois" />
+      <node id="aurelifil" label="aurelifil" />
+      <node id="yhwh_raoul" label="yhwh_raoul" />
+      <node id="valeurs" label="valeurs" />
+      <node id="louis_aliot" label="louis_aliot" />
+      <node id="edouardlavolle" label="edouardlavolle" />
+    </nodes>
+    <edges>
+      <edge source="felixsgl" target="musyafasholi" id="0" weight="1" />
+      <edge source="felixsgl" target="poljokesid" id="1" weight="1" />
+      <edge source="musyafasholi" target="poljokesid" id="2" weight="1" />
+      <edge source="bruxellesmabel" target="rtbfinfo" id="3" weight="1" />
+      <edge source="bruxellesmabel" target="benedictelinard" id="4" weight="1" />
+      <edge source="bruxellesmabel" target="csabelge" id="5" weight="1" />
+      <edge source="bruxellesmabel" target="unia" id="6" weight="1" />
+      <edge source="bruxellesmabel" target="ajpjournalistes" id="7" weight="1" />
+      <edge source="rtbfinfo" target="benedictelinard" id="8" weight="1" />
+      <edge source="rtbfinfo" target="csabelge" id="9" weight="1" />
+      <edge source="rtbfinfo" target="unia" id="10" weight="1" />
+      <edge source="rtbfinfo" target="ajpjournalistes" id="11" weight="1" />
+      <edge source="benedictelinard" target="csabelge" id="12" weight="1" />
+      <edge source="benedictelinard" target="unia" id="13" weight="1" />
+      <edge source="benedictelinard" target="ajpjournalistes" id="14" weight="1" />
+      <edge source="csabelge" target="unia" id="15" weight="1" />
+      <edge source="csabelge" target="ajpjournalistes" id="16" weight="1" />
+      <edge source="unia" target="ajpjournalistes" id="17" weight="1" />
+      <edge source="nolakbodoh" target="geloraco" id="18" weight="1" />
+      <edge source="dennysiregar" target="partburunggalak" id="19" weight="1" />
+      <edge source="jeanmessiha" target="teamyannbarthes" id="20" weight="1" />
+      <edge source="jeanmessiha" target="qofficiel" id="21" weight="1" />
+      <edge source="jeanmessiha" target="tmctv" id="22" weight="1" />
+      <edge source="jeanmessiha" target="bfmtv" id="23" weight="1" />
+      <edge source="jeanmessiha" target="bruce_toussaint" id="24" weight="1" />
+      <edge source="teamyannbarthes" target="qofficiel" id="25" weight="1" />
+      <edge source="teamyannbarthes" target="tmctv" id="26" weight="1" />
+      <edge source="qofficiel" target="tmctv" id="27" weight="1" />
+      <edge source="vincent" target="medias_citoyens" id="28" weight="1" />
+      <edge source="bfmtv" target="bruce_toussaint" id="29" weight="1" />
+      <edge source="bfmtv" target="bfmtv" id="30" weight="1" />
+      <edge source="libe" target="lejdd" id="31" weight="1" />
+      <edge source="libe" target="geoffroylejeune" id="32" weight="1" />
+      <edge source="libe" target="dovalfon" id="33" weight="1" />
+      <edge source="libe" target="rantier" id="34" weight="1" />
+      <edge source="libe" target="jeanbambois" id="35" weight="1" />
+      <edge source="libe" target="aurelifil" id="36" weight="1" />
+      <edge source="lejdd" target="geoffroylejeune" id="37" weight="1" />
+      <edge source="lejdd" target="francoisservier" id="38" weight="1" />
+      <edge source="lejdd" target="gg_rmc" id="39" weight="1" />
+      <edge source="geoffroylejeune" target="yhwh_raoul" id="40" weight="1" />
+      <edge source="karlhallparis" target="amineippoo" id="41" weight="1" />
+      <edge source="cdenquete" target="francetv" id="42" weight="1" />
+      <edge source="p_duval" target="julienpain" id="43" weight="1" />
+      <edge source="p_duval" target="tristanmf" id="44" weight="1" />
+      <edge source="p_duval" target="rreichstadt" id="45" weight="1" />
+      <edge source="p_duval" target="arikouts" id="46" weight="1" />
+      <edge source="julienpain" target="tristanmf" id="47" weight="1" />
+      <edge source="julienpain" target="rreichstadt" id="48" weight="1" />
+      <edge source="julienpain" target="arikouts" id="49" weight="1" />
+      <edge source="tristanmf" target="rreichstadt" id="50" weight="1" />
+      <edge source="tristanmf" target="arikouts" id="51" weight="1" />
+      <edge source="rreichstadt" target="arikouts" id="52" weight="1" />
+      <edge source="uki" target="psi_id" id="53" weight="1" />
+      <edge source="caronaymericoff" target="carolineyadan" id="54" weight="1" />
+      <edge source="francoisservier" target="gg_rmc" id="55" weight="1" />
+      <edge source="rantier" target="jeanbambois" id="56" weight="1" />
+      <edge source="rantier" target="aurelifil" id="57" weight="1" />
+      <edge source="jeanbambois" target="aurelifil" id="58" weight="1" />
+      <edge source="valeurs" target="louis_aliot" id="59" weight="1" />
+      <edge source="valeurs" target="edouardlavolle" id="60" weight="1" />
+      <edge source="louis_aliot" target="edouardlavolle" id="61" weight="1" />
+    </edges>
+  </graph>
+</gexf>

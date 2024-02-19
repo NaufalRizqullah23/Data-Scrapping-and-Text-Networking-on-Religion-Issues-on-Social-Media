@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#israelattack" label="#israelattack" />
+      <node id="#فلسطين_الان" label="#فلسطين_الان" />
+      <node id="#aniesmuhaimin" label="#aniesmuhaimin" />
+      <node id="#amin" label="#amin" />
+      <node id="#prabowocapresabadi" label="#prabowocapresabadi" />
+      <node id="#capresabadi" label="#capresabadi" />
+      <node id="#tolakprabowo" label="#tolakprabowo" />
+      <node id="#prabowoarogan" label="#prabowoarogan" />
+      <node id="#prabowosombong" label="#prabowosombong" />
+      <node id="#water" label="#water" />
+      <node id="#pakistan" label="#pakistan" />
+      <node id="#ayokekebunraya" label="#ayokekebunraya" />
+      <node id="#kebunrayacibodas" label="#kebunrayacibodas" />
+      <node id="#alwayswithjoshua" label="#alwayswithjoshua" />
+      <node id="#fifawwc" label="#fifawwc" />
+      <node id="#shaoguan" label="#shaoguan" />
+      <node id="#guangdong" label="#guangdong" />
+      <node id="#rice" label="#rice" />
+      <node id="#crop" label="#crop" />
+      <node id="#travelwithme" label="#travelwithme" />
+      <node id="#nancystraveldiary" label="#nancystraveldiary" />
+      <node id="#lockhimup" label="#lockhimup" />
+      <node id="#mylovelyliarep" label="#mylovelyliarep" />
+      <node id="#rakjatmenilai" label="#rakjatmenilai" />
+      <node id="#jumatberkah" label="#jumatberkah" />
+      <node id="#bts" label="#bts" />
+      <node id="#방탄소년단" label="#방탄소년단" />
+      <node id="#bts_exhibition_proof" label="#bts_exhibition_proof" />
+      <node id="#bts_proof" label="#bts_proof" />
+      <node id="#bts_exhibition_jakarta" label="#bts_exhibition_jakarta" />
+      <node id="#imeindonesia" label="#imeindonesia" />
+    </nodes>
+    <edges>
+      <edge source="#israelattack" target="#فلسطين_الان" id="0" weight="1" />
+      <edge source="#aniesmuhaimin" target="#amin" id="1" weight="1" />
+      <edge source="#prabowocapresabadi" target="#capresabadi" id="2" weight="1" />
+      <edge source="#prabowocapresabadi" target="#tolakprabowo" id="3" weight="1" />
+      <edge source="#prabowocapresabadi" target="#prabowoarogan" id="4" weight="1" />
+      <edge source="#prabowocapresabadi" target="#prabowosombong" id="5" weight="1" />
+      <edge source="#capresabadi" target="#tolakprabowo" id="6" weight="1" />
+      <edge source="#capresabadi" target="#prabowoarogan" id="7" weight="1" />
+      <edge source="#capresabadi" target="#prabowosombong" id="8" weight="1" />
+      <edge source="#tolakprabowo" target="#prabowoarogan" id="9" weight="1" />
+      <edge source="#tolakprabowo" target="#prabowosombong" id="10" weight="1" />
+      <edge source="#prabowoarogan" target="#prabowosombong" id="11" weight="1" />
+      <edge source="#water" target="#pakistan" id="12" weight="1" />
+      <edge source="#ayokekebunraya" target="#kebunrayacibodas" id="13" weight="1" />
+      <edge source="#alwayswithjoshua" target="#fifawwc" id="14" weight="1" />
+      <edge source="#alwayswithjoshua" target="#lockhimup" id="15" weight="1" />
+      <edge source="#alwayswithjoshua" target="#mylovelyliarep" id="16" weight="1" />
+      <edge source="#shaoguan" target="#guangdong" id="17" weight="1" />
+      <edge source="#shaoguan" target="#rice" id="18" weight="1" />
+      <edge source="#shaoguan" target="#crop" id="19" weight="1" />
+      <edge source="#shaoguan" target="#travelwithme" id="20" weight="1" />
+      <edge source="#shaoguan" target="#nancystraveldiary" id="21" weight="1" />
+      <edge source="#guangdong" target="#rice" id="22" weight="1" />
+      <edge source="#guangdong" target="#crop" id="23" weight="1" />
+      <edge source="#guangdong" target="#travelwithme" id="24" weight="1" />
+      <edge source="#guangdong" target="#nancystraveldiary" id="25" weight="1" />
+      <edge source="#rice" target="#crop" id="26" weight="1" />
+      <edge source="#rice" target="#travelwithme" id="27" weight="1" />
+      <edge source="#rice" target="#nancystraveldiary" id="28" weight="1" />
+      <edge source="#crop" target="#travelwithme" id="29" weight="1" />
+      <edge source="#crop" target="#nancystraveldiary" id="30" weight="1" />
+      <edge source="#travelwithme" target="#nancystraveldiary" id="31" weight="1" />
+      <edge source="#lockhimup" target="#mylovelyliarep" id="32" weight="1" />
+      <edge source="#rakjatmenilai" target="#jumatberkah" id="33" weight="1" />
+      <edge source="#bts" target="#방탄소년단" id="34" weight="1" />
+      <edge source="#bts" target="#bts_exhibition_proof" id="35" weight="1" />
+      <edge source="#bts" target="#bts_proof" id="36" weight="1" />
+      <edge source="#bts" target="#bts_exhibition_jakarta" id="37" weight="1" />
+      <edge source="#bts" target="#imeindonesia" id="38" weight="1" />
+      <edge source="#방탄소년단" target="#bts_exhibition_proof" id="39" weight="1" />
+      <edge source="#방탄소년단" target="#bts_proof" id="40" weight="1" />
+      <edge source="#방탄소년단" target="#bts_exhibition_jakarta" id="41" weight="1" />
+      <edge source="#방탄소년단" target="#imeindonesia" id="42" weight="1" />
+      <edge source="#bts_exhibition_proof" target="#bts_proof" id="43" weight="1" />
+      <edge source="#bts_exhibition_proof" target="#bts_exhibition_jakarta" id="44" weight="1" />
+      <edge source="#bts_exhibition_proof" target="#imeindonesia" id="45" weight="1" />
+      <edge source="#bts_proof" target="#bts_exhibition_jakarta" id="46" weight="1" />
+      <edge source="#bts_proof" target="#imeindonesia" id="47" weight="1" />
+      <edge source="#bts_exhibition_jakarta" target="#imeindonesia" id="48" weight="1" />
+    </edges>
+  </graph>
+</gexf>

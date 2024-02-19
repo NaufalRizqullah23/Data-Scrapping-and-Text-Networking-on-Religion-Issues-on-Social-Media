@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#jachètelejdd" label="#jachètelejdd" />
+      <node id="#rwc" label="#rwc" />
+      <node id="#flyprivate" label="#flyprivate" />
+      <node id="#luxurytravel" label="#luxurytravel" />
+      <node id="#charter" label="#charter" />
+    </nodes>
+    <edges>
+      <edge source="#jachètelejdd" target="#rwc" id="0" weight="1" />
+      <edge source="#flyprivate" target="#luxurytravel" id="1" weight="1" />
+      <edge source="#flyprivate" target="#charter" id="2" weight="1" />
+      <edge source="#luxurytravel" target="#charter" id="3" weight="1" />
+    </edges>
+  </graph>
+</gexf>

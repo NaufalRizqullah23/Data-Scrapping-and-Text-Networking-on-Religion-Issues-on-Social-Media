@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#sato_toilets" label="#sato_toilets" />
+      <node id="#sanitationforall" label="#sanitationforall" />
+      <node id="#partnerwithus" label="#partnerwithus" />
+      <node id="#betterwithsato" label="#betterwithsato" />
+      <node id="#africa" label="#africa" />
+      <node id="#guyon" label="#guyon" />
+      <node id="#santri" label="#santri" />
+      <node id="#sarungan" label="#sarungan" />
+      <node id="#cingkrang" label="#cingkrang" />
+      <node id="#ponpes" label="#ponpes" />
+      <node id="#pilkada" label="#pilkada" />
+      <node id="#pemilu" label="#pemilu" />
+      <node id="#pemiluindonesia" label="#pemiluindonesia" />
+      <node id="#pemiluserentak" label="#pemiluserentak" />
+      <node id="#pilpres" label="#pilpres" />
+      <node id="#yahudi" label="#yahudi" />
+      <node id="#rembulan" label="#rembulan" />
+      <node id="#celana" label="#celana" />
+      <node id="#mereka" label="#mereka" />
+      <node id="#benar" label="#benar" />
+      <node id="#nuclear" label="#nuclear" />
+      <node id="#kuda" label="#kuda" />
+      <node id="#memanah" label="#memanah" />
+      <node id="#unitednations" label="#unitednations" />
+      <node id="#sdgsummit" label="#sdgsummit" />
+      <node id="#agenda" label="#agenda" />
+      <node id="#nyamannyaduniamybca" label="#nyamannyaduniamybca" />
+      <node id="#edukatips" label="#edukatips" />
+      <node id="#newsupdate" label="#newsupdate" />
+      <node id="#update" label="#update" />
+      <node id="#news" label="#news" />
+      <node id="#oneliner" label="#oneliner" />
+      <node id="#도경수" label="#도경수" />
+      <node id="#디오" label="#디오" />
+      <node id="#dohkyungsoo" label="#dohkyungsoo" />
+      <node id="#do" label="#do" />
+      <node id="#都暻秀" label="#都暻秀" />
+      <node id="#ドギョンス" label="#ドギョンス" />
+      <node id="#exo" label="#exo" />
+      <node id="#lovewins" label="#lovewins" />
+      <node id="#winmetawin" label="#winmetawin" />
+      <node id="#tangkaprockygerung" label="#tangkaprockygerung" />
+      <node id="#penjarakanrockygerung" label="#penjarakanrockygerung" />
+      <node id="#penjarakaniblisgerungprovokator" label="#penjarakaniblisgerungprovokator" />
+    </nodes>
+    <edges>
+      <edge source="#sato_toilets" target="#sanitationforall" id="0" weight="1" />
+      <edge source="#sato_toilets" target="#partnerwithus" id="1" weight="1" />
+      <edge source="#sato_toilets" target="#betterwithsato" id="2" weight="1" />
+      <edge source="#sato_toilets" target="#africa" id="3" weight="1" />
+      <edge source="#sanitationforall" target="#partnerwithus" id="4" weight="1" />
+      <edge source="#sanitationforall" target="#betterwithsato" id="5" weight="1" />
+      <edge source="#sanitationforall" target="#africa" id="6" weight="1" />
+      <edge source="#partnerwithus" target="#betterwithsato" id="7" weight="1" />
+      <edge source="#partnerwithus" target="#africa" id="8" weight="1" />
+      <edge source="#betterwithsato" target="#africa" id="9" weight="1" />
+      <edge source="#guyon" target="#santri" id="10" weight="1" />
+      <edge source="#guyon" target="#sarungan" id="11" weight="1" />
+      <edge source="#guyon" target="#cingkrang" id="12" weight="1" />
+      <edge source="#guyon" target="#ponpes" id="13" weight="1" />
+      <edge source="#guyon" target="#pilkada" id="14" weight="1" />
+      <edge source="#guyon" target="#pemilu" id="15" weight="1" />
+      <edge source="#guyon" target="#pemiluindonesia" id="16" weight="1" />
+      <edge source="#guyon" target="#pemiluserentak" id="17" weight="1" />
+      <edge source="#guyon" target="#pilpres" id="18" weight="1" />
+      <edge source="#santri" target="#sarungan" id="19" weight="1" />
+      <edge source="#santri" target="#cingkrang" id="20" weight="1" />
+      <edge source="#santri" target="#ponpes" id="21" weight="1" />
+      <edge source="#santri" target="#pilkada" id="22" weight="1" />
+      <edge source="#santri" target="#pemilu" id="23" weight="1" />
+      <edge source="#santri" target="#pemiluindonesia" id="24" weight="1" />
+      <edge source="#santri" target="#pemiluserentak" id="25" weight="1" />
+      <edge source="#santri" target="#pilpres" id="26" weight="1" />
+      <edge source="#sarungan" target="#cingkrang" id="27" weight="1" />
+      <edge source="#sarungan" target="#ponpes" id="28" weight="1" />
+      <edge source="#sarungan" target="#pilkada" id="29" weight="1" />
+      <edge source="#sarungan" target="#pemilu" id="30" weight="1" />
+      <edge source="#sarungan" target="#pemiluindonesia" id="31" weight="1" />
+      <edge source="#sarungan" target="#pemiluserentak" id="32" weight="1" />
+      <edge source="#sarungan" target="#pilpres" id="33" weight="1" />
+      <edge source="#cingkrang" target="#ponpes" id="34" weight="1" />
+      <edge source="#cingkrang" target="#pilkada" id="35" weight="1" />
+      <edge source="#cingkrang" target="#pemilu" id="36" weight="1" />
+      <edge source="#cingkrang" target="#pemiluindonesia" id="37" weight="1" />
+      <edge source="#cingkrang" target="#pemiluserentak" id="38" weight="1" />
+      <edge source="#cingkrang" target="#pilpres" id="39" weight="1" />
+      <edge source="#cingkrang" target="#yahudi" id="40" weight="1" />
+      <edge source="#cingkrang" target="#rembulan" id="41" weight="1" />
+      <edge source="#cingkrang" target="#celana" id="42" weight="1" />
+      <edge source="#cingkrang" target="#mereka" id="43" weight="1" />
+      <edge source="#cingkrang" target="#benar" id="44" weight="1" />
+      <edge source="#cingkrang" target="#nuclear" id="45" weight="1" />
+      <edge source="#cingkrang" target="#kuda" id="46" weight="1" />
+      <edge source="#cingkrang" target="#memanah" id="47" weight="1" />
+      <edge source="#ponpes" target="#pilkada" id="48" weight="1" />
+      <edge source="#ponpes" target="#pemilu" id="49" weight="1" />
+      <edge source="#ponpes" target="#pemiluindonesia" id="50" weight="1" />
+      <edge source="#ponpes" target="#pemiluserentak" id="51" weight="1" />
+      <edge source="#ponpes" target="#pilpres" id="52" weight="1" />
+      <edge source="#pilkada" target="#pemilu" id="53" weight="1" />
+      <edge source="#pilkada" target="#pemiluindonesia" id="54" weight="1" />
+      <edge source="#pilkada" target="#pemiluserentak" id="55" weight="1" />
+      <edge source="#pilkada" target="#pilpres" id="56" weight="1" />
+      <edge source="#pemilu" target="#pemiluindonesia" id="57" weight="1" />
+      <edge source="#pemilu" target="#pemiluserentak" id="58" weight="1" />
+      <edge source="#pemilu" target="#pilpres" id="59" weight="1" />
+      <edge source="#pemiluindonesia" target="#pemiluserentak" id="60" weight="1" />
+      <edge source="#pemiluindonesia" target="#pilpres" id="61" weight="1" />
+      <edge source="#pemiluserentak" target="#pilpres" id="62" weight="1" />
+      <edge source="#yahudi" target="#rembulan" id="63" weight="1" />
+      <edge source="#yahudi" target="#celana" id="64" weight="1" />
+      <edge source="#yahudi" target="#mereka" id="65" weight="1" />
+      <edge source="#yahudi" target="#benar" id="66" weight="1" />
+      <edge source="#yahudi" target="#nuclear" id="67" weight="1" />
+      <edge source="#yahudi" target="#kuda" id="68" weight="1" />
+      <edge source="#yahudi" target="#memanah" id="69" weight="1" />
+      <edge source="#rembulan" target="#celana" id="70" weight="1" />
+      <edge source="#rembulan" target="#mereka" id="71" weight="1" />
+      <edge source="#rembulan" target="#benar" id="72" weight="1" />
+      <edge source="#rembulan" target="#nuclear" id="73" weight="1" />
+      <edge source="#rembulan" target="#kuda" id="74" weight="1" />
+      <edge source="#rembulan" target="#memanah" id="75" weight="1" />
+      <edge source="#celana" target="#mereka" id="76" weight="1" />
+      <edge source="#celana" target="#benar" id="77" weight="1" />
+      <edge source="#celana" target="#nuclear" id="78" weight="1" />
+      <edge source="#celana" target="#kuda" id="79" weight="1" />
+      <edge source="#celana" target="#memanah" id="80" weight="1" />
+      <edge source="#mereka" target="#benar" id="81" weight="1" />
+      <edge source="#mereka" target="#nuclear" id="82" weight="1" />
+      <edge source="#mereka" target="#kuda" id="83" weight="1" />
+      <edge source="#mereka" target="#memanah" id="84" weight="1" />
+      <edge source="#benar" target="#nuclear" id="85" weight="1" />
+      <edge source="#benar" target="#kuda" id="86" weight="1" />
+      <edge source="#benar" target="#memanah" id="87" weight="1" />
+      <edge source="#nuclear" target="#kuda" id="88" weight="1" />
+      <edge source="#nuclear" target="#memanah" id="89" weight="1" />
+      <edge source="#kuda" target="#memanah" id="90" weight="1" />
+      <edge source="#unitednations" target="#sdgsummit" id="91" weight="1" />
+      <edge source="#unitednations" target="#agenda" id="92" weight="1" />
+      <edge source="#sdgsummit" target="#agenda" id="93" weight="1" />
+      <edge source="#nyamannyaduniamybca" target="#edukatips" id="94" weight="1" />
+      <edge source="#newsupdate" target="#update" id="95" weight="1" />
+      <edge source="#newsupdate" target="#news" id="96" weight="1" />
+      <edge source="#newsupdate" target="#oneliner" id="97" weight="1" />
+      <edge source="#update" target="#news" id="98" weight="1" />
+      <edge source="#update" target="#oneliner" id="99" weight="1" />
+      <edge source="#news" target="#oneliner" id="100" weight="1" />
+      <edge source="#도경수" target="#디오" id="101" weight="1" />
+      <edge source="#도경수" target="#dohkyungsoo" id="102" weight="1" />
+      <edge source="#도경수" target="#do" id="103" weight="1" />
+      <edge source="#도경수" target="#都暻秀" id="104" weight="1" />
+      <edge source="#도경수" target="#ドギョンス" id="105" weight="1" />
+      <edge source="#도경수" target="#exo" id="106" weight="1" />
+      <edge source="#디오" target="#dohkyungsoo" id="107" weight="1" />
+      <edge source="#디오" target="#do" id="108" weight="1" />
+      <edge source="#디오" target="#都暻秀" id="109" weight="1" />
+      <edge source="#디오" target="#ドギョンス" id="110" weight="1" />
+      <edge source="#디오" target="#exo" id="111" weight="1" />
+      <edge source="#dohkyungsoo" target="#do" id="112" weight="1" />
+      <edge source="#dohkyungsoo" target="#都暻秀" id="113" weight="1" />
+      <edge source="#dohkyungsoo" target="#ドギョンス" id="114" weight="1" />
+      <edge source="#dohkyungsoo" target="#exo" id="115" weight="1" />
+      <edge source="#do" target="#都暻秀" id="116" weight="1" />
+      <edge source="#do" target="#ドギョンス" id="117" weight="1" />
+      <edge source="#do" target="#exo" id="118" weight="1" />
+      <edge source="#都暻秀" target="#ドギョンス" id="119" weight="1" />
+      <edge source="#都暻秀" target="#exo" id="120" weight="1" />
+      <edge source="#ドギョンス" target="#exo" id="121" weight="1" />
+      <edge source="#lovewins" target="#winmetawin" id="122" weight="1" />
+      <edge source="#tangkaprockygerung" target="#penjarakanrockygerung" id="123" weight="1" />
+      <edge source="#tangkaprockygerung" target="#penjarakaniblisgerungprovokator" id="124" weight="1" />
+      <edge source="#penjarakanrockygerung" target="#penjarakaniblisgerungprovokator" id="125" weight="1" />
+    </edges>
+  </graph>
+</gexf>

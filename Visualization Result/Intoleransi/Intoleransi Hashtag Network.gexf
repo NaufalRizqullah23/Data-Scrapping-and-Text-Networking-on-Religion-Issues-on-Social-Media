@@ -1,0 +1,1434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#indonesiaemas" label="#indonesiaemas" />
+      <node id="#indonesiagama" label="#indonesiagama" />
+      <node id="#freepalestine" label="#freepalestine" />
+      <node id="#opisrael" label="#opisrael" />
+      <node id="#israelicrimes" label="#israelicrimes" />
+      <node id="#bds" label="#bds" />
+      <node id="#help" label="#help" />
+      <node id="#rt" label="#rt" />
+      <node id="#tolakterorisme" label="#tolakterorisme" />
+      <node id="#tolakekstremisme" label="#tolakekstremisme" />
+      <node id="#moderasiberagama" label="#moderasiberagama" />
+      <node id="#tolakintoleransi" label="#tolakintoleransi" />
+      <node id="#tolakradikalisme" label="#tolakradikalisme" />
+      <node id="#gibranmasukgolkar" label="#gibranmasukgolkar" />
+      <node id="#jasmerah" label="#jasmerah" />
+      <node id="#jashijau" label="#jashijau" />
+      <node id="#jaskraton" label="#jaskraton" />
+      <node id="#ganjarmahfud" label="#ganjarmahfud" />
+      <node id="#bekasi" label="#bekasi" />
+      <node id="#nusatenggaratimur" label="#nusatenggaratimur" />
+      <node id="#banjar" label="#banjar" />
+      <node id="#cirebon" label="#cirebon" />
+      <node id="#bali" label="#bali" />
+      <node id="#bogor" label="#bogor" />
+      <node id="#kuningan" label="#kuningan" />
+      <node id="#lampung" label="#lampung" />
+      <node id="#nusatenggarabarat" label="#nusatenggarabarat" />
+      <node id="#banten" label="#banten" />
+      <node id="#gaza" label="#gaza" />
+      <node id="#santrigayeng" label="#santrigayeng" />
+      <node id="#poldakaltim" label="#poldakaltim" />
+      <node id="#programprioritaskapolri" label="#programprioritaskapolri" />
+      <node id="#polripresisi" label="#polripresisi" />
+      <node id="#kapolresbontang" label="#kapolresbontang" />
+      <node id="#polresbontang" label="#polresbontang" />
+      <node id="#satsamaptapolresbontang" label="#satsamaptapolresbontang" />
+      <node id="#kapanajabisa" label="#kapanajabisa" />
+      <node id="#edukatips" label="#edukatips" />
+      <node id="#nakama" label="#nakama" />
+      <node id="#gear" label="#gear" />
+      <node id="#onepiece" label="#onepiece" />
+      <node id="#putaran" label="#putaran" />
+      <node id="#ganjarjagademokrasi" label="#ganjarjagademokrasi" />
+      <node id="#samaindonesia" label="#samaindonesia" />
+      <node id="#mahfudmd" label="#mahfudmd" />
+      <node id="#ganjarpranowo" label="#ganjarpranowo" />
+      <node id="#ba" label="#ba" />
+      <node id="#balikinpsidukungganjar" label="#balikinpsidukungganjar" />
+      <node id="#humaspolreskedirikota" label="#humaspolreskedirikota" />
+      <node id="#polisikedirikota" label="#polisikedirikota" />
+      <node id="#polres" label="#polres" />
+      <node id="#pdiperjuangan" label="#pdiperjuangan" />
+      <node id="#ganjaruntuksemua" label="#ganjaruntuksemua" />
+      <node id="#ganjarpresiden" label="#ganjarpresiden" />
+      <node id="#menangkanganjar" label="#menangkanganjar" />
+      <node id="#polri" label="#polri" />
+      <node id="#divhumas" label="#divhumas" />
+      <node id="#digimuid" label="#digimuid" />
+      <node id="#muhammadiyah" label="#muhammadiyah" />
+      <node id="#gnrm" label="#gnrm" />
+      <node id="#kemenkopmk" label="#kemenkopmk" />
+      <node id="#aksimenanampohon" label="#aksimenanampohon" />
+      <node id="#polresppu" label="#polresppu" />
+      <node id="#akbp_hendrik_eka_bahalwan" label="#akbp_hendrik_eka_bahalwan" />
+      <node id="#kapolresppu" label="#kapolresppu" />
+      <node id="#iknnusantara" label="#iknnusantara" />
+      <node id="#sinergitnipolri" label="#sinergitnipolri" />
+      <node id="#polriuntukindonesia" label="#polriuntukindonesia" />
+      <node id="#singkawanginformasi" label="#singkawanginformasi" />
+      <node id="#polressingkawang" label="#polressingkawang" />
+      <node id="#singkawang" label="#singkawang" />
+      <node id="#letsgopks" label="#letsgopks" />
+      <node id="#pksno" label="#pksno" />
+      <node id="#huthumaspolri" label="#huthumaspolri" />
+      <node id="#kasipresisikamtibmas" label="#kasipresisikamtibmas" />
+      <node id="#polisipresisi" label="#polisipresisi" />
+      <node id="#adadikompas" label="#adadikompas" />
+      <node id="#dikbud" label="#dikbud" />
+      <node id="#golput" label="#golput" />
+      <node id="#presidenunfaedah" label="#presidenunfaedah" />
+      <node id="#tenggelamkanpdip" label="#tenggelamkanpdip" />
+      <node id="#cabutskbm" label="#cabutskbm" />
+      <node id="#negarakampret" label="#negarakampret" />
+      <node id="#halodoc" label="#halodoc" />
+      <node id="#tenangmenjaga" label="#tenangmenjaga" />
+      <node id="#ganjarmerawatpancasila" label="#ganjarmerawatpancasila" />
+      <node id="#gbpusd" label="#gbpusd" />
+      <node id="#eurusd" label="#eurusd" />
+      <node id="#xm_com" label="#xm_com" />
+      <node id="#quotes" label="#quotes" />
+      <node id="#quotesandsayings" label="#quotesandsayings" />
+      <node id="#quotesoftheday" label="#quotesoftheday" />
+      <node id="#quotestoliveby" label="#quotestoliveby" />
+      <node id="#quotesdaily" label="#quotesdaily" />
+      <node id="#quotesaboutlife" label="#quotesaboutlife" />
+      <node id="#lessons" label="#lessons" />
+      <node id="#learning" label="#learning" />
+      <node id="#lifelessons" label="#lifelessons" />
+      <node id="#lifecoaching" label="#lifecoaching" />
+      <node id="#advice" label="#advice" />
+      <node id="#indonesiaturuntanganbantupalestina" label="#indonesiaturuntanganbantupalestina" />
+      <node id="#sahabatpalestina_id" label="#sahabatpalestina_id" />
+      <node id="#sendmycall" label="#sendmycall" />
+      <node id="#futureofwork" label="#futureofwork" />
+      <node id="#hardnews_viral" label="#hardnews_viral" />
+      <node id="#newsone" label="#newsone" />
+      <node id="#cariberitaditvone" label="#cariberitaditvone" />
+      <node id="#palestina" label="#palestina" />
+      <node id="#israel" label="#israel" />
+      <node id="#hamas" label="#hamas" />
+      <node id="#anwasabbas" label="#anwasabbas" />
+      <node id="#mui" label="#mui" />
+      <node id="#kumhamkalsel" label="#kumhamkalsel" />
+      <node id="#faisolali" label="#faisolali" />
+      <node id="#mijit" label="#mijit" />
+      <node id="#mijitgacordor" label="#mijitgacordor" />
+      <node id="#mijitgacor" label="#mijitgacor" />
+      <node id="#polresmagetan" label="#polresmagetan" />
+      <node id="#polisimagetan" label="#polisimagetan" />
+      <node id="#magetan" label="#magetan" />
+      <node id="#rain" label="#rain" />
+      <node id="#playlistoftheday" label="#playlistoftheday" />
+      <node id="#sayapaketriv" label="#sayapaketriv" />
+      <node id="#temaninvestasiyangaman" label="#temaninvestasiyangaman" />
+      <node id="#radikalisme" label="#radikalisme" />
+      <node id="#terorisme" label="#terorisme" />
+      <node id="#intoleransi" label="#intoleransi" />
+      <node id="#antipancasila" label="#antipancasila" />
+      <node id="#fyp" label="#fyp" />
+      <node id="#trending" label="#trending" />
+      <node id="#beritaterkini" label="#beritaterkini" />
+      <node id="#info" label="#info" />
+      <node id="#hours" label="#hours" />
+      <node id="#polreskepulauantanimbar" label="#polreskepulauantanimbar" />
+      <node id="#minggukasihpolsekwuarlabobar" label="#minggukasihpolsekwuarlabobar" />
+      <node id="#perangiintoleransi" label="#perangiintoleransi" />
+      <node id="#menujupemiludamai" label="#menujupemiludamai" />
+      <node id="#polisibaik" label="#polisibaik" />
+      <node id="#rtnbarabai" label="#rtnbarabai" />
+      <node id="#gtiskandarsyahkanwil" label="#gtiskandarsyahkanwil" />
+      <node id="#stopisusara" label="#stopisusara" />
+      <node id="#stopintoleransi" label="#stopintoleransi" />
+      <node id="#stopprovokasi" label="#stopprovokasi" />
+      <node id="#berantashoax" label="#berantashoax" />
+      <node id="#pelamanise" label="#pelamanise" />
+      <node id="#pemilulancarmalukuamanrakyatsejahtera" label="#pemilulancarmalukuamanrakyatsejahtera" />
+      <node id="#climatescam" label="#climatescam" />
+      <node id="#netzero" label="#netzero" />
+      <node id="#worldeconomicforum" label="#worldeconomicforum" />
+      <node id="#greatreset" label="#greatreset" />
+      <node id="#bts" label="#bts" />
+      <node id="#방탄소년단" label="#방탄소년단" />
+      <node id="#bts_exhibition_proof" label="#bts_exhibition_proof" />
+      <node id="#bts_proof" label="#bts_proof" />
+      <node id="#bts_exhibition_jakarta" label="#bts_exhibition_jakarta" />
+      <node id="#imeindonesia" label="#imeindonesia" />
+      <node id="#aniesmuhaimin" label="#aniesmuhaimin" />
+      <node id="#jumatberkah" label="#jumatberkah" />
+      <node id="#kaesangpsi" label="#kaesangpsi" />
+      <node id="#psipgi" label="#psipgi" />
+      <node id="#buka" label="#buka" />
+      <node id="#suara" label="#suara" />
+      <node id="#bro" label="#bro" />
+      <node id="#eastasiapacific" label="#eastasiapacific" />
+      <node id="#eapupdate" label="#eapupdate" />
+      <node id="#komit" label="#komit" />
+      <node id="#untukindonesia" label="#untukindonesia" />
+      <node id="#fruit" label="#fruit" />
+      <node id="#fruits" label="#fruits" />
+      <node id="#candy" label="#candy" />
+      <node id="#health" label="#health" />
+      <node id="#food" label="#food" />
+      <node id="#stayhealthy" label="#stayhealthy" />
+      <node id="#sweet" label="#sweet" />
+      <node id="#sweets" label="#sweets" />
+      <node id="#delicious" label="#delicious" />
+      <node id="#deliciousfood" label="#deliciousfood" />
+      <node id="#trendingnow" label="#trendingnow" />
+      <node id="#news" label="#news" />
+      <node id="#viral" label="#viral" />
+      <node id="#twitter" label="#twitter" />
+      <node id="#foryou" label="#foryou" />
+      <node id="#article" label="#article" />
+      <node id="#media" label="#media" />
+      <node id="#lifestyle" label="#lifestyle" />
+      <node id="#faisola" label="#faisola" />
+      <node id="#sesitahunanaalco" label="#sesitahunanaalco" />
+      <node id="#yasonnalaoly" label="#yasonnalaoly" />
+      <node id="#kemenkumhamri" label="#kemenkumhamri" />
+      <node id="#kanwilkemenkumhamkalsel" label="#kanwilkemenkumhamkalsel" />
+      <node id="#ninjakaesangpsi" label="#ninjakaesangpsi" />
+      <node id="#sangketum" label="#sangketum" />
+      <node id="#sangkaesang" label="#sangkaesang" />
+      <node id="#lppmartapura" label="#lppmartapura" />
+      <node id="#lapasbanjarbaru" label="#lapasbanjarbaru" />
+      <node id="#amicobalalembang" label="#amicobalalembang" />
+      <node id="#infojabar" label="#infojabar" />
+      <node id="#jabarmoderat" label="#jabarmoderat" />
+      <node id="#kaltarabersatu" label="#kaltarabersatu" />
+      <node id="#toleransi" label="#toleransi" />
+      <node id="#pancasila" label="#pancasila" />
+      <node id="#bhinekatunggalika" label="#bhinekatunggalika" />
+      <node id="#politikidentitas" label="#politikidentitas" />
+      <node id="#kumhambabel" label="#kumhambabel" />
+      <node id="#harunsulianto" label="#harunsulianto" />
+      <node id="#kanimpkpinang" label="#kanimpkpinang" />
+      <node id="#newsupdate" label="#newsupdate" />
+      <node id="#update" label="#update" />
+      <node id="#text" label="#text" />
+      <node id="#muhaiminpenghianatgusdur" label="#muhaiminpenghianatgusdur" />
+      <node id="#muhaiminpenghianat" label="#muhaiminpenghianat" />
+      <node id="#muhaiminkoruptor" label="#muhaiminkoruptor" />
+      <node id="#aminindonesialebihbaik" label="#aminindonesialebihbaik" />
+      <node id="#ssdmpolri" label="#ssdmpolri" />
+      <node id="#listyosigitprabowo" label="#listyosigitprabowo" />
+      <node id="#divhumaspolri" label="#divhumaspolri" />
+      <node id="#poldabali" label="#poldabali" />
+      <node id="#birosdmpoldabali" label="#birosdmpoldabali" />
+      <node id="#kapoldabaliofficial" label="#kapoldabaliofficial" />
+      <node id="#humaspoldabali" label="#humaspoldabali" />
+      <node id="#suyitno" label="#suyitno" />
+      <node id="#gangłysego" label="#gangłysego" />
+      <node id="#polresbangli" label="#polresbangli" />
+      <node id="#pemiludamai" label="#pemiludamai" />
+      <node id="#spiritday" label="#spiritday" />
+      <node id="#gopurple" label="#gopurple" />
+      <node id="#lgbtiq" label="#lgbtiq" />
+      <node id="#ganjarpresidennkri" label="#ganjarpresidennkri" />
+      <node id="#nkrihargamati" label="#nkrihargamati" />
+      <node id="#nyamannyaduniamybca" label="#nyamannyaduniamybca" />
+      <node id="#hardnews_politik" label="#hardnews_politik" />
+      <node id="#politik" label="#politik" />
+      <node id="#partaipsi" label="#partaipsi" />
+      <node id="#ketumpsi" label="#ketumpsi" />
+      <node id="#kaesang" label="#kaesang" />
+      <node id="#rockygerung" label="#rockygerung" />
+      <node id="#partaipolitik" label="#partaipolitik" />
+      <node id="#sanitationforall" label="#sanitationforall" />
+      <node id="#collaboratewithus" label="#collaboratewithus" />
+      <node id="#betterwithsato" label="#betterwithsato" />
+      <node id="#betterwithsato_africa" label="#betterwithsato_africa" />
+      <node id="#indonesia" label="#indonesia" />
+      <node id="#lawanekstremisme" label="#lawanekstremisme" />
+      <node id="#lawanterorisme" label="#lawanterorisme" />
+      <node id="#nkri" label="#nkri" />
+      <node id="#bhinnekatunggalika" label="#bhinnekatunggalika" />
+      <node id="#thelulosshow" label="#thelulosshow" />
+      <node id="#survivor" label="#survivor" />
+      <node id="#ajafey" label="#ajafey" />
+      <node id="#ganjartetapygterbaik" label="#ganjartetapygterbaik" />
+      <node id="#flyprivate" label="#flyprivate" />
+      <node id="#luxurytravel" label="#luxurytravel" />
+      <node id="#charter" label="#charter" />
+      <node id="#oncefordki" label="#oncefordki" />
+      <node id="#once" label="#once" />
+      <node id="#oncemekel" label="#oncemekel" />
+      <node id="#oncemekelofficial" label="#oncemekelofficial" />
+      <node id="#oncemekelsigma" label="#oncemekelsigma" />
+      <node id="#agustd" label="#agustd" />
+      <node id="#yellowriver" label="#yellowriver" />
+      <node id="#ecology" label="#ecology" />
+      <node id="#yrbecotalk" label="#yrbecotalk" />
+      <node id="#短影音" label="#短影音" />
+      <node id="#自媒體" label="#自媒體" />
+      <node id="#人設" label="#人設" />
+      <node id="#影集" label="#影集" />
+      <node id="#梗圖圖文" label="#梗圖圖文" />
+      <node id="#fellows" label="#fellows" />
+      <node id="#sirfellows" label="#sirfellows" />
+      <node id="#fellows先生" label="#fellows先生" />
+      <node id="#fellowerforever" label="#fellowerforever" />
+      <node id="#fellows創新幸福工作學內容社群" label="#fellows創新幸福工作學內容社群" />
+      <node id="#fellows品牌創業者的商業解析站" label="#fellows品牌創業者的商業解析站" />
+      <node id="#台北商業模式創新教練" label="#台北商業模式創新教練" />
+      <node id="#台北品牌創業教練" label="#台北品牌創業教練" />
+      <node id="#台北個人創新幸福教練" label="#台北個人創新幸福教練" />
+      <node id="#台北獨立思考教練" label="#台北獨立思考教練" />
+      <node id="#podcaster" label="#podcaster" />
+      <node id="#kol" label="#kol" />
+      <node id="#創業" label="#創業" />
+      <node id="#創新" label="#創新" />
+      <node id="#商業教練" label="#商業教練" />
+      <node id="#思維" label="#思維" />
+      <node id="#商業模式" label="#商業模式" />
+      <node id="#生產力" label="#生產力" />
+      <node id="#學習" label="#學習" />
+      <node id="#解決問題" label="#解決問題" />
+      <node id="#思考" label="#思考" />
+      <node id="#一人公司" label="#一人公司" />
+      <node id="#內容行銷" label="#內容行銷" />
+      <node id="#原則" label="#原則" />
+    </nodes>
+    <edges>
+      <edge source="#indonesiaemas" target="#indonesiagama" id="0" weight="1" />
+      <edge source="#freepalestine" target="#opisrael" id="1" weight="1" />
+      <edge source="#freepalestine" target="#israelicrimes" id="2" weight="1" />
+      <edge source="#freepalestine" target="#bds" id="3" weight="1" />
+      <edge source="#opisrael" target="#israelicrimes" id="4" weight="1" />
+      <edge source="#opisrael" target="#bds" id="5" weight="1" />
+      <edge source="#israelicrimes" target="#bds" id="6" weight="1" />
+      <edge source="#help" target="#rt" id="7" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakekstremisme" id="8" weight="1" />
+      <edge source="#tolakterorisme" target="#moderasiberagama" id="9" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakintoleransi" id="10" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakradikalisme" id="11" weight="1" />
+      <edge source="#tolakterorisme" target="#gaza" id="12" weight="1" />
+      <edge source="#tolakterorisme" target="#santrigayeng" id="13" weight="1" />
+      <edge source="#tolakterorisme" target="#polriuntukindonesia" id="14" weight="1" />
+      <edge source="#tolakterorisme" target="#singkawanginformasi" id="15" weight="1" />
+      <edge source="#tolakterorisme" target="#polressingkawang" id="16" weight="1" />
+      <edge source="#tolakterorisme" target="#singkawang" id="17" weight="1" />
+      <edge source="#tolakekstremisme" target="#moderasiberagama" id="18" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakintoleransi" id="19" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakradikalisme" id="20" weight="1" />
+      <edge source="#tolakekstremisme" target="#kaltarabersatu" id="21" weight="1" />
+      <edge source="#tolakekstremisme" target="#toleransi" id="22" weight="1" />
+      <edge source="#tolakekstremisme" target="#pancasila" id="23" weight="1" />
+      <edge source="#tolakekstremisme" target="#bhinekatunggalika" id="24" weight="1" />
+      <edge source="#tolakekstremisme" target="#politikidentitas" id="25" weight="1" />
+      <edge source="#moderasiberagama" target="#tolakintoleransi" id="26" weight="1" />
+      <edge source="#moderasiberagama" target="#tolakradikalisme" id="27" weight="1" />
+      <edge source="#moderasiberagama" target="#indonesia" id="28" weight="1" />
+      <edge source="#moderasiberagama" target="#pancasila" id="29" weight="1" />
+      <edge source="#moderasiberagama" target="#lawanekstremisme" id="30" weight="1" />
+      <edge source="#moderasiberagama" target="#lawanterorisme" id="31" weight="1" />
+      <edge source="#moderasiberagama" target="#nkri" id="32" weight="1" />
+      <edge source="#moderasiberagama" target="#bhinnekatunggalika" id="33" weight="1" />
+      <edge source="#moderasiberagama" target="#thelulosshow" id="34" weight="1" />
+      <edge source="#moderasiberagama" target="#survivor" id="35" weight="1" />
+      <edge source="#moderasiberagama" target="#ajafey" id="36" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakradikalisme" id="37" weight="1" />
+      <edge source="#tolakintoleransi" target="#gibranmasukgolkar" id="38" weight="1" />
+      <edge source="#tolakintoleransi" target="#gaza" id="39" weight="1" />
+      <edge source="#tolakintoleransi" target="#santrigayeng" id="40" weight="1" />
+      <edge source="#tolakintoleransi" target="#polriuntukindonesia" id="41" weight="1" />
+      <edge source="#tolakintoleransi" target="#singkawanginformasi" id="42" weight="1" />
+      <edge source="#tolakintoleransi" target="#polressingkawang" id="43" weight="1" />
+      <edge source="#tolakintoleransi" target="#singkawang" id="44" weight="1" />
+      <edge source="#tolakintoleransi" target="#infojabar" id="45" weight="1" />
+      <edge source="#tolakintoleransi" target="#jabarmoderat" id="46" weight="1" />
+      <edge source="#tolakintoleransi" target="#kaltarabersatu" id="47" weight="1" />
+      <edge source="#tolakintoleransi" target="#toleransi" id="48" weight="1" />
+      <edge source="#tolakintoleransi" target="#pancasila" id="49" weight="1" />
+      <edge source="#tolakintoleransi" target="#bhinekatunggalika" id="50" weight="1" />
+      <edge source="#tolakintoleransi" target="#politikidentitas" id="51" weight="1" />
+      <edge source="#tolakintoleransi" target="#suyitno" id="52" weight="1" />
+      <edge source="#tolakintoleransi" target="#gangłysego" id="53" weight="1" />
+      <edge source="#tolakradikalisme" target="#gibranmasukgolkar" id="54" weight="1" />
+      <edge source="#tolakradikalisme" target="#polriuntukindonesia" id="55" weight="1" />
+      <edge source="#tolakradikalisme" target="#singkawanginformasi" id="56" weight="1" />
+      <edge source="#tolakradikalisme" target="#polressingkawang" id="57" weight="1" />
+      <edge source="#tolakradikalisme" target="#singkawang" id="58" weight="1" />
+      <edge source="#tolakradikalisme" target="#kaltarabersatu" id="59" weight="1" />
+      <edge source="#tolakradikalisme" target="#toleransi" id="60" weight="1" />
+      <edge source="#tolakradikalisme" target="#pancasila" id="61" weight="1" />
+      <edge source="#tolakradikalisme" target="#bhinekatunggalika" id="62" weight="1" />
+      <edge source="#tolakradikalisme" target="#politikidentitas" id="63" weight="1" />
+      <edge source="#jasmerah" target="#jashijau" id="64" weight="1" />
+      <edge source="#jasmerah" target="#jaskraton" id="65" weight="1" />
+      <edge source="#jashijau" target="#jaskraton" id="66" weight="1" />
+      <edge source="#ganjarmahfud" target="#bekasi" id="67" weight="1" />
+      <edge source="#ganjarmahfud" target="#nusatenggaratimur" id="68" weight="1" />
+      <edge source="#ganjarmahfud" target="#banjar" id="69" weight="1" />
+      <edge source="#ganjarmahfud" target="#cirebon" id="70" weight="1" />
+      <edge source="#ganjarmahfud" target="#bali" id="71" weight="1" />
+      <edge source="#ganjarmahfud" target="#bogor" id="72" weight="1" />
+      <edge source="#ganjarmahfud" target="#kuningan" id="73" weight="1" />
+      <edge source="#ganjarmahfud" target="#lampung" id="74" weight="1" />
+      <edge source="#ganjarmahfud" target="#nusatenggarabarat" id="75" weight="1" />
+      <edge source="#ganjarmahfud" target="#banten" id="76" weight="1" />
+      <edge source="#ganjarmahfud" target="#nakama" id="77" weight="1" />
+      <edge source="#ganjarmahfud" target="#gear" id="78" weight="1" />
+      <edge source="#ganjarmahfud" target="#onepiece" id="79" weight="1" />
+      <edge source="#ganjarmahfud" target="#putaran" id="80" weight="1" />
+      <edge source="#ganjarmahfud" target="#ganjarjagademokrasi" id="81" weight="1" />
+      <edge source="#gaza" target="#santrigayeng" id="82" weight="1" />
+      <edge source="#poldakaltim" target="#programprioritaskapolri" id="83" weight="1" />
+      <edge source="#poldakaltim" target="#polripresisi" id="84" weight="1" />
+      <edge source="#poldakaltim" target="#kapolresbontang" id="85" weight="1" />
+      <edge source="#poldakaltim" target="#polresbontang" id="86" weight="1" />
+      <edge source="#poldakaltim" target="#satsamaptapolresbontang" id="87" weight="1" />
+      <edge source="#poldakaltim" target="#polri" id="88" weight="1" />
+      <edge source="#poldakaltim" target="#divhumas" id="89" weight="1" />
+      <edge source="#poldakaltim" target="#polresppu" id="90" weight="1" />
+      <edge source="#poldakaltim" target="#akbp_hendrik_eka_bahalwan" id="91" weight="1" />
+      <edge source="#poldakaltim" target="#kapolresppu" id="92" weight="1" />
+      <edge source="#poldakaltim" target="#iknnusantara" id="93" weight="1" />
+      <edge source="#poldakaltim" target="#sinergitnipolri" id="94" weight="1" />
+      <edge source="#programprioritaskapolri" target="#polripresisi" id="95" weight="1" />
+      <edge source="#programprioritaskapolri" target="#kapolresbontang" id="96" weight="1" />
+      <edge source="#programprioritaskapolri" target="#polresbontang" id="97" weight="1" />
+      <edge source="#programprioritaskapolri" target="#satsamaptapolresbontang" id="98" weight="1" />
+      <edge source="#polripresisi" target="#kapolresbontang" id="99" weight="1" />
+      <edge source="#polripresisi" target="#polresbontang" id="100" weight="1" />
+      <edge source="#polripresisi" target="#satsamaptapolresbontang" id="101" weight="1" />
+      <edge source="#polripresisi" target="#humaspolreskedirikota" id="102" weight="1" />
+      <edge source="#polripresisi" target="#polisikedirikota" id="103" weight="1" />
+      <edge source="#polripresisi" target="#polres" id="104" weight="1" />
+      <edge source="#polripresisi" target="#polresppu" id="105" weight="1" />
+      <edge source="#polripresisi" target="#akbp_hendrik_eka_bahalwan" id="106" weight="1" />
+      <edge source="#polripresisi" target="#kapolresppu" id="107" weight="1" />
+      <edge source="#polripresisi" target="#iknnusantara" id="108" weight="1" />
+      <edge source="#polripresisi" target="#sinergitnipolri" id="109" weight="1" />
+      <edge source="#polripresisi" target="#polreskepulauantanimbar" id="110" weight="1" />
+      <edge source="#polripresisi" target="#minggukasihpolsekwuarlabobar" id="111" weight="1" />
+      <edge source="#polripresisi" target="#perangiintoleransi" id="112" weight="1" />
+      <edge source="#polripresisi" target="#menujupemiludamai" id="113" weight="1" />
+      <edge source="#polripresisi" target="#polisibaik" id="114" weight="1" />
+      <edge source="#polripresisi" target="#polresbangli" id="115" weight="1" />
+      <edge source="#polripresisi" target="#pemiludamai" id="116" weight="1" />
+      <edge source="#polripresisi" target="#bhinekatunggalika" id="117" weight="1" />
+      <edge source="#kapolresbontang" target="#polresbontang" id="118" weight="1" />
+      <edge source="#kapolresbontang" target="#satsamaptapolresbontang" id="119" weight="1" />
+      <edge source="#polresbontang" target="#satsamaptapolresbontang" id="120" weight="1" />
+      <edge source="#kapanajabisa" target="#edukatips" id="121" weight="1" />
+      <edge source="#edukatips" target="#nyamannyaduniamybca" id="122" weight="1" />
+      <edge source="#nakama" target="#gear" id="123" weight="1" />
+      <edge source="#nakama" target="#onepiece" id="124" weight="1" />
+      <edge source="#nakama" target="#putaran" id="125" weight="1" />
+      <edge source="#nakama" target="#ganjarjagademokrasi" id="126" weight="1" />
+      <edge source="#gear" target="#onepiece" id="127" weight="1" />
+      <edge source="#gear" target="#putaran" id="128" weight="1" />
+      <edge source="#gear" target="#ganjarjagademokrasi" id="129" weight="1" />
+      <edge source="#onepiece" target="#putaran" id="130" weight="1" />
+      <edge source="#onepiece" target="#ganjarjagademokrasi" id="131" weight="1" />
+      <edge source="#putaran" target="#ganjarjagademokrasi" id="132" weight="1" />
+      <edge source="#samaindonesia" target="#mahfudmd" id="133" weight="1" />
+      <edge source="#samaindonesia" target="#ganjarpranowo" id="134" weight="1" />
+      <edge source="#mahfudmd" target="#ganjarpranowo" id="135" weight="1" />
+      <edge source="#ba" target="#balikinpsidukungganjar" id="136" weight="1" />
+      <edge source="#humaspolreskedirikota" target="#polisikedirikota" id="137" weight="1" />
+      <edge source="#humaspolreskedirikota" target="#polres" id="138" weight="1" />
+      <edge source="#polisikedirikota" target="#polres" id="139" weight="1" />
+      <edge source="#pdiperjuangan" target="#ganjaruntuksemua" id="140" weight="1" />
+      <edge source="#pdiperjuangan" target="#ganjarpresiden" id="141" weight="1" />
+      <edge source="#pdiperjuangan" target="#menangkanganjar" id="142" weight="1" />
+      <edge source="#ganjaruntuksemua" target="#ganjarpresiden" id="143" weight="1" />
+      <edge source="#ganjaruntuksemua" target="#menangkanganjar" id="144" weight="1" />
+      <edge source="#ganjaruntuksemua" target="#ganjarmerawatpancasila" id="145" weight="1" />
+      <edge source="#ganjaruntuksemua" target="#ganjartetapygterbaik" id="146" weight="1" />
+      <edge source="#ganjarpresiden" target="#menangkanganjar" id="147" weight="1" />
+      <edge source="#polri" target="#divhumas" id="148" weight="1" />
+      <edge source="#digimuid" target="#muhammadiyah" id="149" weight="1" />
+      <edge source="#digimuid" target="#gnrm" id="150" weight="1" />
+      <edge source="#digimuid" target="#kemenkopmk" id="151" weight="1" />
+      <edge source="#digimuid" target="#aksimenanampohon" id="152" weight="1" />
+      <edge source="#muhammadiyah" target="#gnrm" id="153" weight="1" />
+      <edge source="#muhammadiyah" target="#kemenkopmk" id="154" weight="1" />
+      <edge source="#muhammadiyah" target="#aksimenanampohon" id="155" weight="1" />
+      <edge source="#gnrm" target="#kemenkopmk" id="156" weight="1" />
+      <edge source="#gnrm" target="#aksimenanampohon" id="157" weight="1" />
+      <edge source="#kemenkopmk" target="#aksimenanampohon" id="158" weight="1" />
+      <edge source="#polresppu" target="#akbp_hendrik_eka_bahalwan" id="159" weight="1" />
+      <edge source="#polresppu" target="#kapolresppu" id="160" weight="1" />
+      <edge source="#polresppu" target="#iknnusantara" id="161" weight="1" />
+      <edge source="#polresppu" target="#sinergitnipolri" id="162" weight="1" />
+      <edge source="#akbp_hendrik_eka_bahalwan" target="#kapolresppu" id="163" weight="1" />
+      <edge source="#akbp_hendrik_eka_bahalwan" target="#iknnusantara" id="164" weight="1" />
+      <edge source="#akbp_hendrik_eka_bahalwan" target="#sinergitnipolri" id="165" weight="1" />
+      <edge source="#kapolresppu" target="#iknnusantara" id="166" weight="1" />
+      <edge source="#kapolresppu" target="#sinergitnipolri" id="167" weight="1" />
+      <edge source="#iknnusantara" target="#sinergitnipolri" id="168" weight="1" />
+      <edge source="#polriuntukindonesia" target="#singkawanginformasi" id="169" weight="1" />
+      <edge source="#polriuntukindonesia" target="#polressingkawang" id="170" weight="1" />
+      <edge source="#polriuntukindonesia" target="#singkawang" id="171" weight="1" />
+      <edge source="#singkawanginformasi" target="#polressingkawang" id="172" weight="1" />
+      <edge source="#letsgopks" target="#pksno" id="173" weight="1" />
+      <edge source="#huthumaspolri" target="#kasipresisikamtibmas" id="174" weight="1" />
+      <edge source="#huthumaspolri" target="#polisipresisi" id="175" weight="1" />
+      <edge source="#kasipresisikamtibmas" target="#polisipresisi" id="176" weight="1" />
+      <edge source="#adadikompas" target="#dikbud" id="177" weight="1" />
+      <edge source="#golput" target="#presidenunfaedah" id="178" weight="1" />
+      <edge source="#golput" target="#tenggelamkanpdip" id="179" weight="1" />
+      <edge source="#golput" target="#cabutskbm" id="180" weight="1" />
+      <edge source="#golput" target="#negarakampret" id="181" weight="1" />
+      <edge source="#presidenunfaedah" target="#tenggelamkanpdip" id="182" weight="1" />
+      <edge source="#presidenunfaedah" target="#cabutskbm" id="183" weight="1" />
+      <edge source="#presidenunfaedah" target="#negarakampret" id="184" weight="1" />
+      <edge source="#tenggelamkanpdip" target="#cabutskbm" id="185" weight="1" />
+      <edge source="#tenggelamkanpdip" target="#negarakampret" id="186" weight="1" />
+      <edge source="#cabutskbm" target="#negarakampret" id="187" weight="1" />
+      <edge source="#halodoc" target="#tenangmenjaga" id="188" weight="1" />
+      <edge source="#gbpusd" target="#eurusd" id="189" weight="1" />
+      <edge source="#gbpusd" target="#xm_com" id="190" weight="1" />
+      <edge source="#eurusd" target="#xm_com" id="191" weight="1" />
+      <edge source="#quotes" target="#quotesandsayings" id="192" weight="1" />
+      <edge source="#quotes" target="#quotesoftheday" id="193" weight="1" />
+      <edge source="#quotes" target="#quotestoliveby" id="194" weight="1" />
+      <edge source="#quotes" target="#quotesdaily" id="195" weight="1" />
+      <edge source="#quotes" target="#quotesaboutlife" id="196" weight="1" />
+      <edge source="#quotes" target="#lessons" id="197" weight="1" />
+      <edge source="#quotes" target="#learning" id="198" weight="1" />
+      <edge source="#quotes" target="#lifelessons" id="199" weight="1" />
+      <edge source="#quotes" target="#lifecoaching" id="200" weight="1" />
+      <edge source="#quotes" target="#advice" id="201" weight="1" />
+      <edge source="#quotesandsayings" target="#quotesoftheday" id="202" weight="1" />
+      <edge source="#quotesandsayings" target="#quotestoliveby" id="203" weight="1" />
+      <edge source="#quotesandsayings" target="#quotesdaily" id="204" weight="1" />
+      <edge source="#quotesandsayings" target="#quotesaboutlife" id="205" weight="1" />
+      <edge source="#quotesandsayings" target="#lessons" id="206" weight="1" />
+      <edge source="#quotesandsayings" target="#learning" id="207" weight="1" />
+      <edge source="#quotesandsayings" target="#lifelessons" id="208" weight="1" />
+      <edge source="#quotesandsayings" target="#lifecoaching" id="209" weight="1" />
+      <edge source="#quotesandsayings" target="#advice" id="210" weight="1" />
+      <edge source="#quotesoftheday" target="#quotestoliveby" id="211" weight="1" />
+      <edge source="#quotesoftheday" target="#quotesdaily" id="212" weight="1" />
+      <edge source="#quotesoftheday" target="#quotesaboutlife" id="213" weight="1" />
+      <edge source="#quotesoftheday" target="#lessons" id="214" weight="1" />
+      <edge source="#quotesoftheday" target="#learning" id="215" weight="1" />
+      <edge source="#quotesoftheday" target="#lifelessons" id="216" weight="1" />
+      <edge source="#quotesoftheday" target="#lifecoaching" id="217" weight="1" />
+      <edge source="#quotesoftheday" target="#advice" id="218" weight="1" />
+      <edge source="#quotestoliveby" target="#quotesdaily" id="219" weight="1" />
+      <edge source="#quotestoliveby" target="#quotesaboutlife" id="220" weight="1" />
+      <edge source="#quotestoliveby" target="#lessons" id="221" weight="1" />
+      <edge source="#quotestoliveby" target="#learning" id="222" weight="1" />
+      <edge source="#quotestoliveby" target="#lifelessons" id="223" weight="1" />
+      <edge source="#quotestoliveby" target="#lifecoaching" id="224" weight="1" />
+      <edge source="#quotestoliveby" target="#advice" id="225" weight="1" />
+      <edge source="#quotesdaily" target="#quotesaboutlife" id="226" weight="1" />
+      <edge source="#quotesdaily" target="#lessons" id="227" weight="1" />
+      <edge source="#quotesdaily" target="#learning" id="228" weight="1" />
+      <edge source="#quotesdaily" target="#lifelessons" id="229" weight="1" />
+      <edge source="#quotesdaily" target="#lifecoaching" id="230" weight="1" />
+      <edge source="#quotesdaily" target="#advice" id="231" weight="1" />
+      <edge source="#quotesaboutlife" target="#lessons" id="232" weight="1" />
+      <edge source="#quotesaboutlife" target="#learning" id="233" weight="1" />
+      <edge source="#quotesaboutlife" target="#lifelessons" id="234" weight="1" />
+      <edge source="#quotesaboutlife" target="#lifecoaching" id="235" weight="1" />
+      <edge source="#quotesaboutlife" target="#advice" id="236" weight="1" />
+      <edge source="#lessons" target="#learning" id="237" weight="1" />
+      <edge source="#lessons" target="#lifelessons" id="238" weight="1" />
+      <edge source="#lessons" target="#lifecoaching" id="239" weight="1" />
+      <edge source="#lessons" target="#advice" id="240" weight="1" />
+      <edge source="#learning" target="#lifelessons" id="241" weight="1" />
+      <edge source="#learning" target="#lifecoaching" id="242" weight="1" />
+      <edge source="#learning" target="#advice" id="243" weight="1" />
+      <edge source="#lifelessons" target="#lifecoaching" id="244" weight="1" />
+      <edge source="#lifelessons" target="#advice" id="245" weight="1" />
+      <edge source="#lifecoaching" target="#advice" id="246" weight="1" />
+      <edge source="#indonesiaturuntanganbantupalestina" target="#sahabatpalestina_id" id="247" weight="1" />
+      <edge source="#sendmycall" target="#futureofwork" id="248" weight="1" />
+      <edge source="#hardnews_viral" target="#newsone" id="249" weight="1" />
+      <edge source="#hardnews_viral" target="#cariberitaditvone" id="250" weight="1" />
+      <edge source="#hardnews_viral" target="#palestina" id="251" weight="1" />
+      <edge source="#hardnews_viral" target="#israel" id="252" weight="1" />
+      <edge source="#hardnews_viral" target="#hamas" id="253" weight="1" />
+      <edge source="#hardnews_viral" target="#anwasabbas" id="254" weight="1" />
+      <edge source="#hardnews_viral" target="#mui" id="255" weight="1" />
+      <edge source="#newsone" target="#cariberitaditvone" id="256" weight="1" />
+      <edge source="#newsone" target="#palestina" id="257" weight="1" />
+      <edge source="#newsone" target="#israel" id="258" weight="1" />
+      <edge source="#newsone" target="#hamas" id="259" weight="1" />
+      <edge source="#newsone" target="#anwasabbas" id="260" weight="1" />
+      <edge source="#newsone" target="#mui" id="261" weight="1" />
+      <edge source="#newsone" target="#hardnews_politik" id="262" weight="1" />
+      <edge source="#newsone" target="#politik" id="263" weight="1" />
+      <edge source="#newsone" target="#partaipsi" id="264" weight="1" />
+      <edge source="#newsone" target="#ketumpsi" id="265" weight="1" />
+      <edge source="#newsone" target="#kaesang" id="266" weight="1" />
+      <edge source="#newsone" target="#rockygerung" id="267" weight="1" />
+      <edge source="#newsone" target="#partaipolitik" id="268" weight="1" />
+      <edge source="#cariberitaditvone" target="#palestina" id="269" weight="1" />
+      <edge source="#cariberitaditvone" target="#israel" id="270" weight="1" />
+      <edge source="#cariberitaditvone" target="#hamas" id="271" weight="1" />
+      <edge source="#cariberitaditvone" target="#anwasabbas" id="272" weight="1" />
+      <edge source="#cariberitaditvone" target="#mui" id="273" weight="1" />
+      <edge source="#cariberitaditvone" target="#hardnews_politik" id="274" weight="1" />
+      <edge source="#cariberitaditvone" target="#politik" id="275" weight="1" />
+      <edge source="#cariberitaditvone" target="#partaipsi" id="276" weight="1" />
+      <edge source="#cariberitaditvone" target="#ketumpsi" id="277" weight="1" />
+      <edge source="#cariberitaditvone" target="#kaesang" id="278" weight="1" />
+      <edge source="#cariberitaditvone" target="#rockygerung" id="279" weight="1" />
+      <edge source="#cariberitaditvone" target="#partaipolitik" id="280" weight="1" />
+      <edge source="#palestina" target="#israel" id="281" weight="1" />
+      <edge source="#palestina" target="#hamas" id="282" weight="1" />
+      <edge source="#palestina" target="#anwasabbas" id="283" weight="1" />
+      <edge source="#palestina" target="#mui" id="284" weight="1" />
+      <edge source="#israel" target="#hamas" id="285" weight="1" />
+      <edge source="#israel" target="#anwasabbas" id="286" weight="1" />
+      <edge source="#israel" target="#mui" id="287" weight="1" />
+      <edge source="#hamas" target="#anwasabbas" id="288" weight="1" />
+      <edge source="#hamas" target="#mui" id="289" weight="1" />
+      <edge source="#anwasabbas" target="#mui" id="290" weight="1" />
+      <edge source="#kumhamkalsel" target="#faisolali" id="291" weight="1" />
+      <edge source="#kumhamkalsel" target="#rtnbarabai" id="292" weight="1" />
+      <edge source="#kumhamkalsel" target="#gtiskandarsyahkanwil" id="293" weight="1" />
+      <edge source="#kumhamkalsel" target="#faisola" id="294" weight="1" />
+      <edge source="#kumhamkalsel" target="#sesitahunanaalco" id="295" weight="1" />
+      <edge source="#kumhamkalsel" target="#yasonnalaoly" id="296" weight="1" />
+      <edge source="#kumhamkalsel" target="#kemenkumhamri" id="297" weight="1" />
+      <edge source="#kumhamkalsel" target="#kanwilkemenkumhamkalsel" id="298" weight="1" />
+      <edge source="#kumhamkalsel" target="#lppmartapura" id="299" weight="1" />
+      <edge source="#kumhamkalsel" target="#lapasbanjarbaru" id="300" weight="1" />
+      <edge source="#kumhamkalsel" target="#amicobalalembang" id="301" weight="1" />
+      <edge source="#faisolali" target="#rtnbarabai" id="302" weight="1" />
+      <edge source="#faisolali" target="#gtiskandarsyahkanwil" id="303" weight="1" />
+      <edge source="#faisolali" target="#sesitahunanaalco" id="304" weight="1" />
+      <edge source="#faisolali" target="#yasonnalaoly" id="305" weight="1" />
+      <edge source="#faisolali" target="#kemenkumhamri" id="306" weight="1" />
+      <edge source="#faisolali" target="#kanwilkemenkumhamkalsel" id="307" weight="1" />
+      <edge source="#faisolali" target="#lapasbanjarbaru" id="308" weight="1" />
+      <edge source="#faisolali" target="#amicobalalembang" id="309" weight="1" />
+      <edge source="#mijit" target="#mijitgacordor" id="310" weight="1" />
+      <edge source="#mijit" target="#mijitgacor" id="311" weight="1" />
+      <edge source="#mijitgacordor" target="#mijitgacor" id="312" weight="1" />
+      <edge source="#polresmagetan" target="#polisimagetan" id="313" weight="1" />
+      <edge source="#polresmagetan" target="#magetan" id="314" weight="1" />
+      <edge source="#polisimagetan" target="#magetan" id="315" weight="1" />
+      <edge source="#rain" target="#playlistoftheday" id="316" weight="1" />
+      <edge source="#sayapaketriv" target="#temaninvestasiyangaman" id="317" weight="1" />
+      <edge source="#radikalisme" target="#terorisme" id="318" weight="1" />
+      <edge source="#radikalisme" target="#intoleransi" id="319" weight="1" />
+      <edge source="#radikalisme" target="#antipancasila" id="320" weight="1" />
+      <edge source="#radikalisme" target="#fyp" id="321" weight="1" />
+      <edge source="#radikalisme" target="#trending" id="322" weight="1" />
+      <edge source="#radikalisme" target="#beritaterkini" id="323" weight="1" />
+      <edge source="#radikalisme" target="#info" id="324" weight="1" />
+      <edge source="#radikalisme" target="#hours" id="325" weight="1" />
+      <edge source="#terorisme" target="#intoleransi" id="326" weight="1" />
+      <edge source="#terorisme" target="#antipancasila" id="327" weight="1" />
+      <edge source="#terorisme" target="#fyp" id="328" weight="1" />
+      <edge source="#terorisme" target="#trending" id="329" weight="1" />
+      <edge source="#terorisme" target="#beritaterkini" id="330" weight="1" />
+      <edge source="#terorisme" target="#info" id="331" weight="1" />
+      <edge source="#terorisme" target="#hours" id="332" weight="1" />
+      <edge source="#intoleransi" target="#antipancasila" id="333" weight="1" />
+      <edge source="#intoleransi" target="#fyp" id="334" weight="1" />
+      <edge source="#intoleransi" target="#trending" id="335" weight="1" />
+      <edge source="#intoleransi" target="#beritaterkini" id="336" weight="1" />
+      <edge source="#intoleransi" target="#info" id="337" weight="1" />
+      <edge source="#intoleransi" target="#hours" id="338" weight="1" />
+      <edge source="#antipancasila" target="#fyp" id="339" weight="1" />
+      <edge source="#antipancasila" target="#trending" id="340" weight="1" />
+      <edge source="#antipancasila" target="#beritaterkini" id="341" weight="1" />
+      <edge source="#antipancasila" target="#info" id="342" weight="1" />
+      <edge source="#antipancasila" target="#hours" id="343" weight="1" />
+      <edge source="#fyp" target="#trending" id="344" weight="1" />
+      <edge source="#fyp" target="#beritaterkini" id="345" weight="1" />
+      <edge source="#fyp" target="#info" id="346" weight="1" />
+      <edge source="#fyp" target="#hours" id="347" weight="1" />
+      <edge source="#trending" target="#beritaterkini" id="348" weight="1" />
+      <edge source="#trending" target="#info" id="349" weight="1" />
+      <edge source="#trending" target="#hours" id="350" weight="1" />
+      <edge source="#trending" target="#fruit" id="351" weight="1" />
+      <edge source="#trending" target="#fruits" id="352" weight="1" />
+      <edge source="#trending" target="#candy" id="353" weight="1" />
+      <edge source="#trending" target="#health" id="354" weight="1" />
+      <edge source="#trending" target="#food" id="355" weight="1" />
+      <edge source="#trending" target="#stayhealthy" id="356" weight="1" />
+      <edge source="#trending" target="#sweet" id="357" weight="1" />
+      <edge source="#trending" target="#sweets" id="358" weight="1" />
+      <edge source="#trending" target="#delicious" id="359" weight="1" />
+      <edge source="#trending" target="#deliciousfood" id="360" weight="1" />
+      <edge source="#trending" target="#trendingnow" id="361" weight="1" />
+      <edge source="#trending" target="#news" id="362" weight="1" />
+      <edge source="#trending" target="#viral" id="363" weight="1" />
+      <edge source="#trending" target="#twitter" id="364" weight="1" />
+      <edge source="#trending" target="#foryou" id="365" weight="1" />
+      <edge source="#trending" target="#article" id="366" weight="1" />
+      <edge source="#trending" target="#media" id="367" weight="1" />
+      <edge source="#trending" target="#lifestyle" id="368" weight="1" />
+      <edge source="#beritaterkini" target="#info" id="369" weight="1" />
+      <edge source="#beritaterkini" target="#hours" id="370" weight="1" />
+      <edge source="#info" target="#hours" id="371" weight="1" />
+      <edge source="#polreskepulauantanimbar" target="#minggukasihpolsekwuarlabobar" id="372" weight="1" />
+      <edge source="#polreskepulauantanimbar" target="#perangiintoleransi" id="373" weight="1" />
+      <edge source="#polreskepulauantanimbar" target="#menujupemiludamai" id="374" weight="1" />
+      <edge source="#polreskepulauantanimbar" target="#polisibaik" id="375" weight="1" />
+      <edge source="#minggukasihpolsekwuarlabobar" target="#perangiintoleransi" id="376" weight="1" />
+      <edge source="#minggukasihpolsekwuarlabobar" target="#menujupemiludamai" id="377" weight="1" />
+      <edge source="#minggukasihpolsekwuarlabobar" target="#polisibaik" id="378" weight="1" />
+      <edge source="#perangiintoleransi" target="#menujupemiludamai" id="379" weight="1" />
+      <edge source="#perangiintoleransi" target="#polisibaik" id="380" weight="1" />
+      <edge source="#menujupemiludamai" target="#polisibaik" id="381" weight="1" />
+      <edge source="#rtnbarabai" target="#gtiskandarsyahkanwil" id="382" weight="1" />
+      <edge source="#stopisusara" target="#stopintoleransi" id="383" weight="1" />
+      <edge source="#stopisusara" target="#stopprovokasi" id="384" weight="1" />
+      <edge source="#stopisusara" target="#berantashoax" id="385" weight="1" />
+      <edge source="#stopisusara" target="#pelamanise" id="386" weight="1" />
+      <edge source="#stopisusara" target="#pemilulancarmalukuamanrakyatsejahtera" id="387" weight="1" />
+      <edge source="#stopintoleransi" target="#stopprovokasi" id="388" weight="1" />
+      <edge source="#stopintoleransi" target="#berantashoax" id="389" weight="1" />
+      <edge source="#stopintoleransi" target="#pelamanise" id="390" weight="1" />
+      <edge source="#stopintoleransi" target="#pemilulancarmalukuamanrakyatsejahtera" id="391" weight="1" />
+      <edge source="#stopprovokasi" target="#berantashoax" id="392" weight="1" />
+      <edge source="#stopprovokasi" target="#pelamanise" id="393" weight="1" />
+      <edge source="#stopprovokasi" target="#pemilulancarmalukuamanrakyatsejahtera" id="394" weight="1" />
+      <edge source="#berantashoax" target="#pelamanise" id="395" weight="1" />
+      <edge source="#berantashoax" target="#pemilulancarmalukuamanrakyatsejahtera" id="396" weight="1" />
+      <edge source="#pelamanise" target="#pemilulancarmalukuamanrakyatsejahtera" id="397" weight="1" />
+      <edge source="#climatescam" target="#netzero" id="398" weight="1" />
+      <edge source="#climatescam" target="#worldeconomicforum" id="399" weight="1" />
+      <edge source="#climatescam" target="#greatreset" id="400" weight="1" />
+      <edge source="#netzero" target="#worldeconomicforum" id="401" weight="1" />
+      <edge source="#netzero" target="#greatreset" id="402" weight="1" />
+      <edge source="#worldeconomicforum" target="#greatreset" id="403" weight="1" />
+      <edge source="#bts" target="#방탄소년단" id="404" weight="1" />
+      <edge source="#bts" target="#bts_exhibition_proof" id="405" weight="1" />
+      <edge source="#bts" target="#bts_proof" id="406" weight="1" />
+      <edge source="#bts" target="#bts_exhibition_jakarta" id="407" weight="1" />
+      <edge source="#bts" target="#imeindonesia" id="408" weight="1" />
+      <edge source="#방탄소년단" target="#bts_exhibition_proof" id="409" weight="1" />
+      <edge source="#방탄소년단" target="#bts_proof" id="410" weight="1" />
+      <edge source="#방탄소년단" target="#bts_exhibition_jakarta" id="411" weight="1" />
+      <edge source="#방탄소년단" target="#imeindonesia" id="412" weight="1" />
+      <edge source="#bts_exhibition_proof" target="#bts_proof" id="413" weight="1" />
+      <edge source="#bts_exhibition_proof" target="#bts_exhibition_jakarta" id="414" weight="1" />
+      <edge source="#bts_exhibition_proof" target="#imeindonesia" id="415" weight="1" />
+      <edge source="#bts_proof" target="#bts_exhibition_jakarta" id="416" weight="1" />
+      <edge source="#bts_proof" target="#imeindonesia" id="417" weight="1" />
+      <edge source="#bts_exhibition_jakarta" target="#imeindonesia" id="418" weight="1" />
+      <edge source="#aniesmuhaimin" target="#jumatberkah" id="419" weight="1" />
+      <edge source="#aniesmuhaimin" target="#aminindonesialebihbaik" id="420" weight="1" />
+      <edge source="#kaesangpsi" target="#psipgi" id="421" weight="1" />
+      <edge source="#buka" target="#suara" id="422" weight="1" />
+      <edge source="#buka" target="#bro" id="423" weight="1" />
+      <edge source="#suara" target="#bro" id="424" weight="1" />
+      <edge source="#eastasiapacific" target="#eapupdate" id="425" weight="1" />
+      <edge source="#komit" target="#untukindonesia" id="426" weight="1" />
+      <edge source="#fruit" target="#fruits" id="427" weight="1" />
+      <edge source="#fruit" target="#candy" id="428" weight="1" />
+      <edge source="#fruit" target="#health" id="429" weight="1" />
+      <edge source="#fruit" target="#food" id="430" weight="1" />
+      <edge source="#fruit" target="#stayhealthy" id="431" weight="1" />
+      <edge source="#fruit" target="#sweet" id="432" weight="1" />
+      <edge source="#fruit" target="#sweets" id="433" weight="1" />
+      <edge source="#fruit" target="#delicious" id="434" weight="1" />
+      <edge source="#fruit" target="#deliciousfood" id="435" weight="1" />
+      <edge source="#fruit" target="#trendingnow" id="436" weight="1" />
+      <edge source="#fruit" target="#news" id="437" weight="1" />
+      <edge source="#fruit" target="#viral" id="438" weight="1" />
+      <edge source="#fruit" target="#twitter" id="439" weight="1" />
+      <edge source="#fruit" target="#foryou" id="440" weight="1" />
+      <edge source="#fruit" target="#article" id="441" weight="1" />
+      <edge source="#fruit" target="#media" id="442" weight="1" />
+      <edge source="#fruit" target="#lifestyle" id="443" weight="1" />
+      <edge source="#fruits" target="#candy" id="444" weight="1" />
+      <edge source="#fruits" target="#health" id="445" weight="1" />
+      <edge source="#fruits" target="#food" id="446" weight="1" />
+      <edge source="#fruits" target="#stayhealthy" id="447" weight="1" />
+      <edge source="#fruits" target="#sweet" id="448" weight="1" />
+      <edge source="#fruits" target="#sweets" id="449" weight="1" />
+      <edge source="#fruits" target="#delicious" id="450" weight="1" />
+      <edge source="#fruits" target="#deliciousfood" id="451" weight="1" />
+      <edge source="#fruits" target="#trendingnow" id="452" weight="1" />
+      <edge source="#fruits" target="#news" id="453" weight="1" />
+      <edge source="#fruits" target="#viral" id="454" weight="1" />
+      <edge source="#fruits" target="#twitter" id="455" weight="1" />
+      <edge source="#fruits" target="#foryou" id="456" weight="1" />
+      <edge source="#fruits" target="#article" id="457" weight="1" />
+      <edge source="#fruits" target="#media" id="458" weight="1" />
+      <edge source="#fruits" target="#lifestyle" id="459" weight="1" />
+      <edge source="#candy" target="#health" id="460" weight="1" />
+      <edge source="#candy" target="#food" id="461" weight="1" />
+      <edge source="#candy" target="#stayhealthy" id="462" weight="1" />
+      <edge source="#candy" target="#sweet" id="463" weight="1" />
+      <edge source="#candy" target="#sweets" id="464" weight="1" />
+      <edge source="#candy" target="#delicious" id="465" weight="1" />
+      <edge source="#candy" target="#deliciousfood" id="466" weight="1" />
+      <edge source="#candy" target="#trendingnow" id="467" weight="1" />
+      <edge source="#candy" target="#news" id="468" weight="1" />
+      <edge source="#candy" target="#viral" id="469" weight="1" />
+      <edge source="#candy" target="#twitter" id="470" weight="1" />
+      <edge source="#candy" target="#foryou" id="471" weight="1" />
+      <edge source="#candy" target="#article" id="472" weight="1" />
+      <edge source="#candy" target="#media" id="473" weight="1" />
+      <edge source="#candy" target="#lifestyle" id="474" weight="1" />
+      <edge source="#health" target="#food" id="475" weight="1" />
+      <edge source="#health" target="#stayhealthy" id="476" weight="1" />
+      <edge source="#health" target="#sweet" id="477" weight="1" />
+      <edge source="#health" target="#sweets" id="478" weight="1" />
+      <edge source="#health" target="#delicious" id="479" weight="1" />
+      <edge source="#health" target="#deliciousfood" id="480" weight="1" />
+      <edge source="#health" target="#trendingnow" id="481" weight="1" />
+      <edge source="#health" target="#news" id="482" weight="1" />
+      <edge source="#health" target="#viral" id="483" weight="1" />
+      <edge source="#health" target="#twitter" id="484" weight="1" />
+      <edge source="#health" target="#foryou" id="485" weight="1" />
+      <edge source="#health" target="#article" id="486" weight="1" />
+      <edge source="#health" target="#media" id="487" weight="1" />
+      <edge source="#health" target="#lifestyle" id="488" weight="1" />
+      <edge source="#food" target="#stayhealthy" id="489" weight="1" />
+      <edge source="#food" target="#sweet" id="490" weight="1" />
+      <edge source="#food" target="#sweets" id="491" weight="1" />
+      <edge source="#food" target="#delicious" id="492" weight="1" />
+      <edge source="#food" target="#deliciousfood" id="493" weight="1" />
+      <edge source="#food" target="#trendingnow" id="494" weight="1" />
+      <edge source="#food" target="#news" id="495" weight="1" />
+      <edge source="#food" target="#viral" id="496" weight="1" />
+      <edge source="#food" target="#twitter" id="497" weight="1" />
+      <edge source="#food" target="#foryou" id="498" weight="1" />
+      <edge source="#food" target="#article" id="499" weight="1" />
+      <edge source="#food" target="#media" id="500" weight="1" />
+      <edge source="#food" target="#lifestyle" id="501" weight="1" />
+      <edge source="#stayhealthy" target="#sweet" id="502" weight="1" />
+      <edge source="#stayhealthy" target="#sweets" id="503" weight="1" />
+      <edge source="#stayhealthy" target="#delicious" id="504" weight="1" />
+      <edge source="#stayhealthy" target="#deliciousfood" id="505" weight="1" />
+      <edge source="#stayhealthy" target="#trendingnow" id="506" weight="1" />
+      <edge source="#stayhealthy" target="#news" id="507" weight="1" />
+      <edge source="#stayhealthy" target="#viral" id="508" weight="1" />
+      <edge source="#stayhealthy" target="#twitter" id="509" weight="1" />
+      <edge source="#stayhealthy" target="#foryou" id="510" weight="1" />
+      <edge source="#stayhealthy" target="#article" id="511" weight="1" />
+      <edge source="#stayhealthy" target="#media" id="512" weight="1" />
+      <edge source="#stayhealthy" target="#lifestyle" id="513" weight="1" />
+      <edge source="#sweet" target="#sweets" id="514" weight="1" />
+      <edge source="#sweet" target="#delicious" id="515" weight="1" />
+      <edge source="#sweet" target="#deliciousfood" id="516" weight="1" />
+      <edge source="#sweet" target="#trendingnow" id="517" weight="1" />
+      <edge source="#sweet" target="#news" id="518" weight="1" />
+      <edge source="#sweet" target="#viral" id="519" weight="1" />
+      <edge source="#sweet" target="#twitter" id="520" weight="1" />
+      <edge source="#sweet" target="#foryou" id="521" weight="1" />
+      <edge source="#sweet" target="#article" id="522" weight="1" />
+      <edge source="#sweet" target="#media" id="523" weight="1" />
+      <edge source="#sweet" target="#lifestyle" id="524" weight="1" />
+      <edge source="#sweets" target="#delicious" id="525" weight="1" />
+      <edge source="#sweets" target="#deliciousfood" id="526" weight="1" />
+      <edge source="#sweets" target="#trendingnow" id="527" weight="1" />
+      <edge source="#sweets" target="#news" id="528" weight="1" />
+      <edge source="#sweets" target="#viral" id="529" weight="1" />
+      <edge source="#sweets" target="#twitter" id="530" weight="1" />
+      <edge source="#sweets" target="#foryou" id="531" weight="1" />
+      <edge source="#sweets" target="#article" id="532" weight="1" />
+      <edge source="#sweets" target="#media" id="533" weight="1" />
+      <edge source="#sweets" target="#lifestyle" id="534" weight="1" />
+      <edge source="#delicious" target="#deliciousfood" id="535" weight="1" />
+      <edge source="#delicious" target="#trendingnow" id="536" weight="1" />
+      <edge source="#delicious" target="#news" id="537" weight="1" />
+      <edge source="#delicious" target="#viral" id="538" weight="1" />
+      <edge source="#delicious" target="#twitter" id="539" weight="1" />
+      <edge source="#delicious" target="#foryou" id="540" weight="1" />
+      <edge source="#delicious" target="#article" id="541" weight="1" />
+      <edge source="#delicious" target="#media" id="542" weight="1" />
+      <edge source="#delicious" target="#lifestyle" id="543" weight="1" />
+      <edge source="#deliciousfood" target="#trendingnow" id="544" weight="1" />
+      <edge source="#deliciousfood" target="#news" id="545" weight="1" />
+      <edge source="#deliciousfood" target="#viral" id="546" weight="1" />
+      <edge source="#deliciousfood" target="#twitter" id="547" weight="1" />
+      <edge source="#deliciousfood" target="#foryou" id="548" weight="1" />
+      <edge source="#deliciousfood" target="#article" id="549" weight="1" />
+      <edge source="#deliciousfood" target="#media" id="550" weight="1" />
+      <edge source="#deliciousfood" target="#lifestyle" id="551" weight="1" />
+      <edge source="#trendingnow" target="#news" id="552" weight="1" />
+      <edge source="#trendingnow" target="#viral" id="553" weight="1" />
+      <edge source="#trendingnow" target="#twitter" id="554" weight="1" />
+      <edge source="#trendingnow" target="#foryou" id="555" weight="1" />
+      <edge source="#trendingnow" target="#article" id="556" weight="1" />
+      <edge source="#trendingnow" target="#media" id="557" weight="1" />
+      <edge source="#trendingnow" target="#lifestyle" id="558" weight="1" />
+      <edge source="#news" target="#viral" id="559" weight="1" />
+      <edge source="#news" target="#twitter" id="560" weight="1" />
+      <edge source="#news" target="#foryou" id="561" weight="1" />
+      <edge source="#news" target="#article" id="562" weight="1" />
+      <edge source="#news" target="#media" id="563" weight="1" />
+      <edge source="#news" target="#lifestyle" id="564" weight="1" />
+      <edge source="#news" target="#newsupdate" id="565" weight="1" />
+      <edge source="#news" target="#update" id="566" weight="1" />
+      <edge source="#news" target="#text" id="567" weight="1" />
+      <edge source="#viral" target="#twitter" id="568" weight="1" />
+      <edge source="#viral" target="#foryou" id="569" weight="1" />
+      <edge source="#viral" target="#article" id="570" weight="1" />
+      <edge source="#viral" target="#media" id="571" weight="1" />
+      <edge source="#viral" target="#lifestyle" id="572" weight="1" />
+      <edge source="#twitter" target="#foryou" id="573" weight="1" />
+      <edge source="#twitter" target="#article" id="574" weight="1" />
+      <edge source="#twitter" target="#media" id="575" weight="1" />
+      <edge source="#twitter" target="#lifestyle" id="576" weight="1" />
+      <edge source="#foryou" target="#article" id="577" weight="1" />
+      <edge source="#foryou" target="#media" id="578" weight="1" />
+      <edge source="#foryou" target="#lifestyle" id="579" weight="1" />
+      <edge source="#article" target="#media" id="580" weight="1" />
+      <edge source="#article" target="#lifestyle" id="581" weight="1" />
+      <edge source="#media" target="#lifestyle" id="582" weight="1" />
+      <edge source="#sesitahunanaalco" target="#yasonnalaoly" id="583" weight="1" />
+      <edge source="#sesitahunanaalco" target="#kemenkumhamri" id="584" weight="1" />
+      <edge source="#yasonnalaoly" target="#kemenkumhamri" id="585" weight="1" />
+      <edge source="#ninjakaesangpsi" target="#sangketum" id="586" weight="1" />
+      <edge source="#ninjakaesangpsi" target="#sangkaesang" id="587" weight="1" />
+      <edge source="#sangketum" target="#sangkaesang" id="588" weight="1" />
+      <edge source="#lapasbanjarbaru" target="#amicobalalembang" id="589" weight="1" />
+      <edge source="#infojabar" target="#jabarmoderat" id="590" weight="1" />
+      <edge source="#kaltarabersatu" target="#toleransi" id="591" weight="1" />
+      <edge source="#kaltarabersatu" target="#pancasila" id="592" weight="1" />
+      <edge source="#kaltarabersatu" target="#bhinekatunggalika" id="593" weight="1" />
+      <edge source="#kaltarabersatu" target="#politikidentitas" id="594" weight="1" />
+      <edge source="#toleransi" target="#pancasila" id="595" weight="1" />
+      <edge source="#toleransi" target="#bhinekatunggalika" id="596" weight="1" />
+      <edge source="#toleransi" target="#politikidentitas" id="597" weight="1" />
+      <edge source="#pancasila" target="#bhinekatunggalika" id="598" weight="1" />
+      <edge source="#pancasila" target="#politikidentitas" id="599" weight="1" />
+      <edge source="#pancasila" target="#indonesia" id="600" weight="1" />
+      <edge source="#pancasila" target="#lawanekstremisme" id="601" weight="1" />
+      <edge source="#pancasila" target="#lawanterorisme" id="602" weight="1" />
+      <edge source="#pancasila" target="#nkri" id="603" weight="1" />
+      <edge source="#pancasila" target="#bhinnekatunggalika" id="604" weight="1" />
+      <edge source="#pancasila" target="#thelulosshow" id="605" weight="1" />
+      <edge source="#pancasila" target="#survivor" id="606" weight="1" />
+      <edge source="#pancasila" target="#ajafey" id="607" weight="1" />
+      <edge source="#bhinekatunggalika" target="#politikidentitas" id="608" weight="1" />
+      <edge source="#bhinekatunggalika" target="#polresbangli" id="609" weight="1" />
+      <edge source="#bhinekatunggalika" target="#pemiludamai" id="610" weight="1" />
+      <edge source="#kumhambabel" target="#harunsulianto" id="611" weight="1" />
+      <edge source="#kumhambabel" target="#kanimpkpinang" id="612" weight="1" />
+      <edge source="#harunsulianto" target="#kanimpkpinang" id="613" weight="1" />
+      <edge source="#newsupdate" target="#update" id="614" weight="1" />
+      <edge source="#newsupdate" target="#text" id="615" weight="1" />
+      <edge source="#update" target="#text" id="616" weight="1" />
+      <edge source="#muhaiminpenghianatgusdur" target="#muhaiminpenghianat" id="617" weight="1" />
+      <edge source="#muhaiminpenghianatgusdur" target="#muhaiminkoruptor" id="618" weight="1" />
+      <edge source="#muhaiminpenghianat" target="#muhaiminkoruptor" id="619" weight="1" />
+      <edge source="#ssdmpolri" target="#listyosigitprabowo" id="620" weight="1" />
+      <edge source="#ssdmpolri" target="#divhumaspolri" id="621" weight="1" />
+      <edge source="#ssdmpolri" target="#poldabali" id="622" weight="1" />
+      <edge source="#ssdmpolri" target="#birosdmpoldabali" id="623" weight="1" />
+      <edge source="#ssdmpolri" target="#kapoldabaliofficial" id="624" weight="1" />
+      <edge source="#ssdmpolri" target="#humaspoldabali" id="625" weight="1" />
+      <edge source="#listyosigitprabowo" target="#divhumaspolri" id="626" weight="1" />
+      <edge source="#listyosigitprabowo" target="#poldabali" id="627" weight="1" />
+      <edge source="#listyosigitprabowo" target="#birosdmpoldabali" id="628" weight="1" />
+      <edge source="#listyosigitprabowo" target="#kapoldabaliofficial" id="629" weight="1" />
+      <edge source="#listyosigitprabowo" target="#humaspoldabali" id="630" weight="1" />
+      <edge source="#divhumaspolri" target="#poldabali" id="631" weight="1" />
+      <edge source="#divhumaspolri" target="#birosdmpoldabali" id="632" weight="1" />
+      <edge source="#divhumaspolri" target="#kapoldabaliofficial" id="633" weight="1" />
+      <edge source="#divhumaspolri" target="#humaspoldabali" id="634" weight="1" />
+      <edge source="#poldabali" target="#birosdmpoldabali" id="635" weight="1" />
+      <edge source="#poldabali" target="#kapoldabaliofficial" id="636" weight="1" />
+      <edge source="#poldabali" target="#humaspoldabali" id="637" weight="1" />
+      <edge source="#birosdmpoldabali" target="#kapoldabaliofficial" id="638" weight="1" />
+      <edge source="#birosdmpoldabali" target="#humaspoldabali" id="639" weight="1" />
+      <edge source="#kapoldabaliofficial" target="#humaspoldabali" id="640" weight="1" />
+      <edge source="#suyitno" target="#gangłysego" id="641" weight="1" />
+      <edge source="#polresbangli" target="#pemiludamai" id="642" weight="1" />
+      <edge source="#pemiludamai" target="#pemiludamai" id="643" weight="1" />
+      <edge source="#spiritday" target="#gopurple" id="644" weight="1" />
+      <edge source="#spiritday" target="#lgbtiq" id="645" weight="1" />
+      <edge source="#gopurple" target="#lgbtiq" id="646" weight="1" />
+      <edge source="#ganjarpresidennkri" target="#nkrihargamati" id="647" weight="1" />
+      <edge source="#hardnews_politik" target="#politik" id="648" weight="1" />
+      <edge source="#hardnews_politik" target="#partaipsi" id="649" weight="1" />
+      <edge source="#hardnews_politik" target="#ketumpsi" id="650" weight="1" />
+      <edge source="#hardnews_politik" target="#kaesang" id="651" weight="1" />
+      <edge source="#hardnews_politik" target="#rockygerung" id="652" weight="1" />
+      <edge source="#hardnews_politik" target="#partaipolitik" id="653" weight="1" />
+      <edge source="#politik" target="#partaipsi" id="654" weight="1" />
+      <edge source="#politik" target="#ketumpsi" id="655" weight="1" />
+      <edge source="#politik" target="#kaesang" id="656" weight="1" />
+      <edge source="#politik" target="#rockygerung" id="657" weight="1" />
+      <edge source="#politik" target="#partaipolitik" id="658" weight="1" />
+      <edge source="#partaipsi" target="#ketumpsi" id="659" weight="1" />
+      <edge source="#partaipsi" target="#kaesang" id="660" weight="1" />
+      <edge source="#partaipsi" target="#rockygerung" id="661" weight="1" />
+      <edge source="#partaipsi" target="#partaipolitik" id="662" weight="1" />
+      <edge source="#ketumpsi" target="#kaesang" id="663" weight="1" />
+      <edge source="#ketumpsi" target="#rockygerung" id="664" weight="1" />
+      <edge source="#ketumpsi" target="#partaipolitik" id="665" weight="1" />
+      <edge source="#kaesang" target="#rockygerung" id="666" weight="1" />
+      <edge source="#kaesang" target="#partaipolitik" id="667" weight="1" />
+      <edge source="#rockygerung" target="#partaipolitik" id="668" weight="1" />
+      <edge source="#sanitationforall" target="#collaboratewithus" id="669" weight="1" />
+      <edge source="#sanitationforall" target="#betterwithsato" id="670" weight="1" />
+      <edge source="#sanitationforall" target="#betterwithsato_africa" id="671" weight="1" />
+      <edge source="#collaboratewithus" target="#betterwithsato" id="672" weight="1" />
+      <edge source="#collaboratewithus" target="#betterwithsato_africa" id="673" weight="1" />
+      <edge source="#betterwithsato" target="#betterwithsato_africa" id="674" weight="1" />
+      <edge source="#indonesia" target="#lawanekstremisme" id="675" weight="1" />
+      <edge source="#indonesia" target="#lawanterorisme" id="676" weight="1" />
+      <edge source="#indonesia" target="#nkri" id="677" weight="1" />
+      <edge source="#indonesia" target="#bhinnekatunggalika" id="678" weight="1" />
+      <edge source="#indonesia" target="#thelulosshow" id="679" weight="1" />
+      <edge source="#indonesia" target="#survivor" id="680" weight="1" />
+      <edge source="#indonesia" target="#ajafey" id="681" weight="1" />
+      <edge source="#lawanekstremisme" target="#lawanterorisme" id="682" weight="1" />
+      <edge source="#lawanekstremisme" target="#nkri" id="683" weight="1" />
+      <edge source="#lawanekstremisme" target="#bhinnekatunggalika" id="684" weight="1" />
+      <edge source="#lawanekstremisme" target="#thelulosshow" id="685" weight="1" />
+      <edge source="#lawanekstremisme" target="#survivor" id="686" weight="1" />
+      <edge source="#lawanekstremisme" target="#ajafey" id="687" weight="1" />
+      <edge source="#lawanterorisme" target="#nkri" id="688" weight="1" />
+      <edge source="#lawanterorisme" target="#bhinnekatunggalika" id="689" weight="1" />
+      <edge source="#lawanterorisme" target="#thelulosshow" id="690" weight="1" />
+      <edge source="#lawanterorisme" target="#survivor" id="691" weight="1" />
+      <edge source="#lawanterorisme" target="#ajafey" id="692" weight="1" />
+      <edge source="#nkri" target="#bhinnekatunggalika" id="693" weight="1" />
+      <edge source="#nkri" target="#thelulosshow" id="694" weight="1" />
+      <edge source="#nkri" target="#survivor" id="695" weight="1" />
+      <edge source="#nkri" target="#ajafey" id="696" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#thelulosshow" id="697" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#survivor" id="698" weight="1" />
+      <edge source="#bhinnekatunggalika" target="#ajafey" id="699" weight="1" />
+      <edge source="#thelulosshow" target="#survivor" id="700" weight="1" />
+      <edge source="#thelulosshow" target="#ajafey" id="701" weight="1" />
+      <edge source="#survivor" target="#ajafey" id="702" weight="1" />
+      <edge source="#flyprivate" target="#luxurytravel" id="703" weight="1" />
+      <edge source="#flyprivate" target="#charter" id="704" weight="1" />
+      <edge source="#luxurytravel" target="#charter" id="705" weight="1" />
+      <edge source="#oncefordki" target="#once" id="706" weight="1" />
+      <edge source="#oncefordki" target="#oncemekel" id="707" weight="1" />
+      <edge source="#oncefordki" target="#oncemekelofficial" id="708" weight="1" />
+      <edge source="#oncefordki" target="#oncemekelsigma" id="709" weight="1" />
+      <edge source="#oncefordki" target="#agustd" id="710" weight="1" />
+      <edge source="#once" target="#oncemekel" id="711" weight="1" />
+      <edge source="#once" target="#oncemekelofficial" id="712" weight="1" />
+      <edge source="#once" target="#oncemekelsigma" id="713" weight="1" />
+      <edge source="#once" target="#agustd" id="714" weight="1" />
+      <edge source="#oncemekel" target="#oncemekelofficial" id="715" weight="1" />
+      <edge source="#oncemekel" target="#oncemekelsigma" id="716" weight="1" />
+      <edge source="#oncemekel" target="#agustd" id="717" weight="1" />
+      <edge source="#oncemekelofficial" target="#oncemekelsigma" id="718" weight="1" />
+      <edge source="#oncemekelofficial" target="#agustd" id="719" weight="1" />
+      <edge source="#oncemekelsigma" target="#agustd" id="720" weight="1" />
+      <edge source="#yellowriver" target="#ecology" id="721" weight="1" />
+      <edge source="#yellowriver" target="#yrbecotalk" id="722" weight="1" />
+      <edge source="#ecology" target="#yrbecotalk" id="723" weight="1" />
+      <edge source="#短影音" target="#自媒體" id="724" weight="1" />
+      <edge source="#短影音" target="#人設" id="725" weight="1" />
+      <edge source="#短影音" target="#影集" id="726" weight="1" />
+      <edge source="#短影音" target="#梗圖圖文" id="727" weight="1" />
+      <edge source="#短影音" target="#fellows" id="728" weight="1" />
+      <edge source="#短影音" target="#sirfellows" id="729" weight="1" />
+      <edge source="#短影音" target="#fellows先生" id="730" weight="1" />
+      <edge source="#短影音" target="#fellowerforever" id="731" weight="1" />
+      <edge source="#短影音" target="#fellows創新幸福工作學內容社群" id="732" weight="1" />
+      <edge source="#短影音" target="#fellows品牌創業者的商業解析站" id="733" weight="1" />
+      <edge source="#短影音" target="#台北商業模式創新教練" id="734" weight="1" />
+      <edge source="#短影音" target="#台北品牌創業教練" id="735" weight="1" />
+      <edge source="#短影音" target="#台北個人創新幸福教練" id="736" weight="1" />
+      <edge source="#短影音" target="#台北獨立思考教練" id="737" weight="1" />
+      <edge source="#短影音" target="#podcaster" id="738" weight="1" />
+      <edge source="#短影音" target="#kol" id="739" weight="1" />
+      <edge source="#短影音" target="#創業" id="740" weight="1" />
+      <edge source="#短影音" target="#創新" id="741" weight="1" />
+      <edge source="#短影音" target="#商業教練" id="742" weight="1" />
+      <edge source="#短影音" target="#思維" id="743" weight="1" />
+      <edge source="#短影音" target="#商業模式" id="744" weight="1" />
+      <edge source="#短影音" target="#生產力" id="745" weight="1" />
+      <edge source="#短影音" target="#學習" id="746" weight="1" />
+      <edge source="#短影音" target="#解決問題" id="747" weight="1" />
+      <edge source="#短影音" target="#思考" id="748" weight="1" />
+      <edge source="#短影音" target="#一人公司" id="749" weight="1" />
+      <edge source="#短影音" target="#內容行銷" id="750" weight="1" />
+      <edge source="#短影音" target="#原則" id="751" weight="1" />
+      <edge source="#自媒體" target="#人設" id="752" weight="1" />
+      <edge source="#自媒體" target="#影集" id="753" weight="1" />
+      <edge source="#自媒體" target="#梗圖圖文" id="754" weight="1" />
+      <edge source="#自媒體" target="#fellows" id="755" weight="1" />
+      <edge source="#自媒體" target="#sirfellows" id="756" weight="1" />
+      <edge source="#自媒體" target="#fellows先生" id="757" weight="1" />
+      <edge source="#自媒體" target="#fellowerforever" id="758" weight="1" />
+      <edge source="#自媒體" target="#fellows創新幸福工作學內容社群" id="759" weight="1" />
+      <edge source="#自媒體" target="#fellows品牌創業者的商業解析站" id="760" weight="1" />
+      <edge source="#自媒體" target="#台北商業模式創新教練" id="761" weight="1" />
+      <edge source="#自媒體" target="#台北品牌創業教練" id="762" weight="1" />
+      <edge source="#自媒體" target="#台北個人創新幸福教練" id="763" weight="1" />
+      <edge source="#自媒體" target="#台北獨立思考教練" id="764" weight="1" />
+      <edge source="#自媒體" target="#podcaster" id="765" weight="1" />
+      <edge source="#自媒體" target="#kol" id="766" weight="1" />
+      <edge source="#自媒體" target="#創業" id="767" weight="1" />
+      <edge source="#自媒體" target="#創新" id="768" weight="1" />
+      <edge source="#自媒體" target="#商業教練" id="769" weight="1" />
+      <edge source="#自媒體" target="#思維" id="770" weight="1" />
+      <edge source="#自媒體" target="#商業模式" id="771" weight="1" />
+      <edge source="#自媒體" target="#生產力" id="772" weight="1" />
+      <edge source="#自媒體" target="#學習" id="773" weight="1" />
+      <edge source="#自媒體" target="#自媒體" id="774" weight="1" />
+      <edge source="#自媒體" target="#解決問題" id="775" weight="1" />
+      <edge source="#自媒體" target="#思考" id="776" weight="1" />
+      <edge source="#自媒體" target="#一人公司" id="777" weight="1" />
+      <edge source="#自媒體" target="#內容行銷" id="778" weight="1" />
+      <edge source="#自媒體" target="#原則" id="779" weight="1" />
+      <edge source="#人設" target="#影集" id="780" weight="1" />
+      <edge source="#人設" target="#梗圖圖文" id="781" weight="1" />
+      <edge source="#人設" target="#fellows" id="782" weight="1" />
+      <edge source="#人設" target="#sirfellows" id="783" weight="1" />
+      <edge source="#人設" target="#fellows先生" id="784" weight="1" />
+      <edge source="#人設" target="#fellowerforever" id="785" weight="1" />
+      <edge source="#人設" target="#fellows創新幸福工作學內容社群" id="786" weight="1" />
+      <edge source="#人設" target="#fellows品牌創業者的商業解析站" id="787" weight="1" />
+      <edge source="#人設" target="#台北商業模式創新教練" id="788" weight="1" />
+      <edge source="#人設" target="#台北品牌創業教練" id="789" weight="1" />
+      <edge source="#人設" target="#台北個人創新幸福教練" id="790" weight="1" />
+      <edge source="#人設" target="#台北獨立思考教練" id="791" weight="1" />
+      <edge source="#人設" target="#podcaster" id="792" weight="1" />
+      <edge source="#人設" target="#kol" id="793" weight="1" />
+      <edge source="#人設" target="#創業" id="794" weight="1" />
+      <edge source="#人設" target="#創新" id="795" weight="1" />
+      <edge source="#人設" target="#商業教練" id="796" weight="1" />
+      <edge source="#人設" target="#思維" id="797" weight="1" />
+      <edge source="#人設" target="#商業模式" id="798" weight="1" />
+      <edge source="#人設" target="#生產力" id="799" weight="1" />
+      <edge source="#人設" target="#學習" id="800" weight="1" />
+      <edge source="#人設" target="#解決問題" id="801" weight="1" />
+      <edge source="#人設" target="#思考" id="802" weight="1" />
+      <edge source="#人設" target="#一人公司" id="803" weight="1" />
+      <edge source="#人設" target="#內容行銷" id="804" weight="1" />
+      <edge source="#人設" target="#原則" id="805" weight="1" />
+      <edge source="#影集" target="#梗圖圖文" id="806" weight="1" />
+      <edge source="#影集" target="#fellows" id="807" weight="1" />
+      <edge source="#影集" target="#sirfellows" id="808" weight="1" />
+      <edge source="#影集" target="#fellows先生" id="809" weight="1" />
+      <edge source="#影集" target="#fellowerforever" id="810" weight="1" />
+      <edge source="#影集" target="#fellows創新幸福工作學內容社群" id="811" weight="1" />
+      <edge source="#影集" target="#fellows品牌創業者的商業解析站" id="812" weight="1" />
+      <edge source="#影集" target="#台北商業模式創新教練" id="813" weight="1" />
+      <edge source="#影集" target="#台北品牌創業教練" id="814" weight="1" />
+      <edge source="#影集" target="#台北個人創新幸福教練" id="815" weight="1" />
+      <edge source="#影集" target="#台北獨立思考教練" id="816" weight="1" />
+      <edge source="#影集" target="#podcaster" id="817" weight="1" />
+      <edge source="#影集" target="#kol" id="818" weight="1" />
+      <edge source="#影集" target="#創業" id="819" weight="1" />
+      <edge source="#影集" target="#創新" id="820" weight="1" />
+      <edge source="#影集" target="#商業教練" id="821" weight="1" />
+      <edge source="#影集" target="#思維" id="822" weight="1" />
+      <edge source="#影集" target="#商業模式" id="823" weight="1" />
+      <edge source="#影集" target="#生產力" id="824" weight="1" />
+      <edge source="#影集" target="#學習" id="825" weight="1" />
+      <edge source="#影集" target="#解決問題" id="826" weight="1" />
+      <edge source="#影集" target="#思考" id="827" weight="1" />
+      <edge source="#影集" target="#一人公司" id="828" weight="1" />
+      <edge source="#影集" target="#內容行銷" id="829" weight="1" />
+      <edge source="#影集" target="#原則" id="830" weight="1" />
+      <edge source="#梗圖圖文" target="#fellows" id="831" weight="1" />
+      <edge source="#梗圖圖文" target="#sirfellows" id="832" weight="1" />
+      <edge source="#梗圖圖文" target="#fellows先生" id="833" weight="1" />
+      <edge source="#梗圖圖文" target="#fellowerforever" id="834" weight="1" />
+      <edge source="#梗圖圖文" target="#fellows創新幸福工作學內容社群" id="835" weight="1" />
+      <edge source="#梗圖圖文" target="#fellows品牌創業者的商業解析站" id="836" weight="1" />
+      <edge source="#梗圖圖文" target="#台北商業模式創新教練" id="837" weight="1" />
+      <edge source="#梗圖圖文" target="#台北品牌創業教練" id="838" weight="1" />
+      <edge source="#梗圖圖文" target="#台北個人創新幸福教練" id="839" weight="1" />
+      <edge source="#梗圖圖文" target="#台北獨立思考教練" id="840" weight="1" />
+      <edge source="#梗圖圖文" target="#podcaster" id="841" weight="1" />
+      <edge source="#梗圖圖文" target="#kol" id="842" weight="1" />
+      <edge source="#梗圖圖文" target="#創業" id="843" weight="1" />
+      <edge source="#梗圖圖文" target="#創新" id="844" weight="1" />
+      <edge source="#梗圖圖文" target="#商業教練" id="845" weight="1" />
+      <edge source="#梗圖圖文" target="#思維" id="846" weight="1" />
+      <edge source="#梗圖圖文" target="#商業模式" id="847" weight="1" />
+      <edge source="#梗圖圖文" target="#生產力" id="848" weight="1" />
+      <edge source="#梗圖圖文" target="#學習" id="849" weight="1" />
+      <edge source="#梗圖圖文" target="#解決問題" id="850" weight="1" />
+      <edge source="#梗圖圖文" target="#思考" id="851" weight="1" />
+      <edge source="#梗圖圖文" target="#一人公司" id="852" weight="1" />
+      <edge source="#梗圖圖文" target="#內容行銷" id="853" weight="1" />
+      <edge source="#梗圖圖文" target="#原則" id="854" weight="1" />
+      <edge source="#fellows" target="#sirfellows" id="855" weight="1" />
+      <edge source="#fellows" target="#fellows先生" id="856" weight="1" />
+      <edge source="#fellows" target="#fellowerforever" id="857" weight="1" />
+      <edge source="#fellows" target="#fellows創新幸福工作學內容社群" id="858" weight="1" />
+      <edge source="#fellows" target="#fellows品牌創業者的商業解析站" id="859" weight="1" />
+      <edge source="#fellows" target="#台北商業模式創新教練" id="860" weight="1" />
+      <edge source="#fellows" target="#台北品牌創業教練" id="861" weight="1" />
+      <edge source="#fellows" target="#台北個人創新幸福教練" id="862" weight="1" />
+      <edge source="#fellows" target="#台北獨立思考教練" id="863" weight="1" />
+      <edge source="#fellows" target="#podcaster" id="864" weight="1" />
+      <edge source="#fellows" target="#kol" id="865" weight="1" />
+      <edge source="#fellows" target="#創業" id="866" weight="1" />
+      <edge source="#fellows" target="#創新" id="867" weight="1" />
+      <edge source="#fellows" target="#商業教練" id="868" weight="1" />
+      <edge source="#fellows" target="#思維" id="869" weight="1" />
+      <edge source="#fellows" target="#商業模式" id="870" weight="1" />
+      <edge source="#fellows" target="#生產力" id="871" weight="1" />
+      <edge source="#fellows" target="#學習" id="872" weight="1" />
+      <edge source="#fellows" target="#解決問題" id="873" weight="1" />
+      <edge source="#fellows" target="#思考" id="874" weight="1" />
+      <edge source="#fellows" target="#一人公司" id="875" weight="1" />
+      <edge source="#fellows" target="#內容行銷" id="876" weight="1" />
+      <edge source="#fellows" target="#原則" id="877" weight="1" />
+      <edge source="#sirfellows" target="#fellows先生" id="878" weight="1" />
+      <edge source="#sirfellows" target="#fellowerforever" id="879" weight="1" />
+      <edge source="#sirfellows" target="#fellows創新幸福工作學內容社群" id="880" weight="1" />
+      <edge source="#sirfellows" target="#fellows品牌創業者的商業解析站" id="881" weight="1" />
+      <edge source="#sirfellows" target="#台北商業模式創新教練" id="882" weight="1" />
+      <edge source="#sirfellows" target="#台北品牌創業教練" id="883" weight="1" />
+      <edge source="#sirfellows" target="#台北個人創新幸福教練" id="884" weight="1" />
+      <edge source="#sirfellows" target="#台北獨立思考教練" id="885" weight="1" />
+      <edge source="#sirfellows" target="#podcaster" id="886" weight="1" />
+      <edge source="#sirfellows" target="#kol" id="887" weight="1" />
+      <edge source="#sirfellows" target="#創業" id="888" weight="1" />
+      <edge source="#sirfellows" target="#創新" id="889" weight="1" />
+      <edge source="#sirfellows" target="#商業教練" id="890" weight="1" />
+      <edge source="#sirfellows" target="#思維" id="891" weight="1" />
+      <edge source="#sirfellows" target="#商業模式" id="892" weight="1" />
+      <edge source="#sirfellows" target="#生產力" id="893" weight="1" />
+      <edge source="#sirfellows" target="#學習" id="894" weight="1" />
+      <edge source="#sirfellows" target="#解決問題" id="895" weight="1" />
+      <edge source="#sirfellows" target="#思考" id="896" weight="1" />
+      <edge source="#sirfellows" target="#一人公司" id="897" weight="1" />
+      <edge source="#sirfellows" target="#內容行銷" id="898" weight="1" />
+      <edge source="#sirfellows" target="#原則" id="899" weight="1" />
+      <edge source="#fellows先生" target="#fellowerforever" id="900" weight="1" />
+      <edge source="#fellows先生" target="#fellows創新幸福工作學內容社群" id="901" weight="1" />
+      <edge source="#fellows先生" target="#fellows品牌創業者的商業解析站" id="902" weight="1" />
+      <edge source="#fellows先生" target="#台北商業模式創新教練" id="903" weight="1" />
+      <edge source="#fellows先生" target="#台北品牌創業教練" id="904" weight="1" />
+      <edge source="#fellows先生" target="#台北個人創新幸福教練" id="905" weight="1" />
+      <edge source="#fellows先生" target="#台北獨立思考教練" id="906" weight="1" />
+      <edge source="#fellows先生" target="#podcaster" id="907" weight="1" />
+      <edge source="#fellows先生" target="#kol" id="908" weight="1" />
+      <edge source="#fellows先生" target="#創業" id="909" weight="1" />
+      <edge source="#fellows先生" target="#創新" id="910" weight="1" />
+      <edge source="#fellows先生" target="#商業教練" id="911" weight="1" />
+      <edge source="#fellows先生" target="#思維" id="912" weight="1" />
+      <edge source="#fellows先生" target="#商業模式" id="913" weight="1" />
+      <edge source="#fellows先生" target="#生產力" id="914" weight="1" />
+      <edge source="#fellows先生" target="#學習" id="915" weight="1" />
+      <edge source="#fellows先生" target="#解決問題" id="916" weight="1" />
+      <edge source="#fellows先生" target="#思考" id="917" weight="1" />
+      <edge source="#fellows先生" target="#一人公司" id="918" weight="1" />
+      <edge source="#fellows先生" target="#內容行銷" id="919" weight="1" />
+      <edge source="#fellows先生" target="#原則" id="920" weight="1" />
+      <edge source="#fellowerforever" target="#fellows創新幸福工作學內容社群" id="921" weight="1" />
+      <edge source="#fellowerforever" target="#fellows品牌創業者的商業解析站" id="922" weight="1" />
+      <edge source="#fellowerforever" target="#台北商業模式創新教練" id="923" weight="1" />
+      <edge source="#fellowerforever" target="#台北品牌創業教練" id="924" weight="1" />
+      <edge source="#fellowerforever" target="#台北個人創新幸福教練" id="925" weight="1" />
+      <edge source="#fellowerforever" target="#台北獨立思考教練" id="926" weight="1" />
+      <edge source="#fellowerforever" target="#podcaster" id="927" weight="1" />
+      <edge source="#fellowerforever" target="#kol" id="928" weight="1" />
+      <edge source="#fellowerforever" target="#創業" id="929" weight="1" />
+      <edge source="#fellowerforever" target="#創新" id="930" weight="1" />
+      <edge source="#fellowerforever" target="#商業教練" id="931" weight="1" />
+      <edge source="#fellowerforever" target="#思維" id="932" weight="1" />
+      <edge source="#fellowerforever" target="#商業模式" id="933" weight="1" />
+      <edge source="#fellowerforever" target="#生產力" id="934" weight="1" />
+      <edge source="#fellowerforever" target="#學習" id="935" weight="1" />
+      <edge source="#fellowerforever" target="#解決問題" id="936" weight="1" />
+      <edge source="#fellowerforever" target="#思考" id="937" weight="1" />
+      <edge source="#fellowerforever" target="#一人公司" id="938" weight="1" />
+      <edge source="#fellowerforever" target="#內容行銷" id="939" weight="1" />
+      <edge source="#fellowerforever" target="#原則" id="940" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#fellows品牌創業者的商業解析站" id="941" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#台北商業模式創新教練" id="942" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#台北品牌創業教練" id="943" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#台北個人創新幸福教練" id="944" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#台北獨立思考教練" id="945" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#podcaster" id="946" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#kol" id="947" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#創業" id="948" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#創新" id="949" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#商業教練" id="950" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#思維" id="951" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#商業模式" id="952" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#生產力" id="953" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#學習" id="954" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#解決問題" id="955" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#思考" id="956" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#一人公司" id="957" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#內容行銷" id="958" weight="1" />
+      <edge source="#fellows創新幸福工作學內容社群" target="#原則" id="959" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#台北商業模式創新教練" id="960" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#台北品牌創業教練" id="961" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#台北個人創新幸福教練" id="962" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#台北獨立思考教練" id="963" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#podcaster" id="964" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#kol" id="965" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#創業" id="966" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#創新" id="967" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#商業教練" id="968" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#思維" id="969" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#商業模式" id="970" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#生產力" id="971" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#學習" id="972" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#解決問題" id="973" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#思考" id="974" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#一人公司" id="975" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#內容行銷" id="976" weight="1" />
+      <edge source="#fellows品牌創業者的商業解析站" target="#原則" id="977" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#台北品牌創業教練" id="978" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#台北個人創新幸福教練" id="979" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#台北獨立思考教練" id="980" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#podcaster" id="981" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#kol" id="982" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#創業" id="983" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#創新" id="984" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#商業教練" id="985" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#思維" id="986" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#商業模式" id="987" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#生產力" id="988" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#學習" id="989" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#解決問題" id="990" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#思考" id="991" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#一人公司" id="992" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#內容行銷" id="993" weight="1" />
+      <edge source="#台北商業模式創新教練" target="#原則" id="994" weight="1" />
+      <edge source="#台北品牌創業教練" target="#台北個人創新幸福教練" id="995" weight="1" />
+      <edge source="#台北品牌創業教練" target="#台北獨立思考教練" id="996" weight="1" />
+      <edge source="#台北品牌創業教練" target="#podcaster" id="997" weight="1" />
+      <edge source="#台北品牌創業教練" target="#kol" id="998" weight="1" />
+      <edge source="#台北品牌創業教練" target="#創業" id="999" weight="1" />
+      <edge source="#台北品牌創業教練" target="#創新" id="1000" weight="1" />
+      <edge source="#台北品牌創業教練" target="#商業教練" id="1001" weight="1" />
+      <edge source="#台北品牌創業教練" target="#思維" id="1002" weight="1" />
+      <edge source="#台北品牌創業教練" target="#商業模式" id="1003" weight="1" />
+      <edge source="#台北品牌創業教練" target="#生產力" id="1004" weight="1" />
+      <edge source="#台北品牌創業教練" target="#學習" id="1005" weight="1" />
+      <edge source="#台北品牌創業教練" target="#解決問題" id="1006" weight="1" />
+      <edge source="#台北品牌創業教練" target="#思考" id="1007" weight="1" />
+      <edge source="#台北品牌創業教練" target="#一人公司" id="1008" weight="1" />
+      <edge source="#台北品牌創業教練" target="#內容行銷" id="1009" weight="1" />
+      <edge source="#台北品牌創業教練" target="#原則" id="1010" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#台北獨立思考教練" id="1011" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#podcaster" id="1012" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#kol" id="1013" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#創業" id="1014" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#創新" id="1015" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#商業教練" id="1016" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#思維" id="1017" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#商業模式" id="1018" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#生產力" id="1019" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#學習" id="1020" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#解決問題" id="1021" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#思考" id="1022" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#一人公司" id="1023" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#內容行銷" id="1024" weight="1" />
+      <edge source="#台北個人創新幸福教練" target="#原則" id="1025" weight="1" />
+      <edge source="#台北獨立思考教練" target="#podcaster" id="1026" weight="1" />
+      <edge source="#台北獨立思考教練" target="#kol" id="1027" weight="1" />
+      <edge source="#台北獨立思考教練" target="#創業" id="1028" weight="1" />
+      <edge source="#台北獨立思考教練" target="#創新" id="1029" weight="1" />
+      <edge source="#台北獨立思考教練" target="#商業教練" id="1030" weight="1" />
+      <edge source="#台北獨立思考教練" target="#思維" id="1031" weight="1" />
+      <edge source="#台北獨立思考教練" target="#商業模式" id="1032" weight="1" />
+      <edge source="#台北獨立思考教練" target="#生產力" id="1033" weight="1" />
+      <edge source="#台北獨立思考教練" target="#學習" id="1034" weight="1" />
+      <edge source="#台北獨立思考教練" target="#解決問題" id="1035" weight="1" />
+      <edge source="#台北獨立思考教練" target="#思考" id="1036" weight="1" />
+      <edge source="#台北獨立思考教練" target="#一人公司" id="1037" weight="1" />
+      <edge source="#台北獨立思考教練" target="#內容行銷" id="1038" weight="1" />
+      <edge source="#台北獨立思考教練" target="#原則" id="1039" weight="1" />
+      <edge source="#podcaster" target="#kol" id="1040" weight="1" />
+      <edge source="#podcaster" target="#創業" id="1041" weight="1" />
+      <edge source="#podcaster" target="#創新" id="1042" weight="1" />
+      <edge source="#podcaster" target="#商業教練" id="1043" weight="1" />
+      <edge source="#podcaster" target="#思維" id="1044" weight="1" />
+      <edge source="#podcaster" target="#商業模式" id="1045" weight="1" />
+      <edge source="#podcaster" target="#生產力" id="1046" weight="1" />
+      <edge source="#podcaster" target="#學習" id="1047" weight="1" />
+      <edge source="#podcaster" target="#解決問題" id="1048" weight="1" />
+      <edge source="#podcaster" target="#思考" id="1049" weight="1" />
+      <edge source="#podcaster" target="#一人公司" id="1050" weight="1" />
+      <edge source="#podcaster" target="#內容行銷" id="1051" weight="1" />
+      <edge source="#podcaster" target="#原則" id="1052" weight="1" />
+      <edge source="#kol" target="#創業" id="1053" weight="1" />
+      <edge source="#kol" target="#創新" id="1054" weight="1" />
+      <edge source="#kol" target="#商業教練" id="1055" weight="1" />
+      <edge source="#kol" target="#思維" id="1056" weight="1" />
+      <edge source="#kol" target="#商業模式" id="1057" weight="1" />
+      <edge source="#kol" target="#生產力" id="1058" weight="1" />
+      <edge source="#kol" target="#學習" id="1059" weight="1" />
+      <edge source="#kol" target="#解決問題" id="1060" weight="1" />
+      <edge source="#kol" target="#思考" id="1061" weight="1" />
+      <edge source="#kol" target="#一人公司" id="1062" weight="1" />
+      <edge source="#kol" target="#內容行銷" id="1063" weight="1" />
+      <edge source="#kol" target="#原則" id="1064" weight="1" />
+      <edge source="#創業" target="#創新" id="1065" weight="1" />
+      <edge source="#創業" target="#商業教練" id="1066" weight="1" />
+      <edge source="#創業" target="#思維" id="1067" weight="1" />
+      <edge source="#創業" target="#商業模式" id="1068" weight="1" />
+      <edge source="#創業" target="#生產力" id="1069" weight="1" />
+      <edge source="#創業" target="#學習" id="1070" weight="1" />
+      <edge source="#創業" target="#解決問題" id="1071" weight="1" />
+      <edge source="#創業" target="#思考" id="1072" weight="1" />
+      <edge source="#創業" target="#一人公司" id="1073" weight="1" />
+      <edge source="#創業" target="#內容行銷" id="1074" weight="1" />
+      <edge source="#創業" target="#原則" id="1075" weight="1" />
+      <edge source="#創新" target="#商業教練" id="1076" weight="1" />
+      <edge source="#創新" target="#思維" id="1077" weight="1" />
+      <edge source="#創新" target="#商業模式" id="1078" weight="1" />
+      <edge source="#創新" target="#生產力" id="1079" weight="1" />
+      <edge source="#創新" target="#學習" id="1080" weight="1" />
+      <edge source="#創新" target="#解決問題" id="1081" weight="1" />
+      <edge source="#創新" target="#思考" id="1082" weight="1" />
+      <edge source="#創新" target="#一人公司" id="1083" weight="1" />
+      <edge source="#創新" target="#內容行銷" id="1084" weight="1" />
+      <edge source="#創新" target="#原則" id="1085" weight="1" />
+      <edge source="#商業教練" target="#思維" id="1086" weight="1" />
+      <edge source="#商業教練" target="#商業模式" id="1087" weight="1" />
+      <edge source="#商業教練" target="#生產力" id="1088" weight="1" />
+      <edge source="#商業教練" target="#學習" id="1089" weight="1" />
+      <edge source="#商業教練" target="#解決問題" id="1090" weight="1" />
+      <edge source="#商業教練" target="#思考" id="1091" weight="1" />
+      <edge source="#商業教練" target="#一人公司" id="1092" weight="1" />
+      <edge source="#商業教練" target="#內容行銷" id="1093" weight="1" />
+      <edge source="#商業教練" target="#原則" id="1094" weight="1" />
+      <edge source="#思維" target="#商業模式" id="1095" weight="1" />
+      <edge source="#思維" target="#生產力" id="1096" weight="1" />
+      <edge source="#思維" target="#學習" id="1097" weight="1" />
+      <edge source="#思維" target="#解決問題" id="1098" weight="1" />
+      <edge source="#思維" target="#思考" id="1099" weight="1" />
+      <edge source="#思維" target="#一人公司" id="1100" weight="1" />
+      <edge source="#思維" target="#內容行銷" id="1101" weight="1" />
+      <edge source="#思維" target="#原則" id="1102" weight="1" />
+      <edge source="#商業模式" target="#生產力" id="1103" weight="1" />
+      <edge source="#商業模式" target="#學習" id="1104" weight="1" />
+      <edge source="#商業模式" target="#解決問題" id="1105" weight="1" />
+      <edge source="#商業模式" target="#思考" id="1106" weight="1" />
+      <edge source="#商業模式" target="#一人公司" id="1107" weight="1" />
+      <edge source="#商業模式" target="#內容行銷" id="1108" weight="1" />
+      <edge source="#商業模式" target="#原則" id="1109" weight="1" />
+      <edge source="#生產力" target="#學習" id="1110" weight="1" />
+      <edge source="#生產力" target="#解決問題" id="1111" weight="1" />
+      <edge source="#生產力" target="#思考" id="1112" weight="1" />
+      <edge source="#生產力" target="#一人公司" id="1113" weight="1" />
+      <edge source="#生產力" target="#內容行銷" id="1114" weight="1" />
+      <edge source="#生產力" target="#原則" id="1115" weight="1" />
+      <edge source="#學習" target="#解決問題" id="1116" weight="1" />
+      <edge source="#學習" target="#思考" id="1117" weight="1" />
+      <edge source="#學習" target="#一人公司" id="1118" weight="1" />
+      <edge source="#學習" target="#內容行銷" id="1119" weight="1" />
+      <edge source="#學習" target="#原則" id="1120" weight="1" />
+      <edge source="#解決問題" target="#思考" id="1121" weight="1" />
+      <edge source="#解決問題" target="#一人公司" id="1122" weight="1" />
+      <edge source="#解決問題" target="#內容行銷" id="1123" weight="1" />
+      <edge source="#解決問題" target="#原則" id="1124" weight="1" />
+      <edge source="#思考" target="#一人公司" id="1125" weight="1" />
+      <edge source="#思考" target="#內容行銷" id="1126" weight="1" />
+      <edge source="#思考" target="#原則" id="1127" weight="1" />
+      <edge source="#一人公司" target="#內容行銷" id="1128" weight="1" />
+      <edge source="#一人公司" target="#原則" id="1129" weight="1" />
+      <edge source="#內容行銷" target="#原則" id="1130" weight="1" />
+    </edges>
+  </graph>
+</gexf>

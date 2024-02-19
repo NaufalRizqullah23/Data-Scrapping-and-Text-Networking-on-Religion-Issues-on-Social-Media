@@ -1,0 +1,2512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="melvin_hendra" label="melvin_hendra" />
+      <node id="murtadhaone" label="murtadhaone" />
+      <node id="gibran_tweet" label="gibran_tweet" />
+      <node id="miduk" label="miduk" />
+      <node id="aryprasetyo" label="aryprasetyo" />
+      <node id="seruanhl" label="seruanhl" />
+      <node id="ch_chotimah" label="ch_chotimah" />
+      <node id="firzahusainid" label="firzahusainid" />
+      <node id="aan_muba" label="aan_muba" />
+      <node id="koteka" label="koteka" />
+      <node id="anak__ogi" label="anak__ogi" />
+      <node id="__nakula" label="__nakula" />
+      <node id="danielht" label="danielht" />
+      <node id="eil_thia" label="eil_thia" />
+      <node id="dpp_pkb" label="dpp_pkb" />
+      <node id="aniesbaswedan" label="aniesbaswedan" />
+      <node id="cakiminow" label="cakiminow" />
+      <node id="yusuf_dumdum" label="yusuf_dumdum" />
+      <node id="mohmahfudmd" label="mohmahfudmd" />
+      <node id="ganjarpranowo" label="ganjarpranowo" />
+      <node id="pdi_perjuangan" label="pdi_perjuangan" />
+      <node id="achmadfauzi_wy" label="achmadfauzi_wy" />
+      <node id="sugeng" label="sugeng" />
+      <node id="mediaindonesia" label="mediaindonesia" />
+      <node id="oryzapari" label="oryzapari" />
+      <node id="bandunganies" label="bandunganies" />
+      <node id="rizalisanst" label="rizalisanst" />
+      <node id="ariefkasam" label="ariefkasam" />
+      <node id="agusssbaskoro" label="agusssbaskoro" />
+      <node id="thebest" label="thebest" />
+      <node id="husinshihab" label="husinshihab" />
+      <node id="blackcoffee" label="blackcoffee" />
+      <node id="alegiggle" label="alegiggle" />
+      <node id="dennysiregar" label="dennysiregar" />
+      <node id="homo_sapiens" label="homo_sapiens" />
+      <node id="ajegilelu" label="ajegilelu" />
+      <node id="budi_" label="budi_" />
+      <node id="indrahwk" label="indrahwk" />
+      <node id="berserk" label="berserk" />
+      <node id="ramlirizal" label="ramlirizal" />
+      <node id="sahabat_bangsa" label="sahabat_bangsa" />
+      <node id="mdy_asmara" label="mdy_asmara" />
+      <node id="yosnggarang" label="yosnggarang" />
+      <node id="anthonybudiawan" label="anthonybudiawan" />
+      <node id="halohohenrykus" label="halohohenrykus" />
+      <node id="paltiwest" label="paltiwest" />
+      <node id="firman__nurhuda" label="firman__nurhuda" />
+      <node id="msaid_didu" label="msaid_didu" />
+      <node id="adearmando" label="adearmando" />
+      <node id="wahyu_uniform" label="wahyu_uniform" />
+      <node id="aniezz" label="aniezz" />
+      <node id="nasdem" label="nasdem" />
+      <node id="adesury" label="adesury" />
+      <node id="melodiasyik" label="melodiasyik" />
+      <node id="benyamin" label="benyamin" />
+      <node id="gunromli" label="gunromli" />
+      <node id="dinihrdianti" label="dinihrdianti" />
+      <node id="pkbbukannu" label="pkbbukannu" />
+      <node id="agussantaiaja" label="agussantaiaja" />
+      <node id="ans_muhamin" label="ans_muhamin" />
+      <node id="kooball" label="kooball" />
+      <node id="tanyakanrl" label="tanyakanrl" />
+      <node id="kezia_stal" label="kezia_stal" />
+      <node id="hasyimmah" label="hasyimmah" />
+      <node id="bill" label="bill" />
+      <node id="matabat" label="matabat" />
+      <node id="cakkhum" label="cakkhum" />
+      <node id="dadangrusdi" label="dadangrusdi" />
+      <node id="ali_van_jibril" label="ali_van_jibril" />
+      <node id="deaboy" label="deaboy" />
+      <node id="sigitwasito" label="sigitwasito" />
+      <node id="ahmadsahroni" label="ahmadsahroni" />
+      <node id="nabildetra" label="nabildetra" />
+      <node id="sunart" label="sunart" />
+      <node id="abdulro" label="abdulro" />
+      <node id="umarsyadathsb__" label="umarsyadathsb__" />
+      <node id="hurufnamaku" label="hurufnamaku" />
+      <node id="msobri" label="msobri" />
+      <node id="coredao_idn" label="coredao_idn" />
+      <node id="bangpino__" label="bangpino__" />
+      <node id="waiiacea" label="waiiacea" />
+      <node id="prtmdns" label="prtmdns" />
+      <node id="prophetofzorck" label="prophetofzorck" />
+      <node id="seph_bimo" label="seph_bimo" />
+      <node id="retno_wiliss" label="retno_wiliss" />
+      <node id="denni_sauya" label="denni_sauya" />
+      <node id="jazz_exiles" label="jazz_exiles" />
+      <node id="catuaries" label="catuaries" />
+      <node id="lazuandi" label="lazuandi" />
+      <node id="aimrd" label="aimrd" />
+      <node id="spargowentgone" label="spargowentgone" />
+      <node id="ichwxn" label="ichwxn" />
+      <node id="simfoni_swasta" label="simfoni_swasta" />
+      <node id="djasnkfs" label="djasnkfs" />
+      <node id="dralexarifianto" label="dralexarifianto" />
+      <node id="analispolitik" label="analispolitik" />
+      <node id="ti_mann" label="ti_mann" />
+      <node id="tan_marm" label="tan_marm" />
+      <node id="itsamareguzel" label="itsamareguzel" />
+      <node id="metro_tv" label="metro_tv" />
+      <node id="yurissa_samosir" label="yurissa_samosir" />
+      <node id="rikesants" label="rikesants" />
+      <node id="hipohan" label="hipohan" />
+      <node id="maman" label="maman" />
+      <node id="jne_id" label="jne_id" />
+      <node id="adyhuco" label="adyhuco" />
+      <node id="wagimandeep_" label="wagimandeep_" />
+      <node id="belok_dong" label="belok_dong" />
+      <node id="hengky_papa" label="hengky_papa" />
+      <node id="twmanado" label="twmanado" />
+      <node id="toni" label="toni" />
+      <node id="soeyoto" label="soeyoto" />
+      <node id="denbagus" label="denbagus" />
+      <node id="ruhutsitompul" label="ruhutsitompul" />
+      <node id="prabowo" label="prabowo" />
+      <node id="erickthohir" label="erickthohir" />
+      <node id="yusrilihza_mhd" label="yusrilihza_mhd" />
+      <node id="agusyudhoyono" label="agusyudhoyono" />
+      <node id="airlangga_hrt" label="airlangga_hrt" />
+      <node id="sandiuno" label="sandiuno" />
+      <node id="jokowi" label="jokowi" />
+      <node id="generalmoeldoko" label="generalmoeldoko" />
+      <node id="luhut_binsar" label="luhut_binsar" />
+      <node id="gerindra" label="gerindra" />
+      <node id="pdemokrat" label="pdemokrat" />
+      <node id="partaigolkar" label="partaigolkar" />
+      <node id="pksejahtera" label="pksejahtera" />
+      <node id="officialdpp_pbb" label="officialdpp_pbb" />
+      <node id="iwanfals" label="iwanfals" />
+      <node id="gm_gm" label="gm_gm" />
+      <node id="jimlyas" label="jimlyas" />
+      <node id="sudjiwotedjo" label="sudjiwotedjo" />
+      <node id="matanajwa" label="matanajwa" />
+      <node id="najwashihab" label="najwashihab" />
+      <node id="tempodotco" label="tempodotco" />
+      <node id="narasinewsroom" label="narasinewsroom" />
+      <node id="namasayamelki" label="namasayamelki" />
+      <node id="bemfisipui" label="bemfisipui" />
+      <node id="bemui_official" label="bemui_official" />
+      <node id="bemunj_official" label="bemunj_official" />
+      <node id="bemuns" label="bemuns" />
+      <node id="bemundip_" label="bemundip_" />
+      <node id="bemunpas" label="bemunpas" />
+      <node id="bemunair_id" label="bemunair_id" />
+      <node id="bemuny" label="bemuny" />
+      <node id="bemunesa" label="bemunesa" />
+      <node id="rosiannahi" label="rosiannahi" />
+      <node id="corbuzier" label="corbuzier" />
+      <node id="islah_bahrawi" label="islah_bahrawi" />
+      <node id="ismail" label="ismail" />
+      <node id="fahrihamzah" label="fahrihamzah" />
+      <node id="fadlizon" label="fadlizon" />
+      <node id="budimandjatmiko" label="budimandjatmiko" />
+      <node id="faizalassegaf" label="faizalassegaf" />
+      <node id="poernoadinug" label="poernoadinug" />
+      <node id="bersuwara" label="bersuwara" />
+      <node id="deddysitorus" label="deddysitorus" />
+      <node id="adedhani" label="adedhani" />
+      <node id="aking_adit" label="aking_adit" />
+      <node id="azri_ardhani" label="azri_ardhani" />
+      <node id="kang_toniee" label="kang_toniee" />
+      <node id="choymarkochoy" label="choymarkochoy" />
+      <node id="putri" label="putri" />
+      <node id="muhiqr" label="muhiqr" />
+      <node id="nohceukenohhh" label="nohceukenohhh" />
+      <node id="chaidar_" label="chaidar_" />
+      <node id="abahdeon" label="abahdeon" />
+      <node id="saposikompak" label="saposikompak" />
+      <node id="detikcom" label="detikcom" />
+      <node id="charliemput" label="charliemput" />
+      <node id="tanyarlfes" label="tanyarlfes" />
+      <node id="m_nurfatoni" label="m_nurfatoni" />
+      <node id="ynkfz" label="ynkfz" />
+      <node id="arsjadrasjid" label="arsjadrasjid" />
+      <node id="met" label="met" />
+      <node id="bospurwa" label="bospurwa" />
+      <node id="pribumituan" label="pribumituan" />
+      <node id="ndaxwz" label="ndaxwz" />
+      <node id="adri_i" label="adri_i" />
+      <node id="ppbw_" label="ppbw_" />
+      <node id="andreassolusi" label="andreassolusi" />
+      <node id="mpoklela" label="mpoklela" />
+      <node id="temanduit" label="temanduit" />
+      <node id="triwul" label="triwul" />
+      <node id="indonesia" label="indonesia" />
+      <node id="combroherry" label="combroherry" />
+      <node id="kompastv" label="kompastv" />
+      <node id="leonarddnyasatu" label="leonarddnyasatu" />
+      <node id="akmalanshari" label="akmalanshari" />
+      <node id="tirta_cipeng" label="tirta_cipeng" />
+      <node id="armisatria" label="armisatria" />
+      <node id="resty_j_cayah" label="resty_j_cayah" />
+      <node id="rizkirmadani" label="rizkirmadani" />
+      <node id="dewwsnu" label="dewwsnu" />
+      <node id="hensuaja" label="hensuaja" />
+      <node id="eddy_widodo_" label="eddy_widodo_" />
+      <node id="ngkongroses" label="ngkongroses" />
+      <node id="ekowboy" label="ekowboy" />
+      <node id="mbroo" label="mbroo" />
+      <node id="abah" label="abah" />
+      <node id="henrysubiakto" label="henrysubiakto" />
+      <node id="tita" label="tita" />
+      <node id="abunawa" label="abunawa" />
+      <node id="hasbifanani" label="hasbifanani" />
+      <node id="pananggangan" label="pananggangan" />
+      <node id="datuakrajoangek" label="datuakrajoangek" />
+      <node id="anceto" label="anceto" />
+      <node id="justkaka" label="justkaka" />
+      <node id="spacerocc" label="spacerocc" />
+      <node id="lejy" label="lejy" />
+      <node id="zhil_arf" label="zhil_arf" />
+      <node id="ahmahmniam" label="ahmahmniam" />
+      <node id="putraaudi" label="putraaudi" />
+      <node id="tvonenews" label="tvonenews" />
+      <node id="dpp_partaiummat" label="dpp_partaiummat" />
+      <node id="nataliuspigai" label="nataliuspigai" />
+      <node id="namoaryatara" label="namoaryatara" />
+      <node id="djohanlianto" label="djohanlianto" />
+      <node id="sn_wb" label="sn_wb" />
+      <node id="__anakkolong" label="__anakkolong" />
+      <node id="_bungherwin" label="_bungherwin" />
+      <node id="waltuhamogus" label="waltuhamogus" />
+      <node id="rtifany" label="rtifany" />
+      <node id="dandhy_laksono" label="dandhy_laksono" />
+      <node id="hilalmultibiz" label="hilalmultibiz" />
+      <node id="sigitwid" label="sigitwid" />
+      <node id="yradianto" label="yradianto" />
+      <node id="humn" label="humn" />
+      <node id="winnerwave_" label="winnerwave_" />
+      <node id="danimafn" label="danimafn" />
+      <node id="ndoro_putra" label="ndoro_putra" />
+      <node id="hilmi" label="hilmi" />
+      <node id="savicali" label="savicali" />
+      <node id="alissawahid" label="alissawahid" />
+      <node id="mozze_mozze" label="mozze_mozze" />
+      <node id="lothfifaisal" label="lothfifaisal" />
+      <node id="cnnindonesia" label="cnnindonesia" />
+      <node id="kemenag_ri" label="kemenag_ri" />
+      <node id="yaqutcqoumas" label="yaqutcqoumas" />
+      <node id="engkong_" label="engkong_" />
+      <node id="narkosun" label="narkosun" />
+      <node id="andiarief__" label="andiarief__" />
+      <node id="juniputra" label="juniputra" />
+      <node id="doankwarto" label="doankwarto" />
+      <node id="divisihumaspolri" label="divisihumaspolri" />
+      <node id="humaspoldajatim" label="humaspoldajatim" />
+      <node id="spripimpoldajatim" label="spripimpoldajatim" />
+      <node id="polisi_indonesia" label="polisi_indonesia" />
+      <node id="humaspolres_kedirikota" label="humaspolres_kedirikota" />
+      <node id="teddychandra_wl" label="teddychandra_wl" />
+      <node id="kapolres_kediri_kota" label="kapolres_kediri_kota" />
+      <node id="andre" label="andre" />
+      <node id="nengevvvaaa" label="nengevvvaaa" />
+      <node id="djok" label="djok" />
+      <node id="setyaki" label="setyaki" />
+      <node id="itotti" label="itotti" />
+      <node id="djoniecash" label="djoniecash" />
+      <node id="trahmatullah" label="trahmatullah" />
+      <node id="boodmynded" label="boodmynded" />
+      <node id="jokosan" label="jokosan" />
+      <node id="kentlooks" label="kentlooks" />
+      <node id="stevn_pegl" label="stevn_pegl" />
+      <node id="sumpanto" label="sumpanto" />
+      <node id="kakekhalal" label="kakekhalal" />
+      <node id="gus_munozz" label="gus_munozz" />
+      <node id="ekokuntadhi" label="ekokuntadhi" />
+      <node id="kzzuo" label="kzzuo" />
+      <node id="yudiwibowo" label="yudiwibowo" />
+      <node id="stefanantonio__" label="stefanantonio__" />
+      <node id="rstmbcl" label="rstmbcl" />
+      <node id="airindatanglagi" label="airindatanglagi" />
+      <node id="simanjuntakelly" label="simanjuntakelly" />
+      <node id="marbot_udien" label="marbot_udien" />
+      <node id="bdoel___" label="bdoel___" />
+      <node id="al_lasan" label="al_lasan" />
+      <node id="zulkiflilubis" label="zulkiflilubis" />
+      <node id="nenkmonica" label="nenkmonica" />
+      <node id="alisyarief" label="alisyarief" />
+      <node id="minietweets_" label="minietweets_" />
+      <node id="marcj" label="marcj" />
+      <node id="muslim_antipki" label="muslim_antipki" />
+      <node id="hudakeyy" label="hudakeyy" />
+      <node id="knpiharis" label="knpiharis" />
+      <node id="daeng_embang" label="daeng_embang" />
+      <node id="alnilamomar" label="alnilamomar" />
+      <node id="hc_poirot" label="hc_poirot" />
+      <node id="arti_sebuahrasa" label="arti_sebuahrasa" />
+      <node id="ganjar_andika" label="ganjar_andika" />
+      <node id="bungkustukang" label="bungkustukang" />
+      <node id="kpu_id" label="kpu_id" />
+      <node id="bawaslu_ri" label="bawaslu_ri" />
+      <node id="hendra" label="hendra" />
+      <node id="ernestprakasa" label="ernestprakasa" />
+      <node id="bambangmulyonoo" label="bambangmulyonoo" />
+      <node id="permadiaktifis" label="permadiaktifis" />
+      <node id="aniesbaswedasekarang" label="aniesbaswedasekarang" />
+      <node id="protonindo" label="protonindo" />
+      <node id="firdausymuh" label="firdausymuh" />
+      <node id="alimmaktour" label="alimmaktour" />
+      <node id="iwankristanto" label="iwankristanto" />
+      <node id="_irawannurinsan" label="_irawannurinsan" />
+      <node id="pakjenggot___" label="pakjenggot___" />
+      <node id="kadrun" label="kadrun" />
+      <node id="gus_muslih" label="gus_muslih" />
+      <node id="ismailfahmi" label="ismailfahmi" />
+      <node id="feelsbringer" label="feelsbringer" />
+      <node id="strike_bravo_b" label="strike_bravo_b" />
+      <node id="putry_nusantara" label="putry_nusantara" />
+      <node id="vellionx" label="vellionx" />
+      <node id="melihat_indo" label="melihat_indo" />
+      <node id="billray" label="billray" />
+      <node id="urrangawak" label="urrangawak" />
+      <node id="renahoston" label="renahoston" />
+      <node id="antoniuscdn" label="antoniuscdn" />
+      <node id="chaterine_lie" label="chaterine_lie" />
+      <node id="terbucinz" label="terbucinz" />
+      <node id="blusteiry" label="blusteiry" />
+      <node id="avataraang" label="avataraang" />
+      <node id="printingzo" label="printingzo" />
+      <node id="sgm_mks" label="sgm_mks" />
+      <node id="rinatobing" label="rinatobing" />
+      <node id="santorinissun" label="santorinissun" />
+      <node id="parmansanjaya" label="parmansanjaya" />
+      <node id="minimisaw" label="minimisaw" />
+      <node id="chi_mhol" label="chi_mhol" />
+      <node id="primknight" label="primknight" />
+      <node id="teddgus" label="teddgus" />
+      <node id="_____thedevil" label="_____thedevil" />
+      <node id="elmirakid" label="elmirakid" />
+      <node id="candrasmara" label="candrasmara" />
+      <node id="aasutanto" label="aasutanto" />
+      <node id="triadeamarullo" label="triadeamarullo" />
+      <node id="partaisocmed" label="partaisocmed" />
+      <node id="hategovernmen" label="hategovernmen" />
+      <node id="catchmeupid" label="catchmeupid" />
+      <node id="ninacarla" label="ninacarla" />
+      <node id="iriandi" label="iriandi" />
+      <node id="ferryjuliantono" label="ferryjuliantono" />
+      <node id="bferiyanto" label="bferiyanto" />
+      <node id="mazdjopray" label="mazdjopray" />
+      <node id="nana" label="nana" />
+      <node id="ulasasih" label="ulasasih" />
+      <node id="kaladium" label="kaladium" />
+      <node id="antania_p" label="antania_p" />
+      <node id="yunusmi" label="yunusmi" />
+      <node id="alikcurup" label="alikcurup" />
+      <node id="yothok" label="yothok" />
+      <node id="gabbygonales" label="gabbygonales" />
+      <node id="kpk_ri" label="kpk_ri" />
+      <node id="rockygerung" label="rockygerung" />
+      <node id="rissech" label="rissech" />
+      <node id="pranandapaloh" label="pranandapaloh" />
+      <node id="sofiesyarief" label="sofiesyarief" />
+    </nodes>
+    <edges>
+      <edge source="melvin_hendra" target="murtadhaone" id="0" weight="1" />
+      <edge source="melvin_hendra" target="gibran_tweet" id="1" weight="1" />
+      <edge source="murtadhaone" target="gibran_tweet" id="2" weight="1" />
+      <edge source="gibran_tweet" target="adearmando" id="3" weight="1" />
+      <edge source="gibran_tweet" target="jokowi" id="4" weight="1" />
+      <edge source="gibran_tweet" target="simanjuntakelly" id="5" weight="1" />
+      <edge source="gibran_tweet" target="ch_chotimah" id="6" weight="1" />
+      <edge source="gibran_tweet" target="ganjarpranowo" id="7" weight="1" />
+      <edge source="gibran_tweet" target="kakekhalal" id="8" weight="1" />
+      <edge source="gibran_tweet" target="pdi_perjuangan" id="9" weight="1" />
+      <edge source="gibran_tweet" target="mohmahfudmd" id="10" weight="1" />
+      <edge source="gibran_tweet" target="aniesbaswedasekarang" id="11" weight="1" />
+      <edge source="gibran_tweet" target="anak__ogi" id="12" weight="1" />
+      <edge source="gibran_tweet" target="alissawahid" id="13" weight="1" />
+      <edge source="gibran_tweet" target="__anakkolong" id="14" weight="1" />
+      <edge source="gibran_tweet" target="fadlizon" id="15" weight="1" />
+      <edge source="gibran_tweet" target="ferryjuliantono" id="16" weight="1" />
+      <edge source="gibran_tweet" target="prabowo" id="17" weight="1" />
+      <edge source="miduk" target="aryprasetyo" id="18" weight="1" />
+      <edge source="miduk" target="seruanhl" id="19" weight="1" />
+      <edge source="miduk" target="ch_chotimah" id="20" weight="1" />
+      <edge source="miduk" target="firzahusainid" id="21" weight="1" />
+      <edge source="miduk" target="aan_muba" id="22" weight="1" />
+      <edge source="miduk" target="koteka" id="23" weight="1" />
+      <edge source="miduk" target="anak__ogi" id="24" weight="1" />
+      <edge source="miduk" target="__nakula" id="25" weight="1" />
+      <edge source="miduk" target="danielht" id="26" weight="1" />
+      <edge source="miduk" target="eil_thia" id="27" weight="1" />
+      <edge source="miduk" target="yusuf_dumdum" id="28" weight="1" />
+      <edge source="miduk" target="mohmahfudmd" id="29" weight="1" />
+      <edge source="miduk" target="ganjarpranowo" id="30" weight="1" />
+      <edge source="miduk" target="pdi_perjuangan" id="31" weight="1" />
+      <edge source="miduk" target="gunromli" id="32" weight="1" />
+      <edge source="miduk" target="dinihrdianti" id="33" weight="1" />
+      <edge source="miduk" target="met" id="34" weight="1" />
+      <edge source="miduk" target="anceto" id="35" weight="1" />
+      <edge source="miduk" target="justkaka" id="36" weight="1" />
+      <edge source="miduk" target="resty_j_cayah" id="37" weight="1" />
+      <edge source="miduk" target="__anakkolong" id="38" weight="1" />
+      <edge source="miduk" target="_bungherwin" id="39" weight="1" />
+      <edge source="miduk" target="dennysiregar" id="40" weight="1" />
+      <edge source="miduk" target="islah_bahrawi" id="41" weight="1" />
+      <edge source="miduk" target="itotti" id="42" weight="1" />
+      <edge source="miduk" target="trahmatullah" id="43" weight="1" />
+      <edge source="miduk" target="boodmynded" id="44" weight="1" />
+      <edge source="miduk" target="gus_munozz" id="45" weight="1" />
+      <edge source="miduk" target="ekokuntadhi" id="46" weight="1" />
+      <edge source="miduk" target="marbot_udien" id="47" weight="1" />
+      <edge source="miduk" target="bdoel___" id="48" weight="1" />
+      <edge source="miduk" target="al_lasan" id="49" weight="1" />
+      <edge source="miduk" target="zulkiflilubis" id="50" weight="1" />
+      <edge source="miduk" target="nenkmonica" id="51" weight="1" />
+      <edge source="miduk" target="alisyarief" id="52" weight="1" />
+      <edge source="aryprasetyo" target="seruanhl" id="53" weight="1" />
+      <edge source="aryprasetyo" target="ch_chotimah" id="54" weight="1" />
+      <edge source="aryprasetyo" target="firzahusainid" id="55" weight="1" />
+      <edge source="aryprasetyo" target="aan_muba" id="56" weight="1" />
+      <edge source="aryprasetyo" target="koteka" id="57" weight="1" />
+      <edge source="aryprasetyo" target="anak__ogi" id="58" weight="1" />
+      <edge source="aryprasetyo" target="__nakula" id="59" weight="1" />
+      <edge source="aryprasetyo" target="danielht" id="60" weight="1" />
+      <edge source="aryprasetyo" target="eil_thia" id="61" weight="1" />
+      <edge source="aryprasetyo" target="gunromli" id="62" weight="1" />
+      <edge source="aryprasetyo" target="dinihrdianti" id="63" weight="1" />
+      <edge source="aryprasetyo" target="met" id="64" weight="1" />
+      <edge source="aryprasetyo" target="__anakkolong" id="65" weight="1" />
+      <edge source="aryprasetyo" target="_bungherwin" id="66" weight="1" />
+      <edge source="aryprasetyo" target="ganjarpranowo" id="67" weight="1" />
+      <edge source="aryprasetyo" target="dennysiregar" id="68" weight="1" />
+      <edge source="aryprasetyo" target="islah_bahrawi" id="69" weight="1" />
+      <edge source="aryprasetyo" target="marbot_udien" id="70" weight="1" />
+      <edge source="aryprasetyo" target="bdoel___" id="71" weight="1" />
+      <edge source="aryprasetyo" target="al_lasan" id="72" weight="1" />
+      <edge source="aryprasetyo" target="zulkiflilubis" id="73" weight="1" />
+      <edge source="aryprasetyo" target="nenkmonica" id="74" weight="1" />
+      <edge source="aryprasetyo" target="alisyarief" id="75" weight="1" />
+      <edge source="seruanhl" target="ch_chotimah" id="76" weight="1" />
+      <edge source="seruanhl" target="firzahusainid" id="77" weight="1" />
+      <edge source="seruanhl" target="aan_muba" id="78" weight="1" />
+      <edge source="seruanhl" target="koteka" id="79" weight="1" />
+      <edge source="seruanhl" target="anak__ogi" id="80" weight="1" />
+      <edge source="seruanhl" target="__nakula" id="81" weight="1" />
+      <edge source="seruanhl" target="danielht" id="82" weight="1" />
+      <edge source="seruanhl" target="eil_thia" id="83" weight="1" />
+      <edge source="seruanhl" target="gunromli" id="84" weight="1" />
+      <edge source="seruanhl" target="dinihrdianti" id="85" weight="1" />
+      <edge source="seruanhl" target="met" id="86" weight="1" />
+      <edge source="seruanhl" target="triwul" id="87" weight="1" />
+      <edge source="seruanhl" target="stefanantonio__" id="88" weight="1" />
+      <edge source="seruanhl" target="prabowo" id="89" weight="1" />
+      <edge source="seruanhl" target="erickthohir" id="90" weight="1" />
+      <edge source="seruanhl" target="ganjarpranowo" id="91" weight="1" />
+      <edge source="seruanhl" target="mohmahfudmd" id="92" weight="1" />
+      <edge source="seruanhl" target="rstmbcl" id="93" weight="1" />
+      <edge source="seruanhl" target="airindatanglagi" id="94" weight="1" />
+      <edge source="seruanhl" target="marbot_udien" id="95" weight="1" />
+      <edge source="seruanhl" target="bdoel___" id="96" weight="1" />
+      <edge source="seruanhl" target="__anakkolong" id="97" weight="1" />
+      <edge source="seruanhl" target="al_lasan" id="98" weight="1" />
+      <edge source="seruanhl" target="zulkiflilubis" id="99" weight="1" />
+      <edge source="seruanhl" target="nenkmonica" id="100" weight="1" />
+      <edge source="seruanhl" target="alisyarief" id="101" weight="1" />
+      <edge source="seruanhl" target="billray" id="102" weight="1" />
+      <edge source="seruanhl" target="urrangawak" id="103" weight="1" />
+      <edge source="seruanhl" target="renahoston" id="104" weight="1" />
+      <edge source="seruanhl" target="antoniuscdn" id="105" weight="1" />
+      <edge source="seruanhl" target="denni_sauya" id="106" weight="1" />
+      <edge source="seruanhl" target="chaterine_lie" id="107" weight="1" />
+      <edge source="seruanhl" target="terbucinz" id="108" weight="1" />
+      <edge source="ch_chotimah" target="firzahusainid" id="109" weight="1" />
+      <edge source="ch_chotimah" target="aan_muba" id="110" weight="1" />
+      <edge source="ch_chotimah" target="koteka" id="111" weight="1" />
+      <edge source="ch_chotimah" target="anak__ogi" id="112" weight="1" />
+      <edge source="ch_chotimah" target="__nakula" id="113" weight="1" />
+      <edge source="ch_chotimah" target="danielht" id="114" weight="1" />
+      <edge source="ch_chotimah" target="eil_thia" id="115" weight="1" />
+      <edge source="ch_chotimah" target="yusuf_dumdum" id="116" weight="1" />
+      <edge source="ch_chotimah" target="mohmahfudmd" id="117" weight="1" />
+      <edge source="ch_chotimah" target="ganjarpranowo" id="118" weight="1" />
+      <edge source="ch_chotimah" target="pdi_perjuangan" id="119" weight="1" />
+      <edge source="ch_chotimah" target="gunromli" id="120" weight="1" />
+      <edge source="ch_chotimah" target="dinihrdianti" id="121" weight="1" />
+      <edge source="ch_chotimah" target="ynkfz" id="122" weight="1" />
+      <edge source="ch_chotimah" target="arsjadrasjid" id="123" weight="1" />
+      <edge source="ch_chotimah" target="met" id="124" weight="1" />
+      <edge source="ch_chotimah" target="__anakkolong" id="125" weight="1" />
+      <edge source="ch_chotimah" target="_bungherwin" id="126" weight="1" />
+      <edge source="ch_chotimah" target="dennysiregar" id="127" weight="1" />
+      <edge source="ch_chotimah" target="islah_bahrawi" id="128" weight="1" />
+      <edge source="ch_chotimah" target="erickthohir" id="129" weight="1" />
+      <edge source="ch_chotimah" target="simanjuntakelly" id="130" weight="1" />
+      <edge source="ch_chotimah" target="jokowi" id="131" weight="1" />
+      <edge source="ch_chotimah" target="marbot_udien" id="132" weight="1" />
+      <edge source="ch_chotimah" target="bdoel___" id="133" weight="1" />
+      <edge source="ch_chotimah" target="al_lasan" id="134" weight="1" />
+      <edge source="ch_chotimah" target="zulkiflilubis" id="135" weight="1" />
+      <edge source="ch_chotimah" target="nenkmonica" id="136" weight="1" />
+      <edge source="ch_chotimah" target="alisyarief" id="137" weight="1" />
+      <edge source="firzahusainid" target="aan_muba" id="138" weight="1" />
+      <edge source="firzahusainid" target="koteka" id="139" weight="1" />
+      <edge source="firzahusainid" target="anak__ogi" id="140" weight="1" />
+      <edge source="firzahusainid" target="__nakula" id="141" weight="1" />
+      <edge source="firzahusainid" target="danielht" id="142" weight="1" />
+      <edge source="firzahusainid" target="eil_thia" id="143" weight="1" />
+      <edge source="firzahusainid" target="gunromli" id="144" weight="1" />
+      <edge source="firzahusainid" target="dinihrdianti" id="145" weight="1" />
+      <edge source="firzahusainid" target="met" id="146" weight="1" />
+      <edge source="aan_muba" target="koteka" id="147" weight="1" />
+      <edge source="aan_muba" target="anak__ogi" id="148" weight="1" />
+      <edge source="aan_muba" target="__nakula" id="149" weight="1" />
+      <edge source="aan_muba" target="danielht" id="150" weight="1" />
+      <edge source="aan_muba" target="eil_thia" id="151" weight="1" />
+      <edge source="aan_muba" target="gunromli" id="152" weight="1" />
+      <edge source="aan_muba" target="dinihrdianti" id="153" weight="1" />
+      <edge source="aan_muba" target="met" id="154" weight="1" />
+      <edge source="aan_muba" target="marbot_udien" id="155" weight="1" />
+      <edge source="aan_muba" target="bdoel___" id="156" weight="1" />
+      <edge source="aan_muba" target="__anakkolong" id="157" weight="1" />
+      <edge source="aan_muba" target="al_lasan" id="158" weight="1" />
+      <edge source="aan_muba" target="zulkiflilubis" id="159" weight="1" />
+      <edge source="aan_muba" target="nenkmonica" id="160" weight="1" />
+      <edge source="aan_muba" target="alisyarief" id="161" weight="1" />
+      <edge source="aan_muba" target="billray" id="162" weight="1" />
+      <edge source="aan_muba" target="urrangawak" id="163" weight="1" />
+      <edge source="aan_muba" target="renahoston" id="164" weight="1" />
+      <edge source="aan_muba" target="antoniuscdn" id="165" weight="1" />
+      <edge source="aan_muba" target="denni_sauya" id="166" weight="1" />
+      <edge source="aan_muba" target="chaterine_lie" id="167" weight="1" />
+      <edge source="aan_muba" target="terbucinz" id="168" weight="1" />
+      <edge source="koteka" target="anak__ogi" id="169" weight="1" />
+      <edge source="koteka" target="__nakula" id="170" weight="1" />
+      <edge source="koteka" target="danielht" id="171" weight="1" />
+      <edge source="koteka" target="eil_thia" id="172" weight="1" />
+      <edge source="koteka" target="met" id="173" weight="1" />
+      <edge source="koteka" target="billray" id="174" weight="1" />
+      <edge source="koteka" target="urrangawak" id="175" weight="1" />
+      <edge source="koteka" target="renahoston" id="176" weight="1" />
+      <edge source="koteka" target="bdoel___" id="177" weight="1" />
+      <edge source="koteka" target="antoniuscdn" id="178" weight="1" />
+      <edge source="koteka" target="denni_sauya" id="179" weight="1" />
+      <edge source="koteka" target="chaterine_lie" id="180" weight="1" />
+      <edge source="koteka" target="terbucinz" id="181" weight="1" />
+      <edge source="anak__ogi" target="__nakula" id="182" weight="1" />
+      <edge source="anak__ogi" target="danielht" id="183" weight="1" />
+      <edge source="anak__ogi" target="eil_thia" id="184" weight="1" />
+      <edge source="anak__ogi" target="met" id="185" weight="1" />
+      <edge source="anak__ogi" target="__anakkolong" id="186" weight="1" />
+      <edge source="anak__ogi" target="_bungherwin" id="187" weight="1" />
+      <edge source="anak__ogi" target="ganjarpranowo" id="188" weight="1" />
+      <edge source="anak__ogi" target="gunromli" id="189" weight="1" />
+      <edge source="anak__ogi" target="dennysiregar" id="190" weight="1" />
+      <edge source="anak__ogi" target="islah_bahrawi" id="191" weight="1" />
+      <edge source="anak__ogi" target="marbot_udien" id="192" weight="1" />
+      <edge source="anak__ogi" target="bdoel___" id="193" weight="1" />
+      <edge source="anak__ogi" target="al_lasan" id="194" weight="1" />
+      <edge source="anak__ogi" target="zulkiflilubis" id="195" weight="1" />
+      <edge source="anak__ogi" target="nenkmonica" id="196" weight="1" />
+      <edge source="anak__ogi" target="alisyarief" id="197" weight="1" />
+      <edge source="__nakula" target="danielht" id="198" weight="1" />
+      <edge source="__nakula" target="eil_thia" id="199" weight="1" />
+      <edge source="__nakula" target="gunromli" id="200" weight="1" />
+      <edge source="__nakula" target="dinihrdianti" id="201" weight="1" />
+      <edge source="__nakula" target="met" id="202" weight="1" />
+      <edge source="__nakula" target="__anakkolong" id="203" weight="1" />
+      <edge source="__nakula" target="_bungherwin" id="204" weight="1" />
+      <edge source="__nakula" target="ganjarpranowo" id="205" weight="1" />
+      <edge source="__nakula" target="dennysiregar" id="206" weight="1" />
+      <edge source="__nakula" target="islah_bahrawi" id="207" weight="1" />
+      <edge source="danielht" target="eil_thia" id="208" weight="1" />
+      <edge source="danielht" target="met" id="209" weight="1" />
+      <edge source="eil_thia" target="gunromli" id="210" weight="1" />
+      <edge source="eil_thia" target="dinihrdianti" id="211" weight="1" />
+      <edge source="eil_thia" target="met" id="212" weight="1" />
+      <edge source="eil_thia" target="arti_sebuahrasa" id="213" weight="1" />
+      <edge source="eil_thia" target="prabowo" id="214" weight="1" />
+      <edge source="eil_thia" target="erickthohir" id="215" weight="1" />
+      <edge source="eil_thia" target="ganjar_andika" id="216" weight="1" />
+      <edge source="dpp_pkb" target="aniesbaswedan" id="217" weight="1" />
+      <edge source="dpp_pkb" target="cakiminow" id="218" weight="1" />
+      <edge source="dpp_pkb" target="prabowo" id="219" weight="1" />
+      <edge source="dpp_pkb" target="ganjarpranowo" id="220" weight="1" />
+      <edge source="dpp_pkb" target="mohmahfudmd" id="221" weight="1" />
+      <edge source="dpp_pkb" target="erickthohir" id="222" weight="1" />
+      <edge source="dpp_pkb" target="yusrilihza_mhd" id="223" weight="1" />
+      <edge source="dpp_pkb" target="agusyudhoyono" id="224" weight="1" />
+      <edge source="dpp_pkb" target="airlangga_hrt" id="225" weight="1" />
+      <edge source="dpp_pkb" target="sandiuno" id="226" weight="1" />
+      <edge source="dpp_pkb" target="jokowi" id="227" weight="1" />
+      <edge source="dpp_pkb" target="generalmoeldoko" id="228" weight="1" />
+      <edge source="dpp_pkb" target="luhut_binsar" id="229" weight="1" />
+      <edge source="dpp_pkb" target="pdi_perjuangan" id="230" weight="1" />
+      <edge source="dpp_pkb" target="gerindra" id="231" weight="1" />
+      <edge source="dpp_pkb" target="pdemokrat" id="232" weight="1" />
+      <edge source="dpp_pkb" target="partaigolkar" id="233" weight="1" />
+      <edge source="dpp_pkb" target="pksejahtera" id="234" weight="1" />
+      <edge source="dpp_pkb" target="nasdem" id="235" weight="1" />
+      <edge source="dpp_pkb" target="officialdpp_pbb" id="236" weight="1" />
+      <edge source="dpp_pkb" target="iwanfals" id="237" weight="1" />
+      <edge source="dpp_pkb" target="gm_gm" id="238" weight="1" />
+      <edge source="dpp_pkb" target="jimlyas" id="239" weight="1" />
+      <edge source="dpp_pkb" target="sudjiwotedjo" id="240" weight="1" />
+      <edge source="dpp_pkb" target="matanajwa" id="241" weight="1" />
+      <edge source="dpp_pkb" target="najwashihab" id="242" weight="1" />
+      <edge source="dpp_pkb" target="tempodotco" id="243" weight="1" />
+      <edge source="dpp_pkb" target="narasinewsroom" id="244" weight="1" />
+      <edge source="dpp_pkb" target="namasayamelki" id="245" weight="1" />
+      <edge source="dpp_pkb" target="bemfisipui" id="246" weight="1" />
+      <edge source="dpp_pkb" target="bemui_official" id="247" weight="1" />
+      <edge source="dpp_pkb" target="bemunj_official" id="248" weight="1" />
+      <edge source="dpp_pkb" target="bemuns" id="249" weight="1" />
+      <edge source="dpp_pkb" target="bemundip_" id="250" weight="1" />
+      <edge source="dpp_pkb" target="bemunpas" id="251" weight="1" />
+      <edge source="dpp_pkb" target="bemunair_id" id="252" weight="1" />
+      <edge source="dpp_pkb" target="bemuny" id="253" weight="1" />
+      <edge source="dpp_pkb" target="bemunesa" id="254" weight="1" />
+      <edge source="dpp_pkb" target="dennysiregar" id="255" weight="1" />
+      <edge source="dpp_pkb" target="rosiannahi" id="256" weight="1" />
+      <edge source="dpp_pkb" target="corbuzier" id="257" weight="1" />
+      <edge source="dpp_pkb" target="islah_bahrawi" id="258" weight="1" />
+      <edge source="dpp_pkb" target="ismail" id="259" weight="1" />
+      <edge source="dpp_pkb" target="fahrihamzah" id="260" weight="1" />
+      <edge source="dpp_pkb" target="fadlizon" id="261" weight="1" />
+      <edge source="dpp_pkb" target="budimandjatmiko" id="262" weight="1" />
+      <edge source="dpp_pkb" target="faizalassegaf" id="263" weight="1" />
+      <edge source="dpp_pkb" target="dpp_partaiummat" id="264" weight="1" />
+      <edge source="aniesbaswedan" target="cakiminow" id="265" weight="1" />
+      <edge source="aniesbaswedan" target="mediaindonesia" id="266" weight="1" />
+      <edge source="aniesbaswedan" target="pkbbukannu" id="267" weight="1" />
+      <edge source="aniesbaswedan" target="agussantaiaja" id="268" weight="1" />
+      <edge source="aniesbaswedan" target="ans_muhamin" id="269" weight="1" />
+      <edge source="aniesbaswedan" target="ganjarpranowo" id="270" weight="1" />
+      <edge source="aniesbaswedan" target="mohmahfudmd" id="271" weight="1" />
+      <edge source="aniesbaswedan" target="bill" id="272" weight="1" />
+      <edge source="aniesbaswedan" target="aniesbaswedan" id="273" weight="1" />
+      <edge source="aniesbaswedan" target="dadangrusdi" id="274" weight="1" />
+      <edge source="aniesbaswedan" target="ali_van_jibril" id="275" weight="1" />
+      <edge source="aniesbaswedan" target="deaboy" id="276" weight="1" />
+      <edge source="aniesbaswedan" target="sigitwasito" id="277" weight="1" />
+      <edge source="aniesbaswedan" target="msaid_didu" id="278" weight="1" />
+      <edge source="aniesbaswedan" target="nasdem" id="279" weight="1" />
+      <edge source="aniesbaswedan" target="ahmadsahroni" id="280" weight="1" />
+      <edge source="aniesbaswedan" target="metro_tv" id="281" weight="1" />
+      <edge source="aniesbaswedan" target="prabowo" id="282" weight="1" />
+      <edge source="aniesbaswedan" target="erickthohir" id="283" weight="1" />
+      <edge source="aniesbaswedan" target="yusrilihza_mhd" id="284" weight="1" />
+      <edge source="aniesbaswedan" target="agusyudhoyono" id="285" weight="1" />
+      <edge source="aniesbaswedan" target="airlangga_hrt" id="286" weight="1" />
+      <edge source="aniesbaswedan" target="sandiuno" id="287" weight="1" />
+      <edge source="aniesbaswedan" target="jokowi" id="288" weight="1" />
+      <edge source="aniesbaswedan" target="generalmoeldoko" id="289" weight="1" />
+      <edge source="aniesbaswedan" target="luhut_binsar" id="290" weight="1" />
+      <edge source="aniesbaswedan" target="pdi_perjuangan" id="291" weight="1" />
+      <edge source="aniesbaswedan" target="gerindra" id="292" weight="1" />
+      <edge source="aniesbaswedan" target="pdemokrat" id="293" weight="1" />
+      <edge source="aniesbaswedan" target="partaigolkar" id="294" weight="1" />
+      <edge source="aniesbaswedan" target="pksejahtera" id="295" weight="1" />
+      <edge source="aniesbaswedan" target="officialdpp_pbb" id="296" weight="1" />
+      <edge source="aniesbaswedan" target="iwanfals" id="297" weight="1" />
+      <edge source="aniesbaswedan" target="gm_gm" id="298" weight="1" />
+      <edge source="aniesbaswedan" target="jimlyas" id="299" weight="1" />
+      <edge source="aniesbaswedan" target="sudjiwotedjo" id="300" weight="1" />
+      <edge source="aniesbaswedan" target="matanajwa" id="301" weight="1" />
+      <edge source="aniesbaswedan" target="najwashihab" id="302" weight="1" />
+      <edge source="aniesbaswedan" target="tempodotco" id="303" weight="1" />
+      <edge source="aniesbaswedan" target="narasinewsroom" id="304" weight="1" />
+      <edge source="aniesbaswedan" target="namasayamelki" id="305" weight="1" />
+      <edge source="aniesbaswedan" target="bemfisipui" id="306" weight="1" />
+      <edge source="aniesbaswedan" target="bemui_official" id="307" weight="1" />
+      <edge source="aniesbaswedan" target="bemunj_official" id="308" weight="1" />
+      <edge source="aniesbaswedan" target="bemuns" id="309" weight="1" />
+      <edge source="aniesbaswedan" target="bemundip_" id="310" weight="1" />
+      <edge source="aniesbaswedan" target="bemunpas" id="311" weight="1" />
+      <edge source="aniesbaswedan" target="bemunair_id" id="312" weight="1" />
+      <edge source="aniesbaswedan" target="bemuny" id="313" weight="1" />
+      <edge source="aniesbaswedan" target="bemunesa" id="314" weight="1" />
+      <edge source="aniesbaswedan" target="dennysiregar" id="315" weight="1" />
+      <edge source="aniesbaswedan" target="rosiannahi" id="316" weight="1" />
+      <edge source="aniesbaswedan" target="corbuzier" id="317" weight="1" />
+      <edge source="aniesbaswedan" target="islah_bahrawi" id="318" weight="1" />
+      <edge source="aniesbaswedan" target="ismail" id="319" weight="1" />
+      <edge source="aniesbaswedan" target="fahrihamzah" id="320" weight="1" />
+      <edge source="aniesbaswedan" target="fadlizon" id="321" weight="1" />
+      <edge source="aniesbaswedan" target="budimandjatmiko" id="322" weight="1" />
+      <edge source="aniesbaswedan" target="faizalassegaf" id="323" weight="1" />
+      <edge source="aniesbaswedan" target="m_nurfatoni" id="324" weight="1" />
+      <edge source="aniesbaswedan" target="bospurwa" id="325" weight="1" />
+      <edge source="aniesbaswedan" target="pribumituan" id="326" weight="1" />
+      <edge source="aniesbaswedan" target="pananggangan" id="327" weight="1" />
+      <edge source="aniesbaswedan" target="datuakrajoangek" id="328" weight="1" />
+      <edge source="aniesbaswedan" target="dpp_partaiummat" id="329" weight="1" />
+      <edge source="aniesbaswedan" target="poernoadinug" id="330" weight="1" />
+      <edge source="aniesbaswedan" target="bangpino__" id="331" weight="1" />
+      <edge source="aniesbaswedan" target="tita" id="332" weight="1" />
+      <edge source="aniesbaswedan" target="namoaryatara" id="333" weight="1" />
+      <edge source="aniesbaswedan" target="resty_j_cayah" id="334" weight="1" />
+      <edge source="aniesbaswedan" target="kentlooks" id="335" weight="1" />
+      <edge source="aniesbaswedan" target="stevn_pegl" id="336" weight="1" />
+      <edge source="aniesbaswedan" target="sumpanto" id="337" weight="1" />
+      <edge source="aniesbaswedan" target="kakekhalal" id="338" weight="1" />
+      <edge source="aniesbaswedan" target="zulkiflilubis" id="339" weight="1" />
+      <edge source="aniesbaswedan" target="muslim_antipki" id="340" weight="1" />
+      <edge source="aniesbaswedan" target="alisyarief" id="341" weight="1" />
+      <edge source="aniesbaswedan" target="hudakeyy" id="342" weight="1" />
+      <edge source="aniesbaswedan" target="knpiharis" id="343" weight="1" />
+      <edge source="aniesbaswedan" target="daeng_embang" id="344" weight="1" />
+      <edge source="aniesbaswedan" target="alnilamomar" id="345" weight="1" />
+      <edge source="aniesbaswedan" target="narkosun" id="346" weight="1" />
+      <edge source="aniesbaswedan" target="bungkustukang" id="347" weight="1" />
+      <edge source="aniesbaswedan" target="tan_marm" id="348" weight="1" />
+      <edge source="aniesbaswedan" target="parmansanjaya" id="349" weight="1" />
+      <edge source="aniesbaswedan" target="kompastv" id="350" weight="1" />
+      <edge source="aniesbaswedan" target="protonindo" id="351" weight="1" />
+      <edge source="aniesbaswedan" target="teddgus" id="352" weight="1" />
+      <edge source="aniesbaswedan" target="triadeamarullo" id="353" weight="1" />
+      <edge source="aniesbaswedan" target="kpk_ri" id="354" weight="1" />
+      <edge source="aniesbaswedan" target="rockygerung" id="355" weight="1" />
+      <edge source="cakiminow" target="pkbbukannu" id="356" weight="1" />
+      <edge source="cakiminow" target="agussantaiaja" id="357" weight="1" />
+      <edge source="cakiminow" target="ans_muhamin" id="358" weight="1" />
+      <edge source="cakiminow" target="ganjarpranowo" id="359" weight="1" />
+      <edge source="cakiminow" target="mohmahfudmd" id="360" weight="1" />
+      <edge source="cakiminow" target="bill" id="361" weight="1" />
+      <edge source="cakiminow" target="coredao_idn" id="362" weight="1" />
+      <edge source="cakiminow" target="bangpino__" id="363" weight="1" />
+      <edge source="cakiminow" target="metro_tv" id="364" weight="1" />
+      <edge source="cakiminow" target="prabowo" id="365" weight="1" />
+      <edge source="cakiminow" target="erickthohir" id="366" weight="1" />
+      <edge source="cakiminow" target="yusrilihza_mhd" id="367" weight="1" />
+      <edge source="cakiminow" target="agusyudhoyono" id="368" weight="1" />
+      <edge source="cakiminow" target="airlangga_hrt" id="369" weight="1" />
+      <edge source="cakiminow" target="sandiuno" id="370" weight="1" />
+      <edge source="cakiminow" target="jokowi" id="371" weight="1" />
+      <edge source="cakiminow" target="generalmoeldoko" id="372" weight="1" />
+      <edge source="cakiminow" target="luhut_binsar" id="373" weight="1" />
+      <edge source="cakiminow" target="pdi_perjuangan" id="374" weight="1" />
+      <edge source="cakiminow" target="gerindra" id="375" weight="1" />
+      <edge source="cakiminow" target="pdemokrat" id="376" weight="1" />
+      <edge source="cakiminow" target="partaigolkar" id="377" weight="1" />
+      <edge source="cakiminow" target="pksejahtera" id="378" weight="1" />
+      <edge source="cakiminow" target="nasdem" id="379" weight="1" />
+      <edge source="cakiminow" target="officialdpp_pbb" id="380" weight="1" />
+      <edge source="cakiminow" target="iwanfals" id="381" weight="1" />
+      <edge source="cakiminow" target="gm_gm" id="382" weight="1" />
+      <edge source="cakiminow" target="jimlyas" id="383" weight="1" />
+      <edge source="cakiminow" target="sudjiwotedjo" id="384" weight="1" />
+      <edge source="cakiminow" target="matanajwa" id="385" weight="1" />
+      <edge source="cakiminow" target="najwashihab" id="386" weight="1" />
+      <edge source="cakiminow" target="tempodotco" id="387" weight="1" />
+      <edge source="cakiminow" target="narasinewsroom" id="388" weight="1" />
+      <edge source="cakiminow" target="namasayamelki" id="389" weight="1" />
+      <edge source="cakiminow" target="bemfisipui" id="390" weight="1" />
+      <edge source="cakiminow" target="bemui_official" id="391" weight="1" />
+      <edge source="cakiminow" target="bemunj_official" id="392" weight="1" />
+      <edge source="cakiminow" target="bemuns" id="393" weight="1" />
+      <edge source="cakiminow" target="bemundip_" id="394" weight="1" />
+      <edge source="cakiminow" target="bemunpas" id="395" weight="1" />
+      <edge source="cakiminow" target="bemunair_id" id="396" weight="1" />
+      <edge source="cakiminow" target="bemuny" id="397" weight="1" />
+      <edge source="cakiminow" target="bemunesa" id="398" weight="1" />
+      <edge source="cakiminow" target="dennysiregar" id="399" weight="1" />
+      <edge source="cakiminow" target="rosiannahi" id="400" weight="1" />
+      <edge source="cakiminow" target="corbuzier" id="401" weight="1" />
+      <edge source="cakiminow" target="islah_bahrawi" id="402" weight="1" />
+      <edge source="cakiminow" target="ismail" id="403" weight="1" />
+      <edge source="cakiminow" target="fahrihamzah" id="404" weight="1" />
+      <edge source="cakiminow" target="fadlizon" id="405" weight="1" />
+      <edge source="cakiminow" target="budimandjatmiko" id="406" weight="1" />
+      <edge source="cakiminow" target="faizalassegaf" id="407" weight="1" />
+      <edge source="cakiminow" target="detikcom" id="408" weight="1" />
+      <edge source="cakiminow" target="pananggangan" id="409" weight="1" />
+      <edge source="cakiminow" target="datuakrajoangek" id="410" weight="1" />
+      <edge source="cakiminow" target="dpp_partaiummat" id="411" weight="1" />
+      <edge source="cakiminow" target="resty_j_cayah" id="412" weight="1" />
+      <edge source="cakiminow" target="kentlooks" id="413" weight="1" />
+      <edge source="cakiminow" target="stevn_pegl" id="414" weight="1" />
+      <edge source="cakiminow" target="sumpanto" id="415" weight="1" />
+      <edge source="cakiminow" target="kakekhalal" id="416" weight="1" />
+      <edge source="cakiminow" target="zulkiflilubis" id="417" weight="1" />
+      <edge source="cakiminow" target="muslim_antipki" id="418" weight="1" />
+      <edge source="cakiminow" target="alisyarief" id="419" weight="1" />
+      <edge source="cakiminow" target="hudakeyy" id="420" weight="1" />
+      <edge source="cakiminow" target="knpiharis" id="421" weight="1" />
+      <edge source="cakiminow" target="daeng_embang" id="422" weight="1" />
+      <edge source="cakiminow" target="alnilamomar" id="423" weight="1" />
+      <edge source="cakiminow" target="narkosun" id="424" weight="1" />
+      <edge source="cakiminow" target="bungkustukang" id="425" weight="1" />
+      <edge source="cakiminow" target="tan_marm" id="426" weight="1" />
+      <edge source="yusuf_dumdum" target="mohmahfudmd" id="427" weight="1" />
+      <edge source="yusuf_dumdum" target="ganjarpranowo" id="428" weight="1" />
+      <edge source="yusuf_dumdum" target="pdi_perjuangan" id="429" weight="1" />
+      <edge source="yusuf_dumdum" target="ulasasih" id="430" weight="1" />
+      <edge source="yusuf_dumdum" target="kaladium" id="431" weight="1" />
+      <edge source="mohmahfudmd" target="ganjarpranowo" id="432" weight="1" />
+      <edge source="mohmahfudmd" target="pdi_perjuangan" id="433" weight="1" />
+      <edge source="mohmahfudmd" target="achmadfauzi_wy" id="434" weight="1" />
+      <edge source="mohmahfudmd" target="pkbbukannu" id="435" weight="1" />
+      <edge source="mohmahfudmd" target="agussantaiaja" id="436" weight="1" />
+      <edge source="mohmahfudmd" target="ans_muhamin" id="437" weight="1" />
+      <edge source="mohmahfudmd" target="bill" id="438" weight="1" />
+      <edge source="mohmahfudmd" target="husinshihab" id="439" weight="1" />
+      <edge source="mohmahfudmd" target="prabowo" id="440" weight="1" />
+      <edge source="mohmahfudmd" target="erickthohir" id="441" weight="1" />
+      <edge source="mohmahfudmd" target="yusrilihza_mhd" id="442" weight="1" />
+      <edge source="mohmahfudmd" target="agusyudhoyono" id="443" weight="1" />
+      <edge source="mohmahfudmd" target="airlangga_hrt" id="444" weight="1" />
+      <edge source="mohmahfudmd" target="sandiuno" id="445" weight="1" />
+      <edge source="mohmahfudmd" target="jokowi" id="446" weight="1" />
+      <edge source="mohmahfudmd" target="generalmoeldoko" id="447" weight="1" />
+      <edge source="mohmahfudmd" target="luhut_binsar" id="448" weight="1" />
+      <edge source="mohmahfudmd" target="gerindra" id="449" weight="1" />
+      <edge source="mohmahfudmd" target="pdemokrat" id="450" weight="1" />
+      <edge source="mohmahfudmd" target="partaigolkar" id="451" weight="1" />
+      <edge source="mohmahfudmd" target="pksejahtera" id="452" weight="1" />
+      <edge source="mohmahfudmd" target="nasdem" id="453" weight="1" />
+      <edge source="mohmahfudmd" target="officialdpp_pbb" id="454" weight="1" />
+      <edge source="mohmahfudmd" target="iwanfals" id="455" weight="1" />
+      <edge source="mohmahfudmd" target="gm_gm" id="456" weight="1" />
+      <edge source="mohmahfudmd" target="mohmahfudmd" id="457" weight="1" />
+      <edge source="mohmahfudmd" target="jimlyas" id="458" weight="1" />
+      <edge source="mohmahfudmd" target="sudjiwotedjo" id="459" weight="1" />
+      <edge source="mohmahfudmd" target="matanajwa" id="460" weight="1" />
+      <edge source="mohmahfudmd" target="najwashihab" id="461" weight="1" />
+      <edge source="mohmahfudmd" target="tempodotco" id="462" weight="1" />
+      <edge source="mohmahfudmd" target="narasinewsroom" id="463" weight="1" />
+      <edge source="mohmahfudmd" target="namasayamelki" id="464" weight="1" />
+      <edge source="mohmahfudmd" target="bemfisipui" id="465" weight="1" />
+      <edge source="mohmahfudmd" target="bemui_official" id="466" weight="1" />
+      <edge source="mohmahfudmd" target="bemunj_official" id="467" weight="1" />
+      <edge source="mohmahfudmd" target="bemuns" id="468" weight="1" />
+      <edge source="mohmahfudmd" target="bemundip_" id="469" weight="1" />
+      <edge source="mohmahfudmd" target="bemunpas" id="470" weight="1" />
+      <edge source="mohmahfudmd" target="bemunair_id" id="471" weight="1" />
+      <edge source="mohmahfudmd" target="bemuny" id="472" weight="1" />
+      <edge source="mohmahfudmd" target="bemunesa" id="473" weight="1" />
+      <edge source="mohmahfudmd" target="dennysiregar" id="474" weight="1" />
+      <edge source="mohmahfudmd" target="rosiannahi" id="475" weight="1" />
+      <edge source="mohmahfudmd" target="corbuzier" id="476" weight="1" />
+      <edge source="mohmahfudmd" target="islah_bahrawi" id="477" weight="1" />
+      <edge source="mohmahfudmd" target="ismail" id="478" weight="1" />
+      <edge source="mohmahfudmd" target="fahrihamzah" id="479" weight="1" />
+      <edge source="mohmahfudmd" target="fadlizon" id="480" weight="1" />
+      <edge source="mohmahfudmd" target="budimandjatmiko" id="481" weight="1" />
+      <edge source="mohmahfudmd" target="faizalassegaf" id="482" weight="1" />
+      <edge source="mohmahfudmd" target="ynkfz" id="483" weight="1" />
+      <edge source="mohmahfudmd" target="arsjadrasjid" id="484" weight="1" />
+      <edge source="mohmahfudmd" target="tita" id="485" weight="1" />
+      <edge source="mohmahfudmd" target="namoaryatara" id="486" weight="1" />
+      <edge source="mohmahfudmd" target="savicali" id="487" weight="1" />
+      <edge source="mohmahfudmd" target="alissawahid" id="488" weight="1" />
+      <edge source="mohmahfudmd" target="kentlooks" id="489" weight="1" />
+      <edge source="mohmahfudmd" target="stevn_pegl" id="490" weight="1" />
+      <edge source="mohmahfudmd" target="sumpanto" id="491" weight="1" />
+      <edge source="mohmahfudmd" target="kakekhalal" id="492" weight="1" />
+      <edge source="mohmahfudmd" target="stefanantonio__" id="493" weight="1" />
+      <edge source="mohmahfudmd" target="rstmbcl" id="494" weight="1" />
+      <edge source="mohmahfudmd" target="airindatanglagi" id="495" weight="1" />
+      <edge source="mohmahfudmd" target="deddysitorus" id="496" weight="1" />
+      <edge source="mohmahfudmd" target="zulkiflilubis" id="497" weight="1" />
+      <edge source="mohmahfudmd" target="muslim_antipki" id="498" weight="1" />
+      <edge source="mohmahfudmd" target="alisyarief" id="499" weight="1" />
+      <edge source="mohmahfudmd" target="hudakeyy" id="500" weight="1" />
+      <edge source="mohmahfudmd" target="knpiharis" id="501" weight="1" />
+      <edge source="mohmahfudmd" target="daeng_embang" id="502" weight="1" />
+      <edge source="mohmahfudmd" target="alnilamomar" id="503" weight="1" />
+      <edge source="mohmahfudmd" target="narkosun" id="504" weight="1" />
+      <edge source="mohmahfudmd" target="bungkustukang" id="505" weight="1" />
+      <edge source="mohmahfudmd" target="tan_marm" id="506" weight="1" />
+      <edge source="mohmahfudmd" target="cnnindonesia" id="507" weight="1" />
+      <edge source="mohmahfudmd" target="bambangmulyonoo" id="508" weight="1" />
+      <edge source="mohmahfudmd" target="aniesbaswedasekarang" id="509" weight="1" />
+      <edge source="ganjarpranowo" target="pdi_perjuangan" id="510" weight="1" />
+      <edge source="ganjarpranowo" target="pkbbukannu" id="511" weight="1" />
+      <edge source="ganjarpranowo" target="agussantaiaja" id="512" weight="1" />
+      <edge source="ganjarpranowo" target="ans_muhamin" id="513" weight="1" />
+      <edge source="ganjarpranowo" target="bill" id="514" weight="1" />
+      <edge source="ganjarpranowo" target="husinshihab" id="515" weight="1" />
+      <edge source="ganjarpranowo" target="prabowo" id="516" weight="1" />
+      <edge source="ganjarpranowo" target="erickthohir" id="517" weight="1" />
+      <edge source="ganjarpranowo" target="yusrilihza_mhd" id="518" weight="1" />
+      <edge source="ganjarpranowo" target="agusyudhoyono" id="519" weight="1" />
+      <edge source="ganjarpranowo" target="airlangga_hrt" id="520" weight="1" />
+      <edge source="ganjarpranowo" target="sandiuno" id="521" weight="1" />
+      <edge source="ganjarpranowo" target="jokowi" id="522" weight="1" />
+      <edge source="ganjarpranowo" target="generalmoeldoko" id="523" weight="1" />
+      <edge source="ganjarpranowo" target="luhut_binsar" id="524" weight="1" />
+      <edge source="ganjarpranowo" target="gerindra" id="525" weight="1" />
+      <edge source="ganjarpranowo" target="pdemokrat" id="526" weight="1" />
+      <edge source="ganjarpranowo" target="partaigolkar" id="527" weight="1" />
+      <edge source="ganjarpranowo" target="pksejahtera" id="528" weight="1" />
+      <edge source="ganjarpranowo" target="nasdem" id="529" weight="1" />
+      <edge source="ganjarpranowo" target="officialdpp_pbb" id="530" weight="1" />
+      <edge source="ganjarpranowo" target="iwanfals" id="531" weight="1" />
+      <edge source="ganjarpranowo" target="gm_gm" id="532" weight="1" />
+      <edge source="ganjarpranowo" target="jimlyas" id="533" weight="1" />
+      <edge source="ganjarpranowo" target="sudjiwotedjo" id="534" weight="1" />
+      <edge source="ganjarpranowo" target="matanajwa" id="535" weight="1" />
+      <edge source="ganjarpranowo" target="najwashihab" id="536" weight="1" />
+      <edge source="ganjarpranowo" target="tempodotco" id="537" weight="1" />
+      <edge source="ganjarpranowo" target="narasinewsroom" id="538" weight="1" />
+      <edge source="ganjarpranowo" target="namasayamelki" id="539" weight="1" />
+      <edge source="ganjarpranowo" target="bemfisipui" id="540" weight="1" />
+      <edge source="ganjarpranowo" target="bemui_official" id="541" weight="1" />
+      <edge source="ganjarpranowo" target="bemunj_official" id="542" weight="1" />
+      <edge source="ganjarpranowo" target="bemuns" id="543" weight="1" />
+      <edge source="ganjarpranowo" target="bemundip_" id="544" weight="1" />
+      <edge source="ganjarpranowo" target="bemunpas" id="545" weight="1" />
+      <edge source="ganjarpranowo" target="bemunair_id" id="546" weight="1" />
+      <edge source="ganjarpranowo" target="bemuny" id="547" weight="1" />
+      <edge source="ganjarpranowo" target="bemunesa" id="548" weight="1" />
+      <edge source="ganjarpranowo" target="dennysiregar" id="549" weight="1" />
+      <edge source="ganjarpranowo" target="rosiannahi" id="550" weight="1" />
+      <edge source="ganjarpranowo" target="corbuzier" id="551" weight="1" />
+      <edge source="ganjarpranowo" target="islah_bahrawi" id="552" weight="1" />
+      <edge source="ganjarpranowo" target="ismail" id="553" weight="1" />
+      <edge source="ganjarpranowo" target="fahrihamzah" id="554" weight="1" />
+      <edge source="ganjarpranowo" target="fadlizon" id="555" weight="1" />
+      <edge source="ganjarpranowo" target="budimandjatmiko" id="556" weight="1" />
+      <edge source="ganjarpranowo" target="faizalassegaf" id="557" weight="1" />
+      <edge source="ganjarpranowo" target="deddysitorus" id="558" weight="1" />
+      <edge source="ganjarpranowo" target="ynkfz" id="559" weight="1" />
+      <edge source="ganjarpranowo" target="arsjadrasjid" id="560" weight="1" />
+      <edge source="ganjarpranowo" target="rizkirmadani" id="561" weight="1" />
+      <edge source="ganjarpranowo" target="tita" id="562" weight="1" />
+      <edge source="ganjarpranowo" target="ganjarpranowo" id="563" weight="1" />
+      <edge source="ganjarpranowo" target="abunawa" id="564" weight="1" />
+      <edge source="ganjarpranowo" target="namoaryatara" id="565" weight="1" />
+      <edge source="ganjarpranowo" target="__anakkolong" id="566" weight="1" />
+      <edge source="ganjarpranowo" target="_bungherwin" id="567" weight="1" />
+      <edge source="ganjarpranowo" target="gunromli" id="568" weight="1" />
+      <edge source="ganjarpranowo" target="savicali" id="569" weight="1" />
+      <edge source="ganjarpranowo" target="alissawahid" id="570" weight="1" />
+      <edge source="ganjarpranowo" target="kentlooks" id="571" weight="1" />
+      <edge source="ganjarpranowo" target="stevn_pegl" id="572" weight="1" />
+      <edge source="ganjarpranowo" target="sumpanto" id="573" weight="1" />
+      <edge source="ganjarpranowo" target="kakekhalal" id="574" weight="1" />
+      <edge source="ganjarpranowo" target="stefanantonio__" id="575" weight="1" />
+      <edge source="ganjarpranowo" target="rstmbcl" id="576" weight="1" />
+      <edge source="ganjarpranowo" target="airindatanglagi" id="577" weight="1" />
+      <edge source="ganjarpranowo" target="simanjuntakelly" id="578" weight="1" />
+      <edge source="ganjarpranowo" target="zulkiflilubis" id="579" weight="1" />
+      <edge source="ganjarpranowo" target="muslim_antipki" id="580" weight="1" />
+      <edge source="ganjarpranowo" target="alisyarief" id="581" weight="1" />
+      <edge source="ganjarpranowo" target="hudakeyy" id="582" weight="1" />
+      <edge source="ganjarpranowo" target="knpiharis" id="583" weight="1" />
+      <edge source="ganjarpranowo" target="daeng_embang" id="584" weight="1" />
+      <edge source="ganjarpranowo" target="alnilamomar" id="585" weight="1" />
+      <edge source="ganjarpranowo" target="narkosun" id="586" weight="1" />
+      <edge source="ganjarpranowo" target="bungkustukang" id="587" weight="1" />
+      <edge source="ganjarpranowo" target="tan_marm" id="588" weight="1" />
+      <edge source="ganjarpranowo" target="bambangmulyonoo" id="589" weight="1" />
+      <edge source="ganjarpranowo" target="aniesbaswedasekarang" id="590" weight="1" />
+      <edge source="ganjarpranowo" target="melihat_indo" id="591" weight="1" />
+      <edge source="ganjarpranowo" target="avataraang" id="592" weight="1" />
+      <edge source="ganjarpranowo" target="printingzo" id="593" weight="1" />
+      <edge source="ganjarpranowo" target="sgm_mks" id="594" weight="1" />
+      <edge source="ganjarpranowo" target="teddgus" id="595" weight="1" />
+      <edge source="pdi_perjuangan" target="prabowo" id="596" weight="1" />
+      <edge source="pdi_perjuangan" target="erickthohir" id="597" weight="1" />
+      <edge source="pdi_perjuangan" target="yusrilihza_mhd" id="598" weight="1" />
+      <edge source="pdi_perjuangan" target="agusyudhoyono" id="599" weight="1" />
+      <edge source="pdi_perjuangan" target="airlangga_hrt" id="600" weight="1" />
+      <edge source="pdi_perjuangan" target="sandiuno" id="601" weight="1" />
+      <edge source="pdi_perjuangan" target="jokowi" id="602" weight="1" />
+      <edge source="pdi_perjuangan" target="generalmoeldoko" id="603" weight="1" />
+      <edge source="pdi_perjuangan" target="luhut_binsar" id="604" weight="1" />
+      <edge source="pdi_perjuangan" target="gerindra" id="605" weight="1" />
+      <edge source="pdi_perjuangan" target="pdemokrat" id="606" weight="1" />
+      <edge source="pdi_perjuangan" target="partaigolkar" id="607" weight="1" />
+      <edge source="pdi_perjuangan" target="pksejahtera" id="608" weight="1" />
+      <edge source="pdi_perjuangan" target="nasdem" id="609" weight="1" />
+      <edge source="pdi_perjuangan" target="officialdpp_pbb" id="610" weight="1" />
+      <edge source="pdi_perjuangan" target="iwanfals" id="611" weight="1" />
+      <edge source="pdi_perjuangan" target="gm_gm" id="612" weight="1" />
+      <edge source="pdi_perjuangan" target="jimlyas" id="613" weight="1" />
+      <edge source="pdi_perjuangan" target="sudjiwotedjo" id="614" weight="1" />
+      <edge source="pdi_perjuangan" target="matanajwa" id="615" weight="1" />
+      <edge source="pdi_perjuangan" target="najwashihab" id="616" weight="1" />
+      <edge source="pdi_perjuangan" target="tempodotco" id="617" weight="1" />
+      <edge source="pdi_perjuangan" target="narasinewsroom" id="618" weight="1" />
+      <edge source="pdi_perjuangan" target="namasayamelki" id="619" weight="1" />
+      <edge source="pdi_perjuangan" target="bemfisipui" id="620" weight="1" />
+      <edge source="pdi_perjuangan" target="bemui_official" id="621" weight="1" />
+      <edge source="pdi_perjuangan" target="bemunj_official" id="622" weight="1" />
+      <edge source="pdi_perjuangan" target="bemuns" id="623" weight="1" />
+      <edge source="pdi_perjuangan" target="bemundip_" id="624" weight="1" />
+      <edge source="pdi_perjuangan" target="bemunpas" id="625" weight="1" />
+      <edge source="pdi_perjuangan" target="bemunair_id" id="626" weight="1" />
+      <edge source="pdi_perjuangan" target="bemuny" id="627" weight="1" />
+      <edge source="pdi_perjuangan" target="bemunesa" id="628" weight="1" />
+      <edge source="pdi_perjuangan" target="dennysiregar" id="629" weight="1" />
+      <edge source="pdi_perjuangan" target="rosiannahi" id="630" weight="1" />
+      <edge source="pdi_perjuangan" target="corbuzier" id="631" weight="1" />
+      <edge source="pdi_perjuangan" target="islah_bahrawi" id="632" weight="1" />
+      <edge source="pdi_perjuangan" target="ismail" id="633" weight="1" />
+      <edge source="pdi_perjuangan" target="fahrihamzah" id="634" weight="1" />
+      <edge source="pdi_perjuangan" target="fadlizon" id="635" weight="1" />
+      <edge source="pdi_perjuangan" target="budimandjatmiko" id="636" weight="1" />
+      <edge source="pdi_perjuangan" target="faizalassegaf" id="637" weight="1" />
+      <edge source="pdi_perjuangan" target="deddysitorus" id="638" weight="1" />
+      <edge source="pdi_perjuangan" target="savicali" id="639" weight="1" />
+      <edge source="pdi_perjuangan" target="alissawahid" id="640" weight="1" />
+      <edge source="pdi_perjuangan" target="arsjadrasjid" id="641" weight="1" />
+      <edge source="pdi_perjuangan" target="kakekhalal" id="642" weight="1" />
+      <edge source="pdi_perjuangan" target="aniesbaswedasekarang" id="643" weight="1" />
+      <edge source="pdi_perjuangan" target="ninacarla" id="644" weight="1" />
+      <edge source="sugeng" target="mediaindonesia" id="645" weight="1" />
+      <edge source="mediaindonesia" target="oryzapari" id="646" weight="1" />
+      <edge source="mediaindonesia" target="bandunganies" id="647" weight="1" />
+      <edge source="mediaindonesia" target="rizalisanst" id="648" weight="1" />
+      <edge source="mediaindonesia" target="ariefkasam" id="649" weight="1" />
+      <edge source="mediaindonesia" target="agusssbaskoro" id="650" weight="1" />
+      <edge source="mediaindonesia" target="benyamin" id="651" weight="1" />
+      <edge source="bandunganies" target="rizalisanst" id="652" weight="1" />
+      <edge source="ariefkasam" target="kompastv" id="653" weight="1" />
+      <edge source="thebest" target="husinshihab" id="654" weight="1" />
+      <edge source="husinshihab" target="andre" id="655" weight="1" />
+      <edge source="husinshihab" target="husinshihab" id="656" weight="1" />
+      <edge source="husinshihab" target="rissech" id="657" weight="1" />
+      <edge source="blackcoffee" target="alegiggle" id="658" weight="1" />
+      <edge source="blackcoffee" target="dennysiregar" id="659" weight="1" />
+      <edge source="alegiggle" target="dennysiregar" id="660" weight="1" />
+      <edge source="dennysiregar" target="prabowo" id="661" weight="1" />
+      <edge source="dennysiregar" target="erickthohir" id="662" weight="1" />
+      <edge source="dennysiregar" target="yusrilihza_mhd" id="663" weight="1" />
+      <edge source="dennysiregar" target="agusyudhoyono" id="664" weight="1" />
+      <edge source="dennysiregar" target="airlangga_hrt" id="665" weight="1" />
+      <edge source="dennysiregar" target="sandiuno" id="666" weight="1" />
+      <edge source="dennysiregar" target="jokowi" id="667" weight="1" />
+      <edge source="dennysiregar" target="generalmoeldoko" id="668" weight="1" />
+      <edge source="dennysiregar" target="luhut_binsar" id="669" weight="1" />
+      <edge source="dennysiregar" target="gerindra" id="670" weight="1" />
+      <edge source="dennysiregar" target="pdemokrat" id="671" weight="1" />
+      <edge source="dennysiregar" target="partaigolkar" id="672" weight="1" />
+      <edge source="dennysiregar" target="pksejahtera" id="673" weight="1" />
+      <edge source="dennysiregar" target="nasdem" id="674" weight="1" />
+      <edge source="dennysiregar" target="officialdpp_pbb" id="675" weight="1" />
+      <edge source="dennysiregar" target="iwanfals" id="676" weight="1" />
+      <edge source="dennysiregar" target="gm_gm" id="677" weight="1" />
+      <edge source="dennysiregar" target="jimlyas" id="678" weight="1" />
+      <edge source="dennysiregar" target="sudjiwotedjo" id="679" weight="1" />
+      <edge source="dennysiregar" target="matanajwa" id="680" weight="1" />
+      <edge source="dennysiregar" target="najwashihab" id="681" weight="1" />
+      <edge source="dennysiregar" target="tempodotco" id="682" weight="1" />
+      <edge source="dennysiregar" target="narasinewsroom" id="683" weight="1" />
+      <edge source="dennysiregar" target="namasayamelki" id="684" weight="1" />
+      <edge source="dennysiregar" target="bemfisipui" id="685" weight="1" />
+      <edge source="dennysiregar" target="bemui_official" id="686" weight="1" />
+      <edge source="dennysiregar" target="bemunj_official" id="687" weight="1" />
+      <edge source="dennysiregar" target="bemuns" id="688" weight="1" />
+      <edge source="dennysiregar" target="bemundip_" id="689" weight="1" />
+      <edge source="dennysiregar" target="bemunpas" id="690" weight="1" />
+      <edge source="dennysiregar" target="bemunair_id" id="691" weight="1" />
+      <edge source="dennysiregar" target="bemuny" id="692" weight="1" />
+      <edge source="dennysiregar" target="bemunesa" id="693" weight="1" />
+      <edge source="dennysiregar" target="rosiannahi" id="694" weight="1" />
+      <edge source="dennysiregar" target="corbuzier" id="695" weight="1" />
+      <edge source="dennysiregar" target="islah_bahrawi" id="696" weight="1" />
+      <edge source="dennysiregar" target="ismail" id="697" weight="1" />
+      <edge source="dennysiregar" target="fahrihamzah" id="698" weight="1" />
+      <edge source="dennysiregar" target="fadlizon" id="699" weight="1" />
+      <edge source="dennysiregar" target="budimandjatmiko" id="700" weight="1" />
+      <edge source="dennysiregar" target="faizalassegaf" id="701" weight="1" />
+      <edge source="dennysiregar" target="ekowboy" id="702" weight="1" />
+      <edge source="dennysiregar" target="__anakkolong" id="703" weight="1" />
+      <edge source="dennysiregar" target="_bungherwin" id="704" weight="1" />
+      <edge source="dennysiregar" target="gunromli" id="705" weight="1" />
+      <edge source="dennysiregar" target="mbroo" id="706" weight="1" />
+      <edge source="dennysiregar" target="andiarief__" id="707" weight="1" />
+      <edge source="dennysiregar" target="gus_munozz" id="708" weight="1" />
+      <edge source="dennysiregar" target="ekokuntadhi" id="709" weight="1" />
+      <edge source="dennysiregar" target="cnnindonesia" id="710" weight="1" />
+      <edge source="dennysiregar" target="yaqutcqoumas" id="711" weight="1" />
+      <edge source="dennysiregar" target="permadiaktifis" id="712" weight="1" />
+      <edge source="dennysiregar" target="putry_nusantara" id="713" weight="1" />
+      <edge source="homo_sapiens" target="ajegilelu" id="714" weight="1" />
+      <edge source="homo_sapiens" target="budi_" id="715" weight="1" />
+      <edge source="homo_sapiens" target="indrahwk" id="716" weight="1" />
+      <edge source="homo_sapiens" target="berserk" id="717" weight="1" />
+      <edge source="homo_sapiens" target="ramlirizal" id="718" weight="1" />
+      <edge source="homo_sapiens" target="sahabat_bangsa" id="719" weight="1" />
+      <edge source="homo_sapiens" target="mdy_asmara" id="720" weight="1" />
+      <edge source="homo_sapiens" target="yosnggarang" id="721" weight="1" />
+      <edge source="homo_sapiens" target="anthonybudiawan" id="722" weight="1" />
+      <edge source="homo_sapiens" target="halohohenrykus" id="723" weight="1" />
+      <edge source="homo_sapiens" target="paltiwest" id="724" weight="1" />
+      <edge source="homo_sapiens" target="firman__nurhuda" id="725" weight="1" />
+      <edge source="homo_sapiens" target="msaid_didu" id="726" weight="1" />
+      <edge source="homo_sapiens" target="adearmando" id="727" weight="1" />
+      <edge source="homo_sapiens" target="wahyu_uniform" id="728" weight="1" />
+      <edge source="ajegilelu" target="budi_" id="729" weight="1" />
+      <edge source="ajegilelu" target="indrahwk" id="730" weight="1" />
+      <edge source="ajegilelu" target="berserk" id="731" weight="1" />
+      <edge source="ajegilelu" target="ramlirizal" id="732" weight="1" />
+      <edge source="ajegilelu" target="sahabat_bangsa" id="733" weight="1" />
+      <edge source="ajegilelu" target="mdy_asmara" id="734" weight="1" />
+      <edge source="ajegilelu" target="yosnggarang" id="735" weight="1" />
+      <edge source="ajegilelu" target="anthonybudiawan" id="736" weight="1" />
+      <edge source="ajegilelu" target="halohohenrykus" id="737" weight="1" />
+      <edge source="ajegilelu" target="paltiwest" id="738" weight="1" />
+      <edge source="ajegilelu" target="firman__nurhuda" id="739" weight="1" />
+      <edge source="ajegilelu" target="msaid_didu" id="740" weight="1" />
+      <edge source="ajegilelu" target="adearmando" id="741" weight="1" />
+      <edge source="ajegilelu" target="wahyu_uniform" id="742" weight="1" />
+      <edge source="ajegilelu" target="melodiasyik" id="743" weight="1" />
+      <edge source="budi_" target="indrahwk" id="744" weight="1" />
+      <edge source="budi_" target="berserk" id="745" weight="1" />
+      <edge source="budi_" target="ramlirizal" id="746" weight="1" />
+      <edge source="budi_" target="sahabat_bangsa" id="747" weight="1" />
+      <edge source="budi_" target="mdy_asmara" id="748" weight="1" />
+      <edge source="budi_" target="yosnggarang" id="749" weight="1" />
+      <edge source="budi_" target="anthonybudiawan" id="750" weight="1" />
+      <edge source="budi_" target="halohohenrykus" id="751" weight="1" />
+      <edge source="budi_" target="paltiwest" id="752" weight="1" />
+      <edge source="budi_" target="firman__nurhuda" id="753" weight="1" />
+      <edge source="budi_" target="msaid_didu" id="754" weight="1" />
+      <edge source="budi_" target="adearmando" id="755" weight="1" />
+      <edge source="budi_" target="wahyu_uniform" id="756" weight="1" />
+      <edge source="budi_" target="melodiasyik" id="757" weight="1" />
+      <edge source="indrahwk" target="berserk" id="758" weight="1" />
+      <edge source="indrahwk" target="ramlirizal" id="759" weight="1" />
+      <edge source="indrahwk" target="sahabat_bangsa" id="760" weight="1" />
+      <edge source="indrahwk" target="mdy_asmara" id="761" weight="1" />
+      <edge source="indrahwk" target="yosnggarang" id="762" weight="1" />
+      <edge source="indrahwk" target="anthonybudiawan" id="763" weight="1" />
+      <edge source="indrahwk" target="halohohenrykus" id="764" weight="1" />
+      <edge source="indrahwk" target="paltiwest" id="765" weight="1" />
+      <edge source="indrahwk" target="firman__nurhuda" id="766" weight="1" />
+      <edge source="indrahwk" target="msaid_didu" id="767" weight="1" />
+      <edge source="indrahwk" target="adearmando" id="768" weight="1" />
+      <edge source="indrahwk" target="wahyu_uniform" id="769" weight="1" />
+      <edge source="indrahwk" target="melodiasyik" id="770" weight="1" />
+      <edge source="berserk" target="ramlirizal" id="771" weight="1" />
+      <edge source="berserk" target="sahabat_bangsa" id="772" weight="1" />
+      <edge source="berserk" target="mdy_asmara" id="773" weight="1" />
+      <edge source="berserk" target="yosnggarang" id="774" weight="1" />
+      <edge source="berserk" target="anthonybudiawan" id="775" weight="1" />
+      <edge source="berserk" target="halohohenrykus" id="776" weight="1" />
+      <edge source="berserk" target="paltiwest" id="777" weight="1" />
+      <edge source="berserk" target="firman__nurhuda" id="778" weight="1" />
+      <edge source="berserk" target="msaid_didu" id="779" weight="1" />
+      <edge source="berserk" target="adearmando" id="780" weight="1" />
+      <edge source="berserk" target="wahyu_uniform" id="781" weight="1" />
+      <edge source="berserk" target="melodiasyik" id="782" weight="1" />
+      <edge source="ramlirizal" target="sahabat_bangsa" id="783" weight="1" />
+      <edge source="ramlirizal" target="mdy_asmara" id="784" weight="1" />
+      <edge source="ramlirizal" target="yosnggarang" id="785" weight="1" />
+      <edge source="ramlirizal" target="anthonybudiawan" id="786" weight="1" />
+      <edge source="ramlirizal" target="halohohenrykus" id="787" weight="1" />
+      <edge source="ramlirizal" target="paltiwest" id="788" weight="1" />
+      <edge source="ramlirizal" target="firman__nurhuda" id="789" weight="1" />
+      <edge source="ramlirizal" target="msaid_didu" id="790" weight="1" />
+      <edge source="ramlirizal" target="adearmando" id="791" weight="1" />
+      <edge source="ramlirizal" target="wahyu_uniform" id="792" weight="1" />
+      <edge source="ramlirizal" target="melodiasyik" id="793" weight="1" />
+      <edge source="ramlirizal" target="prabowo" id="794" weight="1" />
+      <edge source="ramlirizal" target="erickthohir" id="795" weight="1" />
+      <edge source="ramlirizal" target="agusyudhoyono" id="796" weight="1" />
+      <edge source="ramlirizal" target="doankwarto" id="797" weight="1" />
+      <edge source="ramlirizal" target="hc_poirot" id="798" weight="1" />
+      <edge source="sahabat_bangsa" target="mdy_asmara" id="799" weight="1" />
+      <edge source="sahabat_bangsa" target="yosnggarang" id="800" weight="1" />
+      <edge source="sahabat_bangsa" target="anthonybudiawan" id="801" weight="1" />
+      <edge source="sahabat_bangsa" target="halohohenrykus" id="802" weight="1" />
+      <edge source="sahabat_bangsa" target="paltiwest" id="803" weight="1" />
+      <edge source="sahabat_bangsa" target="firman__nurhuda" id="804" weight="1" />
+      <edge source="sahabat_bangsa" target="msaid_didu" id="805" weight="1" />
+      <edge source="sahabat_bangsa" target="adearmando" id="806" weight="1" />
+      <edge source="sahabat_bangsa" target="wahyu_uniform" id="807" weight="1" />
+      <edge source="sahabat_bangsa" target="melodiasyik" id="808" weight="1" />
+      <edge source="mdy_asmara" target="yosnggarang" id="809" weight="1" />
+      <edge source="mdy_asmara" target="anthonybudiawan" id="810" weight="1" />
+      <edge source="mdy_asmara" target="halohohenrykus" id="811" weight="1" />
+      <edge source="mdy_asmara" target="paltiwest" id="812" weight="1" />
+      <edge source="mdy_asmara" target="firman__nurhuda" id="813" weight="1" />
+      <edge source="mdy_asmara" target="msaid_didu" id="814" weight="1" />
+      <edge source="mdy_asmara" target="adearmando" id="815" weight="1" />
+      <edge source="mdy_asmara" target="wahyu_uniform" id="816" weight="1" />
+      <edge source="mdy_asmara" target="melodiasyik" id="817" weight="1" />
+      <edge source="mdy_asmara" target="yurissa_samosir" id="818" weight="1" />
+      <edge source="mdy_asmara" target="rikesants" id="819" weight="1" />
+      <edge source="mdy_asmara" target="hipohan" id="820" weight="1" />
+      <edge source="yosnggarang" target="anthonybudiawan" id="821" weight="1" />
+      <edge source="yosnggarang" target="halohohenrykus" id="822" weight="1" />
+      <edge source="yosnggarang" target="paltiwest" id="823" weight="1" />
+      <edge source="yosnggarang" target="firman__nurhuda" id="824" weight="1" />
+      <edge source="yosnggarang" target="msaid_didu" id="825" weight="1" />
+      <edge source="yosnggarang" target="adearmando" id="826" weight="1" />
+      <edge source="yosnggarang" target="wahyu_uniform" id="827" weight="1" />
+      <edge source="yosnggarang" target="melodiasyik" id="828" weight="1" />
+      <edge source="anthonybudiawan" target="halohohenrykus" id="829" weight="1" />
+      <edge source="anthonybudiawan" target="paltiwest" id="830" weight="1" />
+      <edge source="anthonybudiawan" target="firman__nurhuda" id="831" weight="1" />
+      <edge source="anthonybudiawan" target="msaid_didu" id="832" weight="1" />
+      <edge source="anthonybudiawan" target="adearmando" id="833" weight="1" />
+      <edge source="anthonybudiawan" target="wahyu_uniform" id="834" weight="1" />
+      <edge source="anthonybudiawan" target="melodiasyik" id="835" weight="1" />
+      <edge source="halohohenrykus" target="paltiwest" id="836" weight="1" />
+      <edge source="halohohenrykus" target="firman__nurhuda" id="837" weight="1" />
+      <edge source="halohohenrykus" target="msaid_didu" id="838" weight="1" />
+      <edge source="halohohenrykus" target="adearmando" id="839" weight="1" />
+      <edge source="halohohenrykus" target="wahyu_uniform" id="840" weight="1" />
+      <edge source="halohohenrykus" target="melodiasyik" id="841" weight="1" />
+      <edge source="paltiwest" target="firman__nurhuda" id="842" weight="1" />
+      <edge source="paltiwest" target="msaid_didu" id="843" weight="1" />
+      <edge source="paltiwest" target="adearmando" id="844" weight="1" />
+      <edge source="paltiwest" target="wahyu_uniform" id="845" weight="1" />
+      <edge source="paltiwest" target="melodiasyik" id="846" weight="1" />
+      <edge source="paltiwest" target="iriandi" id="847" weight="1" />
+      <edge source="paltiwest" target="nana" id="848" weight="1" />
+      <edge source="firman__nurhuda" target="msaid_didu" id="849" weight="1" />
+      <edge source="firman__nurhuda" target="adearmando" id="850" weight="1" />
+      <edge source="firman__nurhuda" target="wahyu_uniform" id="851" weight="1" />
+      <edge source="firman__nurhuda" target="melodiasyik" id="852" weight="1" />
+      <edge source="msaid_didu" target="adearmando" id="853" weight="1" />
+      <edge source="msaid_didu" target="wahyu_uniform" id="854" weight="1" />
+      <edge source="msaid_didu" target="melodiasyik" id="855" weight="1" />
+      <edge source="msaid_didu" target="dadangrusdi" id="856" weight="1" />
+      <edge source="msaid_didu" target="ali_van_jibril" id="857" weight="1" />
+      <edge source="msaid_didu" target="agussantaiaja" id="858" weight="1" />
+      <edge source="msaid_didu" target="deaboy" id="859" weight="1" />
+      <edge source="msaid_didu" target="sigitwasito" id="860" weight="1" />
+      <edge source="msaid_didu" target="nasdem" id="861" weight="1" />
+      <edge source="msaid_didu" target="ahmadsahroni" id="862" weight="1" />
+      <edge source="msaid_didu" target="protonindo" id="863" weight="1" />
+      <edge source="msaid_didu" target="kpk_ri" id="864" weight="1" />
+      <edge source="msaid_didu" target="rockygerung" id="865" weight="1" />
+      <edge source="adearmando" target="wahyu_uniform" id="866" weight="1" />
+      <edge source="adearmando" target="melodiasyik" id="867" weight="1" />
+      <edge source="adearmando" target="jokowi" id="868" weight="1" />
+      <edge source="adearmando" target="humn" id="869" weight="1" />
+      <edge source="wahyu_uniform" target="melodiasyik" id="870" weight="1" />
+      <edge source="aniezz" target="nasdem" id="871" weight="1" />
+      <edge source="nasdem" target="adesury" id="872" weight="1" />
+      <edge source="nasdem" target="dadangrusdi" id="873" weight="1" />
+      <edge source="nasdem" target="ali_van_jibril" id="874" weight="1" />
+      <edge source="nasdem" target="agussantaiaja" id="875" weight="1" />
+      <edge source="nasdem" target="deaboy" id="876" weight="1" />
+      <edge source="nasdem" target="sigitwasito" id="877" weight="1" />
+      <edge source="nasdem" target="ahmadsahroni" id="878" weight="1" />
+      <edge source="nasdem" target="prabowo" id="879" weight="1" />
+      <edge source="nasdem" target="erickthohir" id="880" weight="1" />
+      <edge source="nasdem" target="yusrilihza_mhd" id="881" weight="1" />
+      <edge source="nasdem" target="agusyudhoyono" id="882" weight="1" />
+      <edge source="nasdem" target="airlangga_hrt" id="883" weight="1" />
+      <edge source="nasdem" target="sandiuno" id="884" weight="1" />
+      <edge source="nasdem" target="jokowi" id="885" weight="1" />
+      <edge source="nasdem" target="generalmoeldoko" id="886" weight="1" />
+      <edge source="nasdem" target="luhut_binsar" id="887" weight="1" />
+      <edge source="nasdem" target="gerindra" id="888" weight="1" />
+      <edge source="nasdem" target="pdemokrat" id="889" weight="1" />
+      <edge source="nasdem" target="partaigolkar" id="890" weight="1" />
+      <edge source="nasdem" target="pksejahtera" id="891" weight="1" />
+      <edge source="nasdem" target="officialdpp_pbb" id="892" weight="1" />
+      <edge source="nasdem" target="iwanfals" id="893" weight="1" />
+      <edge source="nasdem" target="gm_gm" id="894" weight="1" />
+      <edge source="nasdem" target="jimlyas" id="895" weight="1" />
+      <edge source="nasdem" target="sudjiwotedjo" id="896" weight="1" />
+      <edge source="nasdem" target="matanajwa" id="897" weight="1" />
+      <edge source="nasdem" target="najwashihab" id="898" weight="1" />
+      <edge source="nasdem" target="tempodotco" id="899" weight="1" />
+      <edge source="nasdem" target="narasinewsroom" id="900" weight="1" />
+      <edge source="nasdem" target="namasayamelki" id="901" weight="1" />
+      <edge source="nasdem" target="bemfisipui" id="902" weight="1" />
+      <edge source="nasdem" target="bemui_official" id="903" weight="1" />
+      <edge source="nasdem" target="bemunj_official" id="904" weight="1" />
+      <edge source="nasdem" target="bemuns" id="905" weight="1" />
+      <edge source="nasdem" target="bemundip_" id="906" weight="1" />
+      <edge source="nasdem" target="bemunpas" id="907" weight="1" />
+      <edge source="nasdem" target="bemunair_id" id="908" weight="1" />
+      <edge source="nasdem" target="bemuny" id="909" weight="1" />
+      <edge source="nasdem" target="bemunesa" id="910" weight="1" />
+      <edge source="nasdem" target="rosiannahi" id="911" weight="1" />
+      <edge source="nasdem" target="corbuzier" id="912" weight="1" />
+      <edge source="nasdem" target="islah_bahrawi" id="913" weight="1" />
+      <edge source="nasdem" target="ismail" id="914" weight="1" />
+      <edge source="nasdem" target="fahrihamzah" id="915" weight="1" />
+      <edge source="nasdem" target="fadlizon" id="916" weight="1" />
+      <edge source="nasdem" target="budimandjatmiko" id="917" weight="1" />
+      <edge source="nasdem" target="faizalassegaf" id="918" weight="1" />
+      <edge source="nasdem" target="dpp_partaiummat" id="919" weight="1" />
+      <edge source="nasdem" target="protonindo" id="920" weight="1" />
+      <edge source="nasdem" target="kpk_ri" id="921" weight="1" />
+      <edge source="nasdem" target="rockygerung" id="922" weight="1" />
+      <edge source="nasdem" target="pranandapaloh" id="923" weight="1" />
+      <edge source="gunromli" target="dinihrdianti" id="924" weight="1" />
+      <edge source="gunromli" target="__anakkolong" id="925" weight="1" />
+      <edge source="gunromli" target="_bungherwin" id="926" weight="1" />
+      <edge source="gunromli" target="islah_bahrawi" id="927" weight="1" />
+      <edge source="gunromli" target="marbot_udien" id="928" weight="1" />
+      <edge source="gunromli" target="bdoel___" id="929" weight="1" />
+      <edge source="gunromli" target="al_lasan" id="930" weight="1" />
+      <edge source="gunromli" target="zulkiflilubis" id="931" weight="1" />
+      <edge source="gunromli" target="nenkmonica" id="932" weight="1" />
+      <edge source="gunromli" target="alisyarief" id="933" weight="1" />
+      <edge source="gunromli" target="cnnindonesia" id="934" weight="1" />
+      <edge source="gunromli" target="yaqutcqoumas" id="935" weight="1" />
+      <edge source="gunromli" target="gunromli" id="936" weight="1" />
+      <edge source="dinihrdianti" target="arti_sebuahrasa" id="937" weight="1" />
+      <edge source="dinihrdianti" target="prabowo" id="938" weight="1" />
+      <edge source="dinihrdianti" target="erickthohir" id="939" weight="1" />
+      <edge source="dinihrdianti" target="ganjar_andika" id="940" weight="1" />
+      <edge source="pkbbukannu" target="agussantaiaja" id="941" weight="1" />
+      <edge source="pkbbukannu" target="ans_muhamin" id="942" weight="1" />
+      <edge source="agussantaiaja" target="ans_muhamin" id="943" weight="1" />
+      <edge source="agussantaiaja" target="bill" id="944" weight="1" />
+      <edge source="agussantaiaja" target="dadangrusdi" id="945" weight="1" />
+      <edge source="agussantaiaja" target="ali_van_jibril" id="946" weight="1" />
+      <edge source="agussantaiaja" target="deaboy" id="947" weight="1" />
+      <edge source="agussantaiaja" target="sigitwasito" id="948" weight="1" />
+      <edge source="agussantaiaja" target="ahmadsahroni" id="949" weight="1" />
+      <edge source="agussantaiaja" target="protonindo" id="950" weight="1" />
+      <edge source="agussantaiaja" target="kpk_ri" id="951" weight="1" />
+      <edge source="agussantaiaja" target="rockygerung" id="952" weight="1" />
+      <edge source="ans_muhamin" target="bill" id="953" weight="1" />
+      <edge source="kooball" target="tanyakanrl" id="954" weight="1" />
+      <edge source="tanyakanrl" target="poernoadinug" id="955" weight="1" />
+      <edge source="tanyakanrl" target="bersuwara" id="956" weight="1" />
+      <edge source="tanyakanrl" target="blusteiry" id="957" weight="1" />
+      <edge source="kezia_stal" target="hasyimmah" id="958" weight="1" />
+      <edge source="hasyimmah" target="nabildetra" id="959" weight="1" />
+      <edge source="hasyimmah" target="sunart" id="960" weight="1" />
+      <edge source="matabat" target="cakkhum" id="961" weight="1" />
+      <edge source="dadangrusdi" target="ali_van_jibril" id="962" weight="1" />
+      <edge source="dadangrusdi" target="deaboy" id="963" weight="1" />
+      <edge source="dadangrusdi" target="sigitwasito" id="964" weight="1" />
+      <edge source="dadangrusdi" target="ahmadsahroni" id="965" weight="1" />
+      <edge source="dadangrusdi" target="protonindo" id="966" weight="1" />
+      <edge source="dadangrusdi" target="kpk_ri" id="967" weight="1" />
+      <edge source="dadangrusdi" target="rockygerung" id="968" weight="1" />
+      <edge source="ali_van_jibril" target="deaboy" id="969" weight="1" />
+      <edge source="ali_van_jibril" target="sigitwasito" id="970" weight="1" />
+      <edge source="ali_van_jibril" target="ahmadsahroni" id="971" weight="1" />
+      <edge source="ali_van_jibril" target="protonindo" id="972" weight="1" />
+      <edge source="ali_van_jibril" target="kpk_ri" id="973" weight="1" />
+      <edge source="ali_van_jibril" target="rockygerung" id="974" weight="1" />
+      <edge source="deaboy" target="sigitwasito" id="975" weight="1" />
+      <edge source="deaboy" target="ahmadsahroni" id="976" weight="1" />
+      <edge source="deaboy" target="kpk_ri" id="977" weight="1" />
+      <edge source="deaboy" target="rockygerung" id="978" weight="1" />
+      <edge source="sigitwasito" target="ahmadsahroni" id="979" weight="1" />
+      <edge source="sigitwasito" target="protonindo" id="980" weight="1" />
+      <edge source="sigitwasito" target="kpk_ri" id="981" weight="1" />
+      <edge source="sigitwasito" target="rockygerung" id="982" weight="1" />
+      <edge source="ahmadsahroni" target="protonindo" id="983" weight="1" />
+      <edge source="ahmadsahroni" target="kpk_ri" id="984" weight="1" />
+      <edge source="ahmadsahroni" target="rockygerung" id="985" weight="1" />
+      <edge source="nabildetra" target="sunart" id="986" weight="1" />
+      <edge source="abdulro" target="umarsyadathsb__" id="987" weight="1" />
+      <edge source="hurufnamaku" target="msobri" id="988" weight="1" />
+      <edge source="coredao_idn" target="bangpino__" id="989" weight="1" />
+      <edge source="bangpino__" target="poernoadinug" id="990" weight="1" />
+      <edge source="bangpino__" target="protonindo" id="991" weight="1" />
+      <edge source="bangpino__" target="gabbygonales" id="992" weight="1" />
+      <edge source="waiiacea" target="prtmdns" id="993" weight="1" />
+      <edge source="waiiacea" target="prophetofzorck" id="994" weight="1" />
+      <edge source="waiiacea" target="seph_bimo" id="995" weight="1" />
+      <edge source="prtmdns" target="prophetofzorck" id="996" weight="1" />
+      <edge source="prtmdns" target="seph_bimo" id="997" weight="1" />
+      <edge source="prophetofzorck" target="seph_bimo" id="998" weight="1" />
+      <edge source="retno_wiliss" target="denni_sauya" id="999" weight="1" />
+      <edge source="denni_sauya" target="simfoni_swasta" id="1000" weight="1" />
+      <edge source="denni_sauya" target="billray" id="1001" weight="1" />
+      <edge source="denni_sauya" target="urrangawak" id="1002" weight="1" />
+      <edge source="denni_sauya" target="renahoston" id="1003" weight="1" />
+      <edge source="denni_sauya" target="bdoel___" id="1004" weight="1" />
+      <edge source="denni_sauya" target="antoniuscdn" id="1005" weight="1" />
+      <edge source="denni_sauya" target="chaterine_lie" id="1006" weight="1" />
+      <edge source="denni_sauya" target="terbucinz" id="1007" weight="1" />
+      <edge source="jazz_exiles" target="catuaries" id="1008" weight="1" />
+      <edge source="jazz_exiles" target="lazuandi" id="1009" weight="1" />
+      <edge source="jazz_exiles" target="aimrd" id="1010" weight="1" />
+      <edge source="jazz_exiles" target="spargowentgone" id="1011" weight="1" />
+      <edge source="catuaries" target="lazuandi" id="1012" weight="1" />
+      <edge source="catuaries" target="aimrd" id="1013" weight="1" />
+      <edge source="catuaries" target="spargowentgone" id="1014" weight="1" />
+      <edge source="catuaries" target="ichwxn" id="1015" weight="1" />
+      <edge source="lazuandi" target="aimrd" id="1016" weight="1" />
+      <edge source="lazuandi" target="spargowentgone" id="1017" weight="1" />
+      <edge source="lazuandi" target="ichwxn" id="1018" weight="1" />
+      <edge source="aimrd" target="spargowentgone" id="1019" weight="1" />
+      <edge source="aimrd" target="ichwxn" id="1020" weight="1" />
+      <edge source="spargowentgone" target="ichwxn" id="1021" weight="1" />
+      <edge source="djasnkfs" target="dralexarifianto" id="1022" weight="1" />
+      <edge source="dralexarifianto" target="analispolitik" id="1023" weight="1" />
+      <edge source="ti_mann" target="tan_marm" id="1024" weight="1" />
+      <edge source="ti_mann" target="itsamareguzel" id="1025" weight="1" />
+      <edge source="tan_marm" target="itsamareguzel" id="1026" weight="1" />
+      <edge source="tan_marm" target="prabowo" id="1027" weight="1" />
+      <edge source="tan_marm" target="erickthohir" id="1028" weight="1" />
+      <edge source="tan_marm" target="narkosun" id="1029" weight="1" />
+      <edge source="tan_marm" target="bungkustukang" id="1030" weight="1" />
+      <edge source="yurissa_samosir" target="rikesants" id="1031" weight="1" />
+      <edge source="yurissa_samosir" target="hipohan" id="1032" weight="1" />
+      <edge source="yurissa_samosir" target="adedhani" id="1033" weight="1" />
+      <edge source="yurissa_samosir" target="aking_adit" id="1034" weight="1" />
+      <edge source="yurissa_samosir" target="azri_ardhani" id="1035" weight="1" />
+      <edge source="yurissa_samosir" target="kang_toniee" id="1036" weight="1" />
+      <edge source="yurissa_samosir" target="choymarkochoy" id="1037" weight="1" />
+      <edge source="yurissa_samosir" target="putri" id="1038" weight="1" />
+      <edge source="yurissa_samosir" target="muhiqr" id="1039" weight="1" />
+      <edge source="yurissa_samosir" target="nohceukenohhh" id="1040" weight="1" />
+      <edge source="yurissa_samosir" target="chaidar_" id="1041" weight="1" />
+      <edge source="rikesants" target="rikesants" id="1042" weight="1" />
+      <edge source="rikesants" target="hipohan" id="1043" weight="1" />
+      <edge source="maman" target="jne_id" id="1044" weight="1" />
+      <edge source="adyhuco" target="wagimandeep_" id="1045" weight="1" />
+      <edge source="wagimandeep_" target="hasbifanani" id="1046" weight="1" />
+      <edge source="belok_dong" target="hengky_papa" id="1047" weight="1" />
+      <edge source="twmanado" target="toni" id="1048" weight="1" />
+      <edge source="twmanado" target="soeyoto" id="1049" weight="1" />
+      <edge source="toni" target="soeyoto" id="1050" weight="1" />
+      <edge source="toni" target="mbroo" id="1051" weight="1" />
+      <edge source="denbagus" target="ruhutsitompul" id="1052" weight="1" />
+      <edge source="prabowo" target="prabowo" id="1053" weight="1" />
+      <edge source="prabowo" target="erickthohir" id="1054" weight="1" />
+      <edge source="prabowo" target="yusrilihza_mhd" id="1055" weight="1" />
+      <edge source="prabowo" target="agusyudhoyono" id="1056" weight="1" />
+      <edge source="prabowo" target="airlangga_hrt" id="1057" weight="1" />
+      <edge source="prabowo" target="sandiuno" id="1058" weight="1" />
+      <edge source="prabowo" target="jokowi" id="1059" weight="1" />
+      <edge source="prabowo" target="generalmoeldoko" id="1060" weight="1" />
+      <edge source="prabowo" target="luhut_binsar" id="1061" weight="1" />
+      <edge source="prabowo" target="gerindra" id="1062" weight="1" />
+      <edge source="prabowo" target="pdemokrat" id="1063" weight="1" />
+      <edge source="prabowo" target="partaigolkar" id="1064" weight="1" />
+      <edge source="prabowo" target="pksejahtera" id="1065" weight="1" />
+      <edge source="prabowo" target="officialdpp_pbb" id="1066" weight="1" />
+      <edge source="prabowo" target="iwanfals" id="1067" weight="1" />
+      <edge source="prabowo" target="gm_gm" id="1068" weight="1" />
+      <edge source="prabowo" target="jimlyas" id="1069" weight="1" />
+      <edge source="prabowo" target="sudjiwotedjo" id="1070" weight="1" />
+      <edge source="prabowo" target="matanajwa" id="1071" weight="1" />
+      <edge source="prabowo" target="najwashihab" id="1072" weight="1" />
+      <edge source="prabowo" target="tempodotco" id="1073" weight="1" />
+      <edge source="prabowo" target="narasinewsroom" id="1074" weight="1" />
+      <edge source="prabowo" target="namasayamelki" id="1075" weight="1" />
+      <edge source="prabowo" target="bemfisipui" id="1076" weight="1" />
+      <edge source="prabowo" target="bemui_official" id="1077" weight="1" />
+      <edge source="prabowo" target="bemunj_official" id="1078" weight="1" />
+      <edge source="prabowo" target="bemuns" id="1079" weight="1" />
+      <edge source="prabowo" target="bemundip_" id="1080" weight="1" />
+      <edge source="prabowo" target="bemunpas" id="1081" weight="1" />
+      <edge source="prabowo" target="bemunair_id" id="1082" weight="1" />
+      <edge source="prabowo" target="bemuny" id="1083" weight="1" />
+      <edge source="prabowo" target="bemunesa" id="1084" weight="1" />
+      <edge source="prabowo" target="rosiannahi" id="1085" weight="1" />
+      <edge source="prabowo" target="corbuzier" id="1086" weight="1" />
+      <edge source="prabowo" target="islah_bahrawi" id="1087" weight="1" />
+      <edge source="prabowo" target="ismail" id="1088" weight="1" />
+      <edge source="prabowo" target="fahrihamzah" id="1089" weight="1" />
+      <edge source="prabowo" target="fadlizon" id="1090" weight="1" />
+      <edge source="prabowo" target="budimandjatmiko" id="1091" weight="1" />
+      <edge source="prabowo" target="faizalassegaf" id="1092" weight="1" />
+      <edge source="prabowo" target="kentlooks" id="1093" weight="1" />
+      <edge source="prabowo" target="stevn_pegl" id="1094" weight="1" />
+      <edge source="prabowo" target="sumpanto" id="1095" weight="1" />
+      <edge source="prabowo" target="kakekhalal" id="1096" weight="1" />
+      <edge source="prabowo" target="stefanantonio__" id="1097" weight="1" />
+      <edge source="prabowo" target="rstmbcl" id="1098" weight="1" />
+      <edge source="prabowo" target="airindatanglagi" id="1099" weight="1" />
+      <edge source="prabowo" target="zulkiflilubis" id="1100" weight="1" />
+      <edge source="prabowo" target="muslim_antipki" id="1101" weight="1" />
+      <edge source="prabowo" target="alisyarief" id="1102" weight="1" />
+      <edge source="prabowo" target="hudakeyy" id="1103" weight="1" />
+      <edge source="prabowo" target="knpiharis" id="1104" weight="1" />
+      <edge source="prabowo" target="daeng_embang" id="1105" weight="1" />
+      <edge source="prabowo" target="alnilamomar" id="1106" weight="1" />
+      <edge source="prabowo" target="doankwarto" id="1107" weight="1" />
+      <edge source="prabowo" target="hc_poirot" id="1108" weight="1" />
+      <edge source="prabowo" target="arti_sebuahrasa" id="1109" weight="1" />
+      <edge source="prabowo" target="ganjar_andika" id="1110" weight="1" />
+      <edge source="prabowo" target="narkosun" id="1111" weight="1" />
+      <edge source="prabowo" target="bungkustukang" id="1112" weight="1" />
+      <edge source="prabowo" target="teddgus" id="1113" weight="1" />
+      <edge source="erickthohir" target="yusrilihza_mhd" id="1114" weight="1" />
+      <edge source="erickthohir" target="agusyudhoyono" id="1115" weight="1" />
+      <edge source="erickthohir" target="airlangga_hrt" id="1116" weight="1" />
+      <edge source="erickthohir" target="sandiuno" id="1117" weight="1" />
+      <edge source="erickthohir" target="jokowi" id="1118" weight="1" />
+      <edge source="erickthohir" target="generalmoeldoko" id="1119" weight="1" />
+      <edge source="erickthohir" target="luhut_binsar" id="1120" weight="1" />
+      <edge source="erickthohir" target="gerindra" id="1121" weight="1" />
+      <edge source="erickthohir" target="pdemokrat" id="1122" weight="1" />
+      <edge source="erickthohir" target="partaigolkar" id="1123" weight="1" />
+      <edge source="erickthohir" target="pksejahtera" id="1124" weight="1" />
+      <edge source="erickthohir" target="officialdpp_pbb" id="1125" weight="1" />
+      <edge source="erickthohir" target="iwanfals" id="1126" weight="1" />
+      <edge source="erickthohir" target="gm_gm" id="1127" weight="1" />
+      <edge source="erickthohir" target="jimlyas" id="1128" weight="1" />
+      <edge source="erickthohir" target="sudjiwotedjo" id="1129" weight="1" />
+      <edge source="erickthohir" target="matanajwa" id="1130" weight="1" />
+      <edge source="erickthohir" target="najwashihab" id="1131" weight="1" />
+      <edge source="erickthohir" target="tempodotco" id="1132" weight="1" />
+      <edge source="erickthohir" target="narasinewsroom" id="1133" weight="1" />
+      <edge source="erickthohir" target="namasayamelki" id="1134" weight="1" />
+      <edge source="erickthohir" target="bemfisipui" id="1135" weight="1" />
+      <edge source="erickthohir" target="bemui_official" id="1136" weight="1" />
+      <edge source="erickthohir" target="bemunj_official" id="1137" weight="1" />
+      <edge source="erickthohir" target="bemuns" id="1138" weight="1" />
+      <edge source="erickthohir" target="bemundip_" id="1139" weight="1" />
+      <edge source="erickthohir" target="bemunpas" id="1140" weight="1" />
+      <edge source="erickthohir" target="bemunair_id" id="1141" weight="1" />
+      <edge source="erickthohir" target="bemuny" id="1142" weight="1" />
+      <edge source="erickthohir" target="bemunesa" id="1143" weight="1" />
+      <edge source="erickthohir" target="rosiannahi" id="1144" weight="1" />
+      <edge source="erickthohir" target="corbuzier" id="1145" weight="1" />
+      <edge source="erickthohir" target="islah_bahrawi" id="1146" weight="1" />
+      <edge source="erickthohir" target="ismail" id="1147" weight="1" />
+      <edge source="erickthohir" target="fahrihamzah" id="1148" weight="1" />
+      <edge source="erickthohir" target="fadlizon" id="1149" weight="1" />
+      <edge source="erickthohir" target="budimandjatmiko" id="1150" weight="1" />
+      <edge source="erickthohir" target="faizalassegaf" id="1151" weight="1" />
+      <edge source="erickthohir" target="kentlooks" id="1152" weight="1" />
+      <edge source="erickthohir" target="stevn_pegl" id="1153" weight="1" />
+      <edge source="erickthohir" target="sumpanto" id="1154" weight="1" />
+      <edge source="erickthohir" target="kakekhalal" id="1155" weight="1" />
+      <edge source="erickthohir" target="stefanantonio__" id="1156" weight="1" />
+      <edge source="erickthohir" target="rstmbcl" id="1157" weight="1" />
+      <edge source="erickthohir" target="airindatanglagi" id="1158" weight="1" />
+      <edge source="erickthohir" target="zulkiflilubis" id="1159" weight="1" />
+      <edge source="erickthohir" target="muslim_antipki" id="1160" weight="1" />
+      <edge source="erickthohir" target="alisyarief" id="1161" weight="1" />
+      <edge source="erickthohir" target="hudakeyy" id="1162" weight="1" />
+      <edge source="erickthohir" target="knpiharis" id="1163" weight="1" />
+      <edge source="erickthohir" target="daeng_embang" id="1164" weight="1" />
+      <edge source="erickthohir" target="alnilamomar" id="1165" weight="1" />
+      <edge source="erickthohir" target="doankwarto" id="1166" weight="1" />
+      <edge source="erickthohir" target="hc_poirot" id="1167" weight="1" />
+      <edge source="erickthohir" target="arti_sebuahrasa" id="1168" weight="1" />
+      <edge source="erickthohir" target="ganjar_andika" id="1169" weight="1" />
+      <edge source="erickthohir" target="narkosun" id="1170" weight="1" />
+      <edge source="erickthohir" target="bungkustukang" id="1171" weight="1" />
+      <edge source="yusrilihza_mhd" target="agusyudhoyono" id="1172" weight="1" />
+      <edge source="yusrilihza_mhd" target="airlangga_hrt" id="1173" weight="1" />
+      <edge source="yusrilihza_mhd" target="sandiuno" id="1174" weight="1" />
+      <edge source="yusrilihza_mhd" target="jokowi" id="1175" weight="1" />
+      <edge source="yusrilihza_mhd" target="generalmoeldoko" id="1176" weight="1" />
+      <edge source="yusrilihza_mhd" target="luhut_binsar" id="1177" weight="1" />
+      <edge source="yusrilihza_mhd" target="gerindra" id="1178" weight="1" />
+      <edge source="yusrilihza_mhd" target="pdemokrat" id="1179" weight="1" />
+      <edge source="yusrilihza_mhd" target="partaigolkar" id="1180" weight="1" />
+      <edge source="yusrilihza_mhd" target="pksejahtera" id="1181" weight="1" />
+      <edge source="yusrilihza_mhd" target="officialdpp_pbb" id="1182" weight="1" />
+      <edge source="yusrilihza_mhd" target="iwanfals" id="1183" weight="1" />
+      <edge source="yusrilihza_mhd" target="gm_gm" id="1184" weight="1" />
+      <edge source="yusrilihza_mhd" target="jimlyas" id="1185" weight="1" />
+      <edge source="yusrilihza_mhd" target="sudjiwotedjo" id="1186" weight="1" />
+      <edge source="yusrilihza_mhd" target="matanajwa" id="1187" weight="1" />
+      <edge source="yusrilihza_mhd" target="najwashihab" id="1188" weight="1" />
+      <edge source="yusrilihza_mhd" target="tempodotco" id="1189" weight="1" />
+      <edge source="yusrilihza_mhd" target="narasinewsroom" id="1190" weight="1" />
+      <edge source="yusrilihza_mhd" target="namasayamelki" id="1191" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemfisipui" id="1192" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemui_official" id="1193" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemunj_official" id="1194" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemuns" id="1195" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemundip_" id="1196" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemunpas" id="1197" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemunair_id" id="1198" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemuny" id="1199" weight="1" />
+      <edge source="yusrilihza_mhd" target="bemunesa" id="1200" weight="1" />
+      <edge source="yusrilihza_mhd" target="rosiannahi" id="1201" weight="1" />
+      <edge source="yusrilihza_mhd" target="corbuzier" id="1202" weight="1" />
+      <edge source="yusrilihza_mhd" target="islah_bahrawi" id="1203" weight="1" />
+      <edge source="yusrilihza_mhd" target="ismail" id="1204" weight="1" />
+      <edge source="yusrilihza_mhd" target="fahrihamzah" id="1205" weight="1" />
+      <edge source="yusrilihza_mhd" target="fadlizon" id="1206" weight="1" />
+      <edge source="yusrilihza_mhd" target="budimandjatmiko" id="1207" weight="1" />
+      <edge source="yusrilihza_mhd" target="faizalassegaf" id="1208" weight="1" />
+      <edge source="agusyudhoyono" target="airlangga_hrt" id="1209" weight="1" />
+      <edge source="agusyudhoyono" target="sandiuno" id="1210" weight="1" />
+      <edge source="agusyudhoyono" target="jokowi" id="1211" weight="1" />
+      <edge source="agusyudhoyono" target="generalmoeldoko" id="1212" weight="1" />
+      <edge source="agusyudhoyono" target="luhut_binsar" id="1213" weight="1" />
+      <edge source="agusyudhoyono" target="gerindra" id="1214" weight="1" />
+      <edge source="agusyudhoyono" target="pdemokrat" id="1215" weight="1" />
+      <edge source="agusyudhoyono" target="partaigolkar" id="1216" weight="1" />
+      <edge source="agusyudhoyono" target="pksejahtera" id="1217" weight="1" />
+      <edge source="agusyudhoyono" target="officialdpp_pbb" id="1218" weight="1" />
+      <edge source="agusyudhoyono" target="iwanfals" id="1219" weight="1" />
+      <edge source="agusyudhoyono" target="gm_gm" id="1220" weight="1" />
+      <edge source="agusyudhoyono" target="jimlyas" id="1221" weight="1" />
+      <edge source="agusyudhoyono" target="sudjiwotedjo" id="1222" weight="1" />
+      <edge source="agusyudhoyono" target="matanajwa" id="1223" weight="1" />
+      <edge source="agusyudhoyono" target="najwashihab" id="1224" weight="1" />
+      <edge source="agusyudhoyono" target="tempodotco" id="1225" weight="1" />
+      <edge source="agusyudhoyono" target="narasinewsroom" id="1226" weight="1" />
+      <edge source="agusyudhoyono" target="namasayamelki" id="1227" weight="1" />
+      <edge source="agusyudhoyono" target="bemfisipui" id="1228" weight="1" />
+      <edge source="agusyudhoyono" target="bemui_official" id="1229" weight="1" />
+      <edge source="agusyudhoyono" target="bemunj_official" id="1230" weight="1" />
+      <edge source="agusyudhoyono" target="bemuns" id="1231" weight="1" />
+      <edge source="agusyudhoyono" target="bemundip_" id="1232" weight="1" />
+      <edge source="agusyudhoyono" target="bemunpas" id="1233" weight="1" />
+      <edge source="agusyudhoyono" target="bemunair_id" id="1234" weight="1" />
+      <edge source="agusyudhoyono" target="bemuny" id="1235" weight="1" />
+      <edge source="agusyudhoyono" target="bemunesa" id="1236" weight="1" />
+      <edge source="agusyudhoyono" target="rosiannahi" id="1237" weight="1" />
+      <edge source="agusyudhoyono" target="corbuzier" id="1238" weight="1" />
+      <edge source="agusyudhoyono" target="islah_bahrawi" id="1239" weight="1" />
+      <edge source="agusyudhoyono" target="ismail" id="1240" weight="1" />
+      <edge source="agusyudhoyono" target="fahrihamzah" id="1241" weight="1" />
+      <edge source="agusyudhoyono" target="fadlizon" id="1242" weight="1" />
+      <edge source="agusyudhoyono" target="budimandjatmiko" id="1243" weight="1" />
+      <edge source="agusyudhoyono" target="faizalassegaf" id="1244" weight="1" />
+      <edge source="agusyudhoyono" target="doankwarto" id="1245" weight="1" />
+      <edge source="agusyudhoyono" target="hc_poirot" id="1246" weight="1" />
+      <edge source="airlangga_hrt" target="sandiuno" id="1247" weight="1" />
+      <edge source="airlangga_hrt" target="jokowi" id="1248" weight="1" />
+      <edge source="airlangga_hrt" target="generalmoeldoko" id="1249" weight="1" />
+      <edge source="airlangga_hrt" target="luhut_binsar" id="1250" weight="1" />
+      <edge source="airlangga_hrt" target="gerindra" id="1251" weight="1" />
+      <edge source="airlangga_hrt" target="pdemokrat" id="1252" weight="1" />
+      <edge source="airlangga_hrt" target="partaigolkar" id="1253" weight="1" />
+      <edge source="airlangga_hrt" target="pksejahtera" id="1254" weight="1" />
+      <edge source="airlangga_hrt" target="officialdpp_pbb" id="1255" weight="1" />
+      <edge source="airlangga_hrt" target="iwanfals" id="1256" weight="1" />
+      <edge source="airlangga_hrt" target="gm_gm" id="1257" weight="1" />
+      <edge source="airlangga_hrt" target="jimlyas" id="1258" weight="1" />
+      <edge source="airlangga_hrt" target="sudjiwotedjo" id="1259" weight="1" />
+      <edge source="airlangga_hrt" target="matanajwa" id="1260" weight="1" />
+      <edge source="airlangga_hrt" target="najwashihab" id="1261" weight="1" />
+      <edge source="airlangga_hrt" target="tempodotco" id="1262" weight="1" />
+      <edge source="airlangga_hrt" target="narasinewsroom" id="1263" weight="1" />
+      <edge source="airlangga_hrt" target="namasayamelki" id="1264" weight="1" />
+      <edge source="airlangga_hrt" target="bemfisipui" id="1265" weight="1" />
+      <edge source="airlangga_hrt" target="bemui_official" id="1266" weight="1" />
+      <edge source="airlangga_hrt" target="bemunj_official" id="1267" weight="1" />
+      <edge source="airlangga_hrt" target="bemuns" id="1268" weight="1" />
+      <edge source="airlangga_hrt" target="bemundip_" id="1269" weight="1" />
+      <edge source="airlangga_hrt" target="bemunpas" id="1270" weight="1" />
+      <edge source="airlangga_hrt" target="bemunair_id" id="1271" weight="1" />
+      <edge source="airlangga_hrt" target="bemuny" id="1272" weight="1" />
+      <edge source="airlangga_hrt" target="bemunesa" id="1273" weight="1" />
+      <edge source="airlangga_hrt" target="rosiannahi" id="1274" weight="1" />
+      <edge source="airlangga_hrt" target="corbuzier" id="1275" weight="1" />
+      <edge source="airlangga_hrt" target="islah_bahrawi" id="1276" weight="1" />
+      <edge source="airlangga_hrt" target="ismail" id="1277" weight="1" />
+      <edge source="airlangga_hrt" target="fahrihamzah" id="1278" weight="1" />
+      <edge source="airlangga_hrt" target="fadlizon" id="1279" weight="1" />
+      <edge source="airlangga_hrt" target="budimandjatmiko" id="1280" weight="1" />
+      <edge source="airlangga_hrt" target="faizalassegaf" id="1281" weight="1" />
+      <edge source="sandiuno" target="jokowi" id="1282" weight="1" />
+      <edge source="sandiuno" target="generalmoeldoko" id="1283" weight="1" />
+      <edge source="sandiuno" target="luhut_binsar" id="1284" weight="1" />
+      <edge source="sandiuno" target="gerindra" id="1285" weight="1" />
+      <edge source="sandiuno" target="pdemokrat" id="1286" weight="1" />
+      <edge source="sandiuno" target="partaigolkar" id="1287" weight="1" />
+      <edge source="sandiuno" target="pksejahtera" id="1288" weight="1" />
+      <edge source="sandiuno" target="officialdpp_pbb" id="1289" weight="1" />
+      <edge source="sandiuno" target="iwanfals" id="1290" weight="1" />
+      <edge source="sandiuno" target="gm_gm" id="1291" weight="1" />
+      <edge source="sandiuno" target="jimlyas" id="1292" weight="1" />
+      <edge source="sandiuno" target="sudjiwotedjo" id="1293" weight="1" />
+      <edge source="sandiuno" target="matanajwa" id="1294" weight="1" />
+      <edge source="sandiuno" target="najwashihab" id="1295" weight="1" />
+      <edge source="sandiuno" target="tempodotco" id="1296" weight="1" />
+      <edge source="sandiuno" target="narasinewsroom" id="1297" weight="1" />
+      <edge source="sandiuno" target="namasayamelki" id="1298" weight="1" />
+      <edge source="sandiuno" target="bemfisipui" id="1299" weight="1" />
+      <edge source="sandiuno" target="bemui_official" id="1300" weight="1" />
+      <edge source="sandiuno" target="bemunj_official" id="1301" weight="1" />
+      <edge source="sandiuno" target="bemuns" id="1302" weight="1" />
+      <edge source="sandiuno" target="bemundip_" id="1303" weight="1" />
+      <edge source="sandiuno" target="bemunpas" id="1304" weight="1" />
+      <edge source="sandiuno" target="bemunair_id" id="1305" weight="1" />
+      <edge source="sandiuno" target="bemuny" id="1306" weight="1" />
+      <edge source="sandiuno" target="bemunesa" id="1307" weight="1" />
+      <edge source="sandiuno" target="rosiannahi" id="1308" weight="1" />
+      <edge source="sandiuno" target="corbuzier" id="1309" weight="1" />
+      <edge source="sandiuno" target="islah_bahrawi" id="1310" weight="1" />
+      <edge source="sandiuno" target="ismail" id="1311" weight="1" />
+      <edge source="sandiuno" target="fahrihamzah" id="1312" weight="1" />
+      <edge source="sandiuno" target="fadlizon" id="1313" weight="1" />
+      <edge source="sandiuno" target="budimandjatmiko" id="1314" weight="1" />
+      <edge source="sandiuno" target="faizalassegaf" id="1315" weight="1" />
+      <edge source="sandiuno" target="deddysitorus" id="1316" weight="1" />
+      <edge source="sandiuno" target="cnnindonesia" id="1317" weight="1" />
+      <edge source="sandiuno" target="permadiaktifis" id="1318" weight="1" />
+      <edge source="jokowi" target="generalmoeldoko" id="1319" weight="1" />
+      <edge source="jokowi" target="luhut_binsar" id="1320" weight="1" />
+      <edge source="jokowi" target="gerindra" id="1321" weight="1" />
+      <edge source="jokowi" target="pdemokrat" id="1322" weight="1" />
+      <edge source="jokowi" target="partaigolkar" id="1323" weight="1" />
+      <edge source="jokowi" target="pksejahtera" id="1324" weight="1" />
+      <edge source="jokowi" target="officialdpp_pbb" id="1325" weight="1" />
+      <edge source="jokowi" target="iwanfals" id="1326" weight="1" />
+      <edge source="jokowi" target="gm_gm" id="1327" weight="1" />
+      <edge source="jokowi" target="jimlyas" id="1328" weight="1" />
+      <edge source="jokowi" target="sudjiwotedjo" id="1329" weight="1" />
+      <edge source="jokowi" target="matanajwa" id="1330" weight="1" />
+      <edge source="jokowi" target="najwashihab" id="1331" weight="1" />
+      <edge source="jokowi" target="tempodotco" id="1332" weight="1" />
+      <edge source="jokowi" target="narasinewsroom" id="1333" weight="1" />
+      <edge source="jokowi" target="namasayamelki" id="1334" weight="1" />
+      <edge source="jokowi" target="bemfisipui" id="1335" weight="1" />
+      <edge source="jokowi" target="bemui_official" id="1336" weight="1" />
+      <edge source="jokowi" target="bemunj_official" id="1337" weight="1" />
+      <edge source="jokowi" target="bemuns" id="1338" weight="1" />
+      <edge source="jokowi" target="bemundip_" id="1339" weight="1" />
+      <edge source="jokowi" target="bemunpas" id="1340" weight="1" />
+      <edge source="jokowi" target="bemunair_id" id="1341" weight="1" />
+      <edge source="jokowi" target="bemuny" id="1342" weight="1" />
+      <edge source="jokowi" target="bemunesa" id="1343" weight="1" />
+      <edge source="jokowi" target="rosiannahi" id="1344" weight="1" />
+      <edge source="jokowi" target="corbuzier" id="1345" weight="1" />
+      <edge source="jokowi" target="islah_bahrawi" id="1346" weight="1" />
+      <edge source="jokowi" target="ismail" id="1347" weight="1" />
+      <edge source="jokowi" target="fahrihamzah" id="1348" weight="1" />
+      <edge source="jokowi" target="fadlizon" id="1349" weight="1" />
+      <edge source="jokowi" target="budimandjatmiko" id="1350" weight="1" />
+      <edge source="jokowi" target="faizalassegaf" id="1351" weight="1" />
+      <edge source="jokowi" target="abah" id="1352" weight="1" />
+      <edge source="jokowi" target="henrysubiakto" id="1353" weight="1" />
+      <edge source="jokowi" target="simanjuntakelly" id="1354" weight="1" />
+      <edge source="jokowi" target="triwul" id="1355" weight="1" />
+      <edge source="jokowi" target="avataraang" id="1356" weight="1" />
+      <edge source="jokowi" target="printingzo" id="1357" weight="1" />
+      <edge source="jokowi" target="sgm_mks" id="1358" weight="1" />
+      <edge source="jokowi" target="ninacarla" id="1359" weight="1" />
+      <edge source="jokowi" target="alissawahid" id="1360" weight="1" />
+      <edge source="jokowi" target="jokowi" id="1361" weight="1" />
+      <edge source="jokowi" target="sofiesyarief" id="1362" weight="1" />
+      <edge source="generalmoeldoko" target="luhut_binsar" id="1363" weight="1" />
+      <edge source="generalmoeldoko" target="gerindra" id="1364" weight="1" />
+      <edge source="generalmoeldoko" target="pdemokrat" id="1365" weight="1" />
+      <edge source="generalmoeldoko" target="partaigolkar" id="1366" weight="1" />
+      <edge source="generalmoeldoko" target="pksejahtera" id="1367" weight="1" />
+      <edge source="generalmoeldoko" target="officialdpp_pbb" id="1368" weight="1" />
+      <edge source="generalmoeldoko" target="iwanfals" id="1369" weight="1" />
+      <edge source="generalmoeldoko" target="gm_gm" id="1370" weight="1" />
+      <edge source="generalmoeldoko" target="jimlyas" id="1371" weight="1" />
+      <edge source="generalmoeldoko" target="sudjiwotedjo" id="1372" weight="1" />
+      <edge source="generalmoeldoko" target="matanajwa" id="1373" weight="1" />
+      <edge source="generalmoeldoko" target="najwashihab" id="1374" weight="1" />
+      <edge source="generalmoeldoko" target="tempodotco" id="1375" weight="1" />
+      <edge source="generalmoeldoko" target="narasinewsroom" id="1376" weight="1" />
+      <edge source="generalmoeldoko" target="namasayamelki" id="1377" weight="1" />
+      <edge source="generalmoeldoko" target="bemfisipui" id="1378" weight="1" />
+      <edge source="generalmoeldoko" target="bemui_official" id="1379" weight="1" />
+      <edge source="generalmoeldoko" target="bemunj_official" id="1380" weight="1" />
+      <edge source="generalmoeldoko" target="bemuns" id="1381" weight="1" />
+      <edge source="generalmoeldoko" target="bemundip_" id="1382" weight="1" />
+      <edge source="generalmoeldoko" target="bemunpas" id="1383" weight="1" />
+      <edge source="generalmoeldoko" target="bemunair_id" id="1384" weight="1" />
+      <edge source="generalmoeldoko" target="bemuny" id="1385" weight="1" />
+      <edge source="generalmoeldoko" target="bemunesa" id="1386" weight="1" />
+      <edge source="generalmoeldoko" target="rosiannahi" id="1387" weight="1" />
+      <edge source="generalmoeldoko" target="corbuzier" id="1388" weight="1" />
+      <edge source="generalmoeldoko" target="islah_bahrawi" id="1389" weight="1" />
+      <edge source="generalmoeldoko" target="ismail" id="1390" weight="1" />
+      <edge source="generalmoeldoko" target="fahrihamzah" id="1391" weight="1" />
+      <edge source="generalmoeldoko" target="fadlizon" id="1392" weight="1" />
+      <edge source="generalmoeldoko" target="budimandjatmiko" id="1393" weight="1" />
+      <edge source="generalmoeldoko" target="faizalassegaf" id="1394" weight="1" />
+      <edge source="luhut_binsar" target="gerindra" id="1395" weight="1" />
+      <edge source="luhut_binsar" target="pdemokrat" id="1396" weight="1" />
+      <edge source="luhut_binsar" target="partaigolkar" id="1397" weight="1" />
+      <edge source="luhut_binsar" target="pksejahtera" id="1398" weight="1" />
+      <edge source="luhut_binsar" target="officialdpp_pbb" id="1399" weight="1" />
+      <edge source="luhut_binsar" target="iwanfals" id="1400" weight="1" />
+      <edge source="luhut_binsar" target="gm_gm" id="1401" weight="1" />
+      <edge source="luhut_binsar" target="jimlyas" id="1402" weight="1" />
+      <edge source="luhut_binsar" target="sudjiwotedjo" id="1403" weight="1" />
+      <edge source="luhut_binsar" target="matanajwa" id="1404" weight="1" />
+      <edge source="luhut_binsar" target="najwashihab" id="1405" weight="1" />
+      <edge source="luhut_binsar" target="tempodotco" id="1406" weight="1" />
+      <edge source="luhut_binsar" target="narasinewsroom" id="1407" weight="1" />
+      <edge source="luhut_binsar" target="namasayamelki" id="1408" weight="1" />
+      <edge source="luhut_binsar" target="bemfisipui" id="1409" weight="1" />
+      <edge source="luhut_binsar" target="bemui_official" id="1410" weight="1" />
+      <edge source="luhut_binsar" target="bemunj_official" id="1411" weight="1" />
+      <edge source="luhut_binsar" target="bemuns" id="1412" weight="1" />
+      <edge source="luhut_binsar" target="bemundip_" id="1413" weight="1" />
+      <edge source="luhut_binsar" target="bemunpas" id="1414" weight="1" />
+      <edge source="luhut_binsar" target="bemunair_id" id="1415" weight="1" />
+      <edge source="luhut_binsar" target="bemuny" id="1416" weight="1" />
+      <edge source="luhut_binsar" target="bemunesa" id="1417" weight="1" />
+      <edge source="luhut_binsar" target="rosiannahi" id="1418" weight="1" />
+      <edge source="luhut_binsar" target="corbuzier" id="1419" weight="1" />
+      <edge source="luhut_binsar" target="islah_bahrawi" id="1420" weight="1" />
+      <edge source="luhut_binsar" target="ismail" id="1421" weight="1" />
+      <edge source="luhut_binsar" target="fahrihamzah" id="1422" weight="1" />
+      <edge source="luhut_binsar" target="fadlizon" id="1423" weight="1" />
+      <edge source="luhut_binsar" target="budimandjatmiko" id="1424" weight="1" />
+      <edge source="luhut_binsar" target="faizalassegaf" id="1425" weight="1" />
+      <edge source="gerindra" target="pdemokrat" id="1426" weight="1" />
+      <edge source="gerindra" target="partaigolkar" id="1427" weight="1" />
+      <edge source="gerindra" target="pksejahtera" id="1428" weight="1" />
+      <edge source="gerindra" target="officialdpp_pbb" id="1429" weight="1" />
+      <edge source="gerindra" target="iwanfals" id="1430" weight="1" />
+      <edge source="gerindra" target="gm_gm" id="1431" weight="1" />
+      <edge source="gerindra" target="jimlyas" id="1432" weight="1" />
+      <edge source="gerindra" target="sudjiwotedjo" id="1433" weight="1" />
+      <edge source="gerindra" target="matanajwa" id="1434" weight="1" />
+      <edge source="gerindra" target="najwashihab" id="1435" weight="1" />
+      <edge source="gerindra" target="tempodotco" id="1436" weight="1" />
+      <edge source="gerindra" target="narasinewsroom" id="1437" weight="1" />
+      <edge source="gerindra" target="namasayamelki" id="1438" weight="1" />
+      <edge source="gerindra" target="bemfisipui" id="1439" weight="1" />
+      <edge source="gerindra" target="bemui_official" id="1440" weight="1" />
+      <edge source="gerindra" target="bemunj_official" id="1441" weight="1" />
+      <edge source="gerindra" target="bemuns" id="1442" weight="1" />
+      <edge source="gerindra" target="bemundip_" id="1443" weight="1" />
+      <edge source="gerindra" target="bemunpas" id="1444" weight="1" />
+      <edge source="gerindra" target="bemunair_id" id="1445" weight="1" />
+      <edge source="gerindra" target="bemuny" id="1446" weight="1" />
+      <edge source="gerindra" target="bemunesa" id="1447" weight="1" />
+      <edge source="gerindra" target="rosiannahi" id="1448" weight="1" />
+      <edge source="gerindra" target="corbuzier" id="1449" weight="1" />
+      <edge source="gerindra" target="islah_bahrawi" id="1450" weight="1" />
+      <edge source="gerindra" target="ismail" id="1451" weight="1" />
+      <edge source="gerindra" target="fahrihamzah" id="1452" weight="1" />
+      <edge source="gerindra" target="fadlizon" id="1453" weight="1" />
+      <edge source="gerindra" target="budimandjatmiko" id="1454" weight="1" />
+      <edge source="gerindra" target="faizalassegaf" id="1455" weight="1" />
+      <edge source="pdemokrat" target="partaigolkar" id="1456" weight="1" />
+      <edge source="pdemokrat" target="pksejahtera" id="1457" weight="1" />
+      <edge source="pdemokrat" target="officialdpp_pbb" id="1458" weight="1" />
+      <edge source="pdemokrat" target="iwanfals" id="1459" weight="1" />
+      <edge source="pdemokrat" target="gm_gm" id="1460" weight="1" />
+      <edge source="pdemokrat" target="jimlyas" id="1461" weight="1" />
+      <edge source="pdemokrat" target="sudjiwotedjo" id="1462" weight="1" />
+      <edge source="pdemokrat" target="matanajwa" id="1463" weight="1" />
+      <edge source="pdemokrat" target="najwashihab" id="1464" weight="1" />
+      <edge source="pdemokrat" target="tempodotco" id="1465" weight="1" />
+      <edge source="pdemokrat" target="narasinewsroom" id="1466" weight="1" />
+      <edge source="pdemokrat" target="namasayamelki" id="1467" weight="1" />
+      <edge source="pdemokrat" target="bemfisipui" id="1468" weight="1" />
+      <edge source="pdemokrat" target="bemui_official" id="1469" weight="1" />
+      <edge source="pdemokrat" target="bemunj_official" id="1470" weight="1" />
+      <edge source="pdemokrat" target="bemuns" id="1471" weight="1" />
+      <edge source="pdemokrat" target="bemundip_" id="1472" weight="1" />
+      <edge source="pdemokrat" target="bemunpas" id="1473" weight="1" />
+      <edge source="pdemokrat" target="bemunair_id" id="1474" weight="1" />
+      <edge source="pdemokrat" target="bemuny" id="1475" weight="1" />
+      <edge source="pdemokrat" target="bemunesa" id="1476" weight="1" />
+      <edge source="pdemokrat" target="rosiannahi" id="1477" weight="1" />
+      <edge source="pdemokrat" target="corbuzier" id="1478" weight="1" />
+      <edge source="pdemokrat" target="islah_bahrawi" id="1479" weight="1" />
+      <edge source="pdemokrat" target="ismail" id="1480" weight="1" />
+      <edge source="pdemokrat" target="fahrihamzah" id="1481" weight="1" />
+      <edge source="pdemokrat" target="fadlizon" id="1482" weight="1" />
+      <edge source="pdemokrat" target="budimandjatmiko" id="1483" weight="1" />
+      <edge source="pdemokrat" target="faizalassegaf" id="1484" weight="1" />
+      <edge source="partaigolkar" target="pksejahtera" id="1485" weight="1" />
+      <edge source="partaigolkar" target="officialdpp_pbb" id="1486" weight="1" />
+      <edge source="partaigolkar" target="iwanfals" id="1487" weight="1" />
+      <edge source="partaigolkar" target="gm_gm" id="1488" weight="1" />
+      <edge source="partaigolkar" target="jimlyas" id="1489" weight="1" />
+      <edge source="partaigolkar" target="sudjiwotedjo" id="1490" weight="1" />
+      <edge source="partaigolkar" target="matanajwa" id="1491" weight="1" />
+      <edge source="partaigolkar" target="najwashihab" id="1492" weight="1" />
+      <edge source="partaigolkar" target="tempodotco" id="1493" weight="1" />
+      <edge source="partaigolkar" target="narasinewsroom" id="1494" weight="1" />
+      <edge source="partaigolkar" target="namasayamelki" id="1495" weight="1" />
+      <edge source="partaigolkar" target="bemfisipui" id="1496" weight="1" />
+      <edge source="partaigolkar" target="bemui_official" id="1497" weight="1" />
+      <edge source="partaigolkar" target="bemunj_official" id="1498" weight="1" />
+      <edge source="partaigolkar" target="bemuns" id="1499" weight="1" />
+      <edge source="partaigolkar" target="bemundip_" id="1500" weight="1" />
+      <edge source="partaigolkar" target="bemunpas" id="1501" weight="1" />
+      <edge source="partaigolkar" target="bemunair_id" id="1502" weight="1" />
+      <edge source="partaigolkar" target="bemuny" id="1503" weight="1" />
+      <edge source="partaigolkar" target="bemunesa" id="1504" weight="1" />
+      <edge source="partaigolkar" target="rosiannahi" id="1505" weight="1" />
+      <edge source="partaigolkar" target="corbuzier" id="1506" weight="1" />
+      <edge source="partaigolkar" target="islah_bahrawi" id="1507" weight="1" />
+      <edge source="partaigolkar" target="ismail" id="1508" weight="1" />
+      <edge source="partaigolkar" target="fahrihamzah" id="1509" weight="1" />
+      <edge source="partaigolkar" target="fadlizon" id="1510" weight="1" />
+      <edge source="partaigolkar" target="budimandjatmiko" id="1511" weight="1" />
+      <edge source="partaigolkar" target="faizalassegaf" id="1512" weight="1" />
+      <edge source="pksejahtera" target="officialdpp_pbb" id="1513" weight="1" />
+      <edge source="pksejahtera" target="iwanfals" id="1514" weight="1" />
+      <edge source="pksejahtera" target="gm_gm" id="1515" weight="1" />
+      <edge source="pksejahtera" target="jimlyas" id="1516" weight="1" />
+      <edge source="pksejahtera" target="sudjiwotedjo" id="1517" weight="1" />
+      <edge source="pksejahtera" target="matanajwa" id="1518" weight="1" />
+      <edge source="pksejahtera" target="najwashihab" id="1519" weight="1" />
+      <edge source="pksejahtera" target="tempodotco" id="1520" weight="1" />
+      <edge source="pksejahtera" target="narasinewsroom" id="1521" weight="1" />
+      <edge source="pksejahtera" target="namasayamelki" id="1522" weight="1" />
+      <edge source="pksejahtera" target="bemfisipui" id="1523" weight="1" />
+      <edge source="pksejahtera" target="bemui_official" id="1524" weight="1" />
+      <edge source="pksejahtera" target="bemunj_official" id="1525" weight="1" />
+      <edge source="pksejahtera" target="bemuns" id="1526" weight="1" />
+      <edge source="pksejahtera" target="bemundip_" id="1527" weight="1" />
+      <edge source="pksejahtera" target="bemunpas" id="1528" weight="1" />
+      <edge source="pksejahtera" target="bemunair_id" id="1529" weight="1" />
+      <edge source="pksejahtera" target="bemuny" id="1530" weight="1" />
+      <edge source="pksejahtera" target="bemunesa" id="1531" weight="1" />
+      <edge source="pksejahtera" target="rosiannahi" id="1532" weight="1" />
+      <edge source="pksejahtera" target="corbuzier" id="1533" weight="1" />
+      <edge source="pksejahtera" target="islah_bahrawi" id="1534" weight="1" />
+      <edge source="pksejahtera" target="ismail" id="1535" weight="1" />
+      <edge source="pksejahtera" target="fahrihamzah" id="1536" weight="1" />
+      <edge source="pksejahtera" target="fadlizon" id="1537" weight="1" />
+      <edge source="pksejahtera" target="budimandjatmiko" id="1538" weight="1" />
+      <edge source="pksejahtera" target="faizalassegaf" id="1539" weight="1" />
+      <edge source="pksejahtera" target="dpp_partaiummat" id="1540" weight="1" />
+      <edge source="officialdpp_pbb" target="iwanfals" id="1541" weight="1" />
+      <edge source="officialdpp_pbb" target="gm_gm" id="1542" weight="1" />
+      <edge source="officialdpp_pbb" target="jimlyas" id="1543" weight="1" />
+      <edge source="officialdpp_pbb" target="sudjiwotedjo" id="1544" weight="1" />
+      <edge source="officialdpp_pbb" target="matanajwa" id="1545" weight="1" />
+      <edge source="officialdpp_pbb" target="najwashihab" id="1546" weight="1" />
+      <edge source="officialdpp_pbb" target="tempodotco" id="1547" weight="1" />
+      <edge source="officialdpp_pbb" target="narasinewsroom" id="1548" weight="1" />
+      <edge source="officialdpp_pbb" target="namasayamelki" id="1549" weight="1" />
+      <edge source="officialdpp_pbb" target="bemfisipui" id="1550" weight="1" />
+      <edge source="officialdpp_pbb" target="bemui_official" id="1551" weight="1" />
+      <edge source="officialdpp_pbb" target="bemunj_official" id="1552" weight="1" />
+      <edge source="officialdpp_pbb" target="bemuns" id="1553" weight="1" />
+      <edge source="officialdpp_pbb" target="bemundip_" id="1554" weight="1" />
+      <edge source="officialdpp_pbb" target="bemunpas" id="1555" weight="1" />
+      <edge source="officialdpp_pbb" target="bemunair_id" id="1556" weight="1" />
+      <edge source="officialdpp_pbb" target="bemuny" id="1557" weight="1" />
+      <edge source="officialdpp_pbb" target="bemunesa" id="1558" weight="1" />
+      <edge source="officialdpp_pbb" target="rosiannahi" id="1559" weight="1" />
+      <edge source="officialdpp_pbb" target="corbuzier" id="1560" weight="1" />
+      <edge source="officialdpp_pbb" target="islah_bahrawi" id="1561" weight="1" />
+      <edge source="officialdpp_pbb" target="ismail" id="1562" weight="1" />
+      <edge source="officialdpp_pbb" target="fahrihamzah" id="1563" weight="1" />
+      <edge source="officialdpp_pbb" target="fadlizon" id="1564" weight="1" />
+      <edge source="officialdpp_pbb" target="budimandjatmiko" id="1565" weight="1" />
+      <edge source="officialdpp_pbb" target="faizalassegaf" id="1566" weight="1" />
+      <edge source="iwanfals" target="gm_gm" id="1567" weight="1" />
+      <edge source="iwanfals" target="jimlyas" id="1568" weight="1" />
+      <edge source="iwanfals" target="sudjiwotedjo" id="1569" weight="1" />
+      <edge source="iwanfals" target="matanajwa" id="1570" weight="1" />
+      <edge source="iwanfals" target="najwashihab" id="1571" weight="1" />
+      <edge source="iwanfals" target="tempodotco" id="1572" weight="1" />
+      <edge source="iwanfals" target="narasinewsroom" id="1573" weight="1" />
+      <edge source="iwanfals" target="namasayamelki" id="1574" weight="1" />
+      <edge source="iwanfals" target="bemfisipui" id="1575" weight="1" />
+      <edge source="iwanfals" target="bemui_official" id="1576" weight="1" />
+      <edge source="iwanfals" target="bemunj_official" id="1577" weight="1" />
+      <edge source="iwanfals" target="bemuns" id="1578" weight="1" />
+      <edge source="iwanfals" target="bemundip_" id="1579" weight="1" />
+      <edge source="iwanfals" target="bemunpas" id="1580" weight="1" />
+      <edge source="iwanfals" target="bemunair_id" id="1581" weight="1" />
+      <edge source="iwanfals" target="bemuny" id="1582" weight="1" />
+      <edge source="iwanfals" target="bemunesa" id="1583" weight="1" />
+      <edge source="iwanfals" target="rosiannahi" id="1584" weight="1" />
+      <edge source="iwanfals" target="corbuzier" id="1585" weight="1" />
+      <edge source="iwanfals" target="islah_bahrawi" id="1586" weight="1" />
+      <edge source="iwanfals" target="ismail" id="1587" weight="1" />
+      <edge source="iwanfals" target="fahrihamzah" id="1588" weight="1" />
+      <edge source="iwanfals" target="fadlizon" id="1589" weight="1" />
+      <edge source="iwanfals" target="budimandjatmiko" id="1590" weight="1" />
+      <edge source="iwanfals" target="faizalassegaf" id="1591" weight="1" />
+      <edge source="gm_gm" target="jimlyas" id="1592" weight="1" />
+      <edge source="gm_gm" target="sudjiwotedjo" id="1593" weight="1" />
+      <edge source="gm_gm" target="matanajwa" id="1594" weight="1" />
+      <edge source="gm_gm" target="najwashihab" id="1595" weight="1" />
+      <edge source="gm_gm" target="tempodotco" id="1596" weight="1" />
+      <edge source="gm_gm" target="narasinewsroom" id="1597" weight="1" />
+      <edge source="gm_gm" target="namasayamelki" id="1598" weight="1" />
+      <edge source="gm_gm" target="bemfisipui" id="1599" weight="1" />
+      <edge source="gm_gm" target="bemui_official" id="1600" weight="1" />
+      <edge source="gm_gm" target="bemunj_official" id="1601" weight="1" />
+      <edge source="gm_gm" target="bemuns" id="1602" weight="1" />
+      <edge source="gm_gm" target="bemundip_" id="1603" weight="1" />
+      <edge source="gm_gm" target="bemunpas" id="1604" weight="1" />
+      <edge source="gm_gm" target="bemunair_id" id="1605" weight="1" />
+      <edge source="gm_gm" target="bemuny" id="1606" weight="1" />
+      <edge source="gm_gm" target="bemunesa" id="1607" weight="1" />
+      <edge source="gm_gm" target="rosiannahi" id="1608" weight="1" />
+      <edge source="gm_gm" target="corbuzier" id="1609" weight="1" />
+      <edge source="gm_gm" target="islah_bahrawi" id="1610" weight="1" />
+      <edge source="gm_gm" target="ismail" id="1611" weight="1" />
+      <edge source="gm_gm" target="fahrihamzah" id="1612" weight="1" />
+      <edge source="gm_gm" target="fadlizon" id="1613" weight="1" />
+      <edge source="gm_gm" target="budimandjatmiko" id="1614" weight="1" />
+      <edge source="gm_gm" target="faizalassegaf" id="1615" weight="1" />
+      <edge source="jimlyas" target="sudjiwotedjo" id="1616" weight="1" />
+      <edge source="jimlyas" target="matanajwa" id="1617" weight="1" />
+      <edge source="jimlyas" target="najwashihab" id="1618" weight="1" />
+      <edge source="jimlyas" target="tempodotco" id="1619" weight="1" />
+      <edge source="jimlyas" target="narasinewsroom" id="1620" weight="1" />
+      <edge source="jimlyas" target="namasayamelki" id="1621" weight="1" />
+      <edge source="jimlyas" target="bemfisipui" id="1622" weight="1" />
+      <edge source="jimlyas" target="bemui_official" id="1623" weight="1" />
+      <edge source="jimlyas" target="bemunj_official" id="1624" weight="1" />
+      <edge source="jimlyas" target="bemuns" id="1625" weight="1" />
+      <edge source="jimlyas" target="bemundip_" id="1626" weight="1" />
+      <edge source="jimlyas" target="bemunpas" id="1627" weight="1" />
+      <edge source="jimlyas" target="bemunair_id" id="1628" weight="1" />
+      <edge source="jimlyas" target="bemuny" id="1629" weight="1" />
+      <edge source="jimlyas" target="bemunesa" id="1630" weight="1" />
+      <edge source="jimlyas" target="rosiannahi" id="1631" weight="1" />
+      <edge source="jimlyas" target="corbuzier" id="1632" weight="1" />
+      <edge source="jimlyas" target="islah_bahrawi" id="1633" weight="1" />
+      <edge source="jimlyas" target="ismail" id="1634" weight="1" />
+      <edge source="jimlyas" target="fahrihamzah" id="1635" weight="1" />
+      <edge source="jimlyas" target="fadlizon" id="1636" weight="1" />
+      <edge source="jimlyas" target="budimandjatmiko" id="1637" weight="1" />
+      <edge source="jimlyas" target="faizalassegaf" id="1638" weight="1" />
+      <edge source="sudjiwotedjo" target="matanajwa" id="1639" weight="1" />
+      <edge source="sudjiwotedjo" target="najwashihab" id="1640" weight="1" />
+      <edge source="sudjiwotedjo" target="tempodotco" id="1641" weight="1" />
+      <edge source="sudjiwotedjo" target="narasinewsroom" id="1642" weight="1" />
+      <edge source="sudjiwotedjo" target="namasayamelki" id="1643" weight="1" />
+      <edge source="sudjiwotedjo" target="bemfisipui" id="1644" weight="1" />
+      <edge source="sudjiwotedjo" target="bemui_official" id="1645" weight="1" />
+      <edge source="sudjiwotedjo" target="bemunj_official" id="1646" weight="1" />
+      <edge source="sudjiwotedjo" target="bemuns" id="1647" weight="1" />
+      <edge source="sudjiwotedjo" target="bemundip_" id="1648" weight="1" />
+      <edge source="sudjiwotedjo" target="bemunpas" id="1649" weight="1" />
+      <edge source="sudjiwotedjo" target="bemunair_id" id="1650" weight="1" />
+      <edge source="sudjiwotedjo" target="bemuny" id="1651" weight="1" />
+      <edge source="sudjiwotedjo" target="bemunesa" id="1652" weight="1" />
+      <edge source="sudjiwotedjo" target="rosiannahi" id="1653" weight="1" />
+      <edge source="sudjiwotedjo" target="corbuzier" id="1654" weight="1" />
+      <edge source="sudjiwotedjo" target="islah_bahrawi" id="1655" weight="1" />
+      <edge source="sudjiwotedjo" target="ismail" id="1656" weight="1" />
+      <edge source="sudjiwotedjo" target="fahrihamzah" id="1657" weight="1" />
+      <edge source="sudjiwotedjo" target="fadlizon" id="1658" weight="1" />
+      <edge source="sudjiwotedjo" target="budimandjatmiko" id="1659" weight="1" />
+      <edge source="sudjiwotedjo" target="faizalassegaf" id="1660" weight="1" />
+      <edge source="matanajwa" target="najwashihab" id="1661" weight="1" />
+      <edge source="matanajwa" target="tempodotco" id="1662" weight="1" />
+      <edge source="matanajwa" target="narasinewsroom" id="1663" weight="1" />
+      <edge source="matanajwa" target="namasayamelki" id="1664" weight="1" />
+      <edge source="matanajwa" target="bemfisipui" id="1665" weight="1" />
+      <edge source="matanajwa" target="bemui_official" id="1666" weight="1" />
+      <edge source="matanajwa" target="bemunj_official" id="1667" weight="1" />
+      <edge source="matanajwa" target="bemuns" id="1668" weight="1" />
+      <edge source="matanajwa" target="bemundip_" id="1669" weight="1" />
+      <edge source="matanajwa" target="bemunpas" id="1670" weight="1" />
+      <edge source="matanajwa" target="bemunair_id" id="1671" weight="1" />
+      <edge source="matanajwa" target="bemuny" id="1672" weight="1" />
+      <edge source="matanajwa" target="bemunesa" id="1673" weight="1" />
+      <edge source="matanajwa" target="rosiannahi" id="1674" weight="1" />
+      <edge source="matanajwa" target="corbuzier" id="1675" weight="1" />
+      <edge source="matanajwa" target="islah_bahrawi" id="1676" weight="1" />
+      <edge source="matanajwa" target="ismail" id="1677" weight="1" />
+      <edge source="matanajwa" target="fahrihamzah" id="1678" weight="1" />
+      <edge source="matanajwa" target="fadlizon" id="1679" weight="1" />
+      <edge source="matanajwa" target="budimandjatmiko" id="1680" weight="1" />
+      <edge source="matanajwa" target="faizalassegaf" id="1681" weight="1" />
+      <edge source="najwashihab" target="tempodotco" id="1682" weight="1" />
+      <edge source="najwashihab" target="narasinewsroom" id="1683" weight="1" />
+      <edge source="najwashihab" target="namasayamelki" id="1684" weight="1" />
+      <edge source="najwashihab" target="bemfisipui" id="1685" weight="1" />
+      <edge source="najwashihab" target="bemui_official" id="1686" weight="1" />
+      <edge source="najwashihab" target="bemunj_official" id="1687" weight="1" />
+      <edge source="najwashihab" target="bemuns" id="1688" weight="1" />
+      <edge source="najwashihab" target="bemundip_" id="1689" weight="1" />
+      <edge source="najwashihab" target="bemunpas" id="1690" weight="1" />
+      <edge source="najwashihab" target="bemunair_id" id="1691" weight="1" />
+      <edge source="najwashihab" target="bemuny" id="1692" weight="1" />
+      <edge source="najwashihab" target="bemunesa" id="1693" weight="1" />
+      <edge source="najwashihab" target="rosiannahi" id="1694" weight="1" />
+      <edge source="najwashihab" target="corbuzier" id="1695" weight="1" />
+      <edge source="najwashihab" target="islah_bahrawi" id="1696" weight="1" />
+      <edge source="najwashihab" target="ismail" id="1697" weight="1" />
+      <edge source="najwashihab" target="fahrihamzah" id="1698" weight="1" />
+      <edge source="najwashihab" target="fadlizon" id="1699" weight="1" />
+      <edge source="najwashihab" target="budimandjatmiko" id="1700" weight="1" />
+      <edge source="najwashihab" target="faizalassegaf" id="1701" weight="1" />
+      <edge source="tempodotco" target="narasinewsroom" id="1702" weight="1" />
+      <edge source="tempodotco" target="namasayamelki" id="1703" weight="1" />
+      <edge source="tempodotco" target="bemfisipui" id="1704" weight="1" />
+      <edge source="tempodotco" target="bemui_official" id="1705" weight="1" />
+      <edge source="tempodotco" target="bemunj_official" id="1706" weight="1" />
+      <edge source="tempodotco" target="bemuns" id="1707" weight="1" />
+      <edge source="tempodotco" target="bemundip_" id="1708" weight="1" />
+      <edge source="tempodotco" target="bemunpas" id="1709" weight="1" />
+      <edge source="tempodotco" target="bemunair_id" id="1710" weight="1" />
+      <edge source="tempodotco" target="bemuny" id="1711" weight="1" />
+      <edge source="tempodotco" target="bemunesa" id="1712" weight="1" />
+      <edge source="tempodotco" target="rosiannahi" id="1713" weight="1" />
+      <edge source="tempodotco" target="corbuzier" id="1714" weight="1" />
+      <edge source="tempodotco" target="islah_bahrawi" id="1715" weight="1" />
+      <edge source="tempodotco" target="ismail" id="1716" weight="1" />
+      <edge source="tempodotco" target="fahrihamzah" id="1717" weight="1" />
+      <edge source="tempodotco" target="fadlizon" id="1718" weight="1" />
+      <edge source="tempodotco" target="budimandjatmiko" id="1719" weight="1" />
+      <edge source="tempodotco" target="faizalassegaf" id="1720" weight="1" />
+      <edge source="narasinewsroom" target="namasayamelki" id="1721" weight="1" />
+      <edge source="narasinewsroom" target="bemfisipui" id="1722" weight="1" />
+      <edge source="narasinewsroom" target="bemui_official" id="1723" weight="1" />
+      <edge source="narasinewsroom" target="bemunj_official" id="1724" weight="1" />
+      <edge source="narasinewsroom" target="bemuns" id="1725" weight="1" />
+      <edge source="narasinewsroom" target="bemundip_" id="1726" weight="1" />
+      <edge source="narasinewsroom" target="bemunpas" id="1727" weight="1" />
+      <edge source="narasinewsroom" target="bemunair_id" id="1728" weight="1" />
+      <edge source="narasinewsroom" target="bemuny" id="1729" weight="1" />
+      <edge source="narasinewsroom" target="bemunesa" id="1730" weight="1" />
+      <edge source="narasinewsroom" target="rosiannahi" id="1731" weight="1" />
+      <edge source="narasinewsroom" target="corbuzier" id="1732" weight="1" />
+      <edge source="narasinewsroom" target="islah_bahrawi" id="1733" weight="1" />
+      <edge source="narasinewsroom" target="ismail" id="1734" weight="1" />
+      <edge source="narasinewsroom" target="fahrihamzah" id="1735" weight="1" />
+      <edge source="narasinewsroom" target="fadlizon" id="1736" weight="1" />
+      <edge source="narasinewsroom" target="budimandjatmiko" id="1737" weight="1" />
+      <edge source="narasinewsroom" target="faizalassegaf" id="1738" weight="1" />
+      <edge source="namasayamelki" target="bemfisipui" id="1739" weight="1" />
+      <edge source="namasayamelki" target="bemui_official" id="1740" weight="1" />
+      <edge source="namasayamelki" target="bemunj_official" id="1741" weight="1" />
+      <edge source="namasayamelki" target="bemuns" id="1742" weight="1" />
+      <edge source="namasayamelki" target="bemundip_" id="1743" weight="1" />
+      <edge source="namasayamelki" target="bemunpas" id="1744" weight="1" />
+      <edge source="namasayamelki" target="bemunair_id" id="1745" weight="1" />
+      <edge source="namasayamelki" target="bemuny" id="1746" weight="1" />
+      <edge source="namasayamelki" target="bemunesa" id="1747" weight="1" />
+      <edge source="namasayamelki" target="rosiannahi" id="1748" weight="1" />
+      <edge source="namasayamelki" target="corbuzier" id="1749" weight="1" />
+      <edge source="namasayamelki" target="islah_bahrawi" id="1750" weight="1" />
+      <edge source="namasayamelki" target="ismail" id="1751" weight="1" />
+      <edge source="namasayamelki" target="fahrihamzah" id="1752" weight="1" />
+      <edge source="namasayamelki" target="fadlizon" id="1753" weight="1" />
+      <edge source="namasayamelki" target="budimandjatmiko" id="1754" weight="1" />
+      <edge source="namasayamelki" target="faizalassegaf" id="1755" weight="1" />
+      <edge source="bemfisipui" target="bemui_official" id="1756" weight="1" />
+      <edge source="bemfisipui" target="bemunj_official" id="1757" weight="1" />
+      <edge source="bemfisipui" target="bemuns" id="1758" weight="1" />
+      <edge source="bemfisipui" target="bemundip_" id="1759" weight="1" />
+      <edge source="bemfisipui" target="bemunpas" id="1760" weight="1" />
+      <edge source="bemfisipui" target="bemunair_id" id="1761" weight="1" />
+      <edge source="bemfisipui" target="bemuny" id="1762" weight="1" />
+      <edge source="bemfisipui" target="bemunesa" id="1763" weight="1" />
+      <edge source="bemfisipui" target="rosiannahi" id="1764" weight="1" />
+      <edge source="bemfisipui" target="corbuzier" id="1765" weight="1" />
+      <edge source="bemfisipui" target="islah_bahrawi" id="1766" weight="1" />
+      <edge source="bemfisipui" target="ismail" id="1767" weight="1" />
+      <edge source="bemfisipui" target="fahrihamzah" id="1768" weight="1" />
+      <edge source="bemfisipui" target="fadlizon" id="1769" weight="1" />
+      <edge source="bemfisipui" target="budimandjatmiko" id="1770" weight="1" />
+      <edge source="bemfisipui" target="faizalassegaf" id="1771" weight="1" />
+      <edge source="bemui_official" target="bemunj_official" id="1772" weight="1" />
+      <edge source="bemui_official" target="bemuns" id="1773" weight="1" />
+      <edge source="bemui_official" target="bemundip_" id="1774" weight="1" />
+      <edge source="bemui_official" target="bemunpas" id="1775" weight="1" />
+      <edge source="bemui_official" target="bemunair_id" id="1776" weight="1" />
+      <edge source="bemui_official" target="bemuny" id="1777" weight="1" />
+      <edge source="bemui_official" target="bemunesa" id="1778" weight="1" />
+      <edge source="bemui_official" target="rosiannahi" id="1779" weight="1" />
+      <edge source="bemui_official" target="corbuzier" id="1780" weight="1" />
+      <edge source="bemui_official" target="islah_bahrawi" id="1781" weight="1" />
+      <edge source="bemui_official" target="ismail" id="1782" weight="1" />
+      <edge source="bemui_official" target="fahrihamzah" id="1783" weight="1" />
+      <edge source="bemui_official" target="fadlizon" id="1784" weight="1" />
+      <edge source="bemui_official" target="budimandjatmiko" id="1785" weight="1" />
+      <edge source="bemui_official" target="faizalassegaf" id="1786" weight="1" />
+      <edge source="bemunj_official" target="bemuns" id="1787" weight="1" />
+      <edge source="bemunj_official" target="bemundip_" id="1788" weight="1" />
+      <edge source="bemunj_official" target="bemunpas" id="1789" weight="1" />
+      <edge source="bemunj_official" target="bemunair_id" id="1790" weight="1" />
+      <edge source="bemunj_official" target="bemuny" id="1791" weight="1" />
+      <edge source="bemunj_official" target="bemunesa" id="1792" weight="1" />
+      <edge source="bemunj_official" target="rosiannahi" id="1793" weight="1" />
+      <edge source="bemunj_official" target="corbuzier" id="1794" weight="1" />
+      <edge source="bemunj_official" target="islah_bahrawi" id="1795" weight="1" />
+      <edge source="bemunj_official" target="ismail" id="1796" weight="1" />
+      <edge source="bemunj_official" target="fahrihamzah" id="1797" weight="1" />
+      <edge source="bemunj_official" target="fadlizon" id="1798" weight="1" />
+      <edge source="bemunj_official" target="budimandjatmiko" id="1799" weight="1" />
+      <edge source="bemunj_official" target="faizalassegaf" id="1800" weight="1" />
+      <edge source="bemuns" target="bemundip_" id="1801" weight="1" />
+      <edge source="bemuns" target="bemunpas" id="1802" weight="1" />
+      <edge source="bemuns" target="bemunair_id" id="1803" weight="1" />
+      <edge source="bemuns" target="bemuny" id="1804" weight="1" />
+      <edge source="bemuns" target="bemunesa" id="1805" weight="1" />
+      <edge source="bemuns" target="rosiannahi" id="1806" weight="1" />
+      <edge source="bemuns" target="corbuzier" id="1807" weight="1" />
+      <edge source="bemuns" target="islah_bahrawi" id="1808" weight="1" />
+      <edge source="bemuns" target="ismail" id="1809" weight="1" />
+      <edge source="bemuns" target="fahrihamzah" id="1810" weight="1" />
+      <edge source="bemuns" target="fadlizon" id="1811" weight="1" />
+      <edge source="bemuns" target="budimandjatmiko" id="1812" weight="1" />
+      <edge source="bemuns" target="faizalassegaf" id="1813" weight="1" />
+      <edge source="bemundip_" target="bemunpas" id="1814" weight="1" />
+      <edge source="bemundip_" target="bemunair_id" id="1815" weight="1" />
+      <edge source="bemundip_" target="bemuny" id="1816" weight="1" />
+      <edge source="bemundip_" target="bemunesa" id="1817" weight="1" />
+      <edge source="bemundip_" target="rosiannahi" id="1818" weight="1" />
+      <edge source="bemundip_" target="corbuzier" id="1819" weight="1" />
+      <edge source="bemundip_" target="islah_bahrawi" id="1820" weight="1" />
+      <edge source="bemundip_" target="ismail" id="1821" weight="1" />
+      <edge source="bemundip_" target="fahrihamzah" id="1822" weight="1" />
+      <edge source="bemundip_" target="fadlizon" id="1823" weight="1" />
+      <edge source="bemundip_" target="budimandjatmiko" id="1824" weight="1" />
+      <edge source="bemundip_" target="faizalassegaf" id="1825" weight="1" />
+      <edge source="bemunpas" target="bemunair_id" id="1826" weight="1" />
+      <edge source="bemunpas" target="bemuny" id="1827" weight="1" />
+      <edge source="bemunpas" target="bemunesa" id="1828" weight="1" />
+      <edge source="bemunpas" target="rosiannahi" id="1829" weight="1" />
+      <edge source="bemunpas" target="corbuzier" id="1830" weight="1" />
+      <edge source="bemunpas" target="islah_bahrawi" id="1831" weight="1" />
+      <edge source="bemunpas" target="ismail" id="1832" weight="1" />
+      <edge source="bemunpas" target="fahrihamzah" id="1833" weight="1" />
+      <edge source="bemunpas" target="fadlizon" id="1834" weight="1" />
+      <edge source="bemunpas" target="budimandjatmiko" id="1835" weight="1" />
+      <edge source="bemunpas" target="faizalassegaf" id="1836" weight="1" />
+      <edge source="bemunair_id" target="bemuny" id="1837" weight="1" />
+      <edge source="bemunair_id" target="bemunesa" id="1838" weight="1" />
+      <edge source="bemunair_id" target="rosiannahi" id="1839" weight="1" />
+      <edge source="bemunair_id" target="corbuzier" id="1840" weight="1" />
+      <edge source="bemunair_id" target="islah_bahrawi" id="1841" weight="1" />
+      <edge source="bemunair_id" target="ismail" id="1842" weight="1" />
+      <edge source="bemunair_id" target="fahrihamzah" id="1843" weight="1" />
+      <edge source="bemunair_id" target="fadlizon" id="1844" weight="1" />
+      <edge source="bemunair_id" target="budimandjatmiko" id="1845" weight="1" />
+      <edge source="bemunair_id" target="faizalassegaf" id="1846" weight="1" />
+      <edge source="bemuny" target="bemunesa" id="1847" weight="1" />
+      <edge source="bemuny" target="rosiannahi" id="1848" weight="1" />
+      <edge source="bemuny" target="corbuzier" id="1849" weight="1" />
+      <edge source="bemuny" target="islah_bahrawi" id="1850" weight="1" />
+      <edge source="bemuny" target="ismail" id="1851" weight="1" />
+      <edge source="bemuny" target="fahrihamzah" id="1852" weight="1" />
+      <edge source="bemuny" target="fadlizon" id="1853" weight="1" />
+      <edge source="bemuny" target="budimandjatmiko" id="1854" weight="1" />
+      <edge source="bemuny" target="faizalassegaf" id="1855" weight="1" />
+      <edge source="bemunesa" target="rosiannahi" id="1856" weight="1" />
+      <edge source="bemunesa" target="corbuzier" id="1857" weight="1" />
+      <edge source="bemunesa" target="islah_bahrawi" id="1858" weight="1" />
+      <edge source="bemunesa" target="ismail" id="1859" weight="1" />
+      <edge source="bemunesa" target="fahrihamzah" id="1860" weight="1" />
+      <edge source="bemunesa" target="fadlizon" id="1861" weight="1" />
+      <edge source="bemunesa" target="budimandjatmiko" id="1862" weight="1" />
+      <edge source="bemunesa" target="faizalassegaf" id="1863" weight="1" />
+      <edge source="rosiannahi" target="corbuzier" id="1864" weight="1" />
+      <edge source="rosiannahi" target="islah_bahrawi" id="1865" weight="1" />
+      <edge source="rosiannahi" target="ismail" id="1866" weight="1" />
+      <edge source="rosiannahi" target="fahrihamzah" id="1867" weight="1" />
+      <edge source="rosiannahi" target="fadlizon" id="1868" weight="1" />
+      <edge source="rosiannahi" target="budimandjatmiko" id="1869" weight="1" />
+      <edge source="rosiannahi" target="faizalassegaf" id="1870" weight="1" />
+      <edge source="corbuzier" target="islah_bahrawi" id="1871" weight="1" />
+      <edge source="corbuzier" target="ismail" id="1872" weight="1" />
+      <edge source="corbuzier" target="fahrihamzah" id="1873" weight="1" />
+      <edge source="corbuzier" target="fadlizon" id="1874" weight="1" />
+      <edge source="corbuzier" target="budimandjatmiko" id="1875" weight="1" />
+      <edge source="corbuzier" target="faizalassegaf" id="1876" weight="1" />
+      <edge source="islah_bahrawi" target="ismail" id="1877" weight="1" />
+      <edge source="islah_bahrawi" target="fahrihamzah" id="1878" weight="1" />
+      <edge source="islah_bahrawi" target="fadlizon" id="1879" weight="1" />
+      <edge source="islah_bahrawi" target="budimandjatmiko" id="1880" weight="1" />
+      <edge source="islah_bahrawi" target="faizalassegaf" id="1881" weight="1" />
+      <edge source="islah_bahrawi" target="__anakkolong" id="1882" weight="1" />
+      <edge source="islah_bahrawi" target="_bungherwin" id="1883" weight="1" />
+      <edge source="ismail" target="fahrihamzah" id="1884" weight="1" />
+      <edge source="ismail" target="fadlizon" id="1885" weight="1" />
+      <edge source="ismail" target="budimandjatmiko" id="1886" weight="1" />
+      <edge source="ismail" target="faizalassegaf" id="1887" weight="1" />
+      <edge source="fahrihamzah" target="fadlizon" id="1888" weight="1" />
+      <edge source="fahrihamzah" target="budimandjatmiko" id="1889" weight="1" />
+      <edge source="fahrihamzah" target="faizalassegaf" id="1890" weight="1" />
+      <edge source="fadlizon" target="budimandjatmiko" id="1891" weight="1" />
+      <edge source="fadlizon" target="faizalassegaf" id="1892" weight="1" />
+      <edge source="fadlizon" target="__anakkolong" id="1893" weight="1" />
+      <edge source="fadlizon" target="ferryjuliantono" id="1894" weight="1" />
+      <edge source="budimandjatmiko" target="faizalassegaf" id="1895" weight="1" />
+      <edge source="budimandjatmiko" target="deddysitorus" id="1896" weight="1" />
+      <edge source="poernoadinug" target="bersuwara" id="1897" weight="1" />
+      <edge source="adedhani" target="aking_adit" id="1898" weight="1" />
+      <edge source="adedhani" target="azri_ardhani" id="1899" weight="1" />
+      <edge source="adedhani" target="kang_toniee" id="1900" weight="1" />
+      <edge source="adedhani" target="choymarkochoy" id="1901" weight="1" />
+      <edge source="adedhani" target="putri" id="1902" weight="1" />
+      <edge source="adedhani" target="muhiqr" id="1903" weight="1" />
+      <edge source="adedhani" target="nohceukenohhh" id="1904" weight="1" />
+      <edge source="adedhani" target="chaidar_" id="1905" weight="1" />
+      <edge source="aking_adit" target="azri_ardhani" id="1906" weight="1" />
+      <edge source="aking_adit" target="kang_toniee" id="1907" weight="1" />
+      <edge source="aking_adit" target="choymarkochoy" id="1908" weight="1" />
+      <edge source="aking_adit" target="putri" id="1909" weight="1" />
+      <edge source="aking_adit" target="muhiqr" id="1910" weight="1" />
+      <edge source="aking_adit" target="nohceukenohhh" id="1911" weight="1" />
+      <edge source="aking_adit" target="chaidar_" id="1912" weight="1" />
+      <edge source="azri_ardhani" target="kang_toniee" id="1913" weight="1" />
+      <edge source="azri_ardhani" target="choymarkochoy" id="1914" weight="1" />
+      <edge source="azri_ardhani" target="putri" id="1915" weight="1" />
+      <edge source="azri_ardhani" target="muhiqr" id="1916" weight="1" />
+      <edge source="azri_ardhani" target="nohceukenohhh" id="1917" weight="1" />
+      <edge source="azri_ardhani" target="chaidar_" id="1918" weight="1" />
+      <edge source="kang_toniee" target="choymarkochoy" id="1919" weight="1" />
+      <edge source="kang_toniee" target="putri" id="1920" weight="1" />
+      <edge source="kang_toniee" target="muhiqr" id="1921" weight="1" />
+      <edge source="kang_toniee" target="nohceukenohhh" id="1922" weight="1" />
+      <edge source="kang_toniee" target="chaidar_" id="1923" weight="1" />
+      <edge source="choymarkochoy" target="putri" id="1924" weight="1" />
+      <edge source="choymarkochoy" target="muhiqr" id="1925" weight="1" />
+      <edge source="choymarkochoy" target="nohceukenohhh" id="1926" weight="1" />
+      <edge source="choymarkochoy" target="chaidar_" id="1927" weight="1" />
+      <edge source="putri" target="muhiqr" id="1928" weight="1" />
+      <edge source="putri" target="nohceukenohhh" id="1929" weight="1" />
+      <edge source="putri" target="chaidar_" id="1930" weight="1" />
+      <edge source="muhiqr" target="nohceukenohhh" id="1931" weight="1" />
+      <edge source="muhiqr" target="chaidar_" id="1932" weight="1" />
+      <edge source="nohceukenohhh" target="chaidar_" id="1933" weight="1" />
+      <edge source="abahdeon" target="saposikompak" id="1934" weight="1" />
+      <edge source="charliemput" target="tanyarlfes" id="1935" weight="1" />
+      <edge source="ynkfz" target="arsjadrasjid" id="1936" weight="1" />
+      <edge source="arsjadrasjid" target="savicali" id="1937" weight="1" />
+      <edge source="arsjadrasjid" target="alissawahid" id="1938" weight="1" />
+      <edge source="bospurwa" target="pribumituan" id="1939" weight="1" />
+      <edge source="bospurwa" target="partaisocmed" id="1940" weight="1" />
+      <edge source="ndaxwz" target="adri_i" id="1941" weight="1" />
+      <edge source="ndaxwz" target="ppbw_" id="1942" weight="1" />
+      <edge source="ndaxwz" target="andreassolusi" id="1943" weight="1" />
+      <edge source="ndaxwz" target="mpoklela" id="1944" weight="1" />
+      <edge source="ndaxwz" target="temanduit" id="1945" weight="1" />
+      <edge source="adri_i" target="ppbw_" id="1946" weight="1" />
+      <edge source="adri_i" target="andreassolusi" id="1947" weight="1" />
+      <edge source="adri_i" target="mpoklela" id="1948" weight="1" />
+      <edge source="adri_i" target="temanduit" id="1949" weight="1" />
+      <edge source="ppbw_" target="andreassolusi" id="1950" weight="1" />
+      <edge source="ppbw_" target="mpoklela" id="1951" weight="1" />
+      <edge source="ppbw_" target="temanduit" id="1952" weight="1" />
+      <edge source="andreassolusi" target="mpoklela" id="1953" weight="1" />
+      <edge source="andreassolusi" target="temanduit" id="1954" weight="1" />
+      <edge source="mpoklela" target="temanduit" id="1955" weight="1" />
+      <edge source="indonesia" target="combroherry" id="1956" weight="1" />
+      <edge source="indonesia" target="kompastv" id="1957" weight="1" />
+      <edge source="combroherry" target="kompastv" id="1958" weight="1" />
+      <edge source="kompastv" target="djoniecash" id="1959" weight="1" />
+      <edge source="kompastv" target="parmansanjaya" id="1960" weight="1" />
+      <edge source="kompastv" target="triadeamarullo" id="1961" weight="1" />
+      <edge source="leonarddnyasatu" target="akmalanshari" id="1962" weight="1" />
+      <edge source="leonarddnyasatu" target="tirta_cipeng" id="1963" weight="1" />
+      <edge source="akmalanshari" target="tirta_cipeng" id="1964" weight="1" />
+      <edge source="armisatria" target="resty_j_cayah" id="1965" weight="1" />
+      <edge source="resty_j_cayah" target="anceto" id="1966" weight="1" />
+      <edge source="resty_j_cayah" target="justkaka" id="1967" weight="1" />
+      <edge source="resty_j_cayah" target="trahmatullah" id="1968" weight="1" />
+      <edge source="resty_j_cayah" target="boodmynded" id="1969" weight="1" />
+      <edge source="dewwsnu" target="hensuaja" id="1970" weight="1" />
+      <edge source="eddy_widodo_" target="ngkongroses" id="1971" weight="1" />
+      <edge source="mbroo" target="andiarief__" id="1972" weight="1" />
+      <edge source="abah" target="henrysubiakto" id="1973" weight="1" />
+      <edge source="tita" target="namoaryatara" id="1974" weight="1" />
+      <edge source="pananggangan" target="datuakrajoangek" id="1975" weight="1" />
+      <edge source="datuakrajoangek" target="datuakrajoangek" id="1976" weight="1" />
+      <edge source="anceto" target="justkaka" id="1977" weight="1" />
+      <edge source="spacerocc" target="lejy" id="1978" weight="1" />
+      <edge source="spacerocc" target="zhil_arf" id="1979" weight="1" />
+      <edge source="lejy" target="zhil_arf" id="1980" weight="1" />
+      <edge source="lejy" target="ahmahmniam" id="1981" weight="1" />
+      <edge source="zhil_arf" target="ahmahmniam" id="1982" weight="1" />
+      <edge source="putraaudi" target="tvonenews" id="1983" weight="1" />
+      <edge source="nataliuspigai" target="nataliuspigai" id="1984" weight="1" />
+      <edge source="djohanlianto" target="sn_wb" id="1985" weight="1" />
+      <edge source="__anakkolong" target="_bungherwin" id="1986" weight="1" />
+      <edge source="__anakkolong" target="marbot_udien" id="1987" weight="1" />
+      <edge source="__anakkolong" target="bdoel___" id="1988" weight="1" />
+      <edge source="__anakkolong" target="al_lasan" id="1989" weight="1" />
+      <edge source="__anakkolong" target="zulkiflilubis" id="1990" weight="1" />
+      <edge source="__anakkolong" target="nenkmonica" id="1991" weight="1" />
+      <edge source="__anakkolong" target="alisyarief" id="1992" weight="1" />
+      <edge source="__anakkolong" target="ferryjuliantono" id="1993" weight="1" />
+      <edge source="_bungherwin" target="firdausymuh" id="1994" weight="1" />
+      <edge source="_bungherwin" target="alimmaktour" id="1995" weight="1" />
+      <edge source="_bungherwin" target="iwankristanto" id="1996" weight="1" />
+      <edge source="_bungherwin" target="_irawannurinsan" id="1997" weight="1" />
+      <edge source="_bungherwin" target="pakjenggot___" id="1998" weight="1" />
+      <edge source="_bungherwin" target="kadrun" id="1999" weight="1" />
+      <edge source="waltuhamogus" target="rtifany" id="2000" weight="1" />
+      <edge source="waltuhamogus" target="dandhy_laksono" id="2001" weight="1" />
+      <edge source="rtifany" target="dandhy_laksono" id="2002" weight="1" />
+      <edge source="dandhy_laksono" target="danimafn" id="2003" weight="1" />
+      <edge source="dandhy_laksono" target="mozze_mozze" id="2004" weight="1" />
+      <edge source="dandhy_laksono" target="lothfifaisal" id="2005" weight="1" />
+      <edge source="hilalmultibiz" target="sigitwid" id="2006" weight="1" />
+      <edge source="sigitwid" target="yradianto" id="2007" weight="1" />
+      <edge source="sigitwid" target="winnerwave_" id="2008" weight="1" />
+      <edge source="ndoro_putra" target="hilmi" id="2009" weight="1" />
+      <edge source="hilmi" target="jokosan" id="2010" weight="1" />
+      <edge source="savicali" target="alissawahid" id="2011" weight="1" />
+      <edge source="mozze_mozze" target="lothfifaisal" id="2012" weight="1" />
+      <edge source="cnnindonesia" target="kemenag_ri" id="2013" weight="1" />
+      <edge source="cnnindonesia" target="yaqutcqoumas" id="2014" weight="1" />
+      <edge source="cnnindonesia" target="kpu_id" id="2015" weight="1" />
+      <edge source="cnnindonesia" target="bawaslu_ri" id="2016" weight="1" />
+      <edge source="cnnindonesia" target="permadiaktifis" id="2017" weight="1" />
+      <edge source="cnnindonesia" target="vellionx" id="2018" weight="1" />
+      <edge source="cnnindonesia" target="elmirakid" id="2019" weight="1" />
+      <edge source="kemenag_ri" target="yaqutcqoumas" id="2020" weight="1" />
+      <edge source="kemenag_ri" target="kpu_id" id="2021" weight="1" />
+      <edge source="kemenag_ri" target="bawaslu_ri" id="2022" weight="1" />
+      <edge source="engkong_" target="narkosun" id="2023" weight="1" />
+      <edge source="narkosun" target="bungkustukang" id="2024" weight="1" />
+      <edge source="juniputra" target="doankwarto" id="2025" weight="1" />
+      <edge source="doankwarto" target="kzzuo" id="2026" weight="1" />
+      <edge source="doankwarto" target="yudiwibowo" id="2027" weight="1" />
+      <edge source="doankwarto" target="hc_poirot" id="2028" weight="1" />
+      <edge source="divisihumaspolri" target="humaspoldajatim" id="2029" weight="1" />
+      <edge source="divisihumaspolri" target="spripimpoldajatim" id="2030" weight="1" />
+      <edge source="divisihumaspolri" target="polisi_indonesia" id="2031" weight="1" />
+      <edge source="divisihumaspolri" target="humaspolres_kedirikota" id="2032" weight="1" />
+      <edge source="divisihumaspolri" target="teddychandra_wl" id="2033" weight="1" />
+      <edge source="divisihumaspolri" target="kapolres_kediri_kota" id="2034" weight="1" />
+      <edge source="humaspoldajatim" target="spripimpoldajatim" id="2035" weight="1" />
+      <edge source="humaspoldajatim" target="polisi_indonesia" id="2036" weight="1" />
+      <edge source="humaspoldajatim" target="humaspolres_kedirikota" id="2037" weight="1" />
+      <edge source="humaspoldajatim" target="teddychandra_wl" id="2038" weight="1" />
+      <edge source="humaspoldajatim" target="kapolres_kediri_kota" id="2039" weight="1" />
+      <edge source="spripimpoldajatim" target="polisi_indonesia" id="2040" weight="1" />
+      <edge source="spripimpoldajatim" target="humaspolres_kedirikota" id="2041" weight="1" />
+      <edge source="spripimpoldajatim" target="teddychandra_wl" id="2042" weight="1" />
+      <edge source="spripimpoldajatim" target="kapolres_kediri_kota" id="2043" weight="1" />
+      <edge source="polisi_indonesia" target="humaspolres_kedirikota" id="2044" weight="1" />
+      <edge source="polisi_indonesia" target="teddychandra_wl" id="2045" weight="1" />
+      <edge source="polisi_indonesia" target="kapolres_kediri_kota" id="2046" weight="1" />
+      <edge source="humaspolres_kedirikota" target="teddychandra_wl" id="2047" weight="1" />
+      <edge source="humaspolres_kedirikota" target="kapolres_kediri_kota" id="2048" weight="1" />
+      <edge source="teddychandra_wl" target="kapolres_kediri_kota" id="2049" weight="1" />
+      <edge source="nengevvvaaa" target="djok" id="2050" weight="1" />
+      <edge source="nengevvvaaa" target="setyaki" id="2051" weight="1" />
+      <edge source="djok" target="setyaki" id="2052" weight="1" />
+      <edge source="trahmatullah" target="boodmynded" id="2053" weight="1" />
+      <edge source="kentlooks" target="stevn_pegl" id="2054" weight="1" />
+      <edge source="kentlooks" target="sumpanto" id="2055" weight="1" />
+      <edge source="kentlooks" target="kakekhalal" id="2056" weight="1" />
+      <edge source="stevn_pegl" target="sumpanto" id="2057" weight="1" />
+      <edge source="stevn_pegl" target="kakekhalal" id="2058" weight="1" />
+      <edge source="sumpanto" target="kakekhalal" id="2059" weight="1" />
+      <edge source="kakekhalal" target="aniesbaswedasekarang" id="2060" weight="1" />
+      <edge source="gus_munozz" target="ekokuntadhi" id="2061" weight="1" />
+      <edge source="kzzuo" target="yudiwibowo" id="2062" weight="1" />
+      <edge source="stefanantonio__" target="rstmbcl" id="2063" weight="1" />
+      <edge source="stefanantonio__" target="airindatanglagi" id="2064" weight="1" />
+      <edge source="rstmbcl" target="airindatanglagi" id="2065" weight="1" />
+      <edge source="marbot_udien" target="bdoel___" id="2066" weight="1" />
+      <edge source="marbot_udien" target="al_lasan" id="2067" weight="1" />
+      <edge source="marbot_udien" target="zulkiflilubis" id="2068" weight="1" />
+      <edge source="marbot_udien" target="nenkmonica" id="2069" weight="1" />
+      <edge source="marbot_udien" target="alisyarief" id="2070" weight="1" />
+      <edge source="bdoel___" target="al_lasan" id="2071" weight="1" />
+      <edge source="bdoel___" target="zulkiflilubis" id="2072" weight="1" />
+      <edge source="bdoel___" target="nenkmonica" id="2073" weight="1" />
+      <edge source="bdoel___" target="alisyarief" id="2074" weight="1" />
+      <edge source="bdoel___" target="billray" id="2075" weight="1" />
+      <edge source="bdoel___" target="urrangawak" id="2076" weight="1" />
+      <edge source="bdoel___" target="renahoston" id="2077" weight="1" />
+      <edge source="bdoel___" target="antoniuscdn" id="2078" weight="1" />
+      <edge source="bdoel___" target="chaterine_lie" id="2079" weight="1" />
+      <edge source="bdoel___" target="terbucinz" id="2080" weight="1" />
+      <edge source="al_lasan" target="zulkiflilubis" id="2081" weight="1" />
+      <edge source="al_lasan" target="nenkmonica" id="2082" weight="1" />
+      <edge source="al_lasan" target="alisyarief" id="2083" weight="1" />
+      <edge source="zulkiflilubis" target="nenkmonica" id="2084" weight="1" />
+      <edge source="zulkiflilubis" target="alisyarief" id="2085" weight="1" />
+      <edge source="zulkiflilubis" target="muslim_antipki" id="2086" weight="1" />
+      <edge source="zulkiflilubis" target="hudakeyy" id="2087" weight="1" />
+      <edge source="nenkmonica" target="alisyarief" id="2088" weight="1" />
+      <edge source="alisyarief" target="muslim_antipki" id="2089" weight="1" />
+      <edge source="alisyarief" target="hudakeyy" id="2090" weight="1" />
+      <edge source="minietweets_" target="marcj" id="2091" weight="1" />
+      <edge source="muslim_antipki" target="hudakeyy" id="2092" weight="1" />
+      <edge source="knpiharis" target="daeng_embang" id="2093" weight="1" />
+      <edge source="knpiharis" target="alnilamomar" id="2094" weight="1" />
+      <edge source="daeng_embang" target="alnilamomar" id="2095" weight="1" />
+      <edge source="arti_sebuahrasa" target="ganjar_andika" id="2096" weight="1" />
+      <edge source="kpu_id" target="bawaslu_ri" id="2097" weight="1" />
+      <edge source="hendra" target="ernestprakasa" id="2098" weight="1" />
+      <edge source="firdausymuh" target="alimmaktour" id="2099" weight="1" />
+      <edge source="firdausymuh" target="iwankristanto" id="2100" weight="1" />
+      <edge source="firdausymuh" target="_irawannurinsan" id="2101" weight="1" />
+      <edge source="firdausymuh" target="pakjenggot___" id="2102" weight="1" />
+      <edge source="firdausymuh" target="kadrun" id="2103" weight="1" />
+      <edge source="alimmaktour" target="iwankristanto" id="2104" weight="1" />
+      <edge source="alimmaktour" target="_irawannurinsan" id="2105" weight="1" />
+      <edge source="alimmaktour" target="pakjenggot___" id="2106" weight="1" />
+      <edge source="alimmaktour" target="kadrun" id="2107" weight="1" />
+      <edge source="iwankristanto" target="_irawannurinsan" id="2108" weight="1" />
+      <edge source="iwankristanto" target="pakjenggot___" id="2109" weight="1" />
+      <edge source="iwankristanto" target="kadrun" id="2110" weight="1" />
+      <edge source="_irawannurinsan" target="pakjenggot___" id="2111" weight="1" />
+      <edge source="_irawannurinsan" target="kadrun" id="2112" weight="1" />
+      <edge source="pakjenggot___" target="kadrun" id="2113" weight="1" />
+      <edge source="gus_muslih" target="ismailfahmi" id="2114" weight="1" />
+      <edge source="feelsbringer" target="strike_bravo_b" id="2115" weight="1" />
+      <edge source="strike_bravo_b" target="minimisaw" id="2116" weight="1" />
+      <edge source="billray" target="urrangawak" id="2117" weight="1" />
+      <edge source="billray" target="renahoston" id="2118" weight="1" />
+      <edge source="billray" target="antoniuscdn" id="2119" weight="1" />
+      <edge source="billray" target="chaterine_lie" id="2120" weight="1" />
+      <edge source="billray" target="terbucinz" id="2121" weight="1" />
+      <edge source="urrangawak" target="renahoston" id="2122" weight="1" />
+      <edge source="urrangawak" target="antoniuscdn" id="2123" weight="1" />
+      <edge source="urrangawak" target="chaterine_lie" id="2124" weight="1" />
+      <edge source="urrangawak" target="terbucinz" id="2125" weight="1" />
+      <edge source="renahoston" target="antoniuscdn" id="2126" weight="1" />
+      <edge source="renahoston" target="chaterine_lie" id="2127" weight="1" />
+      <edge source="renahoston" target="terbucinz" id="2128" weight="1" />
+      <edge source="antoniuscdn" target="chaterine_lie" id="2129" weight="1" />
+      <edge source="antoniuscdn" target="terbucinz" id="2130" weight="1" />
+      <edge source="chaterine_lie" target="terbucinz" id="2131" weight="1" />
+      <edge source="avataraang" target="printingzo" id="2132" weight="1" />
+      <edge source="avataraang" target="sgm_mks" id="2133" weight="1" />
+      <edge source="printingzo" target="sgm_mks" id="2134" weight="1" />
+      <edge source="rinatobing" target="santorinissun" id="2135" weight="1" />
+      <edge source="chi_mhol" target="primknight" id="2136" weight="1" />
+      <edge source="primknight" target="_____thedevil" id="2137" weight="1" />
+      <edge source="candrasmara" target="aasutanto" id="2138" weight="1" />
+      <edge source="hategovernmen" target="catchmeupid" id="2139" weight="1" />
+      <edge source="catchmeupid" target="antania_p" id="2140" weight="1" />
+      <edge source="bferiyanto" target="mazdjopray" id="2141" weight="1" />
+      <edge source="ulasasih" target="kaladium" id="2142" weight="1" />
+      <edge source="yunusmi" target="alikcurup" id="2143" weight="1" />
+      <edge source="yunusmi" target="yothok" id="2144" weight="1" />
+      <edge source="alikcurup" target="yothok" id="2145" weight="1" />
+      <edge source="kpk_ri" target="rockygerung" id="2146" weight="1" />
+    </edges>
+  </graph>
+</gexf>
