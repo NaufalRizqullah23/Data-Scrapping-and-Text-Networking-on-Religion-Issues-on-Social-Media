@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#indonesiaemas" label="#indonesiaemas" />
+      <node id="#indonesiagama" label="#indonesiagama" />
+      <node id="#opsbinawaspada" label="#opsbinawaspada" />
+      <node id="#polresmateng" label="#polresmateng" />
+      <node id="#poldasulbar" label="#poldasulbar" />
+      <node id="#tolakradikalisme" label="#tolakradikalisme" />
+      <node id="#tolakintoleransi" label="#tolakintoleransi" />
+      <node id="#tolakterorisme" label="#tolakterorisme" />
+      <node id="#polripresisi" label="#polripresisi" />
+      <node id="#xm_com" label="#xm_com" />
+      <node id="#xm" label="#xm" />
+      <node id="#tolakekstremisme" label="#tolakekstremisme" />
+      <node id="#moderasiberagama" label="#moderasiberagama" />
+      <node id="#gibranmasukgolkar" label="#gibranmasukgolkar" />
+      <node id="#poldasulteng" label="#poldasulteng" />
+      <node id="#israel" label="#israel" />
+      <node id="#khilafah" label="#khilafah" />
+      <node id="#palestina" label="#palestina" />
+      <node id="#radikalisme" label="#radikalisme" />
+      <node id="#ganjarmahfud" label="#ganjarmahfud" />
+      <node id="#bekasi" label="#bekasi" />
+      <node id="#sahabatganjar" label="#sahabatganjar" />
+      <node id="#gama" label="#gama" />
+      <node id="#nusatenggaratimur" label="#nusatenggaratimur" />
+      <node id="#banjar" label="#banjar" />
+      <node id="#cirebon" label="#cirebon" />
+      <node id="#djabyss" label="#djabyss" />
+      <node id="#chriszippel" label="#chriszippel" />
+      <node id="#groovesland" label="#groovesland" />
+      <node id="#tendancemedia" label="#tendancemedia" />
+      <node id="#danielstolze" label="#danielstolze" />
+      <node id="#bali" label="#bali" />
+      <node id="#bogor" label="#bogor" />
+      <node id="#kuningan" label="#kuningan" />
+      <node id="#lampung" label="#lampung" />
+      <node id="#nusatenggarabarat" label="#nusatenggarabarat" />
+      <node id="#mottogp" label="#mottogp" />
+      <node id="#jawatengah" label="#jawatengah" />
+      <node id="#solo" label="#solo" />
+      <node id="#jatenghits" label="#jatenghits" />
+      <node id="#semarang" label="#semarang" />
+      <node id="#ganjarpranowo" label="#ganjarpranowo" />
+      <node id="#pranowoganjar" label="#pranowoganjar" />
+      <node id="#lapakganjar" label="#lapakganjar" />
+      <node id="#hitsjawa" label="#hitsjawa" />
+      <node id="#israelterorrist" label="#israelterorrist" />
+      <node id="#bbtvi" label="#bbtvi" />
+      <node id="#palestinegenocide" label="#palestinegenocide" />
+      <node id="#gaza" label="#gaza" />
+      <node id="#jungkook" label="#jungkook" />
+      <node id="#toomuch" label="#toomuch" />
+      <node id="#freepalestine" label="#freepalestine" />
+      <node id="#jumatberkah" label="#jumatberkah" />
+      <node id="#polsekbanjarbuleleng" label="#polsekbanjarbuleleng" />
+      <node id="#polresbuleleng" label="#polresbuleleng" />
+      <node id="#poldabalihebat" label="#poldabalihebat" />
+      <node id="#banten" label="#banten" />
+      <node id="#santrigayeng" label="#santrigayeng" />
+      <node id="#israelinewnazism" label="#israelinewnazism" />
+      <node id="#polisibaik" label="#polisibaik" />
+      <node id="#kapolri" label="#kapolri" />
+      <node id="#polisi" label="#polisi" />
+      <node id="#polisiindonesia" label="#polisiindonesia" />
+      <node id="#polisirepublikindonesia" label="#polisirepublikindonesia" />
+      <node id="#polri" label="#polri" />
+      <node id="#poldalampung" label="#poldalampung" />
+      <node id="#humaspoldalampung" label="#humaspoldalampung" />
+      <node id="#polresmetro" label="#polresmetro" />
+      <node id="#polresmetrolampung" label="#polresmetrolampung" />
+      <node id="#polresmetropoldalampung" label="#polresmetropoldalampung" />
+      <node id="#ganjar" label="#ganjar" />
+      <node id="#jasmerah" label="#jasmerah" />
+      <node id="#jashijau" label="#jashijau" />
+      <node id="#jaskraton" label="#jaskraton" />
+      <node id="#poldakaltim" label="#poldakaltim" />
+      <node id="#programprioritaskapolri" label="#programprioritaskapolri" />
+      <node id="#kapolresbontang" label="#kapolresbontang" />
+      <node id="#polresbontang" label="#polresbontang" />
+      <node id="#satsamaptapolresbontang" label="#satsamaptapolresbontang" />
+      <node id="#ganjarmahfudsatset" label="#ganjarmahfudsatset" />
+      <node id="#cegahradikalisme" label="#cegahradikalisme" />
+      <node id="#palestinawajibkitabela" label="#palestinawajibkitabela" />
+      <node id="#nnxs" label="#nnxs" />
+      <node id="#papuaindonesia" label="#papuaindonesia" />
+      <node id="#kkbpapua" label="#kkbpapua" />
+      <node id="#dukungantanpakoma" label="#dukungantanpakoma" />
+      <node id="#gmpemersatubangsa" label="#gmpemersatubangsa" />
+      <node id="#ganjarmahfudlebihbaik" label="#ganjarmahfudlebihbaik" />
+      <node id="#gerakanprogan" label="#gerakanprogan" />
+      <node id="#polsekbanguntapan" label="#polsekbanguntapan" />
+      <node id="#polresbantul" label="#polresbantul" />
+      <node id="#poldadiy" label="#poldadiy" />
+      <node id="#binmas" label="#binmas" />
+      <node id="#binluh" label="#binluh" />
+      <node id="#divhumas" label="#divhumas" />
+      <node id="#terorisme" label="#terorisme" />
+      <node id="#teroris" label="#teroris" />
+      <node id="#posterdakwahsalafiyyah" label="#posterdakwahsalafiyyah" />
+      <node id="#posterdakwahsalaf" label="#posterdakwahsalaf" />
+      <node id="#posterdesign" label="#posterdesign" />
+      <node id="#dakwahsalaf" label="#dakwahsalaf" />
+      <node id="#dakwahsunnah" label="#dakwahsunnah" />
+      <node id="#dakwahtauhid" label="#dakwahtauhid" />
+      <node id="#manhajsalaf" label="#manhajsalaf" />
+      <node id="#islam" label="#islam" />
+      <node id="#antiterorisme" label="#antiterorisme" />
+      <node id="#posterdakwah" label="#posterdakwah" />
+      <node id="#posterislam" label="#posterislam" />
+      <node id="#postersunnah" label="#postersunnah" />
+      <node id="#posterfawaid" label="#posterfawaid" />
+      <node id="#nasehatislami" label="#nasehatislami" />
+      <node id="#quoteislam" label="#quoteislam" />
+      <node id="#polriuntukindonesia" label="#polriuntukindonesia" />
+      <node id="#singkawanginformasi" label="#singkawanginformasi" />
+      <node id="#polressingkawang" label="#polressingkawang" />
+      <node id="#polresppu" label="#polresppu" />
+      <node id="#akbp_hendrik_eka_bahalwan" label="#akbp_hendrik_eka_bahalwan" />
+      <node id="#kapolresppu" label="#kapolresppu" />
+      <node id="#iknnusantara" label="#iknnusantara" />
+      <node id="#sinergitnipolri" label="#sinergitnipolri" />
+      <node id="#singkawang" label="#singkawang" />
+      <node id="#pksno" label="#pksno" />
+      <node id="#letsgopks" label="#letsgopks" />
+      <node id="#ammocanspeaker" label="#ammocanspeaker" />
+      <node id="#bluetoothspeaker" label="#bluetoothspeaker" />
+      <node id="#outdoors" label="#outdoors" />
+      <node id="#adventure" label="#adventure" />
+      <node id="#tacticool" label="#tacticool" />
+    </nodes>
+    <edges>
+      <edge source="#indonesiaemas" target="#indonesiagama" id="0" weight="1" />
+      <edge source="#opsbinawaspada" target="#opsbinawaspada" id="1" weight="1" />
+      <edge source="#opsbinawaspada" target="#polresmateng" id="2" weight="1" />
+      <edge source="#opsbinawaspada" target="#poldasulbar" id="3" weight="1" />
+      <edge source="#opsbinawaspada" target="#tolakradikalisme" id="4" weight="1" />
+      <edge source="#opsbinawaspada" target="#tolakintoleransi" id="5" weight="1" />
+      <edge source="#opsbinawaspada" target="#tolakterorisme" id="6" weight="1" />
+      <edge source="#opsbinawaspada" target="#polripresisi" id="7" weight="1" />
+      <edge source="#opsbinawaspada" target="#cegahradikalisme" id="8" weight="1" />
+      <edge source="#polresmateng" target="#poldasulbar" id="9" weight="1" />
+      <edge source="#polresmateng" target="#tolakradikalisme" id="10" weight="1" />
+      <edge source="#polresmateng" target="#tolakintoleransi" id="11" weight="1" />
+      <edge source="#polresmateng" target="#tolakterorisme" id="12" weight="1" />
+      <edge source="#polresmateng" target="#polripresisi" id="13" weight="1" />
+      <edge source="#polresmateng" target="#cegahradikalisme" id="14" weight="1" />
+      <edge source="#poldasulbar" target="#tolakradikalisme" id="15" weight="1" />
+      <edge source="#poldasulbar" target="#tolakintoleransi" id="16" weight="1" />
+      <edge source="#poldasulbar" target="#tolakterorisme" id="17" weight="1" />
+      <edge source="#poldasulbar" target="#polripresisi" id="18" weight="1" />
+      <edge source="#poldasulbar" target="#cegahradikalisme" id="19" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakintoleransi" id="20" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakterorisme" id="21" weight="1" />
+      <edge source="#tolakradikalisme" target="#polripresisi" id="22" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakekstremisme" id="23" weight="1" />
+      <edge source="#tolakradikalisme" target="#moderasiberagama" id="24" weight="1" />
+      <edge source="#tolakradikalisme" target="#gibranmasukgolkar" id="25" weight="1" />
+      <edge source="#tolakradikalisme" target="#santrigayeng" id="26" weight="1" />
+      <edge source="#tolakradikalisme" target="#israelinewnazism" id="27" weight="1" />
+      <edge source="#tolakradikalisme" target="#polriuntukindonesia" id="28" weight="1" />
+      <edge source="#tolakradikalisme" target="#singkawanginformasi" id="29" weight="1" />
+      <edge source="#tolakradikalisme" target="#polressingkawang" id="30" weight="1" />
+      <edge source="#tolakradikalisme" target="#singkawang" id="31" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakterorisme" id="32" weight="1" />
+      <edge source="#tolakintoleransi" target="#polripresisi" id="33" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakekstremisme" id="34" weight="1" />
+      <edge source="#tolakintoleransi" target="#moderasiberagama" id="35" weight="1" />
+      <edge source="#tolakintoleransi" target="#gibranmasukgolkar" id="36" weight="1" />
+      <edge source="#tolakintoleransi" target="#cegahradikalisme" id="37" weight="1" />
+      <edge source="#tolakintoleransi" target="#polriuntukindonesia" id="38" weight="1" />
+      <edge source="#tolakintoleransi" target="#singkawanginformasi" id="39" weight="1" />
+      <edge source="#tolakintoleransi" target="#polressingkawang" id="40" weight="1" />
+      <edge source="#tolakintoleransi" target="#singkawang" id="41" weight="1" />
+      <edge source="#tolakterorisme" target="#polripresisi" id="42" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakekstremisme" id="43" weight="1" />
+      <edge source="#tolakterorisme" target="#moderasiberagama" id="44" weight="1" />
+      <edge source="#tolakterorisme" target="#cegahradikalisme" id="45" weight="1" />
+      <edge source="#tolakterorisme" target="#polriuntukindonesia" id="46" weight="1" />
+      <edge source="#tolakterorisme" target="#singkawanginformasi" id="47" weight="1" />
+      <edge source="#tolakterorisme" target="#polressingkawang" id="48" weight="1" />
+      <edge source="#tolakterorisme" target="#singkawang" id="49" weight="1" />
+      <edge source="#polripresisi" target="#poldasulteng" id="50" weight="1" />
+      <edge source="#polripresisi" target="#polsekbanjarbuleleng" id="51" weight="1" />
+      <edge source="#polripresisi" target="#polresbuleleng" id="52" weight="1" />
+      <edge source="#polripresisi" target="#poldabalihebat" id="53" weight="1" />
+      <edge source="#polripresisi" target="#polisibaik" id="54" weight="1" />
+      <edge source="#polripresisi" target="#kapolri" id="55" weight="1" />
+      <edge source="#polripresisi" target="#polisi" id="56" weight="1" />
+      <edge source="#polripresisi" target="#polisiindonesia" id="57" weight="1" />
+      <edge source="#polripresisi" target="#polisirepublikindonesia" id="58" weight="1" />
+      <edge source="#polripresisi" target="#polri" id="59" weight="1" />
+      <edge source="#polripresisi" target="#poldalampung" id="60" weight="1" />
+      <edge source="#polripresisi" target="#humaspoldalampung" id="61" weight="1" />
+      <edge source="#polripresisi" target="#lampung" id="62" weight="1" />
+      <edge source="#polripresisi" target="#polresmetro" id="63" weight="1" />
+      <edge source="#polripresisi" target="#polresmetrolampung" id="64" weight="1" />
+      <edge source="#polripresisi" target="#polresmetropoldalampung" id="65" weight="1" />
+      <edge source="#polripresisi" target="#poldakaltim" id="66" weight="1" />
+      <edge source="#polripresisi" target="#programprioritaskapolri" id="67" weight="1" />
+      <edge source="#polripresisi" target="#kapolresbontang" id="68" weight="1" />
+      <edge source="#polripresisi" target="#polresbontang" id="69" weight="1" />
+      <edge source="#polripresisi" target="#satsamaptapolresbontang" id="70" weight="1" />
+      <edge source="#polripresisi" target="#polsekbanguntapan" id="71" weight="1" />
+      <edge source="#polripresisi" target="#polresbantul" id="72" weight="1" />
+      <edge source="#polripresisi" target="#poldadiy" id="73" weight="1" />
+      <edge source="#polripresisi" target="#binmas" id="74" weight="1" />
+      <edge source="#polripresisi" target="#binluh" id="75" weight="1" />
+      <edge source="#polripresisi" target="#polresppu" id="76" weight="1" />
+      <edge source="#polripresisi" target="#akbp_hendrik_eka_bahalwan" id="77" weight="1" />
+      <edge source="#polripresisi" target="#kapolresppu" id="78" weight="1" />
+      <edge source="#polripresisi" target="#iknnusantara" id="79" weight="1" />
+      <edge source="#polripresisi" target="#sinergitnipolri" id="80" weight="1" />
+      <edge source="#xm_com" target="#xm" id="81" weight="1" />
+      <edge source="#tolakekstremisme" target="#moderasiberagama" id="82" weight="1" />
+      <edge source="#israel" target="#khilafah" id="83" weight="1" />
+      <edge source="#israel" target="#palestina" id="84" weight="1" />
+      <edge source="#israel" target="#radikalisme" id="85" weight="1" />
+      <edge source="#israel" target="#israelterorrist" id="86" weight="1" />
+      <edge source="#israel" target="#bbtvi" id="87" weight="1" />
+      <edge source="#israel" target="#palestinegenocide" id="88" weight="1" />
+      <edge source="#israel" target="#gaza" id="89" weight="1" />
+      <edge source="#israel" target="#jungkook" id="90" weight="1" />
+      <edge source="#israel" target="#toomuch" id="91" weight="1" />
+      <edge source="#israel" target="#freepalestine" id="92" weight="1" />
+      <edge source="#israel" target="#jumatberkah" id="93" weight="1" />
+      <edge source="#khilafah" target="#palestina" id="94" weight="1" />
+      <edge source="#khilafah" target="#radikalisme" id="95" weight="1" />
+      <edge source="#palestina" target="#radikalisme" id="96" weight="1" />
+      <edge source="#radikalisme" target="#papuaindonesia" id="97" weight="1" />
+      <edge source="#radikalisme" target="#kkbpapua" id="98" weight="1" />
+      <edge source="#radikalisme" target="#terorisme" id="99" weight="1" />
+      <edge source="#radikalisme" target="#teroris" id="100" weight="1" />
+      <edge source="#radikalisme" target="#posterdakwahsalafiyyah" id="101" weight="1" />
+      <edge source="#radikalisme" target="#posterdakwahsalaf" id="102" weight="1" />
+      <edge source="#radikalisme" target="#posterdesign" id="103" weight="1" />
+      <edge source="#radikalisme" target="#dakwahsalaf" id="104" weight="1" />
+      <edge source="#radikalisme" target="#dakwahsunnah" id="105" weight="1" />
+      <edge source="#radikalisme" target="#dakwahtauhid" id="106" weight="1" />
+      <edge source="#radikalisme" target="#manhajsalaf" id="107" weight="1" />
+      <edge source="#radikalisme" target="#islam" id="108" weight="1" />
+      <edge source="#radikalisme" target="#antiterorisme" id="109" weight="1" />
+      <edge source="#radikalisme" target="#posterdakwah" id="110" weight="1" />
+      <edge source="#radikalisme" target="#posterislam" id="111" weight="1" />
+      <edge source="#radikalisme" target="#postersunnah" id="112" weight="1" />
+      <edge source="#radikalisme" target="#posterfawaid" id="113" weight="1" />
+      <edge source="#radikalisme" target="#nasehatislami" id="114" weight="1" />
+      <edge source="#radikalisme" target="#quoteislam" id="115" weight="1" />
+      <edge source="#ganjarmahfud" target="#bekasi" id="116" weight="1" />
+      <edge source="#ganjarmahfud" target="#nusatenggaratimur" id="117" weight="1" />
+      <edge source="#ganjarmahfud" target="#banjar" id="118" weight="1" />
+      <edge source="#ganjarmahfud" target="#cirebon" id="119" weight="1" />
+      <edge source="#ganjarmahfud" target="#bali" id="120" weight="1" />
+      <edge source="#ganjarmahfud" target="#bogor" id="121" weight="1" />
+      <edge source="#ganjarmahfud" target="#kuningan" id="122" weight="1" />
+      <edge source="#ganjarmahfud" target="#lampung" id="123" weight="1" />
+      <edge source="#ganjarmahfud" target="#nusatenggarabarat" id="124" weight="1" />
+      <edge source="#ganjarmahfud" target="#banten" id="125" weight="1" />
+      <edge source="#ganjarmahfud" target="#ganjar" id="126" weight="1" />
+      <edge source="#ganjarmahfud" target="#ganjarmahfudsatset" id="127" weight="1" />
+      <edge source="#ganjarmahfud" target="#dukungantanpakoma" id="128" weight="1" />
+      <edge source="#ganjarmahfud" target="#gmpemersatubangsa" id="129" weight="1" />
+      <edge source="#ganjarmahfud" target="#ganjarmahfudlebihbaik" id="130" weight="1" />
+      <edge source="#ganjarmahfud" target="#gerakanprogan" id="131" weight="1" />
+      <edge source="#sahabatganjar" target="#gama" id="132" weight="1" />
+      <edge source="#djabyss" target="#chriszippel" id="133" weight="1" />
+      <edge source="#djabyss" target="#groovesland" id="134" weight="1" />
+      <edge source="#djabyss" target="#tendancemedia" id="135" weight="1" />
+      <edge source="#djabyss" target="#danielstolze" id="136" weight="1" />
+      <edge source="#chriszippel" target="#groovesland" id="137" weight="1" />
+      <edge source="#chriszippel" target="#tendancemedia" id="138" weight="1" />
+      <edge source="#chriszippel" target="#danielstolze" id="139" weight="1" />
+      <edge source="#groovesland" target="#tendancemedia" id="140" weight="1" />
+      <edge source="#groovesland" target="#danielstolze" id="141" weight="1" />
+      <edge source="#tendancemedia" target="#danielstolze" id="142" weight="1" />
+      <edge source="#lampung" target="#polisibaik" id="143" weight="1" />
+      <edge source="#lampung" target="#kapolri" id="144" weight="1" />
+      <edge source="#lampung" target="#polisi" id="145" weight="1" />
+      <edge source="#lampung" target="#polisiindonesia" id="146" weight="1" />
+      <edge source="#lampung" target="#polisirepublikindonesia" id="147" weight="1" />
+      <edge source="#lampung" target="#polri" id="148" weight="1" />
+      <edge source="#lampung" target="#poldalampung" id="149" weight="1" />
+      <edge source="#lampung" target="#humaspoldalampung" id="150" weight="1" />
+      <edge source="#lampung" target="#polresmetro" id="151" weight="1" />
+      <edge source="#lampung" target="#polresmetrolampung" id="152" weight="1" />
+      <edge source="#lampung" target="#polresmetropoldalampung" id="153" weight="1" />
+      <edge source="#mottogp" target="#jawatengah" id="154" weight="1" />
+      <edge source="#mottogp" target="#solo" id="155" weight="1" />
+      <edge source="#mottogp" target="#jatenghits" id="156" weight="1" />
+      <edge source="#mottogp" target="#semarang" id="157" weight="1" />
+      <edge source="#mottogp" target="#ganjarpranowo" id="158" weight="1" />
+      <edge source="#mottogp" target="#pranowoganjar" id="159" weight="1" />
+      <edge source="#mottogp" target="#lapakganjar" id="160" weight="1" />
+      <edge source="#mottogp" target="#hitsjawa" id="161" weight="1" />
+      <edge source="#jawatengah" target="#solo" id="162" weight="1" />
+      <edge source="#jawatengah" target="#jatenghits" id="163" weight="1" />
+      <edge source="#jawatengah" target="#semarang" id="164" weight="1" />
+      <edge source="#jawatengah" target="#ganjarpranowo" id="165" weight="1" />
+      <edge source="#jawatengah" target="#pranowoganjar" id="166" weight="1" />
+      <edge source="#jawatengah" target="#lapakganjar" id="167" weight="1" />
+      <edge source="#jawatengah" target="#hitsjawa" id="168" weight="1" />
+      <edge source="#solo" target="#jatenghits" id="169" weight="1" />
+      <edge source="#solo" target="#semarang" id="170" weight="1" />
+      <edge source="#solo" target="#ganjarpranowo" id="171" weight="1" />
+      <edge source="#solo" target="#pranowoganjar" id="172" weight="1" />
+      <edge source="#solo" target="#lapakganjar" id="173" weight="1" />
+      <edge source="#solo" target="#hitsjawa" id="174" weight="1" />
+      <edge source="#jatenghits" target="#semarang" id="175" weight="1" />
+      <edge source="#jatenghits" target="#ganjarpranowo" id="176" weight="1" />
+      <edge source="#jatenghits" target="#pranowoganjar" id="177" weight="1" />
+      <edge source="#jatenghits" target="#lapakganjar" id="178" weight="1" />
+      <edge source="#jatenghits" target="#hitsjawa" id="179" weight="1" />
+      <edge source="#semarang" target="#ganjarpranowo" id="180" weight="1" />
+      <edge source="#semarang" target="#pranowoganjar" id="181" weight="1" />
+      <edge source="#semarang" target="#lapakganjar" id="182" weight="1" />
+      <edge source="#semarang" target="#hitsjawa" id="183" weight="1" />
+      <edge source="#ganjarpranowo" target="#pranowoganjar" id="184" weight="1" />
+      <edge source="#ganjarpranowo" target="#lapakganjar" id="185" weight="1" />
+      <edge source="#ganjarpranowo" target="#hitsjawa" id="186" weight="1" />
+      <edge source="#ganjarpranowo" target="#ganjarpranowo" id="187" weight="1" />
+      <edge source="#pranowoganjar" target="#lapakganjar" id="188" weight="1" />
+      <edge source="#pranowoganjar" target="#hitsjawa" id="189" weight="1" />
+      <edge source="#lapakganjar" target="#hitsjawa" id="190" weight="1" />
+      <edge source="#israelterorrist" target="#bbtvi" id="191" weight="1" />
+      <edge source="#israelterorrist" target="#palestinegenocide" id="192" weight="1" />
+      <edge source="#israelterorrist" target="#gaza" id="193" weight="1" />
+      <edge source="#israelterorrist" target="#jungkook" id="194" weight="1" />
+      <edge source="#israelterorrist" target="#toomuch" id="195" weight="1" />
+      <edge source="#israelterorrist" target="#freepalestine" id="196" weight="1" />
+      <edge source="#israelterorrist" target="#jumatberkah" id="197" weight="1" />
+      <edge source="#bbtvi" target="#palestinegenocide" id="198" weight="1" />
+      <edge source="#bbtvi" target="#gaza" id="199" weight="1" />
+      <edge source="#bbtvi" target="#jungkook" id="200" weight="1" />
+      <edge source="#bbtvi" target="#toomuch" id="201" weight="1" />
+      <edge source="#bbtvi" target="#freepalestine" id="202" weight="1" />
+      <edge source="#bbtvi" target="#jumatberkah" id="203" weight="1" />
+      <edge source="#palestinegenocide" target="#gaza" id="204" weight="1" />
+      <edge source="#palestinegenocide" target="#jungkook" id="205" weight="1" />
+      <edge source="#palestinegenocide" target="#toomuch" id="206" weight="1" />
+      <edge source="#palestinegenocide" target="#freepalestine" id="207" weight="1" />
+      <edge source="#palestinegenocide" target="#jumatberkah" id="208" weight="1" />
+      <edge source="#gaza" target="#jungkook" id="209" weight="1" />
+      <edge source="#gaza" target="#toomuch" id="210" weight="1" />
+      <edge source="#gaza" target="#freepalestine" id="211" weight="1" />
+      <edge source="#gaza" target="#jumatberkah" id="212" weight="1" />
+      <edge source="#jungkook" target="#toomuch" id="213" weight="1" />
+      <edge source="#jungkook" target="#freepalestine" id="214" weight="1" />
+      <edge source="#jungkook" target="#jumatberkah" id="215" weight="1" />
+      <edge source="#toomuch" target="#freepalestine" id="216" weight="1" />
+      <edge source="#toomuch" target="#jumatberkah" id="217" weight="1" />
+      <edge source="#freepalestine" target="#jumatberkah" id="218" weight="1" />
+      <edge source="#polsekbanjarbuleleng" target="#polresbuleleng" id="219" weight="1" />
+      <edge source="#polsekbanjarbuleleng" target="#poldabalihebat" id="220" weight="1" />
+      <edge source="#polresbuleleng" target="#poldabalihebat" id="221" weight="1" />
+      <edge source="#santrigayeng" target="#israelinewnazism" id="222" weight="1" />
+      <edge source="#polisibaik" target="#kapolri" id="223" weight="1" />
+      <edge source="#polisibaik" target="#polisi" id="224" weight="1" />
+      <edge source="#polisibaik" target="#polisiindonesia" id="225" weight="1" />
+      <edge source="#polisibaik" target="#polisirepublikindonesia" id="226" weight="1" />
+      <edge source="#polisibaik" target="#polri" id="227" weight="1" />
+      <edge source="#polisibaik" target="#poldalampung" id="228" weight="1" />
+      <edge source="#polisibaik" target="#humaspoldalampung" id="229" weight="1" />
+      <edge source="#polisibaik" target="#polresmetro" id="230" weight="1" />
+      <edge source="#polisibaik" target="#polresmetrolampung" id="231" weight="1" />
+      <edge source="#polisibaik" target="#polresmetropoldalampung" id="232" weight="1" />
+      <edge source="#kapolri" target="#polisi" id="233" weight="1" />
+      <edge source="#kapolri" target="#polisiindonesia" id="234" weight="1" />
+      <edge source="#kapolri" target="#polisirepublikindonesia" id="235" weight="1" />
+      <edge source="#kapolri" target="#polri" id="236" weight="1" />
+      <edge source="#kapolri" target="#poldalampung" id="237" weight="1" />
+      <edge source="#kapolri" target="#humaspoldalampung" id="238" weight="1" />
+      <edge source="#kapolri" target="#polresmetro" id="239" weight="1" />
+      <edge source="#kapolri" target="#polresmetrolampung" id="240" weight="1" />
+      <edge source="#kapolri" target="#polresmetropoldalampung" id="241" weight="1" />
+      <edge source="#polisi" target="#polisiindonesia" id="242" weight="1" />
+      <edge source="#polisi" target="#polisirepublikindonesia" id="243" weight="1" />
+      <edge source="#polisi" target="#polri" id="244" weight="1" />
+      <edge source="#polisi" target="#poldalampung" id="245" weight="1" />
+      <edge source="#polisi" target="#humaspoldalampung" id="246" weight="1" />
+      <edge source="#polisi" target="#polresmetro" id="247" weight="1" />
+      <edge source="#polisi" target="#polresmetrolampung" id="248" weight="1" />
+      <edge source="#polisi" target="#polresmetropoldalampung" id="249" weight="1" />
+      <edge source="#polisiindonesia" target="#polisirepublikindonesia" id="250" weight="1" />
+      <edge source="#polisiindonesia" target="#polri" id="251" weight="1" />
+      <edge source="#polisiindonesia" target="#poldalampung" id="252" weight="1" />
+      <edge source="#polisiindonesia" target="#humaspoldalampung" id="253" weight="1" />
+      <edge source="#polisiindonesia" target="#polresmetro" id="254" weight="1" />
+      <edge source="#polisiindonesia" target="#polresmetrolampung" id="255" weight="1" />
+      <edge source="#polisiindonesia" target="#polresmetropoldalampung" id="256" weight="1" />
+      <edge source="#polisirepublikindonesia" target="#polri" id="257" weight="1" />
+      <edge source="#polisirepublikindonesia" target="#poldalampung" id="258" weight="1" />
+      <edge source="#polisirepublikindonesia" target="#humaspoldalampung" id="259" weight="1" />
+      <edge source="#polisirepublikindonesia" target="#polresmetro" id="260" weight="1" />
+      <edge source="#polisirepublikindonesia" target="#polresmetrolampung" id="261" weight="1" />
+      <edge source="#polisirepublikindonesia" target="#polresmetropoldalampung" id="262" weight="1" />
+      <edge source="#polri" target="#poldalampung" id="263" weight="1" />
+      <edge source="#polri" target="#humaspoldalampung" id="264" weight="1" />
+      <edge source="#polri" target="#polresmetro" id="265" weight="1" />
+      <edge source="#polri" target="#polresmetrolampung" id="266" weight="1" />
+      <edge source="#polri" target="#polresmetropoldalampung" id="267" weight="1" />
+      <edge source="#polri" target="#divhumas" id="268" weight="1" />
+      <edge source="#polri" target="#poldakaltim" id="269" weight="1" />
+      <edge source="#poldalampung" target="#humaspoldalampung" id="270" weight="1" />
+      <edge source="#poldalampung" target="#polresmetro" id="271" weight="1" />
+      <edge source="#poldalampung" target="#polresmetrolampung" id="272" weight="1" />
+      <edge source="#poldalampung" target="#polresmetropoldalampung" id="273" weight="1" />
+      <edge source="#humaspoldalampung" target="#polresmetro" id="274" weight="1" />
+      <edge source="#humaspoldalampung" target="#polresmetrolampung" id="275" weight="1" />
+      <edge source="#humaspoldalampung" target="#polresmetropoldalampung" id="276" weight="1" />
+      <edge source="#polresmetro" target="#polresmetrolampung" id="277" weight="1" />
+      <edge source="#polresmetro" target="#polresmetropoldalampung" id="278" weight="1" />
+      <edge source="#polresmetrolampung" target="#polresmetropoldalampung" id="279" weight="1" />
+      <edge source="#jasmerah" target="#jashijau" id="280" weight="1" />
+      <edge source="#jasmerah" target="#jaskraton" id="281" weight="1" />
+      <edge source="#jashijau" target="#jaskraton" id="282" weight="1" />
+      <edge source="#poldakaltim" target="#programprioritaskapolri" id="283" weight="1" />
+      <edge source="#poldakaltim" target="#kapolresbontang" id="284" weight="1" />
+      <edge source="#poldakaltim" target="#polresbontang" id="285" weight="1" />
+      <edge source="#poldakaltim" target="#satsamaptapolresbontang" id="286" weight="1" />
+      <edge source="#poldakaltim" target="#divhumas" id="287" weight="1" />
+      <edge source="#poldakaltim" target="#polresppu" id="288" weight="1" />
+      <edge source="#poldakaltim" target="#akbp_hendrik_eka_bahalwan" id="289" weight="1" />
+      <edge source="#poldakaltim" target="#kapolresppu" id="290" weight="1" />
+      <edge source="#poldakaltim" target="#iknnusantara" id="291" weight="1" />
+      <edge source="#poldakaltim" target="#sinergitnipolri" id="292" weight="1" />
+      <edge source="#programprioritaskapolri" target="#kapolresbontang" id="293" weight="1" />
+      <edge source="#programprioritaskapolri" target="#polresbontang" id="294" weight="1" />
+      <edge source="#programprioritaskapolri" target="#satsamaptapolresbontang" id="295" weight="1" />
+      <edge source="#kapolresbontang" target="#polresbontang" id="296" weight="1" />
+      <edge source="#kapolresbontang" target="#satsamaptapolresbontang" id="297" weight="1" />
+      <edge source="#polresbontang" target="#satsamaptapolresbontang" id="298" weight="1" />
+      <edge source="#palestinawajibkitabela" target="#nnxs" id="299" weight="1" />
+      <edge source="#papuaindonesia" target="#kkbpapua" id="300" weight="1" />
+      <edge source="#dukungantanpakoma" target="#gmpemersatubangsa" id="301" weight="1" />
+      <edge source="#dukungantanpakoma" target="#ganjarmahfudlebihbaik" id="302" weight="1" />
+      <edge source="#dukungantanpakoma" target="#gerakanprogan" id="303" weight="1" />
+      <edge source="#gmpemersatubangsa" target="#ganjarmahfudlebihbaik" id="304" weight="1" />
+      <edge source="#gmpemersatubangsa" target="#gerakanprogan" id="305" weight="1" />
+      <edge source="#ganjarmahfudlebihbaik" target="#gerakanprogan" id="306" weight="1" />
+      <edge source="#polsekbanguntapan" target="#polresbantul" id="307" weight="1" />
+      <edge source="#polsekbanguntapan" target="#poldadiy" id="308" weight="1" />
+      <edge source="#polsekbanguntapan" target="#binmas" id="309" weight="1" />
+      <edge source="#polsekbanguntapan" target="#binluh" id="310" weight="1" />
+      <edge source="#polresbantul" target="#poldadiy" id="311" weight="1" />
+      <edge source="#polresbantul" target="#binmas" id="312" weight="1" />
+      <edge source="#polresbantul" target="#binluh" id="313" weight="1" />
+      <edge source="#poldadiy" target="#binmas" id="314" weight="1" />
+      <edge source="#poldadiy" target="#binluh" id="315" weight="1" />
+      <edge source="#binmas" target="#binluh" id="316" weight="1" />
+      <edge source="#terorisme" target="#teroris" id="317" weight="1" />
+      <edge source="#terorisme" target="#posterdakwahsalafiyyah" id="318" weight="1" />
+      <edge source="#terorisme" target="#posterdakwahsalaf" id="319" weight="1" />
+      <edge source="#terorisme" target="#posterdesign" id="320" weight="1" />
+      <edge source="#terorisme" target="#dakwahsalaf" id="321" weight="1" />
+      <edge source="#terorisme" target="#dakwahsunnah" id="322" weight="1" />
+      <edge source="#terorisme" target="#dakwahtauhid" id="323" weight="1" />
+      <edge source="#terorisme" target="#manhajsalaf" id="324" weight="1" />
+      <edge source="#terorisme" target="#islam" id="325" weight="1" />
+      <edge source="#terorisme" target="#antiterorisme" id="326" weight="1" />
+      <edge source="#terorisme" target="#posterdakwah" id="327" weight="1" />
+      <edge source="#terorisme" target="#posterislam" id="328" weight="1" />
+      <edge source="#terorisme" target="#postersunnah" id="329" weight="1" />
+      <edge source="#terorisme" target="#posterfawaid" id="330" weight="1" />
+      <edge source="#terorisme" target="#nasehatislami" id="331" weight="1" />
+      <edge source="#terorisme" target="#quoteislam" id="332" weight="1" />
+      <edge source="#teroris" target="#posterdakwahsalafiyyah" id="333" weight="1" />
+      <edge source="#teroris" target="#posterdakwahsalaf" id="334" weight="1" />
+      <edge source="#teroris" target="#posterdesign" id="335" weight="1" />
+      <edge source="#teroris" target="#dakwahsalaf" id="336" weight="1" />
+      <edge source="#teroris" target="#dakwahsunnah" id="337" weight="1" />
+      <edge source="#teroris" target="#dakwahtauhid" id="338" weight="1" />
+      <edge source="#teroris" target="#manhajsalaf" id="339" weight="1" />
+      <edge source="#teroris" target="#islam" id="340" weight="1" />
+      <edge source="#teroris" target="#antiterorisme" id="341" weight="1" />
+      <edge source="#teroris" target="#posterdakwah" id="342" weight="1" />
+      <edge source="#teroris" target="#posterislam" id="343" weight="1" />
+      <edge source="#teroris" target="#postersunnah" id="344" weight="1" />
+      <edge source="#teroris" target="#posterfawaid" id="345" weight="1" />
+      <edge source="#teroris" target="#nasehatislami" id="346" weight="1" />
+      <edge source="#teroris" target="#quoteislam" id="347" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#posterdakwahsalaf" id="348" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#posterdesign" id="349" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#dakwahsalaf" id="350" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#dakwahsunnah" id="351" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#dakwahtauhid" id="352" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#manhajsalaf" id="353" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#islam" id="354" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#antiterorisme" id="355" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#posterdakwah" id="356" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#posterislam" id="357" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#postersunnah" id="358" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#posterfawaid" id="359" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#nasehatislami" id="360" weight="1" />
+      <edge source="#posterdakwahsalafiyyah" target="#quoteislam" id="361" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#posterdesign" id="362" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#dakwahsalaf" id="363" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#dakwahsunnah" id="364" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#dakwahtauhid" id="365" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#manhajsalaf" id="366" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#islam" id="367" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#antiterorisme" id="368" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#posterdakwah" id="369" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#posterislam" id="370" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#postersunnah" id="371" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#posterfawaid" id="372" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#nasehatislami" id="373" weight="1" />
+      <edge source="#posterdakwahsalaf" target="#quoteislam" id="374" weight="1" />
+      <edge source="#posterdesign" target="#dakwahsalaf" id="375" weight="1" />
+      <edge source="#posterdesign" target="#dakwahsunnah" id="376" weight="1" />
+      <edge source="#posterdesign" target="#dakwahtauhid" id="377" weight="1" />
+      <edge source="#posterdesign" target="#manhajsalaf" id="378" weight="1" />
+      <edge source="#posterdesign" target="#islam" id="379" weight="1" />
+      <edge source="#posterdesign" target="#antiterorisme" id="380" weight="1" />
+      <edge source="#posterdesign" target="#posterdakwah" id="381" weight="1" />
+      <edge source="#posterdesign" target="#posterislam" id="382" weight="1" />
+      <edge source="#posterdesign" target="#postersunnah" id="383" weight="1" />
+      <edge source="#posterdesign" target="#posterfawaid" id="384" weight="1" />
+      <edge source="#posterdesign" target="#nasehatislami" id="385" weight="1" />
+      <edge source="#posterdesign" target="#quoteislam" id="386" weight="1" />
+      <edge source="#dakwahsalaf" target="#dakwahsunnah" id="387" weight="1" />
+      <edge source="#dakwahsalaf" target="#dakwahtauhid" id="388" weight="1" />
+      <edge source="#dakwahsalaf" target="#manhajsalaf" id="389" weight="1" />
+      <edge source="#dakwahsalaf" target="#islam" id="390" weight="1" />
+      <edge source="#dakwahsalaf" target="#antiterorisme" id="391" weight="1" />
+      <edge source="#dakwahsalaf" target="#posterdakwah" id="392" weight="1" />
+      <edge source="#dakwahsalaf" target="#posterislam" id="393" weight="1" />
+      <edge source="#dakwahsalaf" target="#postersunnah" id="394" weight="1" />
+      <edge source="#dakwahsalaf" target="#posterfawaid" id="395" weight="1" />
+      <edge source="#dakwahsalaf" target="#nasehatislami" id="396" weight="1" />
+      <edge source="#dakwahsalaf" target="#quoteislam" id="397" weight="1" />
+      <edge source="#dakwahsunnah" target="#dakwahtauhid" id="398" weight="1" />
+      <edge source="#dakwahsunnah" target="#manhajsalaf" id="399" weight="1" />
+      <edge source="#dakwahsunnah" target="#islam" id="400" weight="1" />
+      <edge source="#dakwahsunnah" target="#antiterorisme" id="401" weight="1" />
+      <edge source="#dakwahsunnah" target="#posterdakwah" id="402" weight="1" />
+      <edge source="#dakwahsunnah" target="#posterislam" id="403" weight="1" />
+      <edge source="#dakwahsunnah" target="#postersunnah" id="404" weight="1" />
+      <edge source="#dakwahsunnah" target="#posterfawaid" id="405" weight="1" />
+      <edge source="#dakwahsunnah" target="#nasehatislami" id="406" weight="1" />
+      <edge source="#dakwahsunnah" target="#quoteislam" id="407" weight="1" />
+      <edge source="#dakwahtauhid" target="#manhajsalaf" id="408" weight="1" />
+      <edge source="#dakwahtauhid" target="#islam" id="409" weight="1" />
+      <edge source="#dakwahtauhid" target="#antiterorisme" id="410" weight="1" />
+      <edge source="#dakwahtauhid" target="#posterdakwah" id="411" weight="1" />
+      <edge source="#dakwahtauhid" target="#posterislam" id="412" weight="1" />
+      <edge source="#dakwahtauhid" target="#postersunnah" id="413" weight="1" />
+      <edge source="#dakwahtauhid" target="#posterfawaid" id="414" weight="1" />
+      <edge source="#dakwahtauhid" target="#nasehatislami" id="415" weight="1" />
+      <edge source="#dakwahtauhid" target="#quoteislam" id="416" weight="1" />
+      <edge source="#manhajsalaf" target="#islam" id="417" weight="1" />
+      <edge source="#manhajsalaf" target="#antiterorisme" id="418" weight="1" />
+      <edge source="#manhajsalaf" target="#posterdakwah" id="419" weight="1" />
+      <edge source="#manhajsalaf" target="#posterislam" id="420" weight="1" />
+      <edge source="#manhajsalaf" target="#postersunnah" id="421" weight="1" />
+      <edge source="#manhajsalaf" target="#posterfawaid" id="422" weight="1" />
+      <edge source="#manhajsalaf" target="#nasehatislami" id="423" weight="1" />
+      <edge source="#manhajsalaf" target="#quoteislam" id="424" weight="1" />
+      <edge source="#islam" target="#antiterorisme" id="425" weight="1" />
+      <edge source="#islam" target="#posterdakwah" id="426" weight="1" />
+      <edge source="#islam" target="#posterislam" id="427" weight="1" />
+      <edge source="#islam" target="#postersunnah" id="428" weight="1" />
+      <edge source="#islam" target="#posterfawaid" id="429" weight="1" />
+      <edge source="#islam" target="#nasehatislami" id="430" weight="1" />
+      <edge source="#islam" target="#quoteislam" id="431" weight="1" />
+      <edge source="#antiterorisme" target="#posterdakwah" id="432" weight="1" />
+      <edge source="#antiterorisme" target="#posterislam" id="433" weight="1" />
+      <edge source="#antiterorisme" target="#postersunnah" id="434" weight="1" />
+      <edge source="#antiterorisme" target="#posterfawaid" id="435" weight="1" />
+      <edge source="#antiterorisme" target="#nasehatislami" id="436" weight="1" />
+      <edge source="#antiterorisme" target="#quoteislam" id="437" weight="1" />
+      <edge source="#posterdakwah" target="#posterislam" id="438" weight="1" />
+      <edge source="#posterdakwah" target="#postersunnah" id="439" weight="1" />
+      <edge source="#posterdakwah" target="#posterfawaid" id="440" weight="1" />
+      <edge source="#posterdakwah" target="#nasehatislami" id="441" weight="1" />
+      <edge source="#posterdakwah" target="#quoteislam" id="442" weight="1" />
+      <edge source="#posterislam" target="#postersunnah" id="443" weight="1" />
+      <edge source="#posterislam" target="#posterfawaid" id="444" weight="1" />
+      <edge source="#posterislam" target="#nasehatislami" id="445" weight="1" />
+      <edge source="#posterislam" target="#quoteislam" id="446" weight="1" />
+      <edge source="#postersunnah" target="#posterfawaid" id="447" weight="1" />
+      <edge source="#postersunnah" target="#nasehatislami" id="448" weight="1" />
+      <edge source="#postersunnah" target="#quoteislam" id="449" weight="1" />
+      <edge source="#posterfawaid" target="#nasehatislami" id="450" weight="1" />
+      <edge source="#posterfawaid" target="#quoteislam" id="451" weight="1" />
+      <edge source="#nasehatislami" target="#quoteislam" id="452" weight="1" />
+      <edge source="#polriuntukindonesia" target="#singkawanginformasi" id="453" weight="1" />
+      <edge source="#polriuntukindonesia" target="#polressingkawang" id="454" weight="1" />
+      <edge source="#polriuntukindonesia" target="#singkawang" id="455" weight="1" />
+      <edge source="#singkawanginformasi" target="#polressingkawang" id="456" weight="1" />
+      <edge source="#polresppu" target="#akbp_hendrik_eka_bahalwan" id="457" weight="1" />
+      <edge source="#polresppu" target="#kapolresppu" id="458" weight="1" />
+      <edge source="#polresppu" target="#iknnusantara" id="459" weight="1" />
+      <edge source="#polresppu" target="#sinergitnipolri" id="460" weight="1" />
+      <edge source="#akbp_hendrik_eka_bahalwan" target="#kapolresppu" id="461" weight="1" />
+      <edge source="#akbp_hendrik_eka_bahalwan" target="#iknnusantara" id="462" weight="1" />
+      <edge source="#akbp_hendrik_eka_bahalwan" target="#sinergitnipolri" id="463" weight="1" />
+      <edge source="#kapolresppu" target="#iknnusantara" id="464" weight="1" />
+      <edge source="#kapolresppu" target="#sinergitnipolri" id="465" weight="1" />
+      <edge source="#iknnusantara" target="#sinergitnipolri" id="466" weight="1" />
+      <edge source="#pksno" target="#letsgopks" id="467" weight="1" />
+      <edge source="#ammocanspeaker" target="#bluetoothspeaker" id="468" weight="1" />
+      <edge source="#ammocanspeaker" target="#outdoors" id="469" weight="1" />
+      <edge source="#ammocanspeaker" target="#adventure" id="470" weight="1" />
+      <edge source="#ammocanspeaker" target="#tacticool" id="471" weight="1" />
+      <edge source="#bluetoothspeaker" target="#outdoors" id="472" weight="1" />
+      <edge source="#bluetoothspeaker" target="#adventure" id="473" weight="1" />
+      <edge source="#bluetoothspeaker" target="#tacticool" id="474" weight="1" />
+      <edge source="#outdoors" target="#adventure" id="475" weight="1" />
+      <edge source="#outdoors" target="#tacticool" id="476" weight="1" />
+      <edge source="#adventure" target="#tacticool" id="477" weight="1" />
+    </edges>
+  </graph>
+</gexf>

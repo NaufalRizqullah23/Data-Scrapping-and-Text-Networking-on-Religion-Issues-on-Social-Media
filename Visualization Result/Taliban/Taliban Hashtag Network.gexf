@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#taliban" label="#taliban" />
+      <node id="#bantaliban" label="#bantaliban" />
+      <node id="#afghanistan" label="#afghanistan" />
+      <node id="#cdnpoli" label="#cdnpoli" />
+      <node id="#mississauga" label="#mississauga" />
+      <node id="#palestine" label="#palestine" />
+      <node id="#gaza" label="#gaza" />
+      <node id="#israel" label="#israel" />
+      <node id="#fmtnews" label="#fmtnews" />
+      <node id="#fmtworld" label="#fmtworld" />
+      <node id="#hamas" label="#hamas" />
+      <node id="#hamasisis" label="#hamasisis" />
+      <node id="#israelpalestinewar" label="#israelpalestinewar" />
+      <node id="#فلسطين" label="#فلسطين" />
+      <node id="#حماس" label="#حماس" />
+      <node id="#طوفان_القدس" label="#طوفان_القدس" />
+      <node id="#muslimummah" label="#muslimummah" />
+      <node id="#war" label="#war" />
+      <node id="#almayadeen" label="#almayadeen" />
+      <node id="#alaqsa" label="#alaqsa" />
+      <node id="#طوفان_الأقصى" label="#طوفان_الأقصى" />
+      <node id="#الأهلي_الاتحاد" label="#الأهلي_الاتحاد" />
+      <node id="#israelterorrist" label="#israelterorrist" />
+      <node id="#palestina" label="#palestina" />
+      <node id="#amerika" label="#amerika" />
+      <node id="#indonesia" label="#indonesia" />
+      <node id="#iran" label="#iran" />
+      <node id="#isis" label="#isis" />
+      <node id="#biden" label="#biden" />
+      <node id="#brussel" label="#brussel" />
+      <node id="#hospital" label="#hospital" />
+      <node id="#hamasterrorists" label="#hamasterrorists" />
+      <node id="#erdogan" label="#erdogan" />
+      <node id="#sahabatpalestina_id" label="#sahabatpalestina_id" />
+      <node id="#freepalestine" label="#freepalestine" />
+      <node id="#hamasattack" label="#hamasattack" />
+      <node id="#freegazafromisrael" label="#freegazafromisrael" />
+      <node id="#afg" label="#afg" />
+      <node id="#afghanistancrisis" label="#afghanistancrisis" />
+      <node id="#talibangovernment" label="#talibangovernment" />
+      <node id="#is" label="#is" />
+      <node id="#isil" label="#isil" />
+      <node id="#iskp" label="#iskp" />
+      <node id="#daesh" label="#daesh" />
+      <node id="#tajikistan" label="#tajikistan" />
+      <node id="#bringthemback" label="#bringthemback" />
+      <node id="#bringthemhome" label="#bringthemhome" />
+      <node id="#hamasisisis" label="#hamasisisis" />
+      <node id="#thewestisnext" label="#thewestisnext" />
+      <node id="#freepalestinefromhamas" label="#freepalestinefromhamas" />
+      <node id="#freehamasfromgaza" label="#freehamasfromgaza" />
+      <node id="#therealimage" label="#therealimage" />
+      <node id="#حماس_هي_داعش" label="#حماس_هي_داعش" />
+      <node id="#حرروا_فلسطين_من_حماس" label="#حرروا_فلسطين_من_حماس" />
+      <node id="#hamas_is_isis" label="#hamas_is_isis" />
+      <node id="#hamasistaliban" label="#hamasistaliban" />
+      <node id="#congressmuktbharat" label="#congressmuktbharat" />
+      <node id="#modiagainin" label="#modiagainin" />
+      <node id="#israel_under_attack" label="#israel_under_attack" />
+      <node id="#indvsban" label="#indvsban" />
+      <node id="#releasezholiaparsi" label="#releasezholiaparsi" />
+      <node id="#releasematiullahwesa" label="#releasematiullahwesa" />
+      <node id="#mahsaamini" label="#mahsaamini" />
+      <node id="#pakistanarmy" label="#pakistanarmy" />
+      <node id="#pakistan" label="#pakistan" />
+      <node id="#magamorons" label="#magamorons" />
+      <node id="#afganistan" label="#afganistan" />
+      <node id="#stopsyaria" label="#stopsyaria" />
+      <node id="#waspadamoderat" label="#waspadamoderat" />
+      <node id="#waspadanu" label="#waspadanu" />
+      <node id="#stopulama" label="#stopulama" />
+      <node id="#stopnu" label="#stopnu" />
+      <node id="#palestinian" label="#palestinian" />
+      <node id="#jews" label="#jews" />
+      <node id="#israelpalestineconflict" label="#israelpalestineconflict" />
+      <node id="#engvsafg" label="#engvsafg" />
+      <node id="#worldcup" label="#worldcup" />
+      <node id="#icccricketworldcup" label="#icccricketworldcup" />
+      <node id="#afgvseng" label="#afgvseng" />
+      <node id="#cwc" label="#cwc" />
+      <node id="#earthquake" label="#earthquake" />
+      <node id="#rizwan" label="#rizwan" />
+      <node id="#hezbollah" label="#hezbollah" />
+      <node id="#kalaastar" label="#kalaastar" />
+      <node id="#engvafg" label="#engvafg" />
+      <node id="#babarazam" label="#babarazam" />
+      <node id="#shaheenshahafridi" label="#shaheenshahafridi" />
+      <node id="#lahoreprotest" label="#lahoreprotest" />
+      <node id="#leofdfs" label="#leofdfs" />
+      <node id="#myleaderiscoming" label="#myleaderiscoming" />
+      <node id="#biggboss" label="#biggboss" />
+      <node id="#boycottindopakmatch" label="#boycottindopakmatch" />
+      <node id="#boycottmcdonalds" label="#boycottmcdonalds" />
+      <node id="#haramimahua" label="#haramimahua" />
+      <node id="#नवर" label="#नवर" />
+      <node id="#palastine" label="#palastine" />
+      <node id="#hamasterrorist" label="#hamasterrorist" />
+      <node id="#qatar" label="#qatar" />
+      <node id="#sorry_pakistan" label="#sorry_pakistan" />
+      <node id="#gazacity" label="#gazacity" />
+      <node id="#isarael" label="#isarael" />
+      <node id="#freegazafromhamas" label="#freegazafromhamas" />
+      <node id="#fpl" label="#fpl" />
+      <node id="#lebanon" label="#lebanon" />
+      <node id="#indiawithisrael" label="#indiawithisrael" />
+      <node id="#modi" label="#modi" />
+      <node id="#asaduddinowaisi" label="#asaduddinowaisi" />
+      <node id="#us" label="#us" />
+      <node id="#occupy" label="#occupy" />
+      <node id="#bhdunia" label="#bhdunia" />
+      <node id="#asia" label="#asia" />
+      <node id="#gazagenocide" label="#gazagenocide" />
+      <node id="#gazaunderattack" label="#gazaunderattack" />
+      <node id="#bharatstandswithisrael" label="#bharatstandswithisrael" />
+      <node id="#indvspak" label="#indvspak" />
+      <node id="#gobacksonia" label="#gobacksonia" />
+      <node id="#bharat" label="#bharat" />
+      <node id="#congress" label="#congress" />
+      <node id="#urbannaxals" label="#urbannaxals" />
+      <node id="#antinationals" label="#antinationals" />
+      <node id="#soniagandhi" label="#soniagandhi" />
+      <node id="#attentat" label="#attentat" />
+      <node id="#israelfightsback" label="#israelfightsback" />
+      <node id="#hamasterrorism" label="#hamasterrorism" />
+      <node id="#genocideingaza" label="#genocideingaza" />
+      <node id="#hezbollahterrorists" label="#hezbollahterrorists" />
+      <node id="#india" label="#india" />
+      <node id="#israelterrorists" label="#israelterrorists" />
+      <node id="#israelicrimes" label="#israelicrimes" />
+      <node id="#savepalestine" label="#savepalestine" />
+      <node id="#savegaza" label="#savegaza" />
+      <node id="#westandwithpalestine" label="#westandwithpalestine" />
+      <node id="#alqassam" label="#alqassam" />
+      <node id="#putin" label="#putin" />
+      <node id="#erdoğan" label="#erdoğan" />
+      <node id="#iraniansstandswithisrael" label="#iraniansstandswithisrael" />
+      <node id="#irgcterorrists" label="#irgcterorrists" />
+      <node id="#israelgazawar" label="#israelgazawar" />
+      <node id="#jehadi" label="#jehadi" />
+      <node id="#israelattack" label="#israelattack" />
+      <node id="#israelfightsterror" label="#israelfightsterror" />
+      <node id="#aap" label="#aap" />
+      <node id="#congressparty" label="#congressparty" />
+      <node id="#dmk" label="#dmk" />
+      <node id="#breakingindia" label="#breakingindia" />
+      <node id="#taufanalaqsa" label="#taufanalaqsa" />
+      <node id="#istandwithpalestine" label="#istandwithpalestine" />
+      <node id="#nsmq" label="#nsmq" />
+      <node id="#primetime" label="#primetime" />
+      <node id="#nsmqoneeighth" label="#nsmqoneeighth" />
+      <node id="#nigeria" label="#nigeria" />
+      <node id="#bokoharam" label="#bokoharam" />
+      <node id="#iraq" label="#iraq" />
+      <node id="#syria" label="#syria" />
+      <node id="#lashkar" label="#lashkar" />
+      <node id="#terrorism" label="#terrorism" />
+      <node id="#congresswithhamas" label="#congresswithhamas" />
+      <node id="#rahulgandhiwithhamas" label="#rahulgandhiwithhamas" />
+      <node id="#muslimterrorists" label="#muslimterrorists" />
+      <node id="#jihadis" label="#jihadis" />
+      <node id="#bccifavoursterrorism" label="#bccifavoursterrorism" />
+      <node id="#bcci" label="#bcci" />
+    </nodes>
+    <edges>
+      <edge source="#taliban" target="#bantaliban" id="0" weight="1" />
+      <edge source="#taliban" target="#afghanistan" id="1" weight="1" />
+      <edge source="#taliban" target="#palestine" id="2" weight="1" />
+      <edge source="#taliban" target="#فلسطين" id="3" weight="1" />
+      <edge source="#taliban" target="#حماس" id="4" weight="1" />
+      <edge source="#taliban" target="#طوفان_القدس" id="5" weight="1" />
+      <edge source="#taliban" target="#muslimummah" id="6" weight="1" />
+      <edge source="#taliban" target="#israel" id="7" weight="1" />
+      <edge source="#taliban" target="#hamas" id="8" weight="1" />
+      <edge source="#taliban" target="#gaza" id="9" weight="1" />
+      <edge source="#taliban" target="#war" id="10" weight="1" />
+      <edge source="#taliban" target="#almayadeen" id="11" weight="1" />
+      <edge source="#taliban" target="#alaqsa" id="12" weight="1" />
+      <edge source="#taliban" target="#طوفان_الأقصى" id="13" weight="1" />
+      <edge source="#taliban" target="#الأهلي_الاتحاد" id="14" weight="1" />
+      <edge source="#taliban" target="#israelterorrist" id="15" weight="1" />
+      <edge source="#taliban" target="#palestina" id="16" weight="1" />
+      <edge source="#taliban" target="#amerika" id="17" weight="1" />
+      <edge source="#taliban" target="#indonesia" id="18" weight="1" />
+      <edge source="#taliban" target="#iran" id="19" weight="1" />
+      <edge source="#taliban" target="#isis" id="20" weight="1" />
+      <edge source="#taliban" target="#erdogan" id="21" weight="1" />
+      <edge source="#taliban" target="#sahabatpalestina_id" id="22" weight="1" />
+      <edge source="#taliban" target="#freepalestine" id="23" weight="1" />
+      <edge source="#taliban" target="#israelpalestinewar" id="24" weight="1" />
+      <edge source="#taliban" target="#hamasattack" id="25" weight="1" />
+      <edge source="#taliban" target="#freegazafromisrael" id="26" weight="1" />
+      <edge source="#taliban" target="#pakistanarmy" id="27" weight="1" />
+      <edge source="#taliban" target="#pakistan" id="28" weight="1" />
+      <edge source="#taliban" target="#palestinian" id="29" weight="1" />
+      <edge source="#taliban" target="#jews" id="30" weight="1" />
+      <edge source="#taliban" target="#israelpalestineconflict" id="31" weight="1" />
+      <edge source="#taliban" target="#earthquake" id="32" weight="1" />
+      <edge source="#taliban" target="#lebanon" id="33" weight="1" />
+      <edge source="#taliban" target="#indiawithisrael" id="34" weight="1" />
+      <edge source="#taliban" target="#modi" id="35" weight="1" />
+      <edge source="#taliban" target="#israelterrorists" id="36" weight="1" />
+      <edge source="#taliban" target="#israelicrimes" id="37" weight="1" />
+      <edge source="#taliban" target="#savepalestine" id="38" weight="1" />
+      <edge source="#taliban" target="#savegaza" id="39" weight="1" />
+      <edge source="#taliban" target="#westandwithpalestine" id="40" weight="1" />
+      <edge source="#taliban" target="#alqassam" id="41" weight="1" />
+      <edge source="#taliban" target="#putin" id="42" weight="1" />
+      <edge source="#taliban" target="#erdoğan" id="43" weight="1" />
+      <edge source="#taliban" target="#taufanalaqsa" id="44" weight="1" />
+      <edge source="#taliban" target="#istandwithpalestine" id="45" weight="1" />
+      <edge source="#taliban" target="#nigeria" id="46" weight="1" />
+      <edge source="#taliban" target="#bokoharam" id="47" weight="1" />
+      <edge source="#taliban" target="#hezbollah" id="48" weight="1" />
+      <edge source="#taliban" target="#iraq" id="49" weight="1" />
+      <edge source="#taliban" target="#syria" id="50" weight="1" />
+      <edge source="#taliban" target="#lashkar" id="51" weight="1" />
+      <edge source="#taliban" target="#bharat" id="52" weight="1" />
+      <edge source="#taliban" target="#congress" id="53" weight="1" />
+      <edge source="#bantaliban" target="#afghanistan" id="54" weight="1" />
+      <edge source="#afghanistan" target="#afg" id="55" weight="1" />
+      <edge source="#afghanistan" target="#afghanistancrisis" id="56" weight="1" />
+      <edge source="#afghanistan" target="#talibangovernment" id="57" weight="1" />
+      <edge source="#afghanistan" target="#is" id="58" weight="1" />
+      <edge source="#afghanistan" target="#isil" id="59" weight="1" />
+      <edge source="#afghanistan" target="#isis" id="60" weight="1" />
+      <edge source="#afghanistan" target="#iskp" id="61" weight="1" />
+      <edge source="#afghanistan" target="#daesh" id="62" weight="1" />
+      <edge source="#afghanistan" target="#tajikistan" id="63" weight="1" />
+      <edge source="#afghanistan" target="#pakistanarmy" id="64" weight="1" />
+      <edge source="#afghanistan" target="#pakistan" id="65" weight="1" />
+      <edge source="#afghanistan" target="#palestinian" id="66" weight="1" />
+      <edge source="#afghanistan" target="#jews" id="67" weight="1" />
+      <edge source="#afghanistan" target="#israelpalestinewar" id="68" weight="1" />
+      <edge source="#afghanistan" target="#israelpalestineconflict" id="69" weight="1" />
+      <edge source="#afghanistan" target="#hamas" id="70" weight="1" />
+      <edge source="#afghanistan" target="#iran" id="71" weight="1" />
+      <edge source="#afghanistan" target="#us" id="72" weight="1" />
+      <edge source="#afghanistan" target="#occupy" id="73" weight="1" />
+      <edge source="#afghanistan" target="#palestine" id="74" weight="1" />
+      <edge source="#afghanistan" target="#gaza" id="75" weight="1" />
+      <edge source="#afghanistan" target="#gazagenocide" id="76" weight="1" />
+      <edge source="#afghanistan" target="#gazaunderattack" id="77" weight="1" />
+      <edge source="#afghanistan" target="#nigeria" id="78" weight="1" />
+      <edge source="#afghanistan" target="#bokoharam" id="79" weight="1" />
+      <edge source="#afghanistan" target="#lebanon" id="80" weight="1" />
+      <edge source="#afghanistan" target="#hezbollah" id="81" weight="1" />
+      <edge source="#afghanistan" target="#iraq" id="82" weight="1" />
+      <edge source="#afghanistan" target="#syria" id="83" weight="1" />
+      <edge source="#afghanistan" target="#israel" id="84" weight="1" />
+      <edge source="#afghanistan" target="#lashkar" id="85" weight="1" />
+      <edge source="#afghanistan" target="#bharat" id="86" weight="1" />
+      <edge source="#afghanistan" target="#congress" id="87" weight="1" />
+      <edge source="#cdnpoli" target="#mississauga" id="88" weight="1" />
+      <edge source="#cdnpoli" target="#palestine" id="89" weight="1" />
+      <edge source="#cdnpoli" target="#gaza" id="90" weight="1" />
+      <edge source="#cdnpoli" target="#israel" id="91" weight="1" />
+      <edge source="#mississauga" target="#palestine" id="92" weight="1" />
+      <edge source="#mississauga" target="#gaza" id="93" weight="1" />
+      <edge source="#mississauga" target="#israel" id="94" weight="1" />
+      <edge source="#palestine" target="#gaza" id="95" weight="1" />
+      <edge source="#palestine" target="#israel" id="96" weight="1" />
+      <edge source="#palestine" target="#فلسطين" id="97" weight="1" />
+      <edge source="#palestine" target="#حماس" id="98" weight="1" />
+      <edge source="#palestine" target="#طوفان_القدس" id="99" weight="1" />
+      <edge source="#palestine" target="#muslimummah" id="100" weight="1" />
+      <edge source="#palestine" target="#hamas" id="101" weight="1" />
+      <edge source="#palestine" target="#war" id="102" weight="1" />
+      <edge source="#palestine" target="#almayadeen" id="103" weight="1" />
+      <edge source="#palestine" target="#alaqsa" id="104" weight="1" />
+      <edge source="#palestine" target="#طوفان_الأقصى" id="105" weight="1" />
+      <edge source="#palestine" target="#الأهلي_الاتحاد" id="106" weight="1" />
+      <edge source="#palestine" target="#erdogan" id="107" weight="1" />
+      <edge source="#palestine" target="#sahabatpalestina_id" id="108" weight="1" />
+      <edge source="#palestine" target="#freepalestine" id="109" weight="1" />
+      <edge source="#palestine" target="#israelpalestinewar" id="110" weight="1" />
+      <edge source="#palestine" target="#hamasattack" id="111" weight="1" />
+      <edge source="#palestine" target="#freegazafromisrael" id="112" weight="1" />
+      <edge source="#palestine" target="#earthquake" id="113" weight="1" />
+      <edge source="#palestine" target="#lebanon" id="114" weight="1" />
+      <edge source="#palestine" target="#gazagenocide" id="115" weight="1" />
+      <edge source="#palestine" target="#gazaunderattack" id="116" weight="1" />
+      <edge source="#palestine" target="#hamasterrorist" id="117" weight="1" />
+      <edge source="#palestine" target="#hezbollahterrorists" id="118" weight="1" />
+      <edge source="#palestine" target="#india" id="119" weight="1" />
+      <edge source="#palestine" target="#congress" id="120" weight="1" />
+      <edge source="#palestine" target="#nigeria" id="121" weight="1" />
+      <edge source="#palestine" target="#bokoharam" id="122" weight="1" />
+      <edge source="#palestine" target="#hezbollah" id="123" weight="1" />
+      <edge source="#palestine" target="#iraq" id="124" weight="1" />
+      <edge source="#palestine" target="#syria" id="125" weight="1" />
+      <edge source="#palestine" target="#isis" id="126" weight="1" />
+      <edge source="#palestine" target="#pakistan" id="127" weight="1" />
+      <edge source="#palestine" target="#lashkar" id="128" weight="1" />
+      <edge source="#palestine" target="#bharat" id="129" weight="1" />
+      <edge source="#gaza" target="#israel" id="130" weight="1" />
+      <edge source="#gaza" target="#hamas" id="131" weight="1" />
+      <edge source="#gaza" target="#hamasisis" id="132" weight="1" />
+      <edge source="#gaza" target="#israelpalestinewar" id="133" weight="1" />
+      <edge source="#gaza" target="#فلسطين" id="134" weight="1" />
+      <edge source="#gaza" target="#حماس" id="135" weight="1" />
+      <edge source="#gaza" target="#طوفان_القدس" id="136" weight="1" />
+      <edge source="#gaza" target="#muslimummah" id="137" weight="1" />
+      <edge source="#gaza" target="#war" id="138" weight="1" />
+      <edge source="#gaza" target="#almayadeen" id="139" weight="1" />
+      <edge source="#gaza" target="#alaqsa" id="140" weight="1" />
+      <edge source="#gaza" target="#طوفان_الأقصى" id="141" weight="1" />
+      <edge source="#gaza" target="#الأهلي_الاتحاد" id="142" weight="1" />
+      <edge source="#gaza" target="#hamasisisis" id="143" weight="1" />
+      <edge source="#gaza" target="#haramimahua" id="144" weight="1" />
+      <edge source="#gaza" target="#नवर" id="145" weight="1" />
+      <edge source="#gaza" target="#palastine" id="146" weight="1" />
+      <edge source="#gaza" target="#hamasterrorist" id="147" weight="1" />
+      <edge source="#gaza" target="#iran" id="148" weight="1" />
+      <edge source="#gaza" target="#qatar" id="149" weight="1" />
+      <edge source="#gaza" target="#earthquake" id="150" weight="1" />
+      <edge source="#gaza" target="#sorry_pakistan" id="151" weight="1" />
+      <edge source="#gaza" target="#engvsafg" id="152" weight="1" />
+      <edge source="#gaza" target="#gazacity" id="153" weight="1" />
+      <edge source="#gaza" target="#isarael" id="154" weight="1" />
+      <edge source="#gaza" target="#lebanon" id="155" weight="1" />
+      <edge source="#gaza" target="#asaduddinowaisi" id="156" weight="1" />
+      <edge source="#gaza" target="#gazagenocide" id="157" weight="1" />
+      <edge source="#gaza" target="#gazaunderattack" id="158" weight="1" />
+      <edge source="#israel" target="#فلسطين" id="159" weight="1" />
+      <edge source="#israel" target="#حماس" id="160" weight="1" />
+      <edge source="#israel" target="#طوفان_القدس" id="161" weight="1" />
+      <edge source="#israel" target="#muslimummah" id="162" weight="1" />
+      <edge source="#israel" target="#hamas" id="163" weight="1" />
+      <edge source="#israel" target="#war" id="164" weight="1" />
+      <edge source="#israel" target="#almayadeen" id="165" weight="1" />
+      <edge source="#israel" target="#alaqsa" id="166" weight="1" />
+      <edge source="#israel" target="#طوفان_الأقصى" id="167" weight="1" />
+      <edge source="#israel" target="#الأهلي_الاتحاد" id="168" weight="1" />
+      <edge source="#israel" target="#biden" id="169" weight="1" />
+      <edge source="#israel" target="#brussel" id="170" weight="1" />
+      <edge source="#israel" target="#hospital" id="171" weight="1" />
+      <edge source="#israel" target="#hamasterrorists" id="172" weight="1" />
+      <edge source="#israel" target="#israel_under_attack" id="173" weight="1" />
+      <edge source="#israel" target="#indvsban" id="174" weight="1" />
+      <edge source="#israel" target="#hamasisisis" id="175" weight="1" />
+      <edge source="#israel" target="#haramimahua" id="176" weight="1" />
+      <edge source="#israel" target="#नवर" id="177" weight="1" />
+      <edge source="#israel" target="#palastine" id="178" weight="1" />
+      <edge source="#israel" target="#hamasterrorist" id="179" weight="1" />
+      <edge source="#israel" target="#iran" id="180" weight="1" />
+      <edge source="#israel" target="#qatar" id="181" weight="1" />
+      <edge source="#israel" target="#earthquake" id="182" weight="1" />
+      <edge source="#israel" target="#sorry_pakistan" id="183" weight="1" />
+      <edge source="#israel" target="#engvsafg" id="184" weight="1" />
+      <edge source="#israel" target="#gazacity" id="185" weight="1" />
+      <edge source="#israel" target="#isarael" id="186" weight="1" />
+      <edge source="#israel" target="#israel" id="187" weight="1" />
+      <edge source="#israel" target="#attentat" id="188" weight="1" />
+      <edge source="#israel" target="#israelfightsback" id="189" weight="1" />
+      <edge source="#israel" target="#israelpalestineconflict" id="190" weight="1" />
+      <edge source="#israel" target="#boycottindopakmatch" id="191" weight="1" />
+      <edge source="#israel" target="#israelpalestinewar" id="192" weight="1" />
+      <edge source="#israel" target="#hamasterrorism" id="193" weight="1" />
+      <edge source="#israel" target="#hamas_is_isis" id="194" weight="1" />
+      <edge source="#israel" target="#hamasisis" id="195" weight="1" />
+      <edge source="#israel" target="#genocideingaza" id="196" weight="1" />
+      <edge source="#israel" target="#nigeria" id="197" weight="1" />
+      <edge source="#israel" target="#bokoharam" id="198" weight="1" />
+      <edge source="#israel" target="#lebanon" id="199" weight="1" />
+      <edge source="#israel" target="#hezbollah" id="200" weight="1" />
+      <edge source="#israel" target="#iraq" id="201" weight="1" />
+      <edge source="#israel" target="#syria" id="202" weight="1" />
+      <edge source="#israel" target="#isis" id="203" weight="1" />
+      <edge source="#israel" target="#pakistan" id="204" weight="1" />
+      <edge source="#israel" target="#lashkar" id="205" weight="1" />
+      <edge source="#israel" target="#bharat" id="206" weight="1" />
+      <edge source="#israel" target="#congress" id="207" weight="1" />
+      <edge source="#fmtnews" target="#fmtworld" id="208" weight="1" />
+      <edge source="#hamas" target="#hamasisis" id="209" weight="1" />
+      <edge source="#hamas" target="#israelpalestinewar" id="210" weight="1" />
+      <edge source="#hamas" target="#فلسطين" id="211" weight="1" />
+      <edge source="#hamas" target="#حماس" id="212" weight="1" />
+      <edge source="#hamas" target="#طوفان_القدس" id="213" weight="1" />
+      <edge source="#hamas" target="#muslimummah" id="214" weight="1" />
+      <edge source="#hamas" target="#war" id="215" weight="1" />
+      <edge source="#hamas" target="#almayadeen" id="216" weight="1" />
+      <edge source="#hamas" target="#alaqsa" id="217" weight="1" />
+      <edge source="#hamas" target="#طوفان_الأقصى" id="218" weight="1" />
+      <edge source="#hamas" target="#الأهلي_الاتحاد" id="219" weight="1" />
+      <edge source="#hamas" target="#israelterorrist" id="220" weight="1" />
+      <edge source="#hamas" target="#palestina" id="221" weight="1" />
+      <edge source="#hamas" target="#amerika" id="222" weight="1" />
+      <edge source="#hamas" target="#indonesia" id="223" weight="1" />
+      <edge source="#hamas" target="#iran" id="224" weight="1" />
+      <edge source="#hamas" target="#isis" id="225" weight="1" />
+      <edge source="#hamas" target="#indiawithisrael" id="226" weight="1" />
+      <edge source="#hamas" target="#modi" id="227" weight="1" />
+      <edge source="#hamas" target="#hamas" id="228" weight="1" />
+      <edge source="#hamas" target="#us" id="229" weight="1" />
+      <edge source="#hamas" target="#occupy" id="230" weight="1" />
+      <edge source="#hamas" target="#gobacksonia" id="231" weight="1" />
+      <edge source="#hamas" target="#pakistan" id="232" weight="1" />
+      <edge source="#hamas" target="#bharat" id="233" weight="1" />
+      <edge source="#hamas" target="#congress" id="234" weight="1" />
+      <edge source="#hamas" target="#urbannaxals" id="235" weight="1" />
+      <edge source="#hamas" target="#antinationals" id="236" weight="1" />
+      <edge source="#hamas" target="#soniagandhi" id="237" weight="1" />
+      <edge source="#hamas" target="#israelterrorists" id="238" weight="1" />
+      <edge source="#hamas" target="#israelicrimes" id="239" weight="1" />
+      <edge source="#hamas" target="#savepalestine" id="240" weight="1" />
+      <edge source="#hamas" target="#savegaza" id="241" weight="1" />
+      <edge source="#hamas" target="#westandwithpalestine" id="242" weight="1" />
+      <edge source="#hamas" target="#alqassam" id="243" weight="1" />
+      <edge source="#hamas" target="#putin" id="244" weight="1" />
+      <edge source="#hamas" target="#erdoğan" id="245" weight="1" />
+      <edge source="#hamas" target="#nigeria" id="246" weight="1" />
+      <edge source="#hamas" target="#bokoharam" id="247" weight="1" />
+      <edge source="#hamas" target="#lebanon" id="248" weight="1" />
+      <edge source="#hamas" target="#hezbollah" id="249" weight="1" />
+      <edge source="#hamas" target="#iraq" id="250" weight="1" />
+      <edge source="#hamas" target="#syria" id="251" weight="1" />
+      <edge source="#hamas" target="#lashkar" id="252" weight="1" />
+      <edge source="#hamasisis" target="#hamasisis" id="253" weight="1" />
+      <edge source="#hamasisis" target="#israelpalestinewar" id="254" weight="1" />
+      <edge source="#hamasisis" target="#hamasisisis" id="255" weight="1" />
+      <edge source="#hamasisis" target="#freegazafromhamas" id="256" weight="1" />
+      <edge source="#hamasisis" target="#fpl" id="257" weight="1" />
+      <edge source="#hamasisis" target="#attentat" id="258" weight="1" />
+      <edge source="#hamasisis" target="#hamasterrorist" id="259" weight="1" />
+      <edge source="#hamasisis" target="#israelfightsback" id="260" weight="1" />
+      <edge source="#hamasisis" target="#israelpalestineconflict" id="261" weight="1" />
+      <edge source="#hamasisis" target="#boycottindopakmatch" id="262" weight="1" />
+      <edge source="#hamasisis" target="#isarael" id="263" weight="1" />
+      <edge source="#hamasisis" target="#hamasterrorism" id="264" weight="1" />
+      <edge source="#hamasisis" target="#hamas_is_isis" id="265" weight="1" />
+      <edge source="#hamasisis" target="#genocideingaza" id="266" weight="1" />
+      <edge source="#israelpalestinewar" target="#erdogan" id="267" weight="1" />
+      <edge source="#israelpalestinewar" target="#sahabatpalestina_id" id="268" weight="1" />
+      <edge source="#israelpalestinewar" target="#freepalestine" id="269" weight="1" />
+      <edge source="#israelpalestinewar" target="#hamasattack" id="270" weight="1" />
+      <edge source="#israelpalestinewar" target="#freegazafromisrael" id="271" weight="1" />
+      <edge source="#israelpalestinewar" target="#palestinian" id="272" weight="1" />
+      <edge source="#israelpalestinewar" target="#jews" id="273" weight="1" />
+      <edge source="#israelpalestinewar" target="#israelpalestineconflict" id="274" weight="1" />
+      <edge source="#israelpalestinewar" target="#attentat" id="275" weight="1" />
+      <edge source="#israelpalestinewar" target="#hamasterrorist" id="276" weight="1" />
+      <edge source="#israelpalestinewar" target="#israelfightsback" id="277" weight="1" />
+      <edge source="#israelpalestinewar" target="#boycottindopakmatch" id="278" weight="1" />
+      <edge source="#israelpalestinewar" target="#isarael" id="279" weight="1" />
+      <edge source="#israelpalestinewar" target="#hamasterrorism" id="280" weight="1" />
+      <edge source="#israelpalestinewar" target="#hamas_is_isis" id="281" weight="1" />
+      <edge source="#israelpalestinewar" target="#genocideingaza" id="282" weight="1" />
+      <edge source="#فلسطين" target="#حماس" id="283" weight="1" />
+      <edge source="#فلسطين" target="#طوفان_القدس" id="284" weight="1" />
+      <edge source="#فلسطين" target="#muslimummah" id="285" weight="1" />
+      <edge source="#فلسطين" target="#war" id="286" weight="1" />
+      <edge source="#فلسطين" target="#almayadeen" id="287" weight="1" />
+      <edge source="#فلسطين" target="#alaqsa" id="288" weight="1" />
+      <edge source="#فلسطين" target="#طوفان_الأقصى" id="289" weight="1" />
+      <edge source="#فلسطين" target="#الأهلي_الاتحاد" id="290" weight="1" />
+      <edge source="#حماس" target="#طوفان_القدس" id="291" weight="1" />
+      <edge source="#حماس" target="#muslimummah" id="292" weight="1" />
+      <edge source="#حماس" target="#war" id="293" weight="1" />
+      <edge source="#حماس" target="#almayadeen" id="294" weight="1" />
+      <edge source="#حماس" target="#alaqsa" id="295" weight="1" />
+      <edge source="#حماس" target="#طوفان_الأقصى" id="296" weight="1" />
+      <edge source="#حماس" target="#الأهلي_الاتحاد" id="297" weight="1" />
+      <edge source="#حماس" target="#earthquake" id="298" weight="1" />
+      <edge source="#حماس" target="#lebanon" id="299" weight="1" />
+      <edge source="#طوفان_القدس" target="#muslimummah" id="300" weight="1" />
+      <edge source="#طوفان_القدس" target="#war" id="301" weight="1" />
+      <edge source="#طوفان_القدس" target="#almayadeen" id="302" weight="1" />
+      <edge source="#طوفان_القدس" target="#alaqsa" id="303" weight="1" />
+      <edge source="#طوفان_القدس" target="#طوفان_الأقصى" id="304" weight="1" />
+      <edge source="#طوفان_القدس" target="#الأهلي_الاتحاد" id="305" weight="1" />
+      <edge source="#muslimummah" target="#war" id="306" weight="1" />
+      <edge source="#muslimummah" target="#almayadeen" id="307" weight="1" />
+      <edge source="#muslimummah" target="#alaqsa" id="308" weight="1" />
+      <edge source="#muslimummah" target="#طوفان_الأقصى" id="309" weight="1" />
+      <edge source="#muslimummah" target="#الأهلي_الاتحاد" id="310" weight="1" />
+      <edge source="#war" target="#almayadeen" id="311" weight="1" />
+      <edge source="#war" target="#alaqsa" id="312" weight="1" />
+      <edge source="#war" target="#طوفان_الأقصى" id="313" weight="1" />
+      <edge source="#war" target="#الأهلي_الاتحاد" id="314" weight="1" />
+      <edge source="#almayadeen" target="#alaqsa" id="315" weight="1" />
+      <edge source="#almayadeen" target="#طوفان_الأقصى" id="316" weight="1" />
+      <edge source="#almayadeen" target="#الأهلي_الاتحاد" id="317" weight="1" />
+      <edge source="#alaqsa" target="#طوفان_الأقصى" id="318" weight="1" />
+      <edge source="#alaqsa" target="#الأهلي_الاتحاد" id="319" weight="1" />
+      <edge source="#طوفان_الأقصى" target="#الأهلي_الاتحاد" id="320" weight="1" />
+      <edge source="#طوفان_الأقصى" target="#earthquake" id="321" weight="1" />
+      <edge source="#طوفان_الأقصى" target="#lebanon" id="322" weight="1" />
+      <edge source="#israelterorrist" target="#palestina" id="323" weight="1" />
+      <edge source="#israelterorrist" target="#amerika" id="324" weight="1" />
+      <edge source="#israelterorrist" target="#indonesia" id="325" weight="1" />
+      <edge source="#israelterorrist" target="#iran" id="326" weight="1" />
+      <edge source="#israelterorrist" target="#isis" id="327" weight="1" />
+      <edge source="#palestina" target="#amerika" id="328" weight="1" />
+      <edge source="#palestina" target="#indonesia" id="329" weight="1" />
+      <edge source="#palestina" target="#iran" id="330" weight="1" />
+      <edge source="#palestina" target="#isis" id="331" weight="1" />
+      <edge source="#amerika" target="#indonesia" id="332" weight="1" />
+      <edge source="#amerika" target="#iran" id="333" weight="1" />
+      <edge source="#amerika" target="#isis" id="334" weight="1" />
+      <edge source="#indonesia" target="#iran" id="335" weight="1" />
+      <edge source="#indonesia" target="#isis" id="336" weight="1" />
+      <edge source="#iran" target="#isis" id="337" weight="1" />
+      <edge source="#iran" target="#earthquake" id="338" weight="1" />
+      <edge source="#iran" target="#rizwan" id="339" weight="1" />
+      <edge source="#iran" target="#engvsafg" id="340" weight="1" />
+      <edge source="#iran" target="#hezbollah" id="341" weight="1" />
+      <edge source="#iran" target="#kalaastar" id="342" weight="1" />
+      <edge source="#iran" target="#engvafg" id="343" weight="1" />
+      <edge source="#iran" target="#babarazam" id="344" weight="1" />
+      <edge source="#iran" target="#shaheenshahafridi" id="345" weight="1" />
+      <edge source="#iran" target="#lahoreprotest" id="346" weight="1" />
+      <edge source="#iran" target="#leofdfs" id="347" weight="1" />
+      <edge source="#iran" target="#myleaderiscoming" id="348" weight="1" />
+      <edge source="#iran" target="#biggboss" id="349" weight="1" />
+      <edge source="#iran" target="#boycottindopakmatch" id="350" weight="1" />
+      <edge source="#iran" target="#boycottmcdonalds" id="351" weight="1" />
+      <edge source="#iran" target="#hamasisisis" id="352" weight="1" />
+      <edge source="#iran" target="#haramimahua" id="353" weight="1" />
+      <edge source="#iran" target="#नवर" id="354" weight="1" />
+      <edge source="#iran" target="#palastine" id="355" weight="1" />
+      <edge source="#iran" target="#hamasterrorist" id="356" weight="1" />
+      <edge source="#iran" target="#qatar" id="357" weight="1" />
+      <edge source="#iran" target="#sorry_pakistan" id="358" weight="1" />
+      <edge source="#iran" target="#gazacity" id="359" weight="1" />
+      <edge source="#iran" target="#isarael" id="360" weight="1" />
+      <edge source="#iran" target="#us" id="361" weight="1" />
+      <edge source="#iran" target="#occupy" id="362" weight="1" />
+      <edge source="#isis" target="#afg" id="363" weight="1" />
+      <edge source="#isis" target="#afghanistancrisis" id="364" weight="1" />
+      <edge source="#isis" target="#talibangovernment" id="365" weight="1" />
+      <edge source="#isis" target="#is" id="366" weight="1" />
+      <edge source="#isis" target="#isil" id="367" weight="1" />
+      <edge source="#isis" target="#iskp" id="368" weight="1" />
+      <edge source="#isis" target="#daesh" id="369" weight="1" />
+      <edge source="#isis" target="#tajikistan" id="370" weight="1" />
+      <edge source="#isis" target="#nigeria" id="371" weight="1" />
+      <edge source="#isis" target="#bokoharam" id="372" weight="1" />
+      <edge source="#isis" target="#lebanon" id="373" weight="1" />
+      <edge source="#isis" target="#hezbollah" id="374" weight="1" />
+      <edge source="#isis" target="#iraq" id="375" weight="1" />
+      <edge source="#isis" target="#syria" id="376" weight="1" />
+      <edge source="#isis" target="#pakistan" id="377" weight="1" />
+      <edge source="#isis" target="#lashkar" id="378" weight="1" />
+      <edge source="#isis" target="#bharat" id="379" weight="1" />
+      <edge source="#isis" target="#congress" id="380" weight="1" />
+      <edge source="#biden" target="#brussel" id="381" weight="1" />
+      <edge source="#biden" target="#hospital" id="382" weight="1" />
+      <edge source="#biden" target="#hamasterrorists" id="383" weight="1" />
+      <edge source="#brussel" target="#hospital" id="384" weight="1" />
+      <edge source="#brussel" target="#hamasterrorists" id="385" weight="1" />
+      <edge source="#hospital" target="#hamasterrorists" id="386" weight="1" />
+      <edge source="#erdogan" target="#sahabatpalestina_id" id="387" weight="1" />
+      <edge source="#erdogan" target="#freepalestine" id="388" weight="1" />
+      <edge source="#erdogan" target="#hamasattack" id="389" weight="1" />
+      <edge source="#erdogan" target="#freegazafromisrael" id="390" weight="1" />
+      <edge source="#sahabatpalestina_id" target="#freepalestine" id="391" weight="1" />
+      <edge source="#sahabatpalestina_id" target="#hamasattack" id="392" weight="1" />
+      <edge source="#sahabatpalestina_id" target="#freegazafromisrael" id="393" weight="1" />
+      <edge source="#freepalestine" target="#hamasattack" id="394" weight="1" />
+      <edge source="#freepalestine" target="#freegazafromisrael" id="395" weight="1" />
+      <edge source="#freepalestine" target="#taufanalaqsa" id="396" weight="1" />
+      <edge source="#freepalestine" target="#istandwithpalestine" id="397" weight="1" />
+      <edge source="#freepalestine" target="#savegaza" id="398" weight="1" />
+      <edge source="#hamasattack" target="#freegazafromisrael" id="399" weight="1" />
+      <edge source="#afg" target="#afghanistancrisis" id="400" weight="1" />
+      <edge source="#afg" target="#talibangovernment" id="401" weight="1" />
+      <edge source="#afg" target="#is" id="402" weight="1" />
+      <edge source="#afg" target="#isil" id="403" weight="1" />
+      <edge source="#afg" target="#iskp" id="404" weight="1" />
+      <edge source="#afg" target="#daesh" id="405" weight="1" />
+      <edge source="#afg" target="#tajikistan" id="406" weight="1" />
+      <edge source="#afghanistancrisis" target="#talibangovernment" id="407" weight="1" />
+      <edge source="#afghanistancrisis" target="#is" id="408" weight="1" />
+      <edge source="#afghanistancrisis" target="#isil" id="409" weight="1" />
+      <edge source="#afghanistancrisis" target="#iskp" id="410" weight="1" />
+      <edge source="#afghanistancrisis" target="#daesh" id="411" weight="1" />
+      <edge source="#afghanistancrisis" target="#tajikistan" id="412" weight="1" />
+      <edge source="#talibangovernment" target="#is" id="413" weight="1" />
+      <edge source="#talibangovernment" target="#isil" id="414" weight="1" />
+      <edge source="#talibangovernment" target="#iskp" id="415" weight="1" />
+      <edge source="#talibangovernment" target="#daesh" id="416" weight="1" />
+      <edge source="#talibangovernment" target="#tajikistan" id="417" weight="1" />
+      <edge source="#is" target="#isil" id="418" weight="1" />
+      <edge source="#is" target="#iskp" id="419" weight="1" />
+      <edge source="#is" target="#daesh" id="420" weight="1" />
+      <edge source="#is" target="#tajikistan" id="421" weight="1" />
+      <edge source="#isil" target="#iskp" id="422" weight="1" />
+      <edge source="#isil" target="#daesh" id="423" weight="1" />
+      <edge source="#isil" target="#tajikistan" id="424" weight="1" />
+      <edge source="#iskp" target="#daesh" id="425" weight="1" />
+      <edge source="#iskp" target="#tajikistan" id="426" weight="1" />
+      <edge source="#daesh" target="#tajikistan" id="427" weight="1" />
+      <edge source="#bringthemback" target="#bringthemhome" id="428" weight="1" />
+      <edge source="#hamasisisis" target="#thewestisnext" id="429" weight="1" />
+      <edge source="#hamasisisis" target="#freepalestinefromhamas" id="430" weight="1" />
+      <edge source="#hamasisisis" target="#freehamasfromgaza" id="431" weight="1" />
+      <edge source="#hamasisisis" target="#therealimage" id="432" weight="1" />
+      <edge source="#hamasisisis" target="#حماس_هي_داعش" id="433" weight="1" />
+      <edge source="#hamasisisis" target="#حرروا_فلسطين_من_حماس" id="434" weight="1" />
+      <edge source="#hamasisisis" target="#hamas_is_isis" id="435" weight="1" />
+      <edge source="#hamasisisis" target="#hamasistaliban" id="436" weight="1" />
+      <edge source="#hamasisisis" target="#haramimahua" id="437" weight="1" />
+      <edge source="#hamasisisis" target="#नवर" id="438" weight="1" />
+      <edge source="#hamasisisis" target="#palastine" id="439" weight="1" />
+      <edge source="#hamasisisis" target="#hamasterrorist" id="440" weight="1" />
+      <edge source="#hamasisisis" target="#qatar" id="441" weight="1" />
+      <edge source="#hamasisisis" target="#earthquake" id="442" weight="1" />
+      <edge source="#hamasisisis" target="#sorry_pakistan" id="443" weight="1" />
+      <edge source="#hamasisisis" target="#engvsafg" id="444" weight="1" />
+      <edge source="#hamasisisis" target="#gazacity" id="445" weight="1" />
+      <edge source="#hamasisisis" target="#isarael" id="446" weight="1" />
+      <edge source="#hamasisisis" target="#bharatstandswithisrael" id="447" weight="1" />
+      <edge source="#hamasisisis" target="#indiawithisrael" id="448" weight="1" />
+      <edge source="#hamasisisis" target="#indvspak" id="449" weight="1" />
+      <edge source="#thewestisnext" target="#freepalestinefromhamas" id="450" weight="1" />
+      <edge source="#thewestisnext" target="#freehamasfromgaza" id="451" weight="1" />
+      <edge source="#thewestisnext" target="#therealimage" id="452" weight="1" />
+      <edge source="#thewestisnext" target="#حماس_هي_داعش" id="453" weight="1" />
+      <edge source="#thewestisnext" target="#حرروا_فلسطين_من_حماس" id="454" weight="1" />
+      <edge source="#thewestisnext" target="#hamas_is_isis" id="455" weight="1" />
+      <edge source="#thewestisnext" target="#hamasistaliban" id="456" weight="1" />
+      <edge source="#freepalestinefromhamas" target="#freehamasfromgaza" id="457" weight="1" />
+      <edge source="#freepalestinefromhamas" target="#therealimage" id="458" weight="1" />
+      <edge source="#freepalestinefromhamas" target="#حماس_هي_داعش" id="459" weight="1" />
+      <edge source="#freepalestinefromhamas" target="#حرروا_فلسطين_من_حماس" id="460" weight="1" />
+      <edge source="#freepalestinefromhamas" target="#hamas_is_isis" id="461" weight="1" />
+      <edge source="#freepalestinefromhamas" target="#hamasistaliban" id="462" weight="1" />
+      <edge source="#freehamasfromgaza" target="#therealimage" id="463" weight="1" />
+      <edge source="#freehamasfromgaza" target="#حماس_هي_داعش" id="464" weight="1" />
+      <edge source="#freehamasfromgaza" target="#حرروا_فلسطين_من_حماس" id="465" weight="1" />
+      <edge source="#freehamasfromgaza" target="#hamas_is_isis" id="466" weight="1" />
+      <edge source="#freehamasfromgaza" target="#hamasistaliban" id="467" weight="1" />
+      <edge source="#therealimage" target="#حماس_هي_داعش" id="468" weight="1" />
+      <edge source="#therealimage" target="#حرروا_فلسطين_من_حماس" id="469" weight="1" />
+      <edge source="#therealimage" target="#hamas_is_isis" id="470" weight="1" />
+      <edge source="#therealimage" target="#hamasistaliban" id="471" weight="1" />
+      <edge source="#حماس_هي_داعش" target="#حرروا_فلسطين_من_حماس" id="472" weight="1" />
+      <edge source="#حماس_هي_داعش" target="#hamas_is_isis" id="473" weight="1" />
+      <edge source="#حماس_هي_داعش" target="#hamasistaliban" id="474" weight="1" />
+      <edge source="#حرروا_فلسطين_من_حماس" target="#hamas_is_isis" id="475" weight="1" />
+      <edge source="#حرروا_فلسطين_من_حماس" target="#hamasistaliban" id="476" weight="1" />
+      <edge source="#hamas_is_isis" target="#hamasistaliban" id="477" weight="1" />
+      <edge source="#hamas_is_isis" target="#attentat" id="478" weight="1" />
+      <edge source="#hamas_is_isis" target="#hamasterrorist" id="479" weight="1" />
+      <edge source="#hamas_is_isis" target="#israelfightsback" id="480" weight="1" />
+      <edge source="#hamas_is_isis" target="#israelpalestineconflict" id="481" weight="1" />
+      <edge source="#hamas_is_isis" target="#boycottindopakmatch" id="482" weight="1" />
+      <edge source="#hamas_is_isis" target="#isarael" id="483" weight="1" />
+      <edge source="#hamas_is_isis" target="#hamasterrorism" id="484" weight="1" />
+      <edge source="#hamas_is_isis" target="#genocideingaza" id="485" weight="1" />
+      <edge source="#hamas_is_isis" target="#iraniansstandswithisrael" id="486" weight="1" />
+      <edge source="#hamas_is_isis" target="#irgcterorrists" id="487" weight="1" />
+      <edge source="#hamas_is_isis" target="#terrorism" id="488" weight="1" />
+      <edge source="#congressmuktbharat" target="#modiagainin" id="489" weight="1" />
+      <edge source="#israel_under_attack" target="#indvsban" id="490" weight="1" />
+      <edge source="#releasezholiaparsi" target="#releasematiullahwesa" id="491" weight="1" />
+      <edge source="#releasezholiaparsi" target="#mahsaamini" id="492" weight="1" />
+      <edge source="#releasematiullahwesa" target="#mahsaamini" id="493" weight="1" />
+      <edge source="#pakistanarmy" target="#pakistan" id="494" weight="1" />
+      <edge source="#pakistan" target="#gobacksonia" id="495" weight="1" />
+      <edge source="#pakistan" target="#bharat" id="496" weight="1" />
+      <edge source="#pakistan" target="#congress" id="497" weight="1" />
+      <edge source="#pakistan" target="#urbannaxals" id="498" weight="1" />
+      <edge source="#pakistan" target="#antinationals" id="499" weight="1" />
+      <edge source="#pakistan" target="#soniagandhi" id="500" weight="1" />
+      <edge source="#pakistan" target="#nigeria" id="501" weight="1" />
+      <edge source="#pakistan" target="#bokoharam" id="502" weight="1" />
+      <edge source="#pakistan" target="#lebanon" id="503" weight="1" />
+      <edge source="#pakistan" target="#hezbollah" id="504" weight="1" />
+      <edge source="#pakistan" target="#iraq" id="505" weight="1" />
+      <edge source="#pakistan" target="#syria" id="506" weight="1" />
+      <edge source="#pakistan" target="#lashkar" id="507" weight="1" />
+      <edge source="#magamorons" target="#afganistan" id="508" weight="1" />
+      <edge source="#stopsyaria" target="#waspadamoderat" id="509" weight="1" />
+      <edge source="#stopsyaria" target="#waspadanu" id="510" weight="1" />
+      <edge source="#stopsyaria" target="#stopulama" id="511" weight="1" />
+      <edge source="#stopsyaria" target="#stopnu" id="512" weight="1" />
+      <edge source="#waspadamoderat" target="#waspadanu" id="513" weight="1" />
+      <edge source="#waspadamoderat" target="#stopulama" id="514" weight="1" />
+      <edge source="#waspadamoderat" target="#stopnu" id="515" weight="1" />
+      <edge source="#stopulama" target="#stopnu" id="516" weight="1" />
+      <edge source="#palestinian" target="#jews" id="517" weight="1" />
+      <edge source="#palestinian" target="#israelpalestineconflict" id="518" weight="1" />
+      <edge source="#jews" target="#israelpalestineconflict" id="519" weight="1" />
+      <edge source="#israelpalestineconflict" target="#attentat" id="520" weight="1" />
+      <edge source="#israelpalestineconflict" target="#hamasterrorist" id="521" weight="1" />
+      <edge source="#israelpalestineconflict" target="#israelfightsback" id="522" weight="1" />
+      <edge source="#israelpalestineconflict" target="#boycottindopakmatch" id="523" weight="1" />
+      <edge source="#israelpalestineconflict" target="#isarael" id="524" weight="1" />
+      <edge source="#israelpalestineconflict" target="#hamasterrorism" id="525" weight="1" />
+      <edge source="#israelpalestineconflict" target="#genocideingaza" id="526" weight="1" />
+      <edge source="#israelpalestineconflict" target="#indvspak" id="527" weight="1" />
+      <edge source="#israelpalestineconflict" target="#palastine" id="528" weight="1" />
+      <edge source="#israelpalestineconflict" target="#terrorism" id="529" weight="1" />
+      <edge source="#engvsafg" target="#worldcup" id="530" weight="1" />
+      <edge source="#engvsafg" target="#icccricketworldcup" id="531" weight="1" />
+      <edge source="#engvsafg" target="#earthquake" id="532" weight="1" />
+      <edge source="#engvsafg" target="#rizwan" id="533" weight="1" />
+      <edge source="#engvsafg" target="#hezbollah" id="534" weight="1" />
+      <edge source="#engvsafg" target="#kalaastar" id="535" weight="1" />
+      <edge source="#engvsafg" target="#engvafg" id="536" weight="1" />
+      <edge source="#engvsafg" target="#babarazam" id="537" weight="1" />
+      <edge source="#engvsafg" target="#shaheenshahafridi" id="538" weight="1" />
+      <edge source="#engvsafg" target="#lahoreprotest" id="539" weight="1" />
+      <edge source="#engvsafg" target="#leofdfs" id="540" weight="1" />
+      <edge source="#engvsafg" target="#myleaderiscoming" id="541" weight="1" />
+      <edge source="#engvsafg" target="#biggboss" id="542" weight="1" />
+      <edge source="#engvsafg" target="#boycottindopakmatch" id="543" weight="1" />
+      <edge source="#engvsafg" target="#boycottmcdonalds" id="544" weight="1" />
+      <edge source="#engvsafg" target="#haramimahua" id="545" weight="1" />
+      <edge source="#engvsafg" target="#नवर" id="546" weight="1" />
+      <edge source="#engvsafg" target="#palastine" id="547" weight="1" />
+      <edge source="#engvsafg" target="#hamasterrorist" id="548" weight="1" />
+      <edge source="#engvsafg" target="#qatar" id="549" weight="1" />
+      <edge source="#engvsafg" target="#sorry_pakistan" id="550" weight="1" />
+      <edge source="#engvsafg" target="#gazacity" id="551" weight="1" />
+      <edge source="#engvsafg" target="#isarael" id="552" weight="1" />
+      <edge source="#worldcup" target="#icccricketworldcup" id="553" weight="1" />
+      <edge source="#afgvseng" target="#cwc" id="554" weight="1" />
+      <edge source="#earthquake" target="#rizwan" id="555" weight="1" />
+      <edge source="#earthquake" target="#hezbollah" id="556" weight="1" />
+      <edge source="#earthquake" target="#kalaastar" id="557" weight="1" />
+      <edge source="#earthquake" target="#engvafg" id="558" weight="1" />
+      <edge source="#earthquake" target="#babarazam" id="559" weight="1" />
+      <edge source="#earthquake" target="#shaheenshahafridi" id="560" weight="1" />
+      <edge source="#earthquake" target="#lahoreprotest" id="561" weight="1" />
+      <edge source="#earthquake" target="#leofdfs" id="562" weight="1" />
+      <edge source="#earthquake" target="#myleaderiscoming" id="563" weight="1" />
+      <edge source="#earthquake" target="#biggboss" id="564" weight="1" />
+      <edge source="#earthquake" target="#boycottindopakmatch" id="565" weight="1" />
+      <edge source="#earthquake" target="#boycottmcdonalds" id="566" weight="1" />
+      <edge source="#earthquake" target="#haramimahua" id="567" weight="1" />
+      <edge source="#earthquake" target="#नवर" id="568" weight="1" />
+      <edge source="#earthquake" target="#palastine" id="569" weight="1" />
+      <edge source="#earthquake" target="#hamasterrorist" id="570" weight="1" />
+      <edge source="#earthquake" target="#qatar" id="571" weight="1" />
+      <edge source="#earthquake" target="#sorry_pakistan" id="572" weight="1" />
+      <edge source="#earthquake" target="#gazacity" id="573" weight="1" />
+      <edge source="#earthquake" target="#isarael" id="574" weight="1" />
+      <edge source="#earthquake" target="#lebanon" id="575" weight="1" />
+      <edge source="#rizwan" target="#hezbollah" id="576" weight="1" />
+      <edge source="#rizwan" target="#kalaastar" id="577" weight="1" />
+      <edge source="#rizwan" target="#engvafg" id="578" weight="1" />
+      <edge source="#rizwan" target="#babarazam" id="579" weight="1" />
+      <edge source="#rizwan" target="#shaheenshahafridi" id="580" weight="1" />
+      <edge source="#rizwan" target="#lahoreprotest" id="581" weight="1" />
+      <edge source="#rizwan" target="#leofdfs" id="582" weight="1" />
+      <edge source="#rizwan" target="#myleaderiscoming" id="583" weight="1" />
+      <edge source="#rizwan" target="#biggboss" id="584" weight="1" />
+      <edge source="#rizwan" target="#boycottindopakmatch" id="585" weight="1" />
+      <edge source="#rizwan" target="#boycottmcdonalds" id="586" weight="1" />
+      <edge source="#hezbollah" target="#kalaastar" id="587" weight="1" />
+      <edge source="#hezbollah" target="#engvafg" id="588" weight="1" />
+      <edge source="#hezbollah" target="#babarazam" id="589" weight="1" />
+      <edge source="#hezbollah" target="#shaheenshahafridi" id="590" weight="1" />
+      <edge source="#hezbollah" target="#lahoreprotest" id="591" weight="1" />
+      <edge source="#hezbollah" target="#leofdfs" id="592" weight="1" />
+      <edge source="#hezbollah" target="#myleaderiscoming" id="593" weight="1" />
+      <edge source="#hezbollah" target="#biggboss" id="594" weight="1" />
+      <edge source="#hezbollah" target="#boycottindopakmatch" id="595" weight="1" />
+      <edge source="#hezbollah" target="#boycottmcdonalds" id="596" weight="1" />
+      <edge source="#hezbollah" target="#nigeria" id="597" weight="1" />
+      <edge source="#hezbollah" target="#bokoharam" id="598" weight="1" />
+      <edge source="#hezbollah" target="#lebanon" id="599" weight="1" />
+      <edge source="#hezbollah" target="#iraq" id="600" weight="1" />
+      <edge source="#hezbollah" target="#syria" id="601" weight="1" />
+      <edge source="#hezbollah" target="#lashkar" id="602" weight="1" />
+      <edge source="#hezbollah" target="#bharat" id="603" weight="1" />
+      <edge source="#hezbollah" target="#congress" id="604" weight="1" />
+      <edge source="#kalaastar" target="#engvafg" id="605" weight="1" />
+      <edge source="#kalaastar" target="#babarazam" id="606" weight="1" />
+      <edge source="#kalaastar" target="#shaheenshahafridi" id="607" weight="1" />
+      <edge source="#kalaastar" target="#lahoreprotest" id="608" weight="1" />
+      <edge source="#kalaastar" target="#leofdfs" id="609" weight="1" />
+      <edge source="#kalaastar" target="#myleaderiscoming" id="610" weight="1" />
+      <edge source="#kalaastar" target="#biggboss" id="611" weight="1" />
+      <edge source="#kalaastar" target="#boycottindopakmatch" id="612" weight="1" />
+      <edge source="#kalaastar" target="#boycottmcdonalds" id="613" weight="1" />
+      <edge source="#engvafg" target="#babarazam" id="614" weight="1" />
+      <edge source="#engvafg" target="#shaheenshahafridi" id="615" weight="1" />
+      <edge source="#engvafg" target="#lahoreprotest" id="616" weight="1" />
+      <edge source="#engvafg" target="#leofdfs" id="617" weight="1" />
+      <edge source="#engvafg" target="#myleaderiscoming" id="618" weight="1" />
+      <edge source="#engvafg" target="#biggboss" id="619" weight="1" />
+      <edge source="#engvafg" target="#boycottindopakmatch" id="620" weight="1" />
+      <edge source="#engvafg" target="#boycottmcdonalds" id="621" weight="1" />
+      <edge source="#babarazam" target="#shaheenshahafridi" id="622" weight="1" />
+      <edge source="#babarazam" target="#lahoreprotest" id="623" weight="1" />
+      <edge source="#babarazam" target="#leofdfs" id="624" weight="1" />
+      <edge source="#babarazam" target="#myleaderiscoming" id="625" weight="1" />
+      <edge source="#babarazam" target="#biggboss" id="626" weight="1" />
+      <edge source="#babarazam" target="#boycottindopakmatch" id="627" weight="1" />
+      <edge source="#babarazam" target="#boycottmcdonalds" id="628" weight="1" />
+      <edge source="#shaheenshahafridi" target="#lahoreprotest" id="629" weight="1" />
+      <edge source="#shaheenshahafridi" target="#leofdfs" id="630" weight="1" />
+      <edge source="#shaheenshahafridi" target="#myleaderiscoming" id="631" weight="1" />
+      <edge source="#shaheenshahafridi" target="#biggboss" id="632" weight="1" />
+      <edge source="#shaheenshahafridi" target="#boycottindopakmatch" id="633" weight="1" />
+      <edge source="#shaheenshahafridi" target="#boycottmcdonalds" id="634" weight="1" />
+      <edge source="#lahoreprotest" target="#leofdfs" id="635" weight="1" />
+      <edge source="#lahoreprotest" target="#myleaderiscoming" id="636" weight="1" />
+      <edge source="#lahoreprotest" target="#biggboss" id="637" weight="1" />
+      <edge source="#lahoreprotest" target="#boycottindopakmatch" id="638" weight="1" />
+      <edge source="#lahoreprotest" target="#boycottmcdonalds" id="639" weight="1" />
+      <edge source="#leofdfs" target="#myleaderiscoming" id="640" weight="1" />
+      <edge source="#leofdfs" target="#biggboss" id="641" weight="1" />
+      <edge source="#leofdfs" target="#boycottindopakmatch" id="642" weight="1" />
+      <edge source="#leofdfs" target="#boycottmcdonalds" id="643" weight="1" />
+      <edge source="#myleaderiscoming" target="#biggboss" id="644" weight="1" />
+      <edge source="#myleaderiscoming" target="#boycottindopakmatch" id="645" weight="1" />
+      <edge source="#myleaderiscoming" target="#boycottmcdonalds" id="646" weight="1" />
+      <edge source="#biggboss" target="#boycottindopakmatch" id="647" weight="1" />
+      <edge source="#biggboss" target="#boycottmcdonalds" id="648" weight="1" />
+      <edge source="#boycottindopakmatch" target="#boycottmcdonalds" id="649" weight="1" />
+      <edge source="#boycottindopakmatch" target="#attentat" id="650" weight="1" />
+      <edge source="#boycottindopakmatch" target="#hamasterrorist" id="651" weight="1" />
+      <edge source="#boycottindopakmatch" target="#israelfightsback" id="652" weight="1" />
+      <edge source="#boycottindopakmatch" target="#isarael" id="653" weight="1" />
+      <edge source="#boycottindopakmatch" target="#hamasterrorism" id="654" weight="1" />
+      <edge source="#boycottindopakmatch" target="#genocideingaza" id="655" weight="1" />
+      <edge source="#haramimahua" target="#नवर" id="656" weight="1" />
+      <edge source="#haramimahua" target="#palastine" id="657" weight="1" />
+      <edge source="#haramimahua" target="#hamasterrorist" id="658" weight="1" />
+      <edge source="#haramimahua" target="#qatar" id="659" weight="1" />
+      <edge source="#haramimahua" target="#sorry_pakistan" id="660" weight="1" />
+      <edge source="#haramimahua" target="#gazacity" id="661" weight="1" />
+      <edge source="#haramimahua" target="#isarael" id="662" weight="1" />
+      <edge source="#नवर" target="#palastine" id="663" weight="1" />
+      <edge source="#नवर" target="#hamasterrorist" id="664" weight="1" />
+      <edge source="#नवर" target="#qatar" id="665" weight="1" />
+      <edge source="#नवर" target="#sorry_pakistan" id="666" weight="1" />
+      <edge source="#नवर" target="#gazacity" id="667" weight="1" />
+      <edge source="#नवर" target="#isarael" id="668" weight="1" />
+      <edge source="#palastine" target="#hamasterrorist" id="669" weight="1" />
+      <edge source="#palastine" target="#qatar" id="670" weight="1" />
+      <edge source="#palastine" target="#sorry_pakistan" id="671" weight="1" />
+      <edge source="#palastine" target="#gazacity" id="672" weight="1" />
+      <edge source="#palastine" target="#isarael" id="673" weight="1" />
+      <edge source="#hamasterrorist" target="#qatar" id="674" weight="1" />
+      <edge source="#hamasterrorist" target="#sorry_pakistan" id="675" weight="1" />
+      <edge source="#hamasterrorist" target="#gazacity" id="676" weight="1" />
+      <edge source="#hamasterrorist" target="#isarael" id="677" weight="1" />
+      <edge source="#hamasterrorist" target="#bharatstandswithisrael" id="678" weight="1" />
+      <edge source="#hamasterrorist" target="#attentat" id="679" weight="1" />
+      <edge source="#hamasterrorist" target="#israelfightsback" id="680" weight="1" />
+      <edge source="#hamasterrorist" target="#hamasterrorism" id="681" weight="1" />
+      <edge source="#hamasterrorist" target="#genocideingaza" id="682" weight="1" />
+      <edge source="#hamasterrorist" target="#lebanon" id="683" weight="1" />
+      <edge source="#hamasterrorist" target="#hezbollahterrorists" id="684" weight="1" />
+      <edge source="#hamasterrorist" target="#india" id="685" weight="1" />
+      <edge source="#hamasterrorist" target="#congress" id="686" weight="1" />
+      <edge source="#qatar" target="#sorry_pakistan" id="687" weight="1" />
+      <edge source="#qatar" target="#gazacity" id="688" weight="1" />
+      <edge source="#qatar" target="#isarael" id="689" weight="1" />
+      <edge source="#sorry_pakistan" target="#gazacity" id="690" weight="1" />
+      <edge source="#sorry_pakistan" target="#isarael" id="691" weight="1" />
+      <edge source="#gazacity" target="#isarael" id="692" weight="1" />
+      <edge source="#isarael" target="#attentat" id="693" weight="1" />
+      <edge source="#isarael" target="#israelfightsback" id="694" weight="1" />
+      <edge source="#isarael" target="#hamasterrorism" id="695" weight="1" />
+      <edge source="#isarael" target="#genocideingaza" id="696" weight="1" />
+      <edge source="#isarael" target="#congress" id="697" weight="1" />
+      <edge source="#freegazafromhamas" target="#fpl" id="698" weight="1" />
+      <edge source="#lebanon" target="#hezbollahterrorists" id="699" weight="1" />
+      <edge source="#lebanon" target="#india" id="700" weight="1" />
+      <edge source="#lebanon" target="#congress" id="701" weight="1" />
+      <edge source="#lebanon" target="#nigeria" id="702" weight="1" />
+      <edge source="#lebanon" target="#bokoharam" id="703" weight="1" />
+      <edge source="#lebanon" target="#iraq" id="704" weight="1" />
+      <edge source="#lebanon" target="#syria" id="705" weight="1" />
+      <edge source="#lebanon" target="#lashkar" id="706" weight="1" />
+      <edge source="#lebanon" target="#bharat" id="707" weight="1" />
+      <edge source="#indiawithisrael" target="#modi" id="708" weight="1" />
+      <edge source="#indiawithisrael" target="#bharatstandswithisrael" id="709" weight="1" />
+      <edge source="#indiawithisrael" target="#indvspak" id="710" weight="1" />
+      <edge source="#us" target="#occupy" id="711" weight="1" />
+      <edge source="#bhdunia" target="#asia" id="712" weight="1" />
+      <edge source="#gazagenocide" target="#gazaunderattack" id="713" weight="1" />
+      <edge source="#bharatstandswithisrael" target="#indvspak" id="714" weight="1" />
+      <edge source="#gobacksonia" target="#bharat" id="715" weight="1" />
+      <edge source="#gobacksonia" target="#congress" id="716" weight="1" />
+      <edge source="#gobacksonia" target="#urbannaxals" id="717" weight="1" />
+      <edge source="#gobacksonia" target="#antinationals" id="718" weight="1" />
+      <edge source="#bharat" target="#congress" id="719" weight="1" />
+      <edge source="#bharat" target="#urbannaxals" id="720" weight="1" />
+      <edge source="#bharat" target="#antinationals" id="721" weight="1" />
+      <edge source="#bharat" target="#soniagandhi" id="722" weight="1" />
+      <edge source="#bharat" target="#nigeria" id="723" weight="1" />
+      <edge source="#bharat" target="#bokoharam" id="724" weight="1" />
+      <edge source="#bharat" target="#iraq" id="725" weight="1" />
+      <edge source="#bharat" target="#syria" id="726" weight="1" />
+      <edge source="#bharat" target="#lashkar" id="727" weight="1" />
+      <edge source="#congress" target="#urbannaxals" id="728" weight="1" />
+      <edge source="#congress" target="#antinationals" id="729" weight="1" />
+      <edge source="#congress" target="#soniagandhi" id="730" weight="1" />
+      <edge source="#congress" target="#hezbollahterrorists" id="731" weight="1" />
+      <edge source="#congress" target="#india" id="732" weight="1" />
+      <edge source="#congress" target="#nigeria" id="733" weight="1" />
+      <edge source="#congress" target="#bokoharam" id="734" weight="1" />
+      <edge source="#congress" target="#iraq" id="735" weight="1" />
+      <edge source="#congress" target="#syria" id="736" weight="1" />
+      <edge source="#congress" target="#lashkar" id="737" weight="1" />
+      <edge source="#urbannaxals" target="#antinationals" id="738" weight="1" />
+      <edge source="#urbannaxals" target="#soniagandhi" id="739" weight="1" />
+      <edge source="#antinationals" target="#soniagandhi" id="740" weight="1" />
+      <edge source="#attentat" target="#israelfightsback" id="741" weight="1" />
+      <edge source="#attentat" target="#hamasterrorism" id="742" weight="1" />
+      <edge source="#attentat" target="#genocideingaza" id="743" weight="1" />
+      <edge source="#israelfightsback" target="#hamasterrorism" id="744" weight="1" />
+      <edge source="#israelfightsback" target="#genocideingaza" id="745" weight="1" />
+      <edge source="#israelfightsback" target="#terrorism" id="746" weight="1" />
+      <edge source="#hamasterrorism" target="#genocideingaza" id="747" weight="1" />
+      <edge source="#hezbollahterrorists" target="#india" id="748" weight="1" />
+      <edge source="#india" target="#israelgazawar" id="749" weight="1" />
+      <edge source="#india" target="#jehadi" id="750" weight="1" />
+      <edge source="#india" target="#israelattack" id="751" weight="1" />
+      <edge source="#india" target="#israelfightsterror" id="752" weight="1" />
+      <edge source="#israelterrorists" target="#israelicrimes" id="753" weight="1" />
+      <edge source="#israelterrorists" target="#savepalestine" id="754" weight="1" />
+      <edge source="#israelterrorists" target="#savegaza" id="755" weight="1" />
+      <edge source="#israelterrorists" target="#westandwithpalestine" id="756" weight="1" />
+      <edge source="#israelterrorists" target="#alqassam" id="757" weight="1" />
+      <edge source="#israelterrorists" target="#putin" id="758" weight="1" />
+      <edge source="#israelterrorists" target="#erdoğan" id="759" weight="1" />
+      <edge source="#israelicrimes" target="#savepalestine" id="760" weight="1" />
+      <edge source="#israelicrimes" target="#savegaza" id="761" weight="1" />
+      <edge source="#israelicrimes" target="#westandwithpalestine" id="762" weight="1" />
+      <edge source="#israelicrimes" target="#alqassam" id="763" weight="1" />
+      <edge source="#israelicrimes" target="#putin" id="764" weight="1" />
+      <edge source="#israelicrimes" target="#erdoğan" id="765" weight="1" />
+      <edge source="#savepalestine" target="#savegaza" id="766" weight="1" />
+      <edge source="#savepalestine" target="#westandwithpalestine" id="767" weight="1" />
+      <edge source="#savepalestine" target="#alqassam" id="768" weight="1" />
+      <edge source="#savepalestine" target="#putin" id="769" weight="1" />
+      <edge source="#savepalestine" target="#erdoğan" id="770" weight="1" />
+      <edge source="#savegaza" target="#westandwithpalestine" id="771" weight="1" />
+      <edge source="#savegaza" target="#alqassam" id="772" weight="1" />
+      <edge source="#savegaza" target="#putin" id="773" weight="1" />
+      <edge source="#savegaza" target="#erdoğan" id="774" weight="1" />
+      <edge source="#savegaza" target="#istandwithpalestine" id="775" weight="1" />
+      <edge source="#westandwithpalestine" target="#alqassam" id="776" weight="1" />
+      <edge source="#westandwithpalestine" target="#putin" id="777" weight="1" />
+      <edge source="#westandwithpalestine" target="#erdoğan" id="778" weight="1" />
+      <edge source="#alqassam" target="#putin" id="779" weight="1" />
+      <edge source="#alqassam" target="#erdoğan" id="780" weight="1" />
+      <edge source="#putin" target="#erdoğan" id="781" weight="1" />
+      <edge source="#iraniansstandswithisrael" target="#irgcterorrists" id="782" weight="1" />
+      <edge source="#israelgazawar" target="#jehadi" id="783" weight="1" />
+      <edge source="#israelgazawar" target="#israelattack" id="784" weight="1" />
+      <edge source="#israelgazawar" target="#israelfightsterror" id="785" weight="1" />
+      <edge source="#jehadi" target="#israelattack" id="786" weight="1" />
+      <edge source="#jehadi" target="#israelfightsterror" id="787" weight="1" />
+      <edge source="#israelattack" target="#israelfightsterror" id="788" weight="1" />
+      <edge source="#aap" target="#congressparty" id="789" weight="1" />
+      <edge source="#aap" target="#dmk" id="790" weight="1" />
+      <edge source="#aap" target="#breakingindia" id="791" weight="1" />
+      <edge source="#congressparty" target="#dmk" id="792" weight="1" />
+      <edge source="#congressparty" target="#breakingindia" id="793" weight="1" />
+      <edge source="#dmk" target="#breakingindia" id="794" weight="1" />
+      <edge source="#taufanalaqsa" target="#istandwithpalestine" id="795" weight="1" />
+      <edge source="#nsmq" target="#nsmq" id="796" weight="1" />
+      <edge source="#nsmq" target="#primetime" id="797" weight="1" />
+      <edge source="#nsmq" target="#nsmqoneeighth" id="798" weight="1" />
+      <edge source="#primetime" target="#nsmqoneeighth" id="799" weight="1" />
+      <edge source="#nigeria" target="#bokoharam" id="800" weight="1" />
+      <edge source="#nigeria" target="#iraq" id="801" weight="1" />
+      <edge source="#nigeria" target="#syria" id="802" weight="1" />
+      <edge source="#nigeria" target="#lashkar" id="803" weight="1" />
+      <edge source="#bokoharam" target="#iraq" id="804" weight="1" />
+      <edge source="#bokoharam" target="#syria" id="805" weight="1" />
+      <edge source="#bokoharam" target="#lashkar" id="806" weight="1" />
+      <edge source="#iraq" target="#syria" id="807" weight="1" />
+      <edge source="#iraq" target="#lashkar" id="808" weight="1" />
+      <edge source="#syria" target="#lashkar" id="809" weight="1" />
+      <edge source="#congresswithhamas" target="#rahulgandhiwithhamas" id="810" weight="1" />
+      <edge source="#muslimterrorists" target="#jihadis" id="811" weight="1" />
+      <edge source="#bccifavoursterrorism" target="#bcci" id="812" weight="1" />
+    </edges>
+  </graph>
+</gexf>

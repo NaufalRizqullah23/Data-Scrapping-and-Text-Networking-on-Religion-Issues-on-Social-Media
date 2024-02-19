@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#indonesiaemas" label="#indonesiaemas" />
+      <node id="#indonesiagama" label="#indonesiagama" />
+      <node id="#israelinewnazism" label="#israelinewnazism" />
+      <node id="#israelpalestinewar" label="#israelpalestinewar" />
+      <node id="#tolakterorisme" label="#tolakterorisme" />
+      <node id="#tolakekstremisme" label="#tolakekstremisme" />
+      <node id="#moderasiberagama" label="#moderasiberagama" />
+      <node id="#tolakintoleransi" label="#tolakintoleransi" />
+      <node id="#tolakradikalisme" label="#tolakradikalisme" />
+    </nodes>
+    <edges>
+      <edge source="#indonesiaemas" target="#indonesiagama" id="0" weight="1" />
+      <edge source="#israelinewnazism" target="#israelpalestinewar" id="1" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakekstremisme" id="2" weight="1" />
+      <edge source="#tolakterorisme" target="#moderasiberagama" id="3" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakintoleransi" id="4" weight="1" />
+      <edge source="#tolakterorisme" target="#tolakradikalisme" id="5" weight="1" />
+      <edge source="#tolakekstremisme" target="#moderasiberagama" id="6" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakintoleransi" id="7" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakradikalisme" id="8" weight="1" />
+      <edge source="#moderasiberagama" target="#tolakintoleransi" id="9" weight="1" />
+      <edge source="#moderasiberagama" target="#tolakradikalisme" id="10" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakradikalisme" id="11" weight="1" />
+    </edges>
+  </graph>
+</gexf>

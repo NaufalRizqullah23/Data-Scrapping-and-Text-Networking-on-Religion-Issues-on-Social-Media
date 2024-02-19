@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#islam" label="#islam" />
+      <node id="#alquran" label="#alquran" />
+      <node id="#ahlusunnah" label="#ahlusunnah" />
+      <node id="#ahlulbait" label="#ahlulbait" />
+      <node id="#sunni" label="#sunni" />
+      <node id="#syiah" label="#syiah" />
+      <node id="#nu" label="#nu" />
+      <node id="#kajianislami" label="#kajianislami" />
+      <node id="#nabi" label="#nabi" />
+      <node id="#sejarah" label="#sejarah" />
+      <node id="#wahabisme" label="#wahabisme" />
+      <node id="#wahabi" label="#wahabi" />
+      <node id="#ngaji" label="#ngaji" />
+      <node id="#gusbaha" label="#gusbaha" />
+      <node id="#ngajinu" label="#ngajinu" />
+      <node id="#nderekyai" label="#nderekyai" />
+      <node id="#ulama" label="#ulama" />
+      <node id="#muslim" label="#muslim" />
+      <node id="#politikindentitas" label="#politikindentitas" />
+      <node id="#killafuck" label="#killafuck" />
+      <node id="#gaza" label="#gaza" />
+      <node id="#palestinegenocide" label="#palestinegenocide" />
+      <node id="#zionistterrorists" label="#zionistterrorists" />
+      <node id="#timnasday" label="#timnasday" />
+      <node id="#fikir" label="#fikir" />
+      <node id="#zikir" label="#zikir" />
+      <node id="#fakir" label="#fakir" />
+      <node id="#awaninews" label="#awaninews" />
+      <node id="#awani" label="#awani" />
+      <node id="#alaqsaflood" label="#alaqsaflood" />
+      <node id="#palestine" label="#palestine" />
+      <node id="#alaqsastorm" label="#alaqsastorm" />
+      <node id="#westbank" label="#westbank" />
+      <node id="#tetapkawalmk" label="#tetapkawalmk" />
+      <node id="#inibelumselesai" label="#inibelumselesai" />
+      <node id="#janganlengah" label="#janganlengah" />
+      <node id="#palestina" label="#palestina" />
+      <node id="#israelzionist" label="#israelzionist" />
+      <node id="#indonesiastandwithpalestine" label="#indonesiastandwithpalestine" />
+      <node id="#gazacity" label="#gazacity" />
+      <node id="#menolakwahabi" label="#menolakwahabi" />
+      <node id="#wahabiprovocator" label="#wahabiprovocator" />
+      <node id="#wahabipenerbarkebencian" label="#wahabipenerbarkebencian" />
+      <node id="#hamas" label="#hamas" />
+      <node id="#terrorism" label="#terrorism" />
+      <node id="#palestinian" label="#palestinian" />
+      <node id="#jihad" label="#jihad" />
+      <node id="#stopislam" label="#stopislam" />
+      <node id="#golput" label="#golput" />
+      <node id="#presidenunfaedah" label="#presidenunfaedah" />
+      <node id="#tenggelamkanpdip" label="#tenggelamkanpdip" />
+      <node id="#cabutskbm" label="#cabutskbm" />
+      <node id="#negarakampret" label="#negarakampret" />
+      <node id="#freegaza" label="#freegaza" />
+      <node id="#freepalestine" label="#freepalestine" />
+      <node id="#drmaza" label="#drmaza" />
+      <node id="#pimaipimaitangtu" label="#pimaipimaitangtu" />
+      <node id="#banser" label="#banser" />
+      <node id="#istandwithpalestine" label="#istandwithpalestine" />
+      <node id="#freepalaestine" label="#freepalaestine" />
+      <node id="#westandwithpalestine" label="#westandwithpalestine" />
+      <node id="#tauhid" label="#tauhid" />
+      <node id="#renungan" label="#renungan" />
+      <node id="#salafi" label="#salafi" />
+      <node id="#asyari" label="#asyari" />
+      <node id="#syekhalijumah" label="#syekhalijumah" />
+      <node id="#rabithahalawiyah" label="#rabithahalawiyah" />
+      <node id="#hijrahyuk" label="#hijrahyuk" />
+      <node id="#savepalestine" label="#savepalestine" />
+      <node id="#wahabism" label="#wahabism" />
+      <node id="#dwitunggalamin" label="#dwitunggalamin" />
+      <node id="#aniesmuhaimin" label="#aniesmuhaimin" />
+      <node id="#aminindonesialebihbaik" label="#aminindonesialebihbaik" />
+      <node id="#tolakradikalisme" label="#tolakradikalisme" />
+      <node id="#tolakintoleransi" label="#tolakintoleransi" />
+      <node id="#moderasiberagama" label="#moderasiberagama" />
+      <node id="#tolakekstremisme" label="#tolakekstremisme" />
+      <node id="#tolakterorisme" label="#tolakterorisme" />
+      <node id="#saidaqilsiroj" label="#saidaqilsiroj" />
+      <node id="#freepalastine" label="#freepalastine" />
+      <node id="#pakistan" label="#pakistan" />
+      <node id="#maulidnabi" label="#maulidnabi" />
+      <node id="#deinaabdelkader" label="#deinaabdelkader" />
+      <node id="#buku" label="#buku" />
+      <node id="#seputarwahabi" label="#seputarwahabi" />
+      <node id="#santri" label="#santri" />
+      <node id="#kiai" label="#kiai" />
+      <node id="#pesantren" label="#pesantren" />
+      <node id="#guskautsar" label="#guskautsar" />
+      <node id="#gusimin" label="#gusimin" />
+      <node id="#nahdliyyin" label="#nahdliyyin" />
+      <node id="#nahdliyyinbersatu" label="#nahdliyyinbersatu" />
+      <node id="#gnb" label="#gnb" />
+      <node id="#utas" label="#utas" />
+      <node id="#savekokam" label="#savekokam" />
+      <node id="#madrasa" label="#madrasa" />
+      <node id="#kafir" label="#kafir" />
+      <node id="#nonmuslim" label="#nonmuslim" />
+      <node id="#indoctrination" label="#indoctrination" />
+      <node id="#deathcult" label="#deathcult" />
+      <node id="#endislam" label="#endislam" />
+      <node id="#ibn_qudama" label="#ibn_qudama" />
+      <node id="#nawawi" label="#nawawi" />
+      <node id="#ibn_hajar" label="#ibn_hajar" />
+      <node id="#indonesiatidakbaikbaiksaja" label="#indonesiatidakbaikbaiksaja" />
+      <node id="#amis" label="#amis" />
+      <node id="#amislagi" label="#amislagi" />
+      <node id="#saverempanggalang" label="#saverempanggalang" />
+      <node id="#usirinvestorchina" label="#usirinvestorchina" />
+      <node id="#mereka" label="#mereka" />
+      <node id="#sobatkretek" label="#sobatkretek" />
+      <node id="#terimakasihkretek" label="#terimakasihkretek" />
+      <node id="#terrorist" label="#terrorist" />
+      <node id="#ugarwadi" label="#ugarwadi" />
+      <node id="#deobandi" label="#deobandi" />
+      <node id="#eidemiladunnabi" label="#eidemiladunnabi" />
+      <node id="#rabiulawal" label="#rabiulawal" />
+      <node id="#ganjarpresiden" label="#ganjarpresiden" />
+      <node id="#darijatengutknkri" label="#darijatengutknkri" />
+      <node id="#paktelur" label="#paktelur" />
+      <node id="#nasional" label="#nasional" />
+      <node id="#prabowo" label="#prabowo" />
+      <node id="#pemilukcm" label="#pemilukcm" />
+      <node id="#history" label="#history" />
+      <node id="#maulid" label="#maulid" />
+      <node id="#rasulullah" label="#rasulullah" />
+      <node id="#ritma" label="#ritma" />
+      <node id="#puisi" label="#puisi" />
+      <node id="#sastra" label="#sastra" />
+      <node id="#gusiminpropersatuan" label="#gusiminpropersatuan" />
+      <node id="#keluarga" label="#keluarga" />
+      <node id="#habibjindan" label="#habibjindan" />
+    </nodes>
+    <edges>
+      <edge source="#islam" target="#alquran" id="0" weight="1" />
+      <edge source="#islam" target="#ahlusunnah" id="1" weight="1" />
+      <edge source="#islam" target="#ahlulbait" id="2" weight="1" />
+      <edge source="#islam" target="#sunni" id="3" weight="1" />
+      <edge source="#islam" target="#syiah" id="4" weight="1" />
+      <edge source="#islam" target="#nu" id="5" weight="1" />
+      <edge source="#islam" target="#kajianislami" id="6" weight="1" />
+      <edge source="#islam" target="#nabi" id="7" weight="1" />
+      <edge source="#islam" target="#sejarah" id="8" weight="1" />
+      <edge source="#islam" target="#wahabisme" id="9" weight="1" />
+      <edge source="#islam" target="#wahabi" id="10" weight="1" />
+      <edge source="#islam" target="#wahabism" id="11" weight="1" />
+      <edge source="#islam" target="#muslim" id="12" weight="1" />
+      <edge source="#islam" target="#jihad" id="13" weight="1" />
+      <edge source="#islam" target="#madrasa" id="14" weight="1" />
+      <edge source="#islam" target="#kafir" id="15" weight="1" />
+      <edge source="#islam" target="#nonmuslim" id="16" weight="1" />
+      <edge source="#islam" target="#indoctrination" id="17" weight="1" />
+      <edge source="#islam" target="#deathcult" id="18" weight="1" />
+      <edge source="#islam" target="#stopislam" id="19" weight="1" />
+      <edge source="#islam" target="#endislam" id="20" weight="1" />
+      <edge source="#islam" target="#history" id="21" weight="1" />
+      <edge source="#islam" target="#maulid" id="22" weight="1" />
+      <edge source="#islam" target="#rasulullah" id="23" weight="1" />
+      <edge source="#alquran" target="#ahlusunnah" id="24" weight="1" />
+      <edge source="#alquran" target="#ahlulbait" id="25" weight="1" />
+      <edge source="#alquran" target="#sunni" id="26" weight="1" />
+      <edge source="#alquran" target="#syiah" id="27" weight="1" />
+      <edge source="#alquran" target="#nu" id="28" weight="1" />
+      <edge source="#alquran" target="#kajianislami" id="29" weight="1" />
+      <edge source="#alquran" target="#nabi" id="30" weight="1" />
+      <edge source="#alquran" target="#sejarah" id="31" weight="1" />
+      <edge source="#alquran" target="#wahabisme" id="32" weight="1" />
+      <edge source="#alquran" target="#wahabi" id="33" weight="1" />
+      <edge source="#alquran" target="#history" id="34" weight="1" />
+      <edge source="#alquran" target="#maulid" id="35" weight="1" />
+      <edge source="#alquran" target="#rasulullah" id="36" weight="1" />
+      <edge source="#ahlusunnah" target="#ahlulbait" id="37" weight="1" />
+      <edge source="#ahlusunnah" target="#sunni" id="38" weight="1" />
+      <edge source="#ahlusunnah" target="#syiah" id="39" weight="1" />
+      <edge source="#ahlusunnah" target="#nu" id="40" weight="1" />
+      <edge source="#ahlusunnah" target="#kajianislami" id="41" weight="1" />
+      <edge source="#ahlusunnah" target="#nabi" id="42" weight="1" />
+      <edge source="#ahlusunnah" target="#sejarah" id="43" weight="1" />
+      <edge source="#ahlusunnah" target="#wahabisme" id="44" weight="1" />
+      <edge source="#ahlusunnah" target="#wahabi" id="45" weight="1" />
+      <edge source="#ahlusunnah" target="#history" id="46" weight="1" />
+      <edge source="#ahlusunnah" target="#maulid" id="47" weight="1" />
+      <edge source="#ahlusunnah" target="#rasulullah" id="48" weight="1" />
+      <edge source="#ahlulbait" target="#sunni" id="49" weight="1" />
+      <edge source="#ahlulbait" target="#syiah" id="50" weight="1" />
+      <edge source="#ahlulbait" target="#nu" id="51" weight="1" />
+      <edge source="#ahlulbait" target="#kajianislami" id="52" weight="1" />
+      <edge source="#ahlulbait" target="#nabi" id="53" weight="1" />
+      <edge source="#ahlulbait" target="#sejarah" id="54" weight="1" />
+      <edge source="#ahlulbait" target="#wahabisme" id="55" weight="1" />
+      <edge source="#ahlulbait" target="#wahabi" id="56" weight="1" />
+      <edge source="#sunni" target="#syiah" id="57" weight="1" />
+      <edge source="#sunni" target="#nu" id="58" weight="1" />
+      <edge source="#sunni" target="#kajianislami" id="59" weight="1" />
+      <edge source="#sunni" target="#nabi" id="60" weight="1" />
+      <edge source="#sunni" target="#sejarah" id="61" weight="1" />
+      <edge source="#sunni" target="#wahabisme" id="62" weight="1" />
+      <edge source="#sunni" target="#wahabi" id="63" weight="1" />
+      <edge source="#sunni" target="#history" id="64" weight="1" />
+      <edge source="#sunni" target="#maulid" id="65" weight="1" />
+      <edge source="#sunni" target="#rasulullah" id="66" weight="1" />
+      <edge source="#syiah" target="#nu" id="67" weight="1" />
+      <edge source="#syiah" target="#kajianislami" id="68" weight="1" />
+      <edge source="#syiah" target="#nabi" id="69" weight="1" />
+      <edge source="#syiah" target="#sejarah" id="70" weight="1" />
+      <edge source="#syiah" target="#wahabisme" id="71" weight="1" />
+      <edge source="#syiah" target="#wahabi" id="72" weight="1" />
+      <edge source="#syiah" target="#tauhid" id="73" weight="1" />
+      <edge source="#syiah" target="#syiah" id="74" weight="1" />
+      <edge source="#syiah" target="#renungan" id="75" weight="1" />
+      <edge source="#syiah" target="#history" id="76" weight="1" />
+      <edge source="#syiah" target="#maulid" id="77" weight="1" />
+      <edge source="#syiah" target="#rasulullah" id="78" weight="1" />
+      <edge source="#nu" target="#kajianislami" id="79" weight="1" />
+      <edge source="#nu" target="#nabi" id="80" weight="1" />
+      <edge source="#nu" target="#sejarah" id="81" weight="1" />
+      <edge source="#nu" target="#wahabisme" id="82" weight="1" />
+      <edge source="#nu" target="#wahabi" id="83" weight="1" />
+      <edge source="#nu" target="#banser" id="84" weight="1" />
+      <edge source="#nu" target="#history" id="85" weight="1" />
+      <edge source="#nu" target="#maulid" id="86" weight="1" />
+      <edge source="#nu" target="#rasulullah" id="87" weight="1" />
+      <edge source="#kajianislami" target="#nabi" id="88" weight="1" />
+      <edge source="#kajianislami" target="#sejarah" id="89" weight="1" />
+      <edge source="#kajianislami" target="#wahabisme" id="90" weight="1" />
+      <edge source="#kajianislami" target="#wahabi" id="91" weight="1" />
+      <edge source="#kajianislami" target="#history" id="92" weight="1" />
+      <edge source="#kajianislami" target="#maulid" id="93" weight="1" />
+      <edge source="#kajianislami" target="#rasulullah" id="94" weight="1" />
+      <edge source="#nabi" target="#sejarah" id="95" weight="1" />
+      <edge source="#nabi" target="#wahabisme" id="96" weight="1" />
+      <edge source="#nabi" target="#wahabi" id="97" weight="1" />
+      <edge source="#nabi" target="#history" id="98" weight="1" />
+      <edge source="#nabi" target="#maulid" id="99" weight="1" />
+      <edge source="#nabi" target="#rasulullah" id="100" weight="1" />
+      <edge source="#sejarah" target="#wahabisme" id="101" weight="1" />
+      <edge source="#sejarah" target="#wahabi" id="102" weight="1" />
+      <edge source="#sejarah" target="#history" id="103" weight="1" />
+      <edge source="#sejarah" target="#maulid" id="104" weight="1" />
+      <edge source="#sejarah" target="#rasulullah" id="105" weight="1" />
+      <edge source="#wahabisme" target="#wahabi" id="106" weight="1" />
+      <edge source="#wahabi" target="#ngaji" id="107" weight="1" />
+      <edge source="#wahabi" target="#gusbaha" id="108" weight="1" />
+      <edge source="#wahabi" target="#ngajinu" id="109" weight="1" />
+      <edge source="#wahabi" target="#nderekyai" id="110" weight="1" />
+      <edge source="#wahabi" target="#ulama" id="111" weight="1" />
+      <edge source="#wahabi" target="#muslim" id="112" weight="1" />
+      <edge source="#wahabi" target="#salafi" id="113" weight="1" />
+      <edge source="#wahabi" target="#hijrahyuk" id="114" weight="1" />
+      <edge source="#wahabi" target="#wahabism" id="115" weight="1" />
+      <edge source="#wahabi" target="#saidaqilsiroj" id="116" weight="1" />
+      <edge source="#wahabi" target="#tolakradikalisme" id="117" weight="1" />
+      <edge source="#wahabi" target="#tolakterorisme" id="118" weight="1" />
+      <edge source="#wahabi" target="#freepalastine" id="119" weight="1" />
+      <edge source="#wahabi" target="#pakistan" id="120" weight="1" />
+      <edge source="#wahabi" target="#maulidnabi" id="121" weight="1" />
+      <edge source="#wahabi" target="#hamas" id="122" weight="1" />
+      <edge source="#wahabi" target="#deinaabdelkader" id="123" weight="1" />
+      <edge source="#wahabi" target="#wahabi" id="124" weight="1" />
+      <edge source="#wahabi" target="#mereka" id="125" weight="1" />
+      <edge source="#wahabi" target="#terrorist" id="126" weight="1" />
+      <edge source="#wahabi" target="#ugarwadi" id="127" weight="1" />
+      <edge source="#wahabi" target="#deobandi" id="128" weight="1" />
+      <edge source="#ngaji" target="#gusbaha" id="129" weight="1" />
+      <edge source="#ngaji" target="#ngajinu" id="130" weight="1" />
+      <edge source="#ngaji" target="#nderekyai" id="131" weight="1" />
+      <edge source="#ngaji" target="#ulama" id="132" weight="1" />
+      <edge source="#ngaji" target="#muslim" id="133" weight="1" />
+      <edge source="#gusbaha" target="#ngajinu" id="134" weight="1" />
+      <edge source="#gusbaha" target="#nderekyai" id="135" weight="1" />
+      <edge source="#gusbaha" target="#ulama" id="136" weight="1" />
+      <edge source="#gusbaha" target="#muslim" id="137" weight="1" />
+      <edge source="#ngajinu" target="#nderekyai" id="138" weight="1" />
+      <edge source="#ngajinu" target="#ulama" id="139" weight="1" />
+      <edge source="#ngajinu" target="#muslim" id="140" weight="1" />
+      <edge source="#nderekyai" target="#ulama" id="141" weight="1" />
+      <edge source="#nderekyai" target="#muslim" id="142" weight="1" />
+      <edge source="#ulama" target="#muslim" id="143" weight="1" />
+      <edge source="#muslim" target="#jihad" id="144" weight="1" />
+      <edge source="#muslim" target="#madrasa" id="145" weight="1" />
+      <edge source="#muslim" target="#kafir" id="146" weight="1" />
+      <edge source="#muslim" target="#nonmuslim" id="147" weight="1" />
+      <edge source="#muslim" target="#indoctrination" id="148" weight="1" />
+      <edge source="#muslim" target="#deathcult" id="149" weight="1" />
+      <edge source="#muslim" target="#stopislam" id="150" weight="1" />
+      <edge source="#muslim" target="#endislam" id="151" weight="1" />
+      <edge source="#politikindentitas" target="#killafuck" id="152" weight="1" />
+      <edge source="#gaza" target="#palestinegenocide" id="153" weight="1" />
+      <edge source="#gaza" target="#zionistterrorists" id="154" weight="1" />
+      <edge source="#gaza" target="#timnasday" id="155" weight="1" />
+      <edge source="#gaza" target="#alaqsaflood" id="156" weight="1" />
+      <edge source="#gaza" target="#palestine" id="157" weight="1" />
+      <edge source="#gaza" target="#alaqsastorm" id="158" weight="1" />
+      <edge source="#gaza" target="#westbank" id="159" weight="1" />
+      <edge source="#palestinegenocide" target="#zionistterrorists" id="160" weight="1" />
+      <edge source="#palestinegenocide" target="#timnasday" id="161" weight="1" />
+      <edge source="#zionistterrorists" target="#timnasday" id="162" weight="1" />
+      <edge source="#fikir" target="#zikir" id="163" weight="1" />
+      <edge source="#fikir" target="#fakir" id="164" weight="1" />
+      <edge source="#zikir" target="#fakir" id="165" weight="1" />
+      <edge source="#awaninews" target="#awani" id="166" weight="1" />
+      <edge source="#alaqsaflood" target="#palestine" id="167" weight="1" />
+      <edge source="#alaqsaflood" target="#alaqsastorm" id="168" weight="1" />
+      <edge source="#alaqsaflood" target="#westbank" id="169" weight="1" />
+      <edge source="#palestine" target="#alaqsastorm" id="170" weight="1" />
+      <edge source="#palestine" target="#westbank" id="171" weight="1" />
+      <edge source="#alaqsastorm" target="#westbank" id="172" weight="1" />
+      <edge source="#tetapkawalmk" target="#inibelumselesai" id="173" weight="1" />
+      <edge source="#tetapkawalmk" target="#janganlengah" id="174" weight="1" />
+      <edge source="#inibelumselesai" target="#janganlengah" id="175" weight="1" />
+      <edge source="#palestina" target="#israelzionist" id="176" weight="1" />
+      <edge source="#palestina" target="#indonesiastandwithpalestine" id="177" weight="1" />
+      <edge source="#palestina" target="#gazacity" id="178" weight="1" />
+      <edge source="#palestina" target="#menolakwahabi" id="179" weight="1" />
+      <edge source="#palestina" target="#wahabiprovocator" id="180" weight="1" />
+      <edge source="#palestina" target="#wahabipenerbarkebencian" id="181" weight="1" />
+      <edge source="#israelzionist" target="#indonesiastandwithpalestine" id="182" weight="1" />
+      <edge source="#israelzionist" target="#gazacity" id="183" weight="1" />
+      <edge source="#israelzionist" target="#menolakwahabi" id="184" weight="1" />
+      <edge source="#israelzionist" target="#wahabiprovocator" id="185" weight="1" />
+      <edge source="#israelzionist" target="#wahabipenerbarkebencian" id="186" weight="1" />
+      <edge source="#indonesiastandwithpalestine" target="#gazacity" id="187" weight="1" />
+      <edge source="#indonesiastandwithpalestine" target="#menolakwahabi" id="188" weight="1" />
+      <edge source="#indonesiastandwithpalestine" target="#wahabiprovocator" id="189" weight="1" />
+      <edge source="#indonesiastandwithpalestine" target="#wahabipenerbarkebencian" id="190" weight="1" />
+      <edge source="#gazacity" target="#menolakwahabi" id="191" weight="1" />
+      <edge source="#gazacity" target="#wahabiprovocator" id="192" weight="1" />
+      <edge source="#gazacity" target="#wahabipenerbarkebencian" id="193" weight="1" />
+      <edge source="#menolakwahabi" target="#wahabiprovocator" id="194" weight="1" />
+      <edge source="#menolakwahabi" target="#wahabipenerbarkebencian" id="195" weight="1" />
+      <edge source="#wahabiprovocator" target="#wahabipenerbarkebencian" id="196" weight="1" />
+      <edge source="#hamas" target="#terrorism" id="197" weight="1" />
+      <edge source="#hamas" target="#palestinian" id="198" weight="1" />
+      <edge source="#hamas" target="#jihad" id="199" weight="1" />
+      <edge source="#hamas" target="#stopislam" id="200" weight="1" />
+      <edge source="#hamas" target="#pakistan" id="201" weight="1" />
+      <edge source="#hamas" target="#tolakterorisme" id="202" weight="1" />
+      <edge source="#terrorism" target="#palestinian" id="203" weight="1" />
+      <edge source="#terrorism" target="#jihad" id="204" weight="1" />
+      <edge source="#terrorism" target="#stopislam" id="205" weight="1" />
+      <edge source="#palestinian" target="#jihad" id="206" weight="1" />
+      <edge source="#palestinian" target="#stopislam" id="207" weight="1" />
+      <edge source="#jihad" target="#stopislam" id="208" weight="1" />
+      <edge source="#jihad" target="#madrasa" id="209" weight="1" />
+      <edge source="#jihad" target="#kafir" id="210" weight="1" />
+      <edge source="#jihad" target="#nonmuslim" id="211" weight="1" />
+      <edge source="#jihad" target="#indoctrination" id="212" weight="1" />
+      <edge source="#jihad" target="#deathcult" id="213" weight="1" />
+      <edge source="#jihad" target="#endislam" id="214" weight="1" />
+      <edge source="#stopislam" target="#madrasa" id="215" weight="1" />
+      <edge source="#stopislam" target="#kafir" id="216" weight="1" />
+      <edge source="#stopislam" target="#nonmuslim" id="217" weight="1" />
+      <edge source="#stopislam" target="#indoctrination" id="218" weight="1" />
+      <edge source="#stopislam" target="#deathcult" id="219" weight="1" />
+      <edge source="#stopislam" target="#endislam" id="220" weight="1" />
+      <edge source="#golput" target="#presidenunfaedah" id="221" weight="1" />
+      <edge source="#golput" target="#tenggelamkanpdip" id="222" weight="1" />
+      <edge source="#golput" target="#cabutskbm" id="223" weight="1" />
+      <edge source="#golput" target="#negarakampret" id="224" weight="1" />
+      <edge source="#presidenunfaedah" target="#tenggelamkanpdip" id="225" weight="1" />
+      <edge source="#presidenunfaedah" target="#cabutskbm" id="226" weight="1" />
+      <edge source="#presidenunfaedah" target="#negarakampret" id="227" weight="1" />
+      <edge source="#tenggelamkanpdip" target="#cabutskbm" id="228" weight="1" />
+      <edge source="#tenggelamkanpdip" target="#negarakampret" id="229" weight="1" />
+      <edge source="#cabutskbm" target="#negarakampret" id="230" weight="1" />
+      <edge source="#freegaza" target="#freepalestine" id="231" weight="1" />
+      <edge source="#freegaza" target="#freepalaestine" id="232" weight="1" />
+      <edge source="#freegaza" target="#westandwithpalestine" id="233" weight="1" />
+      <edge source="#freepalestine" target="#istandwithpalestine" id="234" weight="1" />
+      <edge source="#freepalestine" target="#savepalestine" id="235" weight="1" />
+      <edge source="#drmaza" target="#pimaipimaitangtu" id="236" weight="1" />
+      <edge source="#istandwithpalestine" target="#savepalestine" id="237" weight="1" />
+      <edge source="#freepalaestine" target="#westandwithpalestine" id="238" weight="1" />
+      <edge source="#tauhid" target="#renungan" id="239" weight="1" />
+      <edge source="#salafi" target="#salafi" id="240" weight="1" />
+      <edge source="#asyari" target="#syekhalijumah" id="241" weight="1" />
+      <edge source="#asyari" target="#rabithahalawiyah" id="242" weight="1" />
+      <edge source="#syekhalijumah" target="#rabithahalawiyah" id="243" weight="1" />
+      <edge source="#rabithahalawiyah" target="#keluarga" id="244" weight="1" />
+      <edge source="#rabithahalawiyah" target="#habibjindan" id="245" weight="1" />
+      <edge source="#dwitunggalamin" target="#aniesmuhaimin" id="246" weight="1" />
+      <edge source="#dwitunggalamin" target="#aminindonesialebihbaik" id="247" weight="1" />
+      <edge source="#aniesmuhaimin" target="#aminindonesialebihbaik" id="248" weight="1" />
+      <edge source="#aniesmuhaimin" target="#gusiminpropersatuan" id="249" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakintoleransi" id="250" weight="1" />
+      <edge source="#tolakradikalisme" target="#moderasiberagama" id="251" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakekstremisme" id="252" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakterorisme" id="253" weight="1" />
+      <edge source="#tolakradikalisme" target="#saidaqilsiroj" id="254" weight="1" />
+      <edge source="#tolakradikalisme" target="#freepalastine" id="255" weight="1" />
+      <edge source="#tolakintoleransi" target="#moderasiberagama" id="256" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakekstremisme" id="257" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakterorisme" id="258" weight="1" />
+      <edge source="#moderasiberagama" target="#tolakekstremisme" id="259" weight="1" />
+      <edge source="#moderasiberagama" target="#tolakterorisme" id="260" weight="1" />
+      <edge source="#tolakekstremisme" target="#tolakterorisme" id="261" weight="1" />
+      <edge source="#tolakterorisme" target="#saidaqilsiroj" id="262" weight="1" />
+      <edge source="#tolakterorisme" target="#freepalastine" id="263" weight="1" />
+      <edge source="#tolakterorisme" target="#pakistan" id="264" weight="1" />
+      <edge source="#tolakterorisme" target="#maulidnabi" id="265" weight="1" />
+      <edge source="#tolakterorisme" target="#deinaabdelkader" id="266" weight="1" />
+      <edge source="#saidaqilsiroj" target="#freepalastine" id="267" weight="1" />
+      <edge source="#freepalastine" target="#pakistan" id="268" weight="1" />
+      <edge source="#freepalastine" target="#maulidnabi" id="269" weight="1" />
+      <edge source="#freepalastine" target="#deinaabdelkader" id="270" weight="1" />
+      <edge source="#pakistan" target="#maulidnabi" id="271" weight="1" />
+      <edge source="#buku" target="#seputarwahabi" id="272" weight="1" />
+      <edge source="#santri" target="#kiai" id="273" weight="1" />
+      <edge source="#santri" target="#pesantren" id="274" weight="1" />
+      <edge source="#santri" target="#guskautsar" id="275" weight="1" />
+      <edge source="#santri" target="#gusimin" id="276" weight="1" />
+      <edge source="#santri" target="#nahdliyyin" id="277" weight="1" />
+      <edge source="#santri" target="#nahdliyyinbersatu" id="278" weight="1" />
+      <edge source="#santri" target="#gnb" id="279" weight="1" />
+      <edge source="#kiai" target="#pesantren" id="280" weight="1" />
+      <edge source="#kiai" target="#guskautsar" id="281" weight="1" />
+      <edge source="#kiai" target="#gusimin" id="282" weight="1" />
+      <edge source="#kiai" target="#nahdliyyin" id="283" weight="1" />
+      <edge source="#kiai" target="#nahdliyyinbersatu" id="284" weight="1" />
+      <edge source="#kiai" target="#gnb" id="285" weight="1" />
+      <edge source="#pesantren" target="#guskautsar" id="286" weight="1" />
+      <edge source="#pesantren" target="#gusimin" id="287" weight="1" />
+      <edge source="#pesantren" target="#nahdliyyin" id="288" weight="1" />
+      <edge source="#pesantren" target="#nahdliyyinbersatu" id="289" weight="1" />
+      <edge source="#pesantren" target="#gnb" id="290" weight="1" />
+      <edge source="#guskautsar" target="#gusimin" id="291" weight="1" />
+      <edge source="#guskautsar" target="#nahdliyyin" id="292" weight="1" />
+      <edge source="#guskautsar" target="#nahdliyyinbersatu" id="293" weight="1" />
+      <edge source="#guskautsar" target="#gnb" id="294" weight="1" />
+      <edge source="#gusimin" target="#nahdliyyin" id="295" weight="1" />
+      <edge source="#gusimin" target="#nahdliyyinbersatu" id="296" weight="1" />
+      <edge source="#gusimin" target="#gnb" id="297" weight="1" />
+      <edge source="#nahdliyyin" target="#nahdliyyinbersatu" id="298" weight="1" />
+      <edge source="#nahdliyyin" target="#gnb" id="299" weight="1" />
+      <edge source="#nahdliyyinbersatu" target="#gnb" id="300" weight="1" />
+      <edge source="#utas" target="#savekokam" id="301" weight="1" />
+      <edge source="#savekokam" target="#savekokam" id="302" weight="1" />
+      <edge source="#madrasa" target="#kafir" id="303" weight="1" />
+      <edge source="#madrasa" target="#nonmuslim" id="304" weight="1" />
+      <edge source="#madrasa" target="#indoctrination" id="305" weight="1" />
+      <edge source="#madrasa" target="#deathcult" id="306" weight="1" />
+      <edge source="#madrasa" target="#endislam" id="307" weight="1" />
+      <edge source="#kafir" target="#nonmuslim" id="308" weight="1" />
+      <edge source="#kafir" target="#indoctrination" id="309" weight="1" />
+      <edge source="#kafir" target="#deathcult" id="310" weight="1" />
+      <edge source="#kafir" target="#endislam" id="311" weight="1" />
+      <edge source="#nonmuslim" target="#indoctrination" id="312" weight="1" />
+      <edge source="#nonmuslim" target="#deathcult" id="313" weight="1" />
+      <edge source="#nonmuslim" target="#endislam" id="314" weight="1" />
+      <edge source="#indoctrination" target="#deathcult" id="315" weight="1" />
+      <edge source="#indoctrination" target="#endislam" id="316" weight="1" />
+      <edge source="#deathcult" target="#endislam" id="317" weight="1" />
+      <edge source="#ibn_qudama" target="#nawawi" id="318" weight="1" />
+      <edge source="#ibn_qudama" target="#ibn_hajar" id="319" weight="1" />
+      <edge source="#nawawi" target="#ibn_hajar" id="320" weight="1" />
+      <edge source="#indonesiatidakbaikbaiksaja" target="#indonesiatidakbaikbaiksaja" id="321" weight="1" />
+      <edge source="#amis" target="#amislagi" id="322" weight="1" />
+      <edge source="#saverempanggalang" target="#usirinvestorchina" id="323" weight="1" />
+      <edge source="#sobatkretek" target="#terimakasihkretek" id="324" weight="1" />
+      <edge source="#terrorist" target="#ugarwadi" id="325" weight="1" />
+      <edge source="#terrorist" target="#deobandi" id="326" weight="1" />
+      <edge source="#ugarwadi" target="#deobandi" id="327" weight="1" />
+      <edge source="#eidemiladunnabi" target="#rabiulawal" id="328" weight="1" />
+      <edge source="#ganjarpresiden" target="#darijatengutknkri" id="329" weight="1" />
+      <edge source="#ganjarpresiden" target="#paktelur" id="330" weight="1" />
+      <edge source="#darijatengutknkri" target="#paktelur" id="331" weight="1" />
+      <edge source="#nasional" target="#prabowo" id="332" weight="1" />
+      <edge source="#nasional" target="#pemilukcm" id="333" weight="1" />
+      <edge source="#prabowo" target="#pemilukcm" id="334" weight="1" />
+      <edge source="#history" target="#maulid" id="335" weight="1" />
+      <edge source="#history" target="#rasulullah" id="336" weight="1" />
+      <edge source="#maulid" target="#rasulullah" id="337" weight="1" />
+      <edge source="#ritma" target="#puisi" id="338" weight="1" />
+      <edge source="#ritma" target="#sastra" id="339" weight="1" />
+      <edge source="#puisi" target="#sastra" id="340" weight="1" />
+      <edge source="#keluarga" target="#habibjindan" id="341" weight="1" />
+    </edges>
+  </graph>
+</gexf>

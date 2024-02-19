@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="agama_nusantara" label="agama_nusantara" />
+      <node id="tita" label="tita" />
+      <node id="aremanita__" label="aremanita__" />
+      <node id="duniamaya_" label="duniamaya_" />
+      <node id="_christing_" label="_christing_" />
+      <node id="bnsphrxyz" label="bnsphrxyz" />
+      <node id="sakkusaitna" label="sakkusaitna" />
+      <node id="debbieflavi" label="debbieflavi" />
+      <node id="refublikateis" label="refublikateis" />
+      <node id="frankblue" label="frankblue" />
+      <node id="bayuangora" label="bayuangora" />
+      <node id="spektrumku" label="spektrumku" />
+      <node id="silarakhito" label="silarakhito" />
+      <node id="valhallaah" label="valhallaah" />
+      <node id="balaputra_deva" label="balaputra_deva" />
+      <node id="paijokhentir" label="paijokhentir" />
+      <node id="namoaryatara" label="namoaryatara" />
+      <node id="ahmedasarlan" label="ahmedasarlan" />
+      <node id="mbxdih" label="mbxdih" />
+      <node id="arab_intel" label="arab_intel" />
+      <node id="cirebonsman" label="cirebonsman" />
+      <node id="vredeaarde" label="vredeaarde" />
+      <node id="kegblgnunfaedh" label="kegblgnunfaedh" />
+      <node id="alfaqir_achmad" label="alfaqir_achmad" />
+      <node id="limajuni" label="limajuni" />
+      <node id="tvonenews" label="tvonenews" />
+      <node id="islah_bahrawi" label="islah_bahrawi" />
+      <node id="fpksdprri" label="fpksdprri" />
+      <node id="syahrulaidi_mz" label="syahrulaidi_mz" />
+      <node id="arwanajuni" label="arwanajuni" />
+      <node id="divhumas_polri" label="divhumas_polri" />
+    </nodes>
+    <edges>
+      <edge source="agama_nusantara" target="tita" id="0" weight="1" />
+      <edge source="agama_nusantara" target="aremanita__" id="1" weight="1" />
+      <edge source="agama_nusantara" target="duniamaya_" id="2" weight="1" />
+      <edge source="agama_nusantara" target="_christing_" id="3" weight="1" />
+      <edge source="agama_nusantara" target="bnsphrxyz" id="4" weight="1" />
+      <edge source="agama_nusantara" target="sakkusaitna" id="5" weight="1" />
+      <edge source="agama_nusantara" target="debbieflavi" id="6" weight="1" />
+      <edge source="agama_nusantara" target="refublikateis" id="7" weight="1" />
+      <edge source="agama_nusantara" target="frankblue" id="8" weight="1" />
+      <edge source="agama_nusantara" target="bayuangora" id="9" weight="1" />
+      <edge source="agama_nusantara" target="spektrumku" id="10" weight="1" />
+      <edge source="agama_nusantara" target="silarakhito" id="11" weight="1" />
+      <edge source="agama_nusantara" target="valhallaah" id="12" weight="1" />
+      <edge source="agama_nusantara" target="balaputra_deva" id="13" weight="1" />
+      <edge source="agama_nusantara" target="paijokhentir" id="14" weight="1" />
+      <edge source="agama_nusantara" target="namoaryatara" id="15" weight="1" />
+      <edge source="agama_nusantara" target="ahmedasarlan" id="16" weight="1" />
+      <edge source="tita" target="aremanita__" id="17" weight="1" />
+      <edge source="tita" target="duniamaya_" id="18" weight="1" />
+      <edge source="tita" target="_christing_" id="19" weight="1" />
+      <edge source="tita" target="bnsphrxyz" id="20" weight="1" />
+      <edge source="tita" target="sakkusaitna" id="21" weight="1" />
+      <edge source="tita" target="debbieflavi" id="22" weight="1" />
+      <edge source="tita" target="refublikateis" id="23" weight="1" />
+      <edge source="tita" target="frankblue" id="24" weight="1" />
+      <edge source="tita" target="bayuangora" id="25" weight="1" />
+      <edge source="tita" target="spektrumku" id="26" weight="1" />
+      <edge source="tita" target="silarakhito" id="27" weight="1" />
+      <edge source="tita" target="valhallaah" id="28" weight="1" />
+      <edge source="tita" target="balaputra_deva" id="29" weight="1" />
+      <edge source="tita" target="paijokhentir" id="30" weight="1" />
+      <edge source="tita" target="namoaryatara" id="31" weight="1" />
+      <edge source="tita" target="ahmedasarlan" id="32" weight="1" />
+      <edge source="aremanita__" target="duniamaya_" id="33" weight="1" />
+      <edge source="aremanita__" target="_christing_" id="34" weight="1" />
+      <edge source="aremanita__" target="bnsphrxyz" id="35" weight="1" />
+      <edge source="aremanita__" target="sakkusaitna" id="36" weight="1" />
+      <edge source="aremanita__" target="debbieflavi" id="37" weight="1" />
+      <edge source="aremanita__" target="refublikateis" id="38" weight="1" />
+      <edge source="aremanita__" target="frankblue" id="39" weight="1" />
+      <edge source="aremanita__" target="bayuangora" id="40" weight="1" />
+      <edge source="aremanita__" target="spektrumku" id="41" weight="1" />
+      <edge source="aremanita__" target="silarakhito" id="42" weight="1" />
+      <edge source="aremanita__" target="valhallaah" id="43" weight="1" />
+      <edge source="aremanita__" target="balaputra_deva" id="44" weight="1" />
+      <edge source="aremanita__" target="paijokhentir" id="45" weight="1" />
+      <edge source="aremanita__" target="namoaryatara" id="46" weight="1" />
+      <edge source="aremanita__" target="ahmedasarlan" id="47" weight="1" />
+      <edge source="duniamaya_" target="_christing_" id="48" weight="1" />
+      <edge source="duniamaya_" target="bnsphrxyz" id="49" weight="1" />
+      <edge source="duniamaya_" target="sakkusaitna" id="50" weight="1" />
+      <edge source="duniamaya_" target="debbieflavi" id="51" weight="1" />
+      <edge source="duniamaya_" target="refublikateis" id="52" weight="1" />
+      <edge source="duniamaya_" target="frankblue" id="53" weight="1" />
+      <edge source="duniamaya_" target="bayuangora" id="54" weight="1" />
+      <edge source="duniamaya_" target="spektrumku" id="55" weight="1" />
+      <edge source="duniamaya_" target="silarakhito" id="56" weight="1" />
+      <edge source="duniamaya_" target="valhallaah" id="57" weight="1" />
+      <edge source="duniamaya_" target="balaputra_deva" id="58" weight="1" />
+      <edge source="duniamaya_" target="paijokhentir" id="59" weight="1" />
+      <edge source="duniamaya_" target="namoaryatara" id="60" weight="1" />
+      <edge source="duniamaya_" target="ahmedasarlan" id="61" weight="1" />
+      <edge source="_christing_" target="bnsphrxyz" id="62" weight="1" />
+      <edge source="_christing_" target="sakkusaitna" id="63" weight="1" />
+      <edge source="_christing_" target="debbieflavi" id="64" weight="1" />
+      <edge source="_christing_" target="refublikateis" id="65" weight="1" />
+      <edge source="_christing_" target="frankblue" id="66" weight="1" />
+      <edge source="_christing_" target="bayuangora" id="67" weight="1" />
+      <edge source="_christing_" target="spektrumku" id="68" weight="1" />
+      <edge source="_christing_" target="silarakhito" id="69" weight="1" />
+      <edge source="_christing_" target="valhallaah" id="70" weight="1" />
+      <edge source="_christing_" target="balaputra_deva" id="71" weight="1" />
+      <edge source="_christing_" target="paijokhentir" id="72" weight="1" />
+      <edge source="_christing_" target="namoaryatara" id="73" weight="1" />
+      <edge source="_christing_" target="ahmedasarlan" id="74" weight="1" />
+      <edge source="bnsphrxyz" target="sakkusaitna" id="75" weight="1" />
+      <edge source="bnsphrxyz" target="debbieflavi" id="76" weight="1" />
+      <edge source="bnsphrxyz" target="refublikateis" id="77" weight="1" />
+      <edge source="bnsphrxyz" target="frankblue" id="78" weight="1" />
+      <edge source="bnsphrxyz" target="bayuangora" id="79" weight="1" />
+      <edge source="bnsphrxyz" target="spektrumku" id="80" weight="1" />
+      <edge source="bnsphrxyz" target="silarakhito" id="81" weight="1" />
+      <edge source="bnsphrxyz" target="valhallaah" id="82" weight="1" />
+      <edge source="bnsphrxyz" target="balaputra_deva" id="83" weight="1" />
+      <edge source="bnsphrxyz" target="paijokhentir" id="84" weight="1" />
+      <edge source="bnsphrxyz" target="namoaryatara" id="85" weight="1" />
+      <edge source="bnsphrxyz" target="ahmedasarlan" id="86" weight="1" />
+      <edge source="sakkusaitna" target="debbieflavi" id="87" weight="1" />
+      <edge source="sakkusaitna" target="refublikateis" id="88" weight="1" />
+      <edge source="sakkusaitna" target="frankblue" id="89" weight="1" />
+      <edge source="sakkusaitna" target="bayuangora" id="90" weight="1" />
+      <edge source="sakkusaitna" target="spektrumku" id="91" weight="1" />
+      <edge source="sakkusaitna" target="silarakhito" id="92" weight="1" />
+      <edge source="sakkusaitna" target="valhallaah" id="93" weight="1" />
+      <edge source="sakkusaitna" target="balaputra_deva" id="94" weight="1" />
+      <edge source="sakkusaitna" target="paijokhentir" id="95" weight="1" />
+      <edge source="sakkusaitna" target="namoaryatara" id="96" weight="1" />
+      <edge source="sakkusaitna" target="ahmedasarlan" id="97" weight="1" />
+      <edge source="debbieflavi" target="refublikateis" id="98" weight="1" />
+      <edge source="debbieflavi" target="frankblue" id="99" weight="1" />
+      <edge source="debbieflavi" target="bayuangora" id="100" weight="1" />
+      <edge source="debbieflavi" target="spektrumku" id="101" weight="1" />
+      <edge source="debbieflavi" target="silarakhito" id="102" weight="1" />
+      <edge source="debbieflavi" target="valhallaah" id="103" weight="1" />
+      <edge source="debbieflavi" target="balaputra_deva" id="104" weight="1" />
+      <edge source="debbieflavi" target="paijokhentir" id="105" weight="1" />
+      <edge source="debbieflavi" target="namoaryatara" id="106" weight="1" />
+      <edge source="debbieflavi" target="ahmedasarlan" id="107" weight="1" />
+      <edge source="refublikateis" target="frankblue" id="108" weight="1" />
+      <edge source="refublikateis" target="bayuangora" id="109" weight="1" />
+      <edge source="refublikateis" target="spektrumku" id="110" weight="1" />
+      <edge source="refublikateis" target="silarakhito" id="111" weight="1" />
+      <edge source="refublikateis" target="valhallaah" id="112" weight="1" />
+      <edge source="refublikateis" target="balaputra_deva" id="113" weight="1" />
+      <edge source="refublikateis" target="paijokhentir" id="114" weight="1" />
+      <edge source="refublikateis" target="namoaryatara" id="115" weight="1" />
+      <edge source="refublikateis" target="ahmedasarlan" id="116" weight="1" />
+      <edge source="frankblue" target="bayuangora" id="117" weight="1" />
+      <edge source="frankblue" target="spektrumku" id="118" weight="1" />
+      <edge source="frankblue" target="silarakhito" id="119" weight="1" />
+      <edge source="frankblue" target="valhallaah" id="120" weight="1" />
+      <edge source="frankblue" target="balaputra_deva" id="121" weight="1" />
+      <edge source="frankblue" target="paijokhentir" id="122" weight="1" />
+      <edge source="frankblue" target="namoaryatara" id="123" weight="1" />
+      <edge source="frankblue" target="ahmedasarlan" id="124" weight="1" />
+      <edge source="bayuangora" target="spektrumku" id="125" weight="1" />
+      <edge source="bayuangora" target="silarakhito" id="126" weight="1" />
+      <edge source="bayuangora" target="valhallaah" id="127" weight="1" />
+      <edge source="bayuangora" target="balaputra_deva" id="128" weight="1" />
+      <edge source="bayuangora" target="paijokhentir" id="129" weight="1" />
+      <edge source="bayuangora" target="namoaryatara" id="130" weight="1" />
+      <edge source="bayuangora" target="ahmedasarlan" id="131" weight="1" />
+      <edge source="spektrumku" target="silarakhito" id="132" weight="1" />
+      <edge source="spektrumku" target="valhallaah" id="133" weight="1" />
+      <edge source="spektrumku" target="balaputra_deva" id="134" weight="1" />
+      <edge source="spektrumku" target="paijokhentir" id="135" weight="1" />
+      <edge source="spektrumku" target="namoaryatara" id="136" weight="1" />
+      <edge source="spektrumku" target="ahmedasarlan" id="137" weight="1" />
+      <edge source="silarakhito" target="valhallaah" id="138" weight="1" />
+      <edge source="silarakhito" target="balaputra_deva" id="139" weight="1" />
+      <edge source="silarakhito" target="paijokhentir" id="140" weight="1" />
+      <edge source="silarakhito" target="namoaryatara" id="141" weight="1" />
+      <edge source="silarakhito" target="ahmedasarlan" id="142" weight="1" />
+      <edge source="valhallaah" target="balaputra_deva" id="143" weight="1" />
+      <edge source="valhallaah" target="paijokhentir" id="144" weight="1" />
+      <edge source="valhallaah" target="namoaryatara" id="145" weight="1" />
+      <edge source="valhallaah" target="ahmedasarlan" id="146" weight="1" />
+      <edge source="balaputra_deva" target="paijokhentir" id="147" weight="1" />
+      <edge source="balaputra_deva" target="namoaryatara" id="148" weight="1" />
+      <edge source="balaputra_deva" target="ahmedasarlan" id="149" weight="1" />
+      <edge source="paijokhentir" target="namoaryatara" id="150" weight="1" />
+      <edge source="paijokhentir" target="ahmedasarlan" id="151" weight="1" />
+      <edge source="namoaryatara" target="ahmedasarlan" id="152" weight="1" />
+      <edge source="mbxdih" target="arab_intel" id="153" weight="1" />
+      <edge source="cirebonsman" target="vredeaarde" id="154" weight="1" />
+      <edge source="cirebonsman" target="kegblgnunfaedh" id="155" weight="1" />
+      <edge source="vredeaarde" target="kegblgnunfaedh" id="156" weight="1" />
+      <edge source="alfaqir_achmad" target="limajuni" id="157" weight="1" />
+      <edge source="alfaqir_achmad" target="tvonenews" id="158" weight="1" />
+      <edge source="limajuni" target="tvonenews" id="159" weight="1" />
+      <edge source="islah_bahrawi" target="islah_bahrawi" id="160" weight="1" />
+      <edge source="fpksdprri" target="syahrulaidi_mz" id="161" weight="1" />
+      <edge source="arwanajuni" target="divhumas_polri" id="162" weight="1" />
+    </edges>
+  </graph>
+</gexf>

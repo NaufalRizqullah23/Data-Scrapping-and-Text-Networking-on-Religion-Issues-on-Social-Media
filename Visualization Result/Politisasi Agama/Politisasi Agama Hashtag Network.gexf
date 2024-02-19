@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-01">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="#oneus" label="#oneus" />
+      <node id="#mamaawards" label="#mamaawards" />
+      <node id="#la_dolce_vita" label="#la_dolce_vita" />
+      <node id="#baila_conmigo" label="#baila_conmigo" />
+      <node id="#mama" label="#mama" />
+      <node id="#babywishlist" label="#babywishlist" />
+      <node id="#giftideas" label="#giftideas" />
+      <node id="#pemilu" label="#pemilu" />
+      <node id="#mahfudmd" label="#mahfudmd" />
+      <node id="#politisasiagama" label="#politisasiagama" />
+      <node id="#tolakradikalisme" label="#tolakradikalisme" />
+      <node id="#tolakintoleransi" label="#tolakintoleransi" />
+      <node id="#tolakterorisme" label="#tolakterorisme" />
+      <node id="#news" label="#news" />
+      <node id="#berita" label="#berita" />
+      <node id="#kabar" label="#kabar" />
+      <node id="#popular" label="#popular" />
+      <node id="#klikwarta" label="#klikwarta" />
+      <node id="#infomasyarakat" label="#infomasyarakat" />
+      <node id="#viral" label="#viral" />
+      <node id="#beritaterkini" label="#beritaterkini" />
+      <node id="#kamimuak" label="#kamimuak" />
+      <node id="#politikidentitas" label="#politikidentitas" />
+      <node id="#pemiluindonesia" label="#pemiluindonesia" />
+      <node id="#ksifury" label="#ksifury" />
+      <node id="#ganjar" label="#ganjar" />
+      <node id="#ganjarri" label="#ganjarri" />
+      <node id="#jokowiganjar" label="#jokowiganjar" />
+      <node id="#jokowi" label="#jokowi" />
+      <node id="#presidenganjar" label="#presidenganjar" />
+      <node id="#indonesia" label="#indonesia" />
+      <node id="#thailand" label="#thailand" />
+      <node id="#myanmar" label="#myanmar" />
+      <node id="#ganjarhitamputih" label="#ganjarhitamputih" />
+      <node id="#indonesiamaju" label="#indonesiamaju" />
+      <node id="#gerakanindonesiabaru" label="#gerakanindonesiabaru" />
+      <node id="#ammocanspeaker" label="#ammocanspeaker" />
+      <node id="#bluetoothspeaker" label="#bluetoothspeaker" />
+      <node id="#aminjagaamanah" label="#aminjagaamanah" />
+      <node id="#aniesmuhaimin" label="#aniesmuhaimin" />
+      <node id="#bowoaniestakutmahasiswa" label="#bowoaniestakutmahasiswa" />
+      <node id="#bowaaniestakutmahasiswa" label="#bowaaniestakutmahasiswa" />
+      <node id="#peristiwa" label="#peristiwa" />
+      <node id="#jakarta" label="#jakarta" />
+      <node id="#keberagaman" label="#keberagaman" />
+      <node id="#malaysia" label="#malaysia" />
+      <node id="#pv" label="#pv" />
+      <node id="#investinchina" label="#investinchina" />
+      <node id="#spiritday" label="#spiritday" />
+      <node id="#gopurple" label="#gopurple" />
+      <node id="#lgbtiq" label="#lgbtiq" />
+      <node id="#traditionalbuilding" label="#traditionalbuilding" />
+      <node id="#anhuiculture" label="#anhuiculture" />
+      <node id="#exploreuniqueah" label="#exploreuniqueah" />
+      <node id="#vibrantanhui" label="#vibrantanhui" />
+      <node id="#southernanhui" label="#southernanhui" />
+      <node id="#aminjagakesetaraan" label="#aminjagakesetaraan" />
+      <node id="#refugees" label="#refugees" />
+      <node id="#germany" label="#germany" />
+      <node id="#ukraine" label="#ukraine" />
+      <node id="#aminindonesialebihbaik" label="#aminindonesialebihbaik" />
+      <node id="#sayapaketriv" label="#sayapaketriv" />
+      <node id="#temaninvestasiyangaman" label="#temaninvestasiyangaman" />
+      <node id="#investasitransparanterlindungi" label="#investasitransparanterlindungi" />
+      <node id="#aksesksei" label="#aksesksei" />
+      <node id="#saham" label="#saham" />
+      <node id="#dividen" label="#dividen" />
+      <node id="#yaqutcholilqoumas" label="#yaqutcholilqoumas" />
+      <node id="#pkb" label="#pkb" />
+      <node id="#inewspagi" label="#inewspagi" />
+      <node id="#inews" label="#inews" />
+      <node id="#animereview" label="#animereview" />
+      <node id="#thefamilycircumstancesoftheirregularwitch" label="#thefamilycircumstancesoftheirregularwitch" />
+      <node id="#anitwt" label="#anitwt" />
+      <node id="#kanas" label="#kanas" />
+      <node id="#picturesquekanas" label="#picturesquekanas" />
+      <node id="#xinscenery" label="#xinscenery" />
+      <node id="#amazingxinjiang" label="#amazingxinjiang" />
+      <node id="#thisisxinjiang" label="#thisisxinjiang" />
+      <node id="#xinjiangtravel" label="#xinjiangtravel" />
+      <node id="#xinjiang" label="#xinjiang" />
+      <node id="#savesudarto" label="#savesudarto" />
+      <node id="#tembakaudizalimi" label="#tembakaudizalimi" />
+      <node id="#nyamannyaduniamybca" label="#nyamannyaduniamybca" />
+      <node id="#edukatips" label="#edukatips" />
+      <node id="#kapanajabisa" label="#kapanajabisa" />
+      <node id="#hardnews_politik" label="#hardnews_politik" />
+      <node id="#newsone" label="#newsone" />
+      <node id="#cariberitaditvone" label="#cariberitaditvone" />
+      <node id="#politik" label="#politik" />
+      <node id="#aniesbaswedan" label="#aniesbaswedan" />
+      <node id="#yaqutcholil" label="#yaqutcholil" />
+      <node id="#pemilukondusif" label="#pemilukondusif" />
+      <node id="#dukungpemilu" label="#dukungpemilu" />
+      <node id="#debate" label="#debate" />
+      <node id="#politikdibawaenjoy" label="#politikdibawaenjoy" />
+      <node id="#agama" label="#agama" />
+      <node id="#menag" label="#menag" />
+      <node id="#jmm" label="#jmm" />
+      <node id="#hefeicity" label="#hefeicity" />
+      <node id="#anhuicity" label="#anhuicity" />
+      <node id="#agamabukanpolitik" label="#agamabukanpolitik" />
+      <node id="#tolakpolitikagama" label="#tolakpolitikagama" />
+      <node id="#indonesiabersatu" label="#indonesiabersatu" />
+      <node id="#cakiminpengkhianat" label="#cakiminpengkhianat" />
+      <node id="#aniesiminout" label="#aniesiminout" />
+      <node id="#pkbarogan" label="#pkbarogan" />
+      <node id="#surprisinglife" label="#surprisinglife" />
+      <node id="#hancharacter" label="#hancharacter" />
+      <node id="#welcometowuhan" label="#welcometowuhan" />
+      <node id="#livelywuhan" label="#livelywuhan" />
+      <node id="#hereiswuhan" label="#hereiswuhan" />
+      <node id="#persibday" label="#persibday" />
+      <node id="#motogp" label="#motogp" />
+      <node id="#japanesegp" label="#japanesegp" />
+      <node id="#rmol" label="#rmol" />
+      <node id="#kartukredit" label="#kartukredit" />
+      <node id="#kartukreditbca" label="#kartukreditbca" />
+      <node id="#tolakpolitikidentitas" label="#tolakpolitikidentitas" />
+      <node id="#sukseskanpemilu" label="#sukseskanpemilu" />
+      <node id="#flyprivate" label="#flyprivate" />
+      <node id="#luxurytravel" label="#luxurytravel" />
+      <node id="#charter" label="#charter" />
+      <node id="#politikmerangkul" label="#politikmerangkul" />
+      <node id="#aminkompeten" label="#aminkompeten" />
+      <node id="#asiangames" label="#asiangames" />
+      <node id="#pemiludamai" label="#pemiludamai" />
+      <node id="#stoppolitikidentitas" label="#stoppolitikidentitas" />
+      <node id="#risolenak" label="#risolenak" />
+      <node id="#behindyourtouchep" label="#behindyourtouchep" />
+      <node id="#kerasukanbarbarqu" label="#kerasukanbarbarqu" />
+    </nodes>
+    <edges>
+      <edge source="#oneus" target="#mamaawards" id="0" weight="1" />
+      <edge source="#oneus" target="#oneus" id="1" weight="1" />
+      <edge source="#oneus" target="#la_dolce_vita" id="2" weight="1" />
+      <edge source="#oneus" target="#baila_conmigo" id="3" weight="1" />
+      <edge source="#oneus" target="#mama" id="4" weight="1" />
+      <edge source="#mamaawards" target="#la_dolce_vita" id="5" weight="1" />
+      <edge source="#mamaawards" target="#baila_conmigo" id="6" weight="1" />
+      <edge source="#mamaawards" target="#mama" id="7" weight="1" />
+      <edge source="#la_dolce_vita" target="#baila_conmigo" id="8" weight="1" />
+      <edge source="#la_dolce_vita" target="#mama" id="9" weight="1" />
+      <edge source="#baila_conmigo" target="#mama" id="10" weight="1" />
+      <edge source="#babywishlist" target="#giftideas" id="11" weight="1" />
+      <edge source="#pemilu" target="#mahfudmd" id="12" weight="1" />
+      <edge source="#pemilu" target="#politisasiagama" id="13" weight="1" />
+      <edge source="#pemilu" target="#hardnews_politik" id="14" weight="1" />
+      <edge source="#pemilu" target="#newsone" id="15" weight="1" />
+      <edge source="#pemilu" target="#cariberitaditvone" id="16" weight="1" />
+      <edge source="#pemilu" target="#politik" id="17" weight="1" />
+      <edge source="#pemilu" target="#aniesbaswedan" id="18" weight="1" />
+      <edge source="#pemilu" target="#yaqutcholil" id="19" weight="1" />
+      <edge source="#pemilu" target="#pkb" id="20" weight="1" />
+      <edge source="#mahfudmd" target="#politisasiagama" id="21" weight="1" />
+      <edge source="#politisasiagama" target="#yaqutcholilqoumas" id="22" weight="1" />
+      <edge source="#politisasiagama" target="#pkb" id="23" weight="1" />
+      <edge source="#politisasiagama" target="#inewspagi" id="24" weight="1" />
+      <edge source="#politisasiagama" target="#inews" id="25" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakintoleransi" id="26" weight="1" />
+      <edge source="#tolakradikalisme" target="#tolakterorisme" id="27" weight="1" />
+      <edge source="#tolakintoleransi" target="#tolakterorisme" id="28" weight="1" />
+      <edge source="#news" target="#berita" id="29" weight="1" />
+      <edge source="#news" target="#kabar" id="30" weight="1" />
+      <edge source="#news" target="#popular" id="31" weight="1" />
+      <edge source="#news" target="#klikwarta" id="32" weight="1" />
+      <edge source="#news" target="#infomasyarakat" id="33" weight="1" />
+      <edge source="#news" target="#viral" id="34" weight="1" />
+      <edge source="#news" target="#beritaterkini" id="35" weight="1" />
+      <edge source="#berita" target="#kabar" id="36" weight="1" />
+      <edge source="#berita" target="#popular" id="37" weight="1" />
+      <edge source="#berita" target="#klikwarta" id="38" weight="1" />
+      <edge source="#berita" target="#infomasyarakat" id="39" weight="1" />
+      <edge source="#berita" target="#viral" id="40" weight="1" />
+      <edge source="#berita" target="#beritaterkini" id="41" weight="1" />
+      <edge source="#kabar" target="#popular" id="42" weight="1" />
+      <edge source="#kabar" target="#klikwarta" id="43" weight="1" />
+      <edge source="#kabar" target="#infomasyarakat" id="44" weight="1" />
+      <edge source="#kabar" target="#viral" id="45" weight="1" />
+      <edge source="#kabar" target="#beritaterkini" id="46" weight="1" />
+      <edge source="#popular" target="#klikwarta" id="47" weight="1" />
+      <edge source="#popular" target="#infomasyarakat" id="48" weight="1" />
+      <edge source="#popular" target="#viral" id="49" weight="1" />
+      <edge source="#popular" target="#beritaterkini" id="50" weight="1" />
+      <edge source="#klikwarta" target="#infomasyarakat" id="51" weight="1" />
+      <edge source="#klikwarta" target="#viral" id="52" weight="1" />
+      <edge source="#klikwarta" target="#beritaterkini" id="53" weight="1" />
+      <edge source="#infomasyarakat" target="#viral" id="54" weight="1" />
+      <edge source="#infomasyarakat" target="#beritaterkini" id="55" weight="1" />
+      <edge source="#viral" target="#beritaterkini" id="56" weight="1" />
+      <edge source="#kamimuak" target="#kamimuak" id="57" weight="1" />
+      <edge source="#politikidentitas" target="#pemiluindonesia" id="58" weight="1" />
+      <edge source="#politikidentitas" target="#ksifury" id="59" weight="1" />
+      <edge source="#pemiluindonesia" target="#ksifury" id="60" weight="1" />
+      <edge source="#ganjar" target="#ganjarri" id="61" weight="1" />
+      <edge source="#ganjar" target="#jokowiganjar" id="62" weight="1" />
+      <edge source="#ganjar" target="#jokowi" id="63" weight="1" />
+      <edge source="#ganjar" target="#presidenganjar" id="64" weight="1" />
+      <edge source="#ganjar" target="#indonesia" id="65" weight="1" />
+      <edge source="#ganjar" target="#thailand" id="66" weight="1" />
+      <edge source="#ganjar" target="#myanmar" id="67" weight="1" />
+      <edge source="#ganjar" target="#ganjarhitamputih" id="68" weight="1" />
+      <edge source="#ganjar" target="#indonesiamaju" id="69" weight="1" />
+      <edge source="#ganjar" target="#gerakanindonesiabaru" id="70" weight="1" />
+      <edge source="#ganjarri" target="#jokowiganjar" id="71" weight="1" />
+      <edge source="#ganjarri" target="#jokowi" id="72" weight="1" />
+      <edge source="#ganjarri" target="#presidenganjar" id="73" weight="1" />
+      <edge source="#ganjarri" target="#indonesia" id="74" weight="1" />
+      <edge source="#ganjarri" target="#thailand" id="75" weight="1" />
+      <edge source="#ganjarri" target="#myanmar" id="76" weight="1" />
+      <edge source="#ganjarri" target="#ganjarhitamputih" id="77" weight="1" />
+      <edge source="#ganjarri" target="#indonesiamaju" id="78" weight="1" />
+      <edge source="#ganjarri" target="#gerakanindonesiabaru" id="79" weight="1" />
+      <edge source="#jokowiganjar" target="#jokowi" id="80" weight="1" />
+      <edge source="#jokowiganjar" target="#presidenganjar" id="81" weight="1" />
+      <edge source="#jokowiganjar" target="#indonesia" id="82" weight="1" />
+      <edge source="#jokowiganjar" target="#thailand" id="83" weight="1" />
+      <edge source="#jokowiganjar" target="#myanmar" id="84" weight="1" />
+      <edge source="#jokowiganjar" target="#ganjarhitamputih" id="85" weight="1" />
+      <edge source="#jokowiganjar" target="#indonesiamaju" id="86" weight="1" />
+      <edge source="#jokowiganjar" target="#gerakanindonesiabaru" id="87" weight="1" />
+      <edge source="#jokowi" target="#presidenganjar" id="88" weight="1" />
+      <edge source="#jokowi" target="#indonesia" id="89" weight="1" />
+      <edge source="#jokowi" target="#thailand" id="90" weight="1" />
+      <edge source="#jokowi" target="#myanmar" id="91" weight="1" />
+      <edge source="#jokowi" target="#ganjarhitamputih" id="92" weight="1" />
+      <edge source="#jokowi" target="#indonesiamaju" id="93" weight="1" />
+      <edge source="#jokowi" target="#gerakanindonesiabaru" id="94" weight="1" />
+      <edge source="#presidenganjar" target="#indonesia" id="95" weight="1" />
+      <edge source="#presidenganjar" target="#thailand" id="96" weight="1" />
+      <edge source="#presidenganjar" target="#myanmar" id="97" weight="1" />
+      <edge source="#presidenganjar" target="#ganjarhitamputih" id="98" weight="1" />
+      <edge source="#presidenganjar" target="#indonesiamaju" id="99" weight="1" />
+      <edge source="#presidenganjar" target="#gerakanindonesiabaru" id="100" weight="1" />
+      <edge source="#indonesia" target="#thailand" id="101" weight="1" />
+      <edge source="#indonesia" target="#myanmar" id="102" weight="1" />
+      <edge source="#indonesia" target="#ganjarhitamputih" id="103" weight="1" />
+      <edge source="#indonesia" target="#indonesiamaju" id="104" weight="1" />
+      <edge source="#indonesia" target="#gerakanindonesiabaru" id="105" weight="1" />
+      <edge source="#thailand" target="#myanmar" id="106" weight="1" />
+      <edge source="#thailand" target="#ganjarhitamputih" id="107" weight="1" />
+      <edge source="#thailand" target="#indonesiamaju" id="108" weight="1" />
+      <edge source="#thailand" target="#gerakanindonesiabaru" id="109" weight="1" />
+      <edge source="#myanmar" target="#ganjarhitamputih" id="110" weight="1" />
+      <edge source="#myanmar" target="#indonesiamaju" id="111" weight="1" />
+      <edge source="#myanmar" target="#gerakanindonesiabaru" id="112" weight="1" />
+      <edge source="#ganjarhitamputih" target="#indonesiamaju" id="113" weight="1" />
+      <edge source="#ganjarhitamputih" target="#gerakanindonesiabaru" id="114" weight="1" />
+      <edge source="#indonesiamaju" target="#gerakanindonesiabaru" id="115" weight="1" />
+      <edge source="#indonesiamaju" target="#pemilukondusif" id="116" weight="1" />
+      <edge source="#indonesiamaju" target="#dukungpemilu" id="117" weight="1" />
+      <edge source="#indonesiamaju" target="#debate" id="118" weight="1" />
+      <edge source="#indonesiamaju" target="#politikdibawaenjoy" id="119" weight="1" />
+      <edge source="#ammocanspeaker" target="#bluetoothspeaker" id="120" weight="1" />
+      <edge source="#aminjagaamanah" target="#aniesmuhaimin" id="121" weight="1" />
+      <edge source="#aniesmuhaimin" target="#aminjagakesetaraan" id="122" weight="1" />
+      <edge source="#aniesmuhaimin" target="#aminindonesialebihbaik" id="123" weight="1" />
+      <edge source="#aniesmuhaimin" target="#tembakaudizalimi" id="124" weight="1" />
+      <edge source="#aniesmuhaimin" target="#persibday" id="125" weight="1" />
+      <edge source="#aniesmuhaimin" target="#motogp" id="126" weight="1" />
+      <edge source="#aniesmuhaimin" target="#japanesegp" id="127" weight="1" />
+      <edge source="#aniesmuhaimin" target="#politikmerangkul" id="128" weight="1" />
+      <edge source="#aniesmuhaimin" target="#aminkompeten" id="129" weight="1" />
+      <edge source="#aniesmuhaimin" target="#asiangames" id="130" weight="1" />
+      <edge source="#bowoaniestakutmahasiswa" target="#bowoaniestakutmahasiswa" id="131" weight="1" />
+      <edge source="#bowoaniestakutmahasiswa" target="#bowaaniestakutmahasiswa" id="132" weight="1" />
+      <edge source="#peristiwa" target="#jakarta" id="133" weight="1" />
+      <edge source="#peristiwa" target="#keberagaman" id="134" weight="1" />
+      <edge source="#jakarta" target="#keberagaman" id="135" weight="1" />
+      <edge source="#malaysia" target="#pv" id="136" weight="1" />
+      <edge source="#malaysia" target="#investinchina" id="137" weight="1" />
+      <edge source="#pv" target="#investinchina" id="138" weight="1" />
+      <edge source="#spiritday" target="#gopurple" id="139" weight="1" />
+      <edge source="#spiritday" target="#lgbtiq" id="140" weight="1" />
+      <edge source="#gopurple" target="#lgbtiq" id="141" weight="1" />
+      <edge source="#traditionalbuilding" target="#anhuiculture" id="142" weight="1" />
+      <edge source="#traditionalbuilding" target="#exploreuniqueah" id="143" weight="1" />
+      <edge source="#traditionalbuilding" target="#vibrantanhui" id="144" weight="1" />
+      <edge source="#traditionalbuilding" target="#southernanhui" id="145" weight="1" />
+      <edge source="#anhuiculture" target="#exploreuniqueah" id="146" weight="1" />
+      <edge source="#anhuiculture" target="#vibrantanhui" id="147" weight="1" />
+      <edge source="#anhuiculture" target="#southernanhui" id="148" weight="1" />
+      <edge source="#exploreuniqueah" target="#vibrantanhui" id="149" weight="1" />
+      <edge source="#exploreuniqueah" target="#southernanhui" id="150" weight="1" />
+      <edge source="#exploreuniqueah" target="#hefeicity" id="151" weight="1" />
+      <edge source="#exploreuniqueah" target="#anhuicity" id="152" weight="1" />
+      <edge source="#vibrantanhui" target="#southernanhui" id="153" weight="1" />
+      <edge source="#vibrantanhui" target="#hefeicity" id="154" weight="1" />
+      <edge source="#vibrantanhui" target="#anhuicity" id="155" weight="1" />
+      <edge source="#refugees" target="#germany" id="156" weight="1" />
+      <edge source="#refugees" target="#ukraine" id="157" weight="1" />
+      <edge source="#germany" target="#ukraine" id="158" weight="1" />
+      <edge source="#sayapaketriv" target="#temaninvestasiyangaman" id="159" weight="1" />
+      <edge source="#investasitransparanterlindungi" target="#aksesksei" id="160" weight="1" />
+      <edge source="#investasitransparanterlindungi" target="#saham" id="161" weight="1" />
+      <edge source="#investasitransparanterlindungi" target="#dividen" id="162" weight="1" />
+      <edge source="#aksesksei" target="#saham" id="163" weight="1" />
+      <edge source="#aksesksei" target="#dividen" id="164" weight="1" />
+      <edge source="#saham" target="#dividen" id="165" weight="1" />
+      <edge source="#yaqutcholilqoumas" target="#pkb" id="166" weight="1" />
+      <edge source="#yaqutcholilqoumas" target="#inewspagi" id="167" weight="1" />
+      <edge source="#yaqutcholilqoumas" target="#inews" id="168" weight="1" />
+      <edge source="#pkb" target="#inewspagi" id="169" weight="1" />
+      <edge source="#pkb" target="#inews" id="170" weight="1" />
+      <edge source="#pkb" target="#hardnews_politik" id="171" weight="1" />
+      <edge source="#pkb" target="#newsone" id="172" weight="1" />
+      <edge source="#pkb" target="#cariberitaditvone" id="173" weight="1" />
+      <edge source="#pkb" target="#politik" id="174" weight="1" />
+      <edge source="#pkb" target="#aniesbaswedan" id="175" weight="1" />
+      <edge source="#pkb" target="#yaqutcholil" id="176" weight="1" />
+      <edge source="#inewspagi" target="#inews" id="177" weight="1" />
+      <edge source="#animereview" target="#thefamilycircumstancesoftheirregularwitch" id="178" weight="1" />
+      <edge source="#animereview" target="#anitwt" id="179" weight="1" />
+      <edge source="#thefamilycircumstancesoftheirregularwitch" target="#anitwt" id="180" weight="1" />
+      <edge source="#kanas" target="#picturesquekanas" id="181" weight="1" />
+      <edge source="#kanas" target="#xinscenery" id="182" weight="1" />
+      <edge source="#kanas" target="#amazingxinjiang" id="183" weight="1" />
+      <edge source="#kanas" target="#thisisxinjiang" id="184" weight="1" />
+      <edge source="#kanas" target="#xinjiangtravel" id="185" weight="1" />
+      <edge source="#kanas" target="#xinjiang" id="186" weight="1" />
+      <edge source="#picturesquekanas" target="#xinscenery" id="187" weight="1" />
+      <edge source="#picturesquekanas" target="#amazingxinjiang" id="188" weight="1" />
+      <edge source="#picturesquekanas" target="#thisisxinjiang" id="189" weight="1" />
+      <edge source="#picturesquekanas" target="#xinjiangtravel" id="190" weight="1" />
+      <edge source="#picturesquekanas" target="#xinjiang" id="191" weight="1" />
+      <edge source="#xinscenery" target="#amazingxinjiang" id="192" weight="1" />
+      <edge source="#xinscenery" target="#thisisxinjiang" id="193" weight="1" />
+      <edge source="#xinscenery" target="#xinjiangtravel" id="194" weight="1" />
+      <edge source="#xinscenery" target="#xinjiang" id="195" weight="1" />
+      <edge source="#amazingxinjiang" target="#thisisxinjiang" id="196" weight="1" />
+      <edge source="#amazingxinjiang" target="#xinjiangtravel" id="197" weight="1" />
+      <edge source="#amazingxinjiang" target="#xinjiang" id="198" weight="1" />
+      <edge source="#thisisxinjiang" target="#xinjiangtravel" id="199" weight="1" />
+      <edge source="#thisisxinjiang" target="#xinjiang" id="200" weight="1" />
+      <edge source="#xinjiangtravel" target="#xinjiang" id="201" weight="1" />
+      <edge source="#savesudarto" target="#savesudarto" id="202" weight="1" />
+      <edge source="#nyamannyaduniamybca" target="#edukatips" id="203" weight="1" />
+      <edge source="#edukatips" target="#kapanajabisa" id="204" weight="1" />
+      <edge source="#edukatips" target="#kartukredit" id="205" weight="1" />
+      <edge source="#edukatips" target="#kartukreditbca" id="206" weight="1" />
+      <edge source="#hardnews_politik" target="#newsone" id="207" weight="1" />
+      <edge source="#hardnews_politik" target="#cariberitaditvone" id="208" weight="1" />
+      <edge source="#hardnews_politik" target="#politik" id="209" weight="1" />
+      <edge source="#hardnews_politik" target="#aniesbaswedan" id="210" weight="1" />
+      <edge source="#hardnews_politik" target="#yaqutcholil" id="211" weight="1" />
+      <edge source="#newsone" target="#cariberitaditvone" id="212" weight="1" />
+      <edge source="#newsone" target="#politik" id="213" weight="1" />
+      <edge source="#newsone" target="#aniesbaswedan" id="214" weight="1" />
+      <edge source="#newsone" target="#yaqutcholil" id="215" weight="1" />
+      <edge source="#cariberitaditvone" target="#politik" id="216" weight="1" />
+      <edge source="#cariberitaditvone" target="#aniesbaswedan" id="217" weight="1" />
+      <edge source="#cariberitaditvone" target="#yaqutcholil" id="218" weight="1" />
+      <edge source="#politik" target="#aniesbaswedan" id="219" weight="1" />
+      <edge source="#politik" target="#yaqutcholil" id="220" weight="1" />
+      <edge source="#politik" target="#agama" id="221" weight="1" />
+      <edge source="#politik" target="#menag" id="222" weight="1" />
+      <edge source="#politik" target="#jmm" id="223" weight="1" />
+      <edge source="#politik" target="#rmol" id="224" weight="1" />
+      <edge source="#aniesbaswedan" target="#yaqutcholil" id="225" weight="1" />
+      <edge source="#pemilukondusif" target="#dukungpemilu" id="226" weight="1" />
+      <edge source="#pemilukondusif" target="#debate" id="227" weight="1" />
+      <edge source="#pemilukondusif" target="#politikdibawaenjoy" id="228" weight="1" />
+      <edge source="#pemilukondusif" target="#tolakpolitikidentitas" id="229" weight="1" />
+      <edge source="#pemilukondusif" target="#sukseskanpemilu" id="230" weight="1" />
+      <edge source="#pemilukondusif" target="#politikmerangkul" id="231" weight="1" />
+      <edge source="#dukungpemilu" target="#debate" id="232" weight="1" />
+      <edge source="#dukungpemilu" target="#politikdibawaenjoy" id="233" weight="1" />
+      <edge source="#debate" target="#politikdibawaenjoy" id="234" weight="1" />
+      <edge source="#agama" target="#menag" id="235" weight="1" />
+      <edge source="#agama" target="#jmm" id="236" weight="1" />
+      <edge source="#menag" target="#jmm" id="237" weight="1" />
+      <edge source="#hefeicity" target="#anhuicity" id="238" weight="1" />
+      <edge source="#agamabukanpolitik" target="#tolakpolitikagama" id="239" weight="1" />
+      <edge source="#agamabukanpolitik" target="#indonesiabersatu" id="240" weight="1" />
+      <edge source="#tolakpolitikagama" target="#indonesiabersatu" id="241" weight="1" />
+      <edge source="#cakiminpengkhianat" target="#aniesiminout" id="242" weight="1" />
+      <edge source="#cakiminpengkhianat" target="#pkbarogan" id="243" weight="1" />
+      <edge source="#aniesiminout" target="#pkbarogan" id="244" weight="1" />
+      <edge source="#surprisinglife" target="#hancharacter" id="245" weight="1" />
+      <edge source="#surprisinglife" target="#welcometowuhan" id="246" weight="1" />
+      <edge source="#surprisinglife" target="#livelywuhan" id="247" weight="1" />
+      <edge source="#surprisinglife" target="#hereiswuhan" id="248" weight="1" />
+      <edge source="#hancharacter" target="#welcometowuhan" id="249" weight="1" />
+      <edge source="#hancharacter" target="#livelywuhan" id="250" weight="1" />
+      <edge source="#hancharacter" target="#hereiswuhan" id="251" weight="1" />
+      <edge source="#welcometowuhan" target="#livelywuhan" id="252" weight="1" />
+      <edge source="#welcometowuhan" target="#hereiswuhan" id="253" weight="1" />
+      <edge source="#livelywuhan" target="#hereiswuhan" id="254" weight="1" />
+      <edge source="#persibday" target="#motogp" id="255" weight="1" />
+      <edge source="#persibday" target="#japanesegp" id="256" weight="1" />
+      <edge source="#motogp" target="#japanesegp" id="257" weight="1" />
+      <edge source="#kartukredit" target="#kartukreditbca" id="258" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#sukseskanpemilu" id="259" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#politikmerangkul" id="260" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#pemiludamai" id="261" weight="1" />
+      <edge source="#tolakpolitikidentitas" target="#stoppolitikidentitas" id="262" weight="1" />
+      <edge source="#sukseskanpemilu" target="#politikmerangkul" id="263" weight="1" />
+      <edge source="#sukseskanpemilu" target="#pemiludamai" id="264" weight="1" />
+      <edge source="#sukseskanpemilu" target="#stoppolitikidentitas" id="265" weight="1" />
+      <edge source="#flyprivate" target="#luxurytravel" id="266" weight="1" />
+      <edge source="#flyprivate" target="#charter" id="267" weight="1" />
+      <edge source="#luxurytravel" target="#charter" id="268" weight="1" />
+      <edge source="#pemiludamai" target="#stoppolitikidentitas" id="269" weight="1" />
+      <edge source="#risolenak" target="#behindyourtouchep" id="270" weight="1" />
+      <edge source="#risolenak" target="#kerasukanbarbarqu" id="271" weight="1" />
+      <edge source="#behindyourtouchep" target="#kerasukanbarbarqu" id="272" weight="1" />
+    </edges>
+  </graph>
+</gexf>
